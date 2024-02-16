@@ -1,8 +1,8 @@
-0:["Df6VxLs_yE5LTcDCu1XwV",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/refactor/design-tokens/_next/static/css/eafe05f4ff7f9e93.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["4HQ5fgEjJv9Pq7DXkgHTP",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/refactor/design-tokens/_next/static/css/d229e3b7362a09c4.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
-5:I[6127,["630","static/chunks/3443ae69-27d512cab559ff96.js","802","static/chunks/d709487a-28c033bd4faec6ec.js","247","static/chunks/228e52ba-4c601694edd628f6.js","689","static/chunks/9fd65ac5-cfaa2c2f35ac5cf0.js","484","static/chunks/484-3fd8645f81212240.js","797","static/chunks/797-1db4cb9223a51e44.js","877","static/chunks/app/%5B...slug%5D/page-e8fade98f263e152.js"],""]
-6:I[7667,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-e7ad724e329cd7c3.js","185","static/chunks/app/layout-d4bcdf9b59fb03fa.js"],""]
-7:I[3407,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-e7ad724e329cd7c3.js","185","static/chunks/app/layout-d4bcdf9b59fb03fa.js"],""]
+5:I[6127,["630","static/chunks/3443ae69-27d512cab559ff96.js","802","static/chunks/d709487a-28c033bd4faec6ec.js","247","static/chunks/228e52ba-4c601694edd628f6.js","689","static/chunks/9fd65ac5-cfaa2c2f35ac5cf0.js","484","static/chunks/484-3fd8645f81212240.js","797","static/chunks/797-1db4cb9223a51e44.js","877","static/chunks/app/%5B...slug%5D/page-4ab1d698f7665600.js"],""]
+6:I[7667,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-e7ad724e329cd7c3.js","185","static/chunks/app/layout-0a2d5deec96c86b8.js"],""]
+7:I[3407,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-e7ad724e329cd7c3.js","185","static/chunks/app/layout-0a2d5deec96c86b8.js"],""]
 1e:I[8978,[],""]
 1f:I[6565,[],""]
 8:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
@@ -496,7 +496,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-12:T40f,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
+12:T4c6,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Content from "@mittwald/flow-react-components/Content";
 
@@ -525,6 +525,13 @@ import Content from "@mittwald/flow-react-components/Content";
       No SSL certificate could be issued for this domain
       because the domain IP does not point to your server
       IP.
+    </Content>
+  </InlineAlert>
+
+  <InlineAlert variant="success">
+    <Heading>Your app is up to date</Heading>
+    <Content>
+      Your app has been updated to the current version.
     </Content>
   </InlineAlert>
 </Row>;
