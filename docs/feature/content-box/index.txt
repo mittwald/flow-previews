@@ -1,8 +1,8 @@
-0:["9Qcm74kCDCvZSxtnrgTzL",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feature/content-box/_next/static/css/edba055b19706ec6.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["eGKH7tXrkdGCCPjrrCwSc",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feature/content-box/_next/static/css/53b3f6fd5a67c1f8.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
 5:I[6127,["630","static/chunks/3443ae69-27d512cab559ff96.js","802","static/chunks/d709487a-28c033bd4faec6ec.js","247","static/chunks/228e52ba-4c601694edd628f6.js","689","static/chunks/9fd65ac5-cfaa2c2f35ac5cf0.js","484","static/chunks/484-3fd8645f81212240.js","797","static/chunks/797-1db4cb9223a51e44.js","877","static/chunks/app/%5B...slug%5D/page-f492890e1238ea62.js"],""]
-6:I[7667,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-d05ae401cefb9fd1.js","185","static/chunks/app/layout-49180691cb9781d1.js"],""]
-7:I[3407,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-d05ae401cefb9fd1.js","185","static/chunks/app/layout-49180691cb9781d1.js"],""]
+6:I[7667,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-d05ae401cefb9fd1.js","185","static/chunks/app/layout-c3087623161ca8d2.js"],""]
+7:I[3407,["630","static/chunks/3443ae69-27d512cab559ff96.js","484","static/chunks/484-3fd8645f81212240.js","971","static/chunks/971-d05ae401cefb9fd1.js","185","static/chunks/app/layout-c3087623161ca8d2.js"],""]
 1d:I[8978,[],""]
 1e:I[6565,[],""]
 8:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
