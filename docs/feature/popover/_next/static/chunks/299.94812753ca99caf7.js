@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[299],{7299:function(e,n,t){t.r(n),t.d(n,{Section:function(){return s},default:function(){return s}});var c=t(4750),l=t(3292);let r={section:"flow--section"},s=e=>{let{children:n,className:t,...s}=e;if(!n)return null;let u=(0,l.c)(r.section,t);return c.createElement("section",{...s,className:u},n)}}}]);
