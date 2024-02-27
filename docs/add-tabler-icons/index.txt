@@ -1,8 +1,8 @@
-0:["Nu5CWGTjphkE3BGsM-6Zk",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-tabler-icons/_next/static/css/e1a20d84a1053424.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["AyNAovMCrj0kOkIdGdgjo",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-tabler-icons/_next/static/css/d7895f2812220c35.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
 5:I[6127,["384","static/chunks/3ceb1ae0-e175b9faa6258da5.js","802","static/chunks/d709487a-28c033bd4faec6ec.js","247","static/chunks/228e52ba-4c601694edd628f6.js","689","static/chunks/9fd65ac5-cfaa2c2f35ac5cf0.js","541","static/chunks/541-57564d4ac399df72.js","595","static/chunks/595-642bbb10ebe599b1.js","307","static/chunks/307-7d088a7d363e2b38.js","877","static/chunks/app/%5B...slug%5D/page-10bcc56f50136e4b.js"],""]
-6:I[7667,["384","static/chunks/3ceb1ae0-e175b9faa6258da5.js","541","static/chunks/541-57564d4ac399df72.js","977","static/chunks/977-eb853f5b7d402280.js","307","static/chunks/307-7d088a7d363e2b38.js","185","static/chunks/app/layout-5efd2a99cdfbee78.js"],""]
-7:I[3407,["384","static/chunks/3ceb1ae0-e175b9faa6258da5.js","541","static/chunks/541-57564d4ac399df72.js","977","static/chunks/977-eb853f5b7d402280.js","307","static/chunks/307-7d088a7d363e2b38.js","185","static/chunks/app/layout-5efd2a99cdfbee78.js"],""]
+6:I[7667,["384","static/chunks/3ceb1ae0-e175b9faa6258da5.js","541","static/chunks/541-57564d4ac399df72.js","977","static/chunks/977-eb853f5b7d402280.js","307","static/chunks/307-7d088a7d363e2b38.js","185","static/chunks/app/layout-47f2e433d2648fd6.js"],""]
+7:I[3407,["384","static/chunks/3ceb1ae0-e175b9faa6258da5.js","541","static/chunks/541-57564d4ac399df72.js","977","static/chunks/977-eb853f5b7d402280.js","307","static/chunks/307-7d088a7d363e2b38.js","185","static/chunks/app/layout-47f2e433d2648fd6.js"],""]
 20:I[8978,[],""]
 21:I[6565,[],""]
 8:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
