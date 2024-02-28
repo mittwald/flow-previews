@@ -1,8 +1,8 @@
-0:["aUi64N8WNGQXXfU1U6oUW",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-tabler-icons/_next/static/css/304dce7ffeaf1ad9.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["utMyAftt4Ru-aRb36VmjI",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-tabler-icons/_next/static/css/5962e255fcb8440d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
-5:I[806127,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-ba1e04f41324287e.js"],""]
-6:I[797667,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-65e9bce2ab498cfb.js","185","static/chunks/app/layout-96ba2785b6560662.js"],""]
-7:I[733407,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-65e9bce2ab498cfb.js","185","static/chunks/app/layout-96ba2785b6560662.js"],""]
+5:I[806127,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-4148ea50f269d177.js"],""]
+6:I[797667,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-65e9bce2ab498cfb.js","185","static/chunks/app/layout-bc5f8aedb25577f4.js"],""]
+7:I[733407,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-65e9bce2ab498cfb.js","185","static/chunks/app/layout-bc5f8aedb25577f4.js"],""]
 20:I[768978,[],""]
 21:I[896565,[],""]
 8:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
