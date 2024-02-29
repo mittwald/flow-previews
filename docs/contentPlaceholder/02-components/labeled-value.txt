@@ -1,11 +1,11 @@
 3:I[768978,[],""]
 5:I[896565,[],""]
 4:["slug","02-components/labeled-value","c"]
-0:["7cUXm8F7F40q_9xby1IAF",[[["",{"children":[["slug","02-components/labeled-value","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"labeled-value\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/labeled-value","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/729790d7eeb510e4.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/2a26d7b75c63e3c5.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:I[806127,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-a939411a94b6a2f5.js"],""]
-9:I[797667,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-e240b7c72863deea.js","185","static/chunks/app/layout-d13f5ee63d265d78.js"],""]
-a:I[733407,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-e240b7c72863deea.js","185","static/chunks/app/layout-d13f5ee63d265d78.js"],""]
-24:I[965722,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-a939411a94b6a2f5.js"],""]
+0:["uoQjhep_6-V33wJQFwlCQ",[[["",{"children":[["slug","02-components/labeled-value","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"labeled-value\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/labeled-value","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/d7f9e4881b3c461d.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/3eaff2e768323eb8.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:I[806127,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-00fb2dddc5af44a1.js"],""]
+9:I[797667,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-e240b7c72863deea.js","185","static/chunks/app/layout-5a6caf6c03bf44bf.js"],""]
+a:I[733407,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","114","static/chunks/114-e455328e8316cc6a.js","368","static/chunks/368-e240b7c72863deea.js","185","static/chunks/app/layout-5a6caf6c03bf44bf.js"],""]
+24:I[965722,["384","static/chunks/3ceb1ae0-061109482d3866f6.js","802","static/chunks/d709487a-91b3227cf05fe0de.js","247","static/chunks/228e52ba-e93b5f7c3515de0b.js","689","static/chunks/9fd65ac5-c3dc4a1e08521899.js","114","static/chunks/114-e455328e8316cc6a.js","612","static/chunks/612-09c5091dcc92c26c.js","877","static/chunks/app/%5B...slug%5D/page-00fb2dddc5af44a1.js"],""]
 b:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -62,7 +62,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-c:T1661,/*@jsxRuntime automatic @jsxImportSource react*/
+c:T1659,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -142,7 +142,7 @@ function _createMdxContent(props) {
         children: ".flow--button--icon\n.flow--inline-alert--status-icon\n"
       })
     }), "\n", _jsx(_components.h3, {
-      children: "A inline-alert to specialization"
+      children: "A note to specialization"
     }), "\n", _jsxs(_components.p, {
       children: ["Class Names used to specialize a basic component must always be used in\n", _jsx(_components.strong, {
         children: "addition to the basic class name"
