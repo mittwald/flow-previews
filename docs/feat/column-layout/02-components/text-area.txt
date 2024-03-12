@@ -1,12 +1,12 @@
 3:I[630246,[],""]
 5:I[978680,[],""]
 4:["slug","02-components/text-area","c"]
-0:["ubwrLX8PrBkCtzNxI7Zus",[[["",{"children":[["slug","02-components/text-area","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"text-area\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/text-area","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feat/column-layout/_next/static/css/28e2abf5e3fd265c.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feat/column-layout/_next/static/css/3c9163f066c6a5fd.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+0:["DkMyEWjwMS2OW3eeIeXpP",[[["",{"children":[["slug","02-components/text-area","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"text-area\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/text-area","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feat/column-layout/_next/static/css/28e2abf5e3fd265c.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/feat/column-layout/_next/static/css/65012e8571edd97f.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
 8:I[150077,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","802","static/chunks/d709487a-8e926ac70fa7f19b.js","247","static/chunks/228e52ba-994a6f95cc7789bc.js","689","static/chunks/9fd65ac5-ca6f50fa07c5c389.js","985","static/chunks/985-d35d3f20561b518f.js","582","static/chunks/582-ef402c646f249ced.js","877","static/chunks/app/%5B...slug%5D/page-8b27c39921b3392a.js"],""]
-9:I[773595,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-79cc955dcb2382b8.js"],""]
-a:I[165679,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-79cc955dcb2382b8.js"],""]
-24:I[445506,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-79cc955dcb2382b8.js"],""]
-25:I[87288,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-79cc955dcb2382b8.js"],""]
+9:I[773595,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-84173a30a223edf3.js"],""]
+a:I[165679,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-84173a30a223edf3.js"],""]
+24:I[445506,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-84173a30a223edf3.js"],""]
+25:I[87288,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","985","static/chunks/985-d35d3f20561b518f.js","418","static/chunks/418-545ff14a8578131e.js","185","static/chunks/app/layout-84173a30a223edf3.js"],""]
 b7:I[276550,["384","static/chunks/3ceb1ae0-bb938cf9521dd506.js","802","static/chunks/d709487a-8e926ac70fa7f19b.js","247","static/chunks/228e52ba-994a6f95cc7789bc.js","689","static/chunks/9fd65ac5-ca6f50fa07c5c389.js","985","static/chunks/985-d35d3f20561b518f.js","582","static/chunks/582-ef402c646f249ced.js","877","static/chunks/app/%5B...slug%5D/page-8b27c39921b3392a.js"],""]
 b:T9b6,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
@@ -365,7 +365,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-11:T7d7,/*@jsxRuntime automatic @jsxImportSource react*/
+11:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -373,7 +373,8 @@ function _createMdxContent(props) {
     h2: "h2",
     p: "p",
     ul: "ul",
-    li: "li"
+    li: "li",
+    code: "code"
   }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
   if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
   return _jsxs(_Fragment, {
@@ -382,24 +383,36 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.p, {
       children: "By default columns will be set like this:"
     }), "\n", _jsxs(_components.ul, {
-      children: ["\n", _jsx(_components.li, {
-        children: "s: [1]"
-      }), "\n", _jsx(_components.li, {
-        children: "m: [1, 1]"
-      }), "\n", _jsx(_components.li, {
-        children: "l: [1, 1, 1]"
+      children: ["\n", _jsxs(_components.li, {
+        children: ["s: ", _jsx(_components.code, {
+          children: "[1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["m: ", _jsx(_components.code, {
+          children: "[1, 1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["l: ", _jsx(_components.code, {
+          children: "[1, 1, 1]"
+        })]
       }), "\n"]
     }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
       children: "Custom values"
     }), "\n", _jsx(_components.p, {
       children: "Larger sizes will inherit from smaller sizes, if they are not set:"
     }), "\n", _jsxs(_components.ul, {
-      children: ["\n", _jsx(_components.li, {
-        children: "s: [1] (default)"
-      }), "\n", _jsx(_components.li, {
-        children: "m: [2, 1]"
-      }), "\n", _jsx(_components.li, {
-        children: "l: [2, 1] (inherited)"
+      children: ["\n", _jsxs(_components.li, {
+        children: ["s: ", _jsx(_components.code, {
+          children: "[1]"
+        }), " (default)"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["m: ", _jsx(_components.code, {
+          children: "[2, 1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["l: ", _jsx(_components.code, {
+          children: "[2, 1]"
+        }), " (inherited)"]
       }), "\n"]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "custom-values"
@@ -1358,7 +1371,7 @@ function _missingMdxReference(id, component) {
 44:{"compiledSource":"$45","frontmatter":"$46","scope":"$47"}
 48:{"default":"import Checkbox from \"@mittwald/flow-react-components/Checkbox\";\n\n<Checkbox>Activate spam protection</Checkbox>;\n"}
 49:["02-components","checkbox"]
-4b:T7d7,/*@jsxRuntime automatic @jsxImportSource react*/
+4b:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1366,7 +1379,8 @@ function _createMdxContent(props) {
     h2: "h2",
     p: "p",
     ul: "ul",
-    li: "li"
+    li: "li",
+    code: "code"
   }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
   if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
   return _jsxs(_Fragment, {
@@ -1375,24 +1389,36 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.p, {
       children: "By default columns will be set like this:"
     }), "\n", _jsxs(_components.ul, {
-      children: ["\n", _jsx(_components.li, {
-        children: "s: [1]"
-      }), "\n", _jsx(_components.li, {
-        children: "m: [1, 1]"
-      }), "\n", _jsx(_components.li, {
-        children: "l: [1, 1, 1]"
+      children: ["\n", _jsxs(_components.li, {
+        children: ["s: ", _jsx(_components.code, {
+          children: "[1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["m: ", _jsx(_components.code, {
+          children: "[1, 1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["l: ", _jsx(_components.code, {
+          children: "[1, 1, 1]"
+        })]
       }), "\n"]
     }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
       children: "Custom values"
     }), "\n", _jsx(_components.p, {
       children: "Larger sizes will inherit from smaller sizes, if they are not set:"
     }), "\n", _jsxs(_components.ul, {
-      children: ["\n", _jsx(_components.li, {
-        children: "s: [1] (default)"
-      }), "\n", _jsx(_components.li, {
-        children: "m: [2, 1]"
-      }), "\n", _jsx(_components.li, {
-        children: "l: [2, 1] (inherited)"
+      children: ["\n", _jsxs(_components.li, {
+        children: ["s: ", _jsx(_components.code, {
+          children: "[1]"
+        }), " (default)"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["m: ", _jsx(_components.code, {
+          children: "[2, 1]"
+        })]
+      }), "\n", _jsxs(_components.li, {
+        children: ["l: ", _jsx(_components.code, {
+          children: "[2, 1]"
+        }), " (inherited)"]
       }), "\n"]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "custom-values"
