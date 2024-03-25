@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[872],{28872:function(e,n,r){r.r(n),r.d(n,{Header:function(){return u},default:function(){return u}});var t=r(20934);let u=(0,r(921300).f)("Header",e=>{let{children:n,elementType:r="header",...u}=e;return t.createElement(r,{...u},n)})}}]);
