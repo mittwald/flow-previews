@@ -1,14 +1,14 @@
 3:I[4152,[],""]
 5:I[2855,[],""]
 4:["slug","02-components/status/status-icon","c"]
-0:["J3toL86T0TwhW5FrTBv-T",[[["",{"children":[["slug","02-components/status/status-icon","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"status\",\"status-icon\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/status/status-icon","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-styling-for-listitems/_next/static/css/b7476877dd2c8a04.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-styling-for-listitems/_next/static/css/3acfa322e5629966.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:I[3702,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-b034bea2f1f8f9e7.js"],""]
-9:I[9656,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","802","static/chunks/d709487a-aec4f99a68400e47.js","193","static/chunks/193-928fa30db52c32b4.js","902","static/chunks/902-f221013d85d9086f.js","877","static/chunks/app/%5B...slug%5D/page-47700bf78a735cda.js"],""]
-a:I[4009,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-b034bea2f1f8f9e7.js"],""]
-b:I[2652,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-b034bea2f1f8f9e7.js"],""]
-30:I[1536,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-b034bea2f1f8f9e7.js"],""]
-31:I[9373,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-b034bea2f1f8f9e7.js"],""]
-f1:I[9894,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","802","static/chunks/d709487a-aec4f99a68400e47.js","193","static/chunks/193-928fa30db52c32b4.js","902","static/chunks/902-f221013d85d9086f.js","877","static/chunks/app/%5B...slug%5D/page-47700bf78a735cda.js"],""]
+0:["Iz_nuUXhx65EYWplAHl-8",[[["",{"children":[["slug","02-components/status/status-icon","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"status\",\"status-icon\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/status/status-icon","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-styling-for-listitems/_next/static/css/b7476877dd2c8a04.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-styling-for-listitems/_next/static/css/92073bfeca1860ee.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:I[3702,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-8ec338fed1aa084d.js"],""]
+9:I[9656,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","802","static/chunks/d709487a-aec4f99a68400e47.js","193","static/chunks/193-928fa30db52c32b4.js","902","static/chunks/902-f221013d85d9086f.js","877","static/chunks/app/%5B...slug%5D/page-73d216c5304ebb2e.js"],""]
+a:I[4009,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-8ec338fed1aa084d.js"],""]
+b:I[2652,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-8ec338fed1aa084d.js"],""]
+30:I[1536,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-8ec338fed1aa084d.js"],""]
+31:I[9373,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","193","static/chunks/193-928fa30db52c32b4.js","985","static/chunks/985-777a3565d9801678.js","185","static/chunks/app/layout-8ec338fed1aa084d.js"],""]
+f1:I[4648,["384","static/chunks/3ceb1ae0-a11342305ca559f4.js","802","static/chunks/d709487a-aec4f99a68400e47.js","193","static/chunks/193-928fa30db52c32b4.js","902","static/chunks/902-f221013d85d9086f.js","877","static/chunks/app/%5B...slug%5D/page-73d216c5304ebb2e.js"],""]
 c:Tb4f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -1235,11 +1235,10 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-2c:T449,import {
+2c:T434,import {
   List,
   ListItemView,
   ListStaticData,
-  ListItemContextMenu,
 } from "@mittwald/flow-react-components/List";
 import {
   type User,
@@ -1249,7 +1248,10 @@ import { Avatar } from "@mittwald/flow-react-components/Avatar";
 import { Initials } from "@mittwald/flow-react-components/Initials";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Text } from "@mittwald/flow-react-components/Text";
-import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
+import {
+  ContextMenu,
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
 
 <List>
   <ListStaticData data={users} />
@@ -1263,20 +1265,18 @@ import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
           {user.name.first} {user.name.last}
         </Heading>
         <Text>{user.location.state}</Text>
-        <ListItemContextMenu>
+        <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
-        </ListItemContextMenu>
+        </ContextMenu>
       </>
     )}
   </ListItemView>
 </List>;
-2d:T485,import {
+2d:T48b,import {
   List,
   ListItemView,
   ListStaticData,
-  ListItemContextMenu,
-  ListItemLink,
 } from "@mittwald/flow-react-components/List";
 import {
   type User,
@@ -1286,13 +1286,16 @@ import { Avatar } from "@mittwald/flow-react-components/Avatar";
 import { Initials } from "@mittwald/flow-react-components/Initials";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Text } from "@mittwald/flow-react-components/Text";
-import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
+import ContextMenu, {
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+import { Link } from "@mittwald/flow-react-components/Link";
 
 <List>
   <ListStaticData data={users} />
   <ListItemView<User>>
     {(user) => (
-      <ListItemLink href={user.website}>
+      <Link href={user.website}>
         <Avatar>
           <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
         </Avatar>
@@ -1300,11 +1303,11 @@ import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
           {user.name.first} {user.name.last}
         </Heading>
         <Text>{user.location.state}</Text>
-        <ListItemContextMenu>
+        <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
-        </ListItemContextMenu>
-      </ListItemLink>
+        </ContextMenu>
+      </Link>
     )}
   </ListItemView>
 </List>;
@@ -2752,11 +2755,10 @@ function _missingMdxReference(id, component) {
 e4:{}
 e5:{}
 e2:{"compiledSource":"$e3","frontmatter":"$e4","scope":"$e5"}
-e7:T449,import {
+e7:T434,import {
   List,
   ListItemView,
   ListStaticData,
-  ListItemContextMenu,
 } from "@mittwald/flow-react-components/List";
 import {
   type User,
@@ -2766,7 +2768,10 @@ import { Avatar } from "@mittwald/flow-react-components/Avatar";
 import { Initials } from "@mittwald/flow-react-components/Initials";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Text } from "@mittwald/flow-react-components/Text";
-import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
+import {
+  ContextMenu,
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
 
 <List>
   <ListStaticData data={users} />
@@ -2780,20 +2785,18 @@ import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
           {user.name.first} {user.name.last}
         </Heading>
         <Text>{user.location.state}</Text>
-        <ListItemContextMenu>
+        <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
-        </ListItemContextMenu>
+        </ContextMenu>
       </>
     )}
   </ListItemView>
 </List>;
-e8:T485,import {
+e8:T48b,import {
   List,
   ListItemView,
   ListStaticData,
-  ListItemContextMenu,
-  ListItemLink,
 } from "@mittwald/flow-react-components/List";
 import {
   type User,
@@ -2803,13 +2806,16 @@ import { Avatar } from "@mittwald/flow-react-components/Avatar";
 import { Initials } from "@mittwald/flow-react-components/Initials";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Text } from "@mittwald/flow-react-components/Text";
-import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
+import ContextMenu, {
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+import { Link } from "@mittwald/flow-react-components/Link";
 
 <List>
   <ListStaticData data={users} />
   <ListItemView<User>>
     {(user) => (
-      <ListItemLink href={user.website}>
+      <Link href={user.website}>
         <Avatar>
           <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
         </Avatar>
@@ -2817,11 +2823,11 @@ import { ContextMenuItem } from "@mittwald/flow-react-components/ContextMenu";
           {user.name.first} {user.name.last}
         </Heading>
         <Text>{user.location.state}</Text>
-        <ListItemContextMenu>
+        <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
-        </ListItemContextMenu>
-      </ListItemLink>
+        </ContextMenu>
+      </Link>
     )}
   </ListItemView>
 </List>;
