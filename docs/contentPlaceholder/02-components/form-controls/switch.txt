@@ -1,14 +1,14 @@
-3:I[125833,[],""]
-5:I[899244,[],""]
+3:I[4152,[],""]
+5:I[2855,[],""]
 4:["slug","02-components/form-controls/switch","c"]
-0:["cpBN4OcTc93jo-Qj7TpF-",[[["",{"children":[["slug","02-components/form-controls/switch","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"form-controls\",\"switch\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/form-controls/switch","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/7a803fff6272dc78.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/249c6556e605e996.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:I[444720,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","46","static/chunks/46-595cd1bebc473428.js","880","static/chunks/880-8f420291f50cb65b.js","185","static/chunks/app/layout-46ccca7dabccb91c.js"],""]
-9:I[446995,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","802","static/chunks/d709487a-a3285472a4f558ee.js","46","static/chunks/46-595cd1bebc473428.js","650","static/chunks/650-24c82f6466adb938.js","877","static/chunks/app/%5B...slug%5D/page-241f036236557bd1.js"],""]
-a:I[132029,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","46","static/chunks/46-595cd1bebc473428.js","880","static/chunks/880-8f420291f50cb65b.js","185","static/chunks/app/layout-46ccca7dabccb91c.js"],""]
-b:I[924790,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","46","static/chunks/46-595cd1bebc473428.js","880","static/chunks/880-8f420291f50cb65b.js","185","static/chunks/app/layout-46ccca7dabccb91c.js"],""]
-2a:I[877690,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","46","static/chunks/46-595cd1bebc473428.js","880","static/chunks/880-8f420291f50cb65b.js","185","static/chunks/app/layout-46ccca7dabccb91c.js"],""]
-2b:I[12466,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","46","static/chunks/46-595cd1bebc473428.js","880","static/chunks/880-8f420291f50cb65b.js","185","static/chunks/app/layout-46ccca7dabccb91c.js"],""]
-d6:I[279222,["384","static/chunks/3ceb1ae0-4b21eed7026b3960.js","802","static/chunks/d709487a-a3285472a4f558ee.js","46","static/chunks/46-595cd1bebc473428.js","650","static/chunks/650-24c82f6466adb938.js","877","static/chunks/app/%5B...slug%5D/page-241f036236557bd1.js"],""]
+0:["67Jckjeo1Y3_BksW6RKFe",[[["",{"children":[["slug","02-components/form-controls/switch","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"form-controls\",\"switch\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/form-controls/switch","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/bdac759a726ddbda.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/contentPlaceholder/_next/static/css/da49bb237a9c847c.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:I[3702,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","352","static/chunks/352-df171592146ebe2f.js","779","static/chunks/779-8050be118b5fbef7.js","185","static/chunks/app/layout-39bcb3ec4771c111.js"],""]
+9:I[9656,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","802","static/chunks/d709487a-aec4f99a68400e47.js","352","static/chunks/352-df171592146ebe2f.js","975","static/chunks/975-5a8248a3f07f362a.js","877","static/chunks/app/%5B...slug%5D/page-a57ca7edbea32612.js"],""]
+a:I[4009,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","352","static/chunks/352-df171592146ebe2f.js","779","static/chunks/779-8050be118b5fbef7.js","185","static/chunks/app/layout-39bcb3ec4771c111.js"],""]
+b:I[2652,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","352","static/chunks/352-df171592146ebe2f.js","779","static/chunks/779-8050be118b5fbef7.js","185","static/chunks/app/layout-39bcb3ec4771c111.js"],""]
+32:I[1536,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","352","static/chunks/352-df171592146ebe2f.js","779","static/chunks/779-8050be118b5fbef7.js","185","static/chunks/app/layout-39bcb3ec4771c111.js"],""]
+33:I[9373,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","352","static/chunks/352-df171592146ebe2f.js","779","static/chunks/779-8050be118b5fbef7.js","185","static/chunks/app/layout-39bcb3ec4771c111.js"],""]
+ff:I[5021,["384","static/chunks/3ceb1ae0-854f82d2ed35942d.js","802","static/chunks/d709487a-aec4f99a68400e47.js","352","static/chunks/352-df171592146ebe2f.js","975","static/chunks/975-5a8248a3f07f362a.js","877","static/chunks/app/%5B...slug%5D/page-a57ca7edbea32612.js"],""]
 c:Tb4f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -188,7 +188,44 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-e:Ta54,/*@jsxRuntime automatic @jsxImportSource react*/
+e:T5b1,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2",
+    p: "p"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Pending"
+    }), "\n", _jsx(_components.p, {
+      children: "When an async action executes longer than 1000ms, the pending state is shown."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "longAction"
+    }), "\n", _jsx(_components.h2, {
+      children: "Feedback"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "feedback"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+f:Ta54,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -259,7 +296,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-f:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+10:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -285,7 +322,71 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-10:T82a,/*@jsxRuntime automatic @jsxImportSource react*/
+11:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+12:T5b1,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Danger"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "danger"
+    }), "\n", _jsx(_components.h2, {
+      children: "Info"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "info"
+    }), "\n", _jsx(_components.h2, {
+      children: "Additional secondary button"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "additionalSecondary"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T82a,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -337,7 +438,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-11:T519,/*@jsxRuntime automatic @jsxImportSource react*/
+14:T519,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -371,7 +472,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-12:T72a,/*@jsxRuntime automatic @jsxImportSource react*/
+15:T72a,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -420,7 +521,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-13:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+16:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -432,96 +533,6 @@ function _createMdxContent(props) {
     children: [_jsx(_components.h2, {
       children: "Example"
     }), "\n", _jsx(LiveCodeEditor, {})]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
-  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
-    children: _jsx(_createMdxContent, props)
-  })) : _createMdxContent(props);
-}
-return {
-  default: MDXContent
-};
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-14:T422,/*@jsxRuntime automatic @jsxImportSource react*/
-const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
-const {useMDXComponents: _provideComponents} = arguments[0];
-function _createMdxContent(props) {
-  const _components = Object.assign({
-    h2: "h2"
-  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
-  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
-  return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
-      children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {})]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
-  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
-    children: _jsx(_createMdxContent, props)
-  })) : _createMdxContent(props);
-}
-return {
-  default: MDXContent
-};
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-15:T422,/*@jsxRuntime automatic @jsxImportSource react*/
-const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
-const {useMDXComponents: _provideComponents} = arguments[0];
-function _createMdxContent(props) {
-  const _components = Object.assign({
-    h2: "h2"
-  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
-  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
-  return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
-      children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {})]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
-  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
-    children: _jsx(_createMdxContent, props)
-  })) : _createMdxContent(props);
-}
-return {
-  default: MDXContent
-};
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-16:T5b2,/*@jsxRuntime automatic @jsxImportSource react*/
-const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
-const {useMDXComponents: _provideComponents} = arguments[0];
-function _createMdxContent(props) {
-  const _components = Object.assign({
-    h2: "h2"
-  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
-  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
-  return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
-      children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
-      children: "With copy button"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "copy-button"
-    }), "\n", _jsx(_components.h2, {
-      children: "With link"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "link"
-    }), "\n", _jsx(_components.h2, {
-      children: "With inline code"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "inline-code"
-    })]
   });
 }
 function MDXContent(props = {}) {
@@ -588,7 +599,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-19:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+19:T5b2,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -599,7 +610,19 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {})]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "With copy button"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "copy-button"
+    }), "\n", _jsx(_components.h2, {
+      children: "With link"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "link"
+    }), "\n", _jsx(_components.h2, {
+      children: "With inline code"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "inline-code"
+    })]
   });
 }
 function MDXContent(props = {}) {
@@ -614,7 +637,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-1a:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
+1a:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -625,15 +648,7 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
-      children: "With leading label"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "leading-label"
-    }), "\n", _jsx(_components.h2, {
-      children: "Disabled"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "disabled"
-    })]
+    }), "\n", _jsx(LiveCodeEditor, {})]
   });
 }
 function MDXContent(props = {}) {
@@ -700,31 +715,25 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-1d:T647,/*@jsxRuntime automatic @jsxImportSource react*/
+1d:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = Object.assign({
-    h2: "h2",
-    p: "p",
-    code: "code"
+    h2: "h2"
   }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
   if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
     }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
-      children: "Inline"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Use the ", _jsx(_components.code, {
-        children: "inline"
-      }), " property if you want to use a link inside a text block. Links\ninside a ", _jsx(_components.code, {
-        children: "<Text />"
-      }), " component will be rendered as inline links automatically."]
+      children: "With leading label"
     }), "\n", _jsx(LiveCodeEditor, {
-      example: "inline"
+      example: "leading-label"
+    }), "\n", _jsx(_components.h2, {
+      children: "Disabled"
     }), "\n", _jsx(LiveCodeEditor, {
-      example: "inlineText"
+      example: "disabled"
     })]
   });
 }
@@ -740,7 +749,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-1e:T4a0,/*@jsxRuntime automatic @jsxImportSource react*/
+1e:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -751,11 +760,7 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
-      children: "With icons"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "icons"
-    })]
+    }), "\n", _jsx(LiveCodeEditor, {})]
   });
 }
 function MDXContent(props = {}) {
@@ -796,7 +801,208 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-20:T524,/*@jsxRuntime automatic @jsxImportSource react*/
+20:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+21:T746,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2",
+    p: "p",
+    code: "code"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Danger variant"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "danger"
+    }), "\n", _jsx(_components.h2, {
+      children: "With icon"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "icon"
+    }), "\n", _jsx(_components.h2, {
+      children: "Inline"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Use the ", _jsx(_components.code, {
+        children: "inline"
+      }), " property if you want to use a link inside a text block. Links\ninside a ", _jsx(_components.code, {
+        children: "<Text />"
+      }), " component will be rendered as inline links automatically."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "inline"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "inlineText"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+22:T520,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "With icons"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "icons"
+    }), "\n", _jsx(_components.h2, {
+      children: "With groups"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "groups"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+23:T520,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2",
+    p: "p",
+    code: "code"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Use the ", _jsx(_components.code, {
+        children: "<Title />"
+      }), " component for your first / most important heading inside\nyour modal, for accessibility."]
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+24:T48c,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
+import Content from "@mittwald/flow-react-components/Content";
+import Text from "@mittwald/flow-react-components/Text";
+import TextField from "@mittwald/flow-react-components/TextField";
+import Label from "@mittwald/flow-react-components/Label";
+import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
+import Button from "@mittwald/flow-react-components/Button";
+import Heading from "@mittwald/flow-react-components/Heading";
+import { Action } from "@mittwald/flow-react-components/Action";
+
+<ModalTrigger>
+  <Button variant="accent">Create customer</Button>
+  <Modal>
+    <Heading>New Customer</Heading>
+    <Content>
+      <Text>
+        Create a new customer to manage your projects,
+        members and payments.
+      </Text>
+      <TextField>
+        <Label>Customer name</Label>
+      </TextField>
+    </Content>
+    <ButtonGroup>
+      <Action closeModal>
+        <Button variant="accent">Create customer</Button>
+        <Button style="soft" variant="secondary">
+          Abort
+        </Button>
+      </Action>
+    </ButtonGroup>
+  </Modal>
+</ModalTrigger>;
+25:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+26:T524,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -830,7 +1036,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-21:T4c2,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
+27:T4c2,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Content from "@mittwald/flow-react-components/Content";
 
@@ -869,7 +1075,7 @@ import Content from "@mittwald/flow-react-components/Content";
     </Content>
   </InlineAlert>
 </Row>;
-22:T49d,/*@jsxRuntime automatic @jsxImportSource react*/
+28:T49d,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -899,7 +1105,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-23:T5d2,/*@jsxRuntime automatic @jsxImportSource react*/
+29:T5d2,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -938,7 +1144,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-24:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
+2a:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1004,7 +1210,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-25:T4a5,/*@jsxRuntime automatic @jsxImportSource react*/
+2b:T4a5,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1034,7 +1240,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-26:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+2c:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1060,7 +1266,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-27:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+2d:T4aa,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1071,7 +1277,11 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {})]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "With linked items"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "withLink"
+    })]
   });
 }
 function MDXContent(props = {}) {
@@ -1086,7 +1296,83 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-28:T5b6,/*@jsxRuntime automatic @jsxImportSource react*/
+2e:T434,import {
+  List,
+  ListItemView,
+  ListStaticData,
+} from "@mittwald/flow-react-components/List";
+import {
+  type User,
+  users,
+} from "@/content/02-components/structure/list/examples/userApi";
+import { Avatar } from "@mittwald/flow-react-components/Avatar";
+import { Initials } from "@mittwald/flow-react-components/Initials";
+import { Heading } from "@mittwald/flow-react-components/Heading";
+import { Text } from "@mittwald/flow-react-components/Text";
+import {
+  ContextMenu,
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+
+<List>
+  <ListStaticData data={users} />
+  <ListItemView<User>>
+    {(user) => (
+      <>
+        <Avatar>
+          <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
+        </Avatar>
+        <Heading>
+          {user.name.first} {user.name.last}
+        </Heading>
+        <Text>{user.location.state}</Text>
+        <ContextMenu>
+          <ContextMenuItem>Show details</ContextMenuItem>
+          <ContextMenuItem>Delete</ContextMenuItem>
+        </ContextMenu>
+      </>
+    )}
+  </ListItemView>
+</List>;
+2f:T48b,import {
+  List,
+  ListItemView,
+  ListStaticData,
+} from "@mittwald/flow-react-components/List";
+import {
+  type User,
+  users,
+} from "@/content/02-components/structure/list/examples/userApi";
+import { Avatar } from "@mittwald/flow-react-components/Avatar";
+import { Initials } from "@mittwald/flow-react-components/Initials";
+import { Heading } from "@mittwald/flow-react-components/Heading";
+import { Text } from "@mittwald/flow-react-components/Text";
+import ContextMenu, {
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+import { Link } from "@mittwald/flow-react-components/Link";
+
+<List>
+  <ListStaticData data={users} />
+  <ListItemView<User>>
+    {(user) => (
+      <Link href={user.website}>
+        <Avatar>
+          <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
+        </Avatar>
+        <Heading>
+          {user.name.first} {user.name.last}
+        </Heading>
+        <Text>{user.location.state}</Text>
+        <ContextMenu>
+          <ContextMenuItem>Show details</ContextMenuItem>
+          <ContextMenuItem>Delete</ContextMenuItem>
+        </ContextMenu>
+      </Link>
+    )}
+  </ListItemView>
+</List>;
+30:T5b6,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1124,7 +1410,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-29:T417,import Heading from "@mittwald/flow-react-components/Heading";
+31:T417,import Heading from "@mittwald/flow-react-components/Heading";
 import Text from "@mittwald/flow-react-components/Text";
 import Link from "@mittwald/flow-react-components/Link";
 import Section from "@mittwald/flow-react-components/Section";
@@ -1156,7 +1442,7 @@ import { IconMember } from "@mittwald/flow-react-components/Icons";
     <Link href="#">Subscribe</Link>
   </Section>
 </>;
-2d:Tb4f,/*@jsxRuntime automatic @jsxImportSource react*/
+35:Tb4f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1219,12 +1505,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-2e:{"description":"Welcome to the Flow documentation!"}
-2f:{}
-2c:{"compiledSource":"$2d","frontmatter":"$2e","scope":"$2f"}
-30:{}
-31:["01-getting-started","installation"]
-33:T1659,/*@jsxRuntime automatic @jsxImportSource react*/
+36:{"description":"Welcome to the Flow documentation!"}
+37:{}
+34:{"compiledSource":"$35","frontmatter":"$36","scope":"$37"}
+38:{}
+39:["01-getting-started","installation"]
+3b:T1659,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1340,12 +1626,54 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-34:{}
-35:{}
-32:{"compiledSource":"$33","frontmatter":"$34","scope":"$35"}
-36:{"composition":"import ExampleSvg from \"@/content/01-getting-started/stylesheet/examples/components/ExampleSvg\";\n\n<aside className=\"flow--inline-alert flow--inline-alert--info\">\n  <ExampleSvg className=\"flow--icon flow--inline-alert--status-icon\" />\n  <h3 className=\"flow--heading flow--inline-alert--heading\">\n    Email address has been archived\n  </h3>\n  <div className=\"flow--inline-alert--content\">\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </div>\n</aside>;\n","multiple-variants":"<button className=\"flow--button flow--button--primary flow--button--size-s\">\n  Small primary button\n</button>;\n","variants":"<button className=\"flow--button flow--button--primary\">\n  Primary button\n</button>;\n"}
-37:["01-getting-started","stylesheet"]
-39:Ta54,/*@jsxRuntime automatic @jsxImportSource react*/
+3c:{}
+3d:{}
+3a:{"compiledSource":"$3b","frontmatter":"$3c","scope":"$3d"}
+3e:{"composition":"import ExampleSvg from \"@/content/01-getting-started/stylesheet/examples/components/ExampleSvg\";\n\n<aside className=\"flow--inline-alert flow--inline-alert--info\">\n  <ExampleSvg className=\"flow--icon flow--inline-alert--status-icon\" />\n  <h3 className=\"flow--heading flow--inline-alert--heading\">\n    Email address has been archived\n  </h3>\n  <div className=\"flow--inline-alert--content\">\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </div>\n</aside>;\n","multiple-variants":"<button className=\"flow--button flow--button--primary flow--button--size-s\">\n  Small primary button\n</button>;\n","variants":"<button className=\"flow--button flow--button--primary\">\n  Primary button\n</button>;\n"}
+3f:["01-getting-started","stylesheet"]
+41:T5b1,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2",
+    p: "p"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Pending"
+    }), "\n", _jsx(_components.p, {
+      children: "When an async action executes longer than 1000ms, the pending state is shown."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "longAction"
+    }), "\n", _jsx(_components.h2, {
+      children: "Feedback"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "feedback"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+42:{"title":"Action"}
+43:{}
+40:{"compiledSource":"$41","frontmatter":"$42","scope":"$43"}
+44:{"default":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleep } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleep}>\n  <Button>Save</Button>\n</Action>;\n","feedback":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleep } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleep} feedback>\n  <Button>Save</Button>\n</Action>;\n","longAction":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleepLong } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleepLong}>\n  <Button>Save</Button>\n</Action>;\n"}
+45:["02-components","actions","action"]
+47:Ta54,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1416,12 +1744,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-3a:{"title":"Button","menuGroup":"Getting started"}
-3b:{}
-38:{"compiledSource":"$39","frontmatter":"$3a","scope":"$3b"}
-3c:{"default":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button>Continue/Action</Button>;\n","icon":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Button aria-label=\"Star item\">\n  <IconHome />\n</Button>;\n","iconText":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\nimport { IconChevronDown } from \"@mittwald/flow-react-components/Icons\";\n\n<Button>\n  <Text>Add email address</Text>\n  <IconChevronDown />\n</Button>;\n","plain":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"plain\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"plain\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"plain\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"plain\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","small":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button size=\"s\">Continue/Action</Button>;\n","soft":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"soft\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"soft\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"soft\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"soft\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","states":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button isDisabled>Continue/Action</Button>\n  <Button isPending>Continue/Action</Button>\n  <Button isSucceeded>Continue/Action</Button>\n  <Button isFailed>Continue/Action</Button>\n</Row>;\n","variants":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button variant=\"primary\">Continue/Action</Button>\n  <Button variant=\"secondary\">Abort/Back</Button>\n  <Button variant=\"accent\">Create/Save</Button>\n  <Button variant=\"danger\">Delete/Terminate</Button>\n</Row>;\n"}
-3d:["02-components","actions","button"]
-3f:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+48:{"title":"Button","menuGroup":"Getting started"}
+49:{}
+46:{"compiledSource":"$47","frontmatter":"$48","scope":"$49"}
+4a:{"default":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button>Continue/Action</Button>;\n","icon":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Button aria-label=\"Star item\">\n  <IconHome />\n</Button>;\n","iconText":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\nimport { IconChevronDown } from \"@mittwald/flow-react-components/Icons\";\n\n<Button>\n  <Text>Add email address</Text>\n  <IconChevronDown />\n</Button>;\n","plain":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"plain\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"plain\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"plain\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"plain\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","small":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button size=\"s\">Continue/Action</Button>;\n","soft":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"soft\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"soft\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"soft\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"soft\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","states":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button isDisabled>Continue/Action</Button>\n  <Button isPending>Continue/Action</Button>\n  <Button isSucceeded>Continue/Action</Button>\n  <Button isFailed>Continue/Action</Button>\n</Row>;\n","variants":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button variant=\"primary\">Continue/Action</Button>\n  <Button variant=\"secondary\">Abort/Back</Button>\n  <Button variant=\"accent\">Create/Save</Button>\n  <Button variant=\"danger\">Delete/Terminate</Button>\n</Row>;\n"}
+4b:["02-components","actions","button"]
+4d:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1447,12 +1775,86 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-40:{}
-41:{}
-3e:{"compiledSource":"$3f","frontmatter":"$40","scope":"$41"}
-42:{"default":"import { CopyButton } from \"@mittwald/flow-react-components/CopyButton\";\n\n<CopyButton text=\"Copied content\" />;\n"}
-43:["02-components","actions","copy-button"]
-45:T82a,/*@jsxRuntime automatic @jsxImportSource react*/
+4e:{}
+4f:{}
+4c:{"compiledSource":"$4d","frontmatter":"$4e","scope":"$4f"}
+50:{"default":"import ContextMenu, {\n  ContextMenuItem,\n  ContextMenuTrigger,\n} from \"@mittwald/flow-react-components/ContextMenu\";\nimport { Button } from \"@mittwald/flow-react-components/Button\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuItem>Item 1</ContextMenuItem>\n    <ContextMenuItem>Item 2</ContextMenuItem>\n    <ContextMenuItem>Item 3</ContextMenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n"}
+51:["02-components","actions","context-menu"]
+53:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+54:{}
+55:{}
+52:{"compiledSource":"$53","frontmatter":"$54","scope":"$55"}
+56:{"default":"import { CopyButton } from \"@mittwald/flow-react-components/CopyButton\";\n\n<CopyButton text=\"Copied content\" />;\n"}
+57:["02-components","actions","copy-button"]
+59:T5b1,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Danger"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "danger"
+    }), "\n", _jsx(_components.h2, {
+      children: "Info"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "info"
+    }), "\n", _jsx(_components.h2, {
+      children: "Additional secondary button"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "additionalSecondary"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+5a:{}
+5b:{}
+58:{"compiledSource":"$59","frontmatter":"$5a","scope":"$5b"}
+5c:{"additionalSecondary":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"secondary\" style=\"soft\">\n    Save and add more\n  </Button>\n  <Button variant=\"accent\">Add email address</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","danger":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"danger\">Delete project</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","default":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"accent\">Create customer</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","info":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button>Ok</Button>\n</ButtonGroup>;\n"}
+5d:["02-components","button-group"]
+5f:T82a,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1504,12 +1906,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-46:{}
-47:{}
-44:{"compiledSource":"$45","frontmatter":"$46","scope":"$47"}
-48:{"colors":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { IconCustomer } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <Avatar>\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gustav Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gina-Lisa Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gorgio Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <IconHome />\n  </Avatar>\n  <Avatar>\n    <IconCustomer />\n  </Avatar>\n</Row>;\n","default":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Avatar>\n  <Initials>Gillian Gopher</Initials>\n</Avatar>;\n","icon":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { Avatar } from \"@mittwald/flow-react-components/Avatar\";\n\n<Avatar>\n  <IconHome />\n</Avatar>;\n","image":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Image from \"@mittwald/flow-react-components/Image\";\n\n<Avatar>\n  <Image\n    alt=\"Gopher\"\n    src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  />\n</Avatar>;\n","sizes":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Row>\n  <Avatar size=\"xs\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"s\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"m\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"l\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n</Row>;\n"}
-49:["02-components","content","avatar"]
-4b:T519,/*@jsxRuntime automatic @jsxImportSource react*/
+60:{}
+61:{}
+5e:{"compiledSource":"$5f","frontmatter":"$60","scope":"$61"}
+62:{"colors":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { IconCustomer } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <Avatar>\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gustav Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gina-Lisa Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gorgio Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <IconHome />\n  </Avatar>\n  <Avatar>\n    <IconCustomer />\n  </Avatar>\n</Row>;\n","default":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Avatar>\n  <Initials>Gillian Gopher</Initials>\n</Avatar>;\n","icon":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { Avatar } from \"@mittwald/flow-react-components/Avatar\";\n\n<Avatar>\n  <IconHome />\n</Avatar>;\n","image":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Image from \"@mittwald/flow-react-components/Image\";\n\n<Avatar>\n  <Image\n    alt=\"Gopher\"\n    src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  />\n</Avatar>;\n","sizes":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Row>\n  <Avatar size=\"xs\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"s\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"m\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"l\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n</Row>;\n"}
+63:["02-components","content","avatar"]
+65:T519,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1543,12 +1945,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-4c:{}
-4d:{}
-4a:{"compiledSource":"$4b","frontmatter":"$4c","scope":"$4d"}
-4e:{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<Heading>This is a heading</Heading>;\n","icon":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport { IconMember } from \"@mittwald/flow-react-components/Icons\";\n\n<Heading>\n  <IconMember />\n  Personal Information\n</Heading>;\n","levels":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<>\n  <Heading level={1}>This is a level 1 heading</Heading>\n  <Heading level={2}>This is a level 2 heading</Heading>\n  <Heading level={3}>This is a level 3 heading</Heading>\n  <Heading level={4}>This is a level 4 heading</Heading>\n  <Heading level={5}>This is a level 5 heading</Heading>\n</>;\n"}
-4f:["02-components","content","heading"]
-51:T72a,/*@jsxRuntime automatic @jsxImportSource react*/
+66:{}
+67:{}
+64:{"compiledSource":"$65","frontmatter":"$66","scope":"$67"}
+68:{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<Heading>This is a heading</Heading>;\n","icon":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport { IconMember } from \"@mittwald/flow-react-components/Icons\";\n\n<Heading>\n  <IconMember />\n  Personal Information\n</Heading>;\n","levels":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<>\n  <Heading level={1}>This is a level 1 heading</Heading>\n  <Heading level={2}>This is a level 2 heading</Heading>\n  <Heading level={3}>This is a level 3 heading</Heading>\n  <Heading level={4}>This is a level 4 heading</Heading>\n  <Heading level={5}>This is a level 5 heading</Heading>\n</>;\n"}
+69:["02-components","content","heading"]
+6b:T72a,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1597,12 +1999,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-52:{}
-53:{}
-50:{"compiledSource":"$51","frontmatter":"$52","scope":"$53"}
-54:{"coloring":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome\n  style={{ color: \"var(--primary--color--800)\" }}\n/>;\n","default":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome />;\n","sizes":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","svg-string":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n() => {\n  const svgString = `\\\n    <svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"50\" cy=\"50\" r=\"50\" />\n    </svg>\n  `;\n\n  return <Icon>{svgString}</Icon>;\n};\n","svg":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import Icon from \"@mittwald/flow-react-components/Icon\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"}
-55:["02-components","content","icon"]
-57:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+6c:{}
+6d:{}
+6a:{"compiledSource":"$6b","frontmatter":"$6c","scope":"$6d"}
+6e:{"coloring":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome\n  style={{ color: \"var(--primary--color--800)\" }}\n/>;\n","default":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome />;\n","sizes":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","svg-string":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n() => {\n  const svgString = `\\\n    <svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"50\" cy=\"50\" r=\"50\" />\n    </svg>\n  `;\n\n  return <Icon>{svgString}</Icon>;\n};\n","svg":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import Icon from \"@mittwald/flow-react-components/Icon\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"}
+6f:["02-components","content","icon"]
+71:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1628,12 +2030,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-58:{}
-59:{}
-56:{"compiledSource":"$57","frontmatter":"$58","scope":"$59"}
-5a:{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n/>;\n"}
-5b:["02-components","content","image"]
-5d:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+72:{}
+73:{}
+70:{"compiledSource":"$71","frontmatter":"$72","scope":"$73"}
+74:{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n/>;\n"}
+75:["02-components","content","image"]
+77:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1659,12 +2061,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-5e:{}
-5f:{}
-5c:{"compiledSource":"$5d","frontmatter":"$5e","scope":"$5f"}
-60:{"default":"import Text from \"@mittwald/flow-react-components/Text\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\n\n<Text>\n  Enter <InlineCode>yarn start</InlineCode> to start your\n  app.\n</Text>;\n"}
-61:["02-components","content","inline-code"]
-63:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+78:{}
+79:{}
+76:{"compiledSource":"$77","frontmatter":"$78","scope":"$79"}
+7a:{"default":"import Text from \"@mittwald/flow-react-components/Text\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\n\n<Text>\n  Enter <InlineCode>yarn start</InlineCode> to start your\n  app.\n</Text>;\n"}
+7b:["02-components","content","inline-code"]
+7d:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1690,12 +2092,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-64:{}
-65:{}
-62:{"compiledSource":"$63","frontmatter":"$64","scope":"$65"}
-66:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\n\n<Label>This is a label</Label>;\n"}
-67:["02-components","content","label"]
-69:T5b2,/*@jsxRuntime automatic @jsxImportSource react*/
+7e:{}
+7f:{}
+7c:{"compiledSource":"$7d","frontmatter":"$7e","scope":"$7f"}
+80:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\n\n<Label>This is a label</Label>;\n"}
+81:["02-components","content","label"]
+83:T5b2,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1733,12 +2135,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-6a:{}
-6b:{}
-68:{"compiledSource":"$69","frontmatter":"$6a","scope":"$6b"}
-6c:{"copy-button":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>Project ID</Label>\n  <Content>p-eWRhpRV</Content>\n  <CopyButton text=\"Project ID: p-eWRhpRV\" />\n</LabeledValue>;\n","default":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<LabeledValue>\n  <Label>Storage</Label>\n  <Content>20 GB</Content>\n</LabeledValue>;\n","inline-code":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>IP address</Label>\n  <InlineCode>127.0.0.1</InlineCode>\n  <CopyButton text=\"127.0.0.1\" />\n</LabeledValue>;\n","link":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Link from \"@mittwald/flow-react-components/Link\";\n\n<LabeledValue>\n  <Label>Domain</Label>\n  <Link>https://mittwald.de</Link>\n</LabeledValue>;\n"}
-6d:["02-components","content","labeled-value"]
-6f:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+84:{}
+85:{}
+82:{"compiledSource":"$83","frontmatter":"$84","scope":"$85"}
+86:{"copy-button":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>Project ID</Label>\n  <Content>p-eWRhpRV</Content>\n  <CopyButton text=\"Project ID: p-eWRhpRV\" />\n</LabeledValue>;\n","default":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<LabeledValue>\n  <Label>Storage</Label>\n  <Content>20 GB</Content>\n</LabeledValue>;\n","inline-code":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>IP address</Label>\n  <InlineCode>127.0.0.1</InlineCode>\n  <CopyButton text=\"127.0.0.1\" />\n</LabeledValue>;\n","link":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Link from \"@mittwald/flow-react-components/Link\";\n\n<LabeledValue>\n  <Label>Domain</Label>\n  <Link>https://mittwald.de</Link>\n</LabeledValue>;\n"}
+87:["02-components","content","labeled-value"]
+89:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1764,12 +2166,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-70:{}
-71:{}
-6e:{"compiledSource":"$6f","frontmatter":"$70","scope":"$71"}
-72:{"default":"import Checkbox from \"@mittwald/flow-react-components/Checkbox\";\n\n<Checkbox>Activate spam protection</Checkbox>;\n"}
-73:["02-components","form-controls","checkbox"]
-75:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+8a:{}
+8b:{}
+88:{"compiledSource":"$89","frontmatter":"$8a","scope":"$8b"}
+8c:{"default":"import Checkbox from \"@mittwald/flow-react-components/Checkbox\";\n\n<Checkbox>Activate spam protection</Checkbox>;\n"}
+8d:["02-components","form-controls","checkbox"]
+8f:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1795,12 +2197,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-76:{}
-77:{}
-74:{"compiledSource":"$75","frontmatter":"$76","scope":"$77"}
-78:{"default":"import NumberField from \"@mittwald/flow-react-components/NumberField\";\n\n<NumberField defaultValue={5} minValue={0} maxValue={10} />;\n"}
-79:["02-components","form-controls","number-field"]
-7b:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+90:{}
+91:{}
+8e:{"compiledSource":"$8f","frontmatter":"$90","scope":"$91"}
+92:{"default":"import NumberField from \"@mittwald/flow-react-components/NumberField\";\n\n<NumberField defaultValue={5} minValue={0} maxValue={10} />;\n"}
+93:["02-components","form-controls","number-field"]
+95:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1826,12 +2228,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-7c:{}
-7d:{}
-7a:{"compiledSource":"$7b","frontmatter":"$7c","scope":"$7d"}
-7e:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport RadioGroup, {\n  Radio,\n} from \"@mittwald/flow-react-components/RadioGroup\";\n\n<RadioGroup defaultValue=\"admin\">\n  <Label>Role</Label>\n  <Radio value=\"admin\">Admin</Radio>\n  <Radio value=\"member\">Member</Radio>\n  <Radio value=\"accountant\">Accountant</Radio>\n</RadioGroup>;\n"}
-7f:["02-components","form-controls","radio-group"]
-81:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
+96:{}
+97:{}
+94:{"compiledSource":"$95","frontmatter":"$96","scope":"$97"}
+98:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport RadioGroup, {\n  Radio,\n} from \"@mittwald/flow-react-components/RadioGroup\";\n\n<RadioGroup defaultValue=\"admin\">\n  <Label>Role</Label>\n  <Radio value=\"admin\">Admin</Radio>\n  <Radio value=\"member\">Member</Radio>\n  <Radio value=\"accountant\">Accountant</Radio>\n</RadioGroup>;\n"}
+99:["02-components","form-controls","radio-group"]
+9b:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1865,12 +2267,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-82:{}
-83:{}
-80:{"compiledSource":"$81","frontmatter":"$82","scope":"$83"}
-84:{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"}
-85:["02-components","form-controls","switch"]
-87:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+9c:{}
+9d:{}
+9a:{"compiledSource":"$9b","frontmatter":"$9c","scope":"$9d"}
+9e:{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"}
+9f:["02-components","form-controls","switch"]
+a1:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1896,12 +2298,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-88:{}
-89:{}
-86:{"compiledSource":"$87","frontmatter":"$88","scope":"$89"}
-8a:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\nimport TextArea from \"@mittwald/flow-react-components/TextArea\";\n\n<TextArea>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextArea>;\n"}
-8b:["02-components","form-controls","text-area"]
-8d:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+a2:{}
+a3:{}
+a0:{"compiledSource":"$a1","frontmatter":"$a2","scope":"$a3"}
+a4:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\nimport TextArea from \"@mittwald/flow-react-components/TextArea\";\n\n<TextArea>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextArea>;\n"}
+a5:["02-components","form-controls","text-area"]
+a7:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1927,12 +2329,43 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-8e:{}
-8f:{}
-8c:{"compiledSource":"$8d","frontmatter":"$8e","scope":"$8f"}
-90:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\n\n<TextField>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextField>;\n"}
-91:["02-components","form-controls","text-field"]
-93:T647,/*@jsxRuntime automatic @jsxImportSource react*/
+a8:{}
+a9:{}
+a6:{"compiledSource":"$a7","frontmatter":"$a8","scope":"$a9"}
+aa:{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\n\n<TextField>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextField>;\n"}
+ab:["02-components","form-controls","text-field"]
+ad:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+ae:{}
+af:{}
+ac:{"compiledSource":"$ad","frontmatter":"$ae","scope":"$af"}
+b0:{"default":"import { Breadcrumb } from \"@mittwald/flow-react-components/Breadcrumb\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Breadcrumb>\n  <Link href=\"#\">Project</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">App</Link>\n</Breadcrumb>;\n"}
+b1:["02-components","navigation","breadcrumb"]
+b3:T746,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1946,6 +2379,14 @@ function _createMdxContent(props) {
     children: [_jsx(_components.h2, {
       children: "Example"
     }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "Danger variant"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "danger"
+    }), "\n", _jsx(_components.h2, {
+      children: "With icon"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "icon"
+    }), "\n", _jsx(_components.h2, {
       children: "Inline"
     }), "\n", _jsxs(_components.p, {
       children: ["Use the ", _jsx(_components.code, {
@@ -1972,12 +2413,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-94:{}
-95:{}
-92:{"compiledSource":"$93","frontmatter":"$94","scope":"$95"}
-96:{"default":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\">This is a link</Link>;\n","inline":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link inline href=\"#\">\n  Inline link\n</Link>;\n","inlineText":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\n\n<Text>\n  Check our <Link href=\"#\">onboarding</Link> for more\n  information.\n</Text>;\n"}
-97:["02-components","navigation","link"]
-99:T4a0,/*@jsxRuntime automatic @jsxImportSource react*/
+b4:{}
+b5:{}
+b2:{"compiledSource":"$b3","frontmatter":"$b4","scope":"$b5"}
+b6:{"danger":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\" variant=\"danger\">\n  Delete project\n</Link>;\n","default":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\">Adjust project</Link>;\n","icon":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { IconExternalLink } from \"@mittwald/flow-react-components/Icons\";\n\n<Link href=\"https://mittwald.de\">\n  mittwald.de\n  <IconExternalLink aria-label=\"external link\" />\n</Link>;\n","inline":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link inline href=\"#\">\n  Inline link\n</Link>;\n","inlineText":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\n\n<Text>\n  Check our <Link href=\"#\">onboarding</Link> for more\n  information.\n</Text>;\n"}
+b7:["02-components","navigation","link"]
+b9:T520,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1992,6 +2433,10 @@ function _createMdxContent(props) {
       children: "With icons"
     }), "\n", _jsx(LiveCodeEditor, {
       example: "icons"
+    }), "\n", _jsx(_components.h2, {
+      children: "With groups"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "groups"
     })]
   });
 }
@@ -2007,12 +2452,84 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-9a:{}
-9b:{}
-98:{"compiledSource":"$99","frontmatter":"$9a","scope":"$9b"}
-9c:{"default":"import Navigation, {\n  NavigationItem,\n} from \"@mittwald/flow-react-components/Navigation\";\n\n<Navigation aria-label=\"Companies\">\n  <NavigationItem href=\"https://www.apple.com\">\n    Apple\n  </NavigationItem>\n  <NavigationItem href=\"https://www.mittwald.de\" isCurrent>\n    mittwald\n  </NavigationItem>\n  <NavigationItem href=\"https://www.adobe.com\">\n    Adobe\n  </NavigationItem>\n  <NavigationItem href=\"https://www.google.com\">\n    Google\n  </NavigationItem>\n</Navigation>;\n","icons":"import Navigation, {\n  NavigationItem,\n} from \"@mittwald/flow-react-components/Navigation\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport {\n  IconCustomer,\n  IconProject,\n  IconServer,\n} from \"@mittwald/flow-react-components/Icons\";\n\n<Navigation aria-label=\"Main menu\">\n  <NavigationItem>\n    <IconCustomer />\n    <Text>Customer</Text>\n  </NavigationItem>\n  <NavigationItem isCurrent>\n    <IconServer />\n    <Text>Server</Text>\n  </NavigationItem>\n  <NavigationItem>\n    <IconProject />\n    <Text>Project</Text>\n  </NavigationItem>\n</Navigation>;\n"}
-9d:["02-components","navigation","navigation"]
-9f:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+ba:{}
+bb:{}
+b8:{"compiledSource":"$b9","frontmatter":"$ba","scope":"$bb"}
+bc:{"default":"import Navigation from \"@mittwald/flow-react-components/Navigation\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Companies\">\n  <Link href=\"https://www.apple.com\">Apple</Link>\n  <Link href=\"https://www.mittwald.de\" aria-current=\"page\">\n    mittwald\n  </Link>\n  <Link href=\"https://www.adobe.com\">Adobe</Link>\n  <Link href=\"https://www.google.com\">Google</Link>\n</Navigation>;\n","groups":"import Navigation, {\n  NavigationGroup,\n} from \"@mittwald/flow-react-components/Navigation\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Main navigation\">\n  <Heading>General</Heading>\n  <NavigationGroup>\n    <Link href=\"#\">Dashboard</Link>\n    <Link href=\"#\" aria-current=\"page\">\n      Performance\n    </Link>\n  </NavigationGroup>\n  <Heading>Components</Heading>\n  <NavigationGroup>\n    <Link href=\"#\">Apps</Link>\n    <Link href=\"#\">Databases</Link>\n    <Link href=\"#\">Domains</Link>\n  </NavigationGroup>\n</Navigation>;\n","icons":"import Navigation from \"@mittwald/flow-react-components/Navigation\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport {\n  IconCustomer,\n  IconProject,\n  IconServer,\n} from \"@mittwald/flow-react-components/Icons\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Main menu\">\n  <Link>\n    <IconCustomer />\n    <Text>Customer</Text>\n  </Link>\n  <Link aria-current=\"page\">\n    <IconServer />\n    <Text>Server</Text>\n  </Link>\n  <Link>\n    <IconProject />\n    <Text>Project</Text>\n  </Link>\n</Navigation>;\n"}
+bd:["02-components","navigation","navigation"]
+bf:T520,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    h2: "h2",
+    p: "p",
+    code: "code"
+  }, _provideComponents(), props.components), {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h2, {
+      children: "Example"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Use the ", _jsx(_components.code, {
+        children: "<Title />"
+      }), " component for your first / most important heading inside\nyour modal, for accessibility."]
+    }), "\n", _jsx(LiveCodeEditor, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+c0:{}
+c1:{}
+be:{"compiledSource":"$bf","frontmatter":"$c0","scope":"$c1"}
+c3:T48c,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
+import Content from "@mittwald/flow-react-components/Content";
+import Text from "@mittwald/flow-react-components/Text";
+import TextField from "@mittwald/flow-react-components/TextField";
+import Label from "@mittwald/flow-react-components/Label";
+import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
+import Button from "@mittwald/flow-react-components/Button";
+import Heading from "@mittwald/flow-react-components/Heading";
+import { Action } from "@mittwald/flow-react-components/Action";
+
+<ModalTrigger>
+  <Button variant="accent">Create customer</Button>
+  <Modal>
+    <Heading>New Customer</Heading>
+    <Content>
+      <Text>
+        Create a new customer to manage your projects,
+        members and payments.
+      </Text>
+      <TextField>
+        <Label>Customer name</Label>
+      </TextField>
+    </Content>
+    <ButtonGroup>
+      <Action closeModal>
+        <Button variant="accent">Create customer</Button>
+        <Button style="soft" variant="secondary">
+          Abort
+        </Button>
+      </Action>
+    </ButtonGroup>
+  </Modal>
+</ModalTrigger>;
+c2:{"default":"$c3"}
+c4:["02-components","overlays","modal"]
+c6:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2038,12 +2555,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-a0:{}
-a1:{}
-9e:{"compiledSource":"$9f","frontmatter":"$a0","scope":"$a1"}
-a2:{"default":"import Tooltip, {\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components/Tooltip\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport { IconCopy } from \"@mittwald/flow-react-components/Icons\";\n\n<TooltipTrigger>\n  <Button aria-label=\"save\">\n    <IconCopy />\n  </Button>\n  <Tooltip>Save</Tooltip>\n</TooltipTrigger>;\n"}
-a3:["02-components","overlays","tooltip"]
-a5:T524,/*@jsxRuntime automatic @jsxImportSource react*/
+c7:{}
+c8:{}
+c5:{"compiledSource":"$c6","frontmatter":"$c7","scope":"$c8"}
+c9:{"default":"import Tooltip, {\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components/Tooltip\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport { IconCopy } from \"@mittwald/flow-react-components/Icons\";\n\n<TooltipTrigger>\n  <Button aria-label=\"save\">\n    <IconCopy />\n  </Button>\n  <Tooltip>Save</Tooltip>\n</TooltipTrigger>;\n"}
+ca:["02-components","overlays","tooltip"]
+cc:T524,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2077,10 +2594,10 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-a6:{}
-a7:{}
-a4:{"compiledSource":"$a5","frontmatter":"$a6","scope":"$a7"}
-a9:T4c2,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
+cd:{}
+ce:{}
+cb:{"compiledSource":"$cc","frontmatter":"$cd","scope":"$ce"}
+d0:T4c2,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Content from "@mittwald/flow-react-components/Content";
 
@@ -2119,9 +2636,9 @@ import Content from "@mittwald/flow-react-components/Content";
     </Content>
   </InlineAlert>
 </Row>;
-a8:{"default":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n</InlineAlert>;\n","status":"$a9","with-content":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n  <Content>\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </Content>\n</InlineAlert>;\n"}
-aa:["02-components","status","inline-alert"]
-ac:T49d,/*@jsxRuntime automatic @jsxImportSource react*/
+cf:{"default":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n</InlineAlert>;\n","status":"$d0","with-content":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n  <Content>\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </Content>\n</InlineAlert>;\n"}
+d1:["02-components","status","inline-alert"]
+d3:T49d,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2151,12 +2668,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-ad:{}
-ae:{}
-ab:{"compiledSource":"$ac","frontmatter":"$ad","scope":"$ae"}
-af:{"default":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<StatusBadge>Info</StatusBadge>;\n","status":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<Row>\n  <StatusBadge status=\"info\">Info</StatusBadge>\n  <StatusBadge status=\"success\">Success</StatusBadge>\n  <StatusBadge status=\"warning\">Warning</StatusBadge>\n  <StatusBadge status=\"danger\">Danger</StatusBadge>\n</Row>;\n"}
-b0:["02-components","status","status-badge"]
-b2:T5d2,/*@jsxRuntime automatic @jsxImportSource react*/
+d4:{}
+d5:{}
+d2:{"compiledSource":"$d3","frontmatter":"$d4","scope":"$d5"}
+d6:{"default":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<StatusBadge>Info</StatusBadge>;\n","status":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<Row>\n  <StatusBadge status=\"info\">Info</StatusBadge>\n  <StatusBadge status=\"success\">Success</StatusBadge>\n  <StatusBadge status=\"warning\">Warning</StatusBadge>\n  <StatusBadge status=\"danger\">Danger</StatusBadge>\n</Row>;\n"}
+d7:["02-components","status","status-badge"]
+d9:T5d2,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2195,12 +2712,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-b3:{}
-b4:{}
-b1:{"compiledSource":"$b2","frontmatter":"$b3","scope":"$b4"}
-b5:{"default":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<StatusIcon />;\n","status":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<Row>\n  <StatusIcon status=\"info\" />\n  <StatusIcon status=\"success\" />\n  <StatusIcon status=\"warning\" />\n  <StatusIcon status=\"danger\" />\n</Row>;\n"}
-b6:["02-components","status","status-icon"]
-b8:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
+da:{}
+db:{}
+d8:{"compiledSource":"$d9","frontmatter":"$da","scope":"$db"}
+dc:{"default":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<StatusIcon />;\n","status":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<Row>\n  <StatusIcon status=\"info\" />\n  <StatusIcon status=\"success\" />\n  <StatusIcon status=\"warning\" />\n  <StatusIcon status=\"danger\" />\n</Row>;\n"}
+dd:["02-components","status","status-icon"]
+df:T96b,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2266,12 +2783,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-b9:{}
-ba:{}
-b7:{"compiledSource":"$b8","frontmatter":"$b9","scope":"$ba"}
-bb:{"custom-values":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout m={[2, 1]}>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n","default":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout>\n  <TextField>\n    <Label>First name</Label>\n  </TextField>\n  <TextField>\n    <Label>Last name</Label>\n  </TextField>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n"}
-bc:["02-components","structure","column-layout"]
-be:T4a5,/*@jsxRuntime automatic @jsxImportSource react*/
+e0:{}
+e1:{}
+de:{"compiledSource":"$df","frontmatter":"$e0","scope":"$e1"}
+e2:{"custom-values":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout m={[2, 1]}>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n","default":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout>\n  <TextField>\n    <Label>First name</Label>\n  </TextField>\n  <TextField>\n    <Label>Last name</Label>\n  </TextField>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n"}
+e3:["02-components","structure","column-layout"]
+e5:T4a5,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2301,12 +2818,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-bf:{}
-c0:{}
-bd:{"compiledSource":"$be","frontmatter":"$bf","scope":"$c0"}
-c1:{"danger":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder variant=\"danger\">\n  <IconDanger />\n  <Heading>No access</Heading>\n  <Text>\n    You do not have the required permissions to access this\n    page.\n  </Text>\n  <Button>Go back</Button>\n</ContentPlaceholder>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder>\n  <IconApp />\n  <Heading>No apps installed</Heading>\n  <Text>\n    Create your first app to start working on your website.\n  </Text>\n  <Button>Create app</Button>\n</ContentPlaceholder>;\n"}
-c2:["02-components","structure","content-placeholder"]
-c4:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+e6:{}
+e7:{}
+e4:{"compiledSource":"$e5","frontmatter":"$e6","scope":"$e7"}
+e8:{"danger":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder variant=\"danger\">\n  <IconDanger />\n  <Heading>No access</Heading>\n  <Text>\n    You do not have the required permissions to access this\n    page.\n  </Text>\n  <Button>Go back</Button>\n</ContentPlaceholder>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder>\n  <IconApp />\n  <Heading>No apps installed</Heading>\n  <Text>\n    Create your first app to start working on your website.\n  </Text>\n  <Button>Create app</Button>\n</ContentPlaceholder>;\n"}
+e9:["02-components","structure","content-placeholder"]
+eb:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2332,12 +2849,12 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-c5:{}
-c6:{}
-c3:{"compiledSource":"$c4","frontmatter":"$c5","scope":"$c6"}
-c7:{"default":"import LayoutCard from \"@mittwald/flow-react-components/LayoutCard\";\n\n<LayoutCard>\n  Layout Card is a structure element that can contain any\n  content\n</LayoutCard>;\n"}
-c8:["02-components","structure","layout-card"]
-ca:T422,/*@jsxRuntime automatic @jsxImportSource react*/
+ec:{}
+ed:{}
+ea:{"compiledSource":"$eb","frontmatter":"$ec","scope":"$ed"}
+ee:{"default":"import LayoutCard from \"@mittwald/flow-react-components/LayoutCard\";\n\n<LayoutCard>\n  Layout Card is a structure element that can contain any\n  content\n</LayoutCard>;\n"}
+ef:["02-components","structure","layout-card"]
+f1:T4aa,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2348,7 +2865,11 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h2, {
       children: "Example"
-    }), "\n", _jsx(LiveCodeEditor, {})]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.h2, {
+      children: "With linked items"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "withLink"
+    })]
   });
 }
 function MDXContent(props = {}) {
@@ -2363,12 +2884,88 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-cb:{}
-cc:{}
-c9:{"compiledSource":"$ca","frontmatter":"$cb","scope":"$cc"}
-cd:{"default":"import {\n  List,\n  ListItemView,\n  ListStaticData,\n} from \"@mittwald/flow-react-components/List\";\nimport {\n  type User,\n  users,\n} from \"@/content/02-components/structure/list/examples/userApi\";\n\n<List>\n  <ListStaticData data={users} />\n  <ListItemView<User>>\n    {(user) => (\n      <>\n        {user.name.first} {user.name.last}\n      </>\n    )}\n  </ListItemView>\n</List>;\n"}
-ce:["02-components","structure","list"]
-d0:T5b6,/*@jsxRuntime automatic @jsxImportSource react*/
+f2:{}
+f3:{}
+f0:{"compiledSource":"$f1","frontmatter":"$f2","scope":"$f3"}
+f5:T434,import {
+  List,
+  ListItemView,
+  ListStaticData,
+} from "@mittwald/flow-react-components/List";
+import {
+  type User,
+  users,
+} from "@/content/02-components/structure/list/examples/userApi";
+import { Avatar } from "@mittwald/flow-react-components/Avatar";
+import { Initials } from "@mittwald/flow-react-components/Initials";
+import { Heading } from "@mittwald/flow-react-components/Heading";
+import { Text } from "@mittwald/flow-react-components/Text";
+import {
+  ContextMenu,
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+
+<List>
+  <ListStaticData data={users} />
+  <ListItemView<User>>
+    {(user) => (
+      <>
+        <Avatar>
+          <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
+        </Avatar>
+        <Heading>
+          {user.name.first} {user.name.last}
+        </Heading>
+        <Text>{user.location.state}</Text>
+        <ContextMenu>
+          <ContextMenuItem>Show details</ContextMenuItem>
+          <ContextMenuItem>Delete</ContextMenuItem>
+        </ContextMenu>
+      </>
+    )}
+  </ListItemView>
+</List>;
+f6:T48b,import {
+  List,
+  ListItemView,
+  ListStaticData,
+} from "@mittwald/flow-react-components/List";
+import {
+  type User,
+  users,
+} from "@/content/02-components/structure/list/examples/userApi";
+import { Avatar } from "@mittwald/flow-react-components/Avatar";
+import { Initials } from "@mittwald/flow-react-components/Initials";
+import { Heading } from "@mittwald/flow-react-components/Heading";
+import { Text } from "@mittwald/flow-react-components/Text";
+import ContextMenu, {
+  ContextMenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+import { Link } from "@mittwald/flow-react-components/Link";
+
+<List>
+  <ListStaticData data={users} />
+  <ListItemView<User>>
+    {(user) => (
+      <Link href={user.website}>
+        <Avatar>
+          <Initials>{`${user.name.first} ${user.name.last}`}</Initials>
+        </Avatar>
+        <Heading>
+          {user.name.first} {user.name.last}
+        </Heading>
+        <Text>{user.location.state}</Text>
+        <ContextMenu>
+          <ContextMenuItem>Show details</ContextMenuItem>
+          <ContextMenuItem>Delete</ContextMenuItem>
+        </ContextMenu>
+      </Link>
+    )}
+  </ListItemView>
+</List>;
+f4:{"default":"$f5","withLink":"$f6"}
+f7:["02-components","structure","list"]
+f9:T5b6,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2406,10 +3003,10 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-d1:{}
-d2:{}
-cf:{"compiledSource":"$d0","frontmatter":"$d1","scope":"$d2"}
-d4:T417,import Heading from "@mittwald/flow-react-components/Heading";
+fa:{}
+fb:{}
+f8:{"compiledSource":"$f9","frontmatter":"$fa","scope":"$fb"}
+fd:T417,import Heading from "@mittwald/flow-react-components/Heading";
 import Text from "@mittwald/flow-react-components/Text";
 import Link from "@mittwald/flow-react-components/Link";
 import Section from "@mittwald/flow-react-components/Section";
@@ -2441,10 +3038,10 @@ import { IconMember } from "@mittwald/flow-react-components/Icons";
     <Link href="#">Subscribe</Link>
   </Section>
 </>;
-d3:{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Link from \"@mittwald/flow-react-components/Link\";\nimport Section from \"@mittwald/flow-react-components/Section\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n  <Link href=\"#\">Subscribe</Link>\n</Section>;\n","multiple":"$d4","status-badge":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\nimport Header from \"@mittwald/flow-react-components/Header\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <StatusBadge>Subscribed</StatusBadge>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n","switch":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Header from \"@mittwald/flow-react-components/Header\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Switch>Subscription</Switch>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n"}
-d5:["02-components","structure","section"]
-6:["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flow layout_body__oiEIT","children":["$","$L8",null,{"children":[["$","header",null,{"className":"layout_header__ttTk7","children":[["$","$L9",null,{"level":1,"className":"layout_heading__marbT","children":["Flow – mittwald Design System"," ",["$","$La",null,{"className":"layout_betaBadge__Rtyuk","status":"warning","children":"beta"}]]}],["$","$Lb",null,{"docs":[{"mdxSource":{"compiledSource":"$c","frontmatter":{"description":"Welcome to the Flow documentation!"},"scope":{}},"examples":{},"slugs":["01-getting-started","installation"],"filename":"01-getting-started/installation/index.mdx"},{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"composition":"import ExampleSvg from \"@/content/01-getting-started/stylesheet/examples/components/ExampleSvg\";\n\n<aside className=\"flow--inline-alert flow--inline-alert--info\">\n  <ExampleSvg className=\"flow--icon flow--inline-alert--status-icon\" />\n  <h3 className=\"flow--heading flow--inline-alert--heading\">\n    Email address has been archived\n  </h3>\n  <div className=\"flow--inline-alert--content\">\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </div>\n</aside>;\n","multiple-variants":"<button className=\"flow--button flow--button--primary flow--button--size-s\">\n  Small primary button\n</button>;\n","variants":"<button className=\"flow--button flow--button--primary\">\n  Primary button\n</button>;\n"},"slugs":["01-getting-started","stylesheet"],"filename":"01-getting-started/stylesheet/index.mdx"},{"mdxSource":{"compiledSource":"$e","frontmatter":{"title":"Button","menuGroup":"Getting started"},"scope":{}},"examples":{"default":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button>Continue/Action</Button>;\n","icon":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Button aria-label=\"Star item\">\n  <IconHome />\n</Button>;\n","iconText":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\nimport { IconChevronDown } from \"@mittwald/flow-react-components/Icons\";\n\n<Button>\n  <Text>Add email address</Text>\n  <IconChevronDown />\n</Button>;\n","plain":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"plain\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"plain\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"plain\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"plain\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","small":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button size=\"s\">Continue/Action</Button>;\n","soft":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"soft\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"soft\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"soft\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"soft\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","states":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button isDisabled>Continue/Action</Button>\n  <Button isPending>Continue/Action</Button>\n  <Button isSucceeded>Continue/Action</Button>\n  <Button isFailed>Continue/Action</Button>\n</Row>;\n","variants":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button variant=\"primary\">Continue/Action</Button>\n  <Button variant=\"secondary\">Abort/Back</Button>\n  <Button variant=\"accent\">Create/Save</Button>\n  <Button variant=\"danger\">Delete/Terminate</Button>\n</Row>;\n"},"slugs":["02-components","actions","button"],"filename":"02-components/actions/button/index.mdx"},{"mdxSource":{"compiledSource":"$f","frontmatter":{},"scope":{}},"examples":{"default":"import { CopyButton } from \"@mittwald/flow-react-components/CopyButton\";\n\n<CopyButton text=\"Copied content\" />;\n"},"slugs":["02-components","actions","copy-button"],"filename":"02-components/actions/copy-button/index.mdx"},{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"colors":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { IconCustomer } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <Avatar>\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gustav Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gina-Lisa Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gorgio Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <IconHome />\n  </Avatar>\n  <Avatar>\n    <IconCustomer />\n  </Avatar>\n</Row>;\n","default":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Avatar>\n  <Initials>Gillian Gopher</Initials>\n</Avatar>;\n","icon":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { Avatar } from \"@mittwald/flow-react-components/Avatar\";\n\n<Avatar>\n  <IconHome />\n</Avatar>;\n","image":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Image from \"@mittwald/flow-react-components/Image\";\n\n<Avatar>\n  <Image\n    alt=\"Gopher\"\n    src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  />\n</Avatar>;\n","sizes":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Row>\n  <Avatar size=\"xs\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"s\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"m\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"l\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n</Row>;\n"},"slugs":["02-components","content","avatar"],"filename":"02-components/content/avatar/index.mdx"},{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<Heading>This is a heading</Heading>;\n","icon":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport { IconMember } from \"@mittwald/flow-react-components/Icons\";\n\n<Heading>\n  <IconMember />\n  Personal Information\n</Heading>;\n","levels":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<>\n  <Heading level={1}>This is a level 1 heading</Heading>\n  <Heading level={2}>This is a level 2 heading</Heading>\n  <Heading level={3}>This is a level 3 heading</Heading>\n  <Heading level={4}>This is a level 4 heading</Heading>\n  <Heading level={5}>This is a level 5 heading</Heading>\n</>;\n"},"slugs":["02-components","content","heading"],"filename":"02-components/content/heading/index.mdx"},{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"coloring":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome\n  style={{ color: \"var(--primary--color--800)\" }}\n/>;\n","default":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome />;\n","sizes":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","svg-string":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n() => {\n  const svgString = `\\\n    <svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"50\" cy=\"50\" r=\"50\" />\n    </svg>\n  `;\n\n  return <Icon>{svgString}</Icon>;\n};\n","svg":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import Icon from \"@mittwald/flow-react-components/Icon\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"},"slugs":["02-components","content","icon"],"filename":"02-components/content/icon/index.mdx"},{"mdxSource":{"compiledSource":"$13","frontmatter":{},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n/>;\n"},"slugs":["02-components","content","image"],"filename":"02-components/content/image/index.mdx"},{"mdxSource":{"compiledSource":"$14","frontmatter":{},"scope":{}},"examples":{"default":"import Text from \"@mittwald/flow-react-components/Text\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\n\n<Text>\n  Enter <InlineCode>yarn start</InlineCode> to start your\n  app.\n</Text>;\n"},"slugs":["02-components","content","inline-code"],"filename":"02-components/content/inline-code/index.mdx"},{"mdxSource":{"compiledSource":"$15","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\n\n<Label>This is a label</Label>;\n"},"slugs":["02-components","content","label"],"filename":"02-components/content/label/index.mdx"},{"mdxSource":{"compiledSource":"$16","frontmatter":{},"scope":{}},"examples":{"copy-button":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>Project ID</Label>\n  <Content>p-eWRhpRV</Content>\n  <CopyButton text=\"Project ID: p-eWRhpRV\" />\n</LabeledValue>;\n","default":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<LabeledValue>\n  <Label>Storage</Label>\n  <Content>20 GB</Content>\n</LabeledValue>;\n","inline-code":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>IP address</Label>\n  <InlineCode>127.0.0.1</InlineCode>\n  <CopyButton text=\"127.0.0.1\" />\n</LabeledValue>;\n","link":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Link from \"@mittwald/flow-react-components/Link\";\n\n<LabeledValue>\n  <Label>Domain</Label>\n  <Link>https://mittwald.de</Link>\n</LabeledValue>;\n"},"slugs":["02-components","content","labeled-value"],"filename":"02-components/content/labeled-value/index.mdx"},{"mdxSource":{"compiledSource":"$17","frontmatter":{},"scope":{}},"examples":{"default":"import Checkbox from \"@mittwald/flow-react-components/Checkbox\";\n\n<Checkbox>Activate spam protection</Checkbox>;\n"},"slugs":["02-components","form-controls","checkbox"],"filename":"02-components/form-controls/checkbox/index.mdx"},{"mdxSource":{"compiledSource":"$18","frontmatter":{},"scope":{}},"examples":{"default":"import NumberField from \"@mittwald/flow-react-components/NumberField\";\n\n<NumberField defaultValue={5} minValue={0} maxValue={10} />;\n"},"slugs":["02-components","form-controls","number-field"],"filename":"02-components/form-controls/number-field/index.mdx"},{"mdxSource":{"compiledSource":"$19","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport RadioGroup, {\n  Radio,\n} from \"@mittwald/flow-react-components/RadioGroup\";\n\n<RadioGroup defaultValue=\"admin\">\n  <Label>Role</Label>\n  <Radio value=\"admin\">Admin</Radio>\n  <Radio value=\"member\">Member</Radio>\n  <Radio value=\"accountant\">Accountant</Radio>\n</RadioGroup>;\n"},"slugs":["02-components","form-controls","radio-group"],"filename":"02-components/form-controls/radio-group/index.mdx"},{"mdxSource":{"compiledSource":"$1a","frontmatter":{},"scope":{}},"examples":{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"},"slugs":["02-components","form-controls","switch"],"filename":"02-components/form-controls/switch/index.mdx"},{"mdxSource":{"compiledSource":"$1b","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\nimport TextArea from \"@mittwald/flow-react-components/TextArea\";\n\n<TextArea>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextArea>;\n"},"slugs":["02-components","form-controls","text-area"],"filename":"02-components/form-controls/text-area/index.mdx"},{"mdxSource":{"compiledSource":"$1c","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\n\n<TextField>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextField>;\n"},"slugs":["02-components","form-controls","text-field"],"filename":"02-components/form-controls/text-field/index.mdx"},{"mdxSource":{"compiledSource":"$1d","frontmatter":{},"scope":{}},"examples":{"default":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\">This is a link</Link>;\n","inline":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link inline href=\"#\">\n  Inline link\n</Link>;\n","inlineText":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\n\n<Text>\n  Check our <Link href=\"#\">onboarding</Link> for more\n  information.\n</Text>;\n"},"slugs":["02-components","navigation","link"],"filename":"02-components/navigation/link/index.mdx"},{"mdxSource":{"compiledSource":"$1e","frontmatter":{},"scope":{}},"examples":{"default":"import Navigation, {\n  NavigationItem,\n} from \"@mittwald/flow-react-components/Navigation\";\n\n<Navigation aria-label=\"Companies\">\n  <NavigationItem href=\"https://www.apple.com\">\n    Apple\n  </NavigationItem>\n  <NavigationItem href=\"https://www.mittwald.de\" isCurrent>\n    mittwald\n  </NavigationItem>\n  <NavigationItem href=\"https://www.adobe.com\">\n    Adobe\n  </NavigationItem>\n  <NavigationItem href=\"https://www.google.com\">\n    Google\n  </NavigationItem>\n</Navigation>;\n","icons":"import Navigation, {\n  NavigationItem,\n} from \"@mittwald/flow-react-components/Navigation\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport {\n  IconCustomer,\n  IconProject,\n  IconServer,\n} from \"@mittwald/flow-react-components/Icons\";\n\n<Navigation aria-label=\"Main menu\">\n  <NavigationItem>\n    <IconCustomer />\n    <Text>Customer</Text>\n  </NavigationItem>\n  <NavigationItem isCurrent>\n    <IconServer />\n    <Text>Server</Text>\n  </NavigationItem>\n  <NavigationItem>\n    <IconProject />\n    <Text>Project</Text>\n  </NavigationItem>\n</Navigation>;\n"},"slugs":["02-components","navigation","navigation"],"filename":"02-components/navigation/navigation/index.mdx"},{"mdxSource":{"compiledSource":"$1f","frontmatter":{},"scope":{}},"examples":{"default":"import Tooltip, {\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components/Tooltip\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport { IconCopy } from \"@mittwald/flow-react-components/Icons\";\n\n<TooltipTrigger>\n  <Button aria-label=\"save\">\n    <IconCopy />\n  </Button>\n  <Tooltip>Save</Tooltip>\n</TooltipTrigger>;\n"},"slugs":["02-components","overlays","tooltip"],"filename":"02-components/overlays/tooltip/index.mdx"},{"mdxSource":{"compiledSource":"$20","frontmatter":{},"scope":{}},"examples":{"default":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n</InlineAlert>;\n","status":"$21","with-content":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n  <Content>\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </Content>\n</InlineAlert>;\n"},"slugs":["02-components","status","inline-alert"],"filename":"02-components/status/inline-alert/index.mdx"},{"mdxSource":{"compiledSource":"$22","frontmatter":{},"scope":{}},"examples":{"default":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<StatusBadge>Info</StatusBadge>;\n","status":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<Row>\n  <StatusBadge status=\"info\">Info</StatusBadge>\n  <StatusBadge status=\"success\">Success</StatusBadge>\n  <StatusBadge status=\"warning\">Warning</StatusBadge>\n  <StatusBadge status=\"danger\">Danger</StatusBadge>\n</Row>;\n"},"slugs":["02-components","status","status-badge"],"filename":"02-components/status/status-badge/index.mdx"},{"mdxSource":{"compiledSource":"$23","frontmatter":{},"scope":{}},"examples":{"default":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<StatusIcon />;\n","status":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<Row>\n  <StatusIcon status=\"info\" />\n  <StatusIcon status=\"success\" />\n  <StatusIcon status=\"warning\" />\n  <StatusIcon status=\"danger\" />\n</Row>;\n"},"slugs":["02-components","status","status-icon"],"filename":"02-components/status/status-icon/index.mdx"},{"mdxSource":{"compiledSource":"$24","frontmatter":{},"scope":{}},"examples":{"custom-values":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout m={[2, 1]}>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n","default":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout>\n  <TextField>\n    <Label>First name</Label>\n  </TextField>\n  <TextField>\n    <Label>Last name</Label>\n  </TextField>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n"},"slugs":["02-components","structure","column-layout"],"filename":"02-components/structure/column-layout/index.mdx"},{"mdxSource":{"compiledSource":"$25","frontmatter":{},"scope":{}},"examples":{"danger":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder variant=\"danger\">\n  <IconDanger />\n  <Heading>No access</Heading>\n  <Text>\n    You do not have the required permissions to access this\n    page.\n  </Text>\n  <Button>Go back</Button>\n</ContentPlaceholder>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder>\n  <IconApp />\n  <Heading>No apps installed</Heading>\n  <Text>\n    Create your first app to start working on your website.\n  </Text>\n  <Button>Create app</Button>\n</ContentPlaceholder>;\n"},"slugs":["02-components","structure","content-placeholder"],"filename":"02-components/structure/content-placeholder/index.mdx"},{"mdxSource":{"compiledSource":"$26","frontmatter":{},"scope":{}},"examples":{"default":"import LayoutCard from \"@mittwald/flow-react-components/LayoutCard\";\n\n<LayoutCard>\n  Layout Card is a structure element that can contain any\n  content\n</LayoutCard>;\n"},"slugs":["02-components","structure","layout-card"],"filename":"02-components/structure/layout-card/index.mdx"},{"mdxSource":{"compiledSource":"$27","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  List,\n  ListItemView,\n  ListStaticData,\n} from \"@mittwald/flow-react-components/List\";\nimport {\n  type User,\n  users,\n} from \"@/content/02-components/structure/list/examples/userApi\";\n\n<List>\n  <ListStaticData data={users} />\n  <ListItemView<User>>\n    {(user) => (\n      <>\n        {user.name.first} {user.name.last}\n      </>\n    )}\n  </ListItemView>\n</List>;\n"},"slugs":["02-components","structure","list"],"filename":"02-components/structure/list/index.mdx"},{"mdxSource":{"compiledSource":"$28","frontmatter":{},"scope":{}},"examples":{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Link from \"@mittwald/flow-react-components/Link\";\nimport Section from \"@mittwald/flow-react-components/Section\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n  <Link href=\"#\">Subscribe</Link>\n</Section>;\n","multiple":"$29","status-badge":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\nimport Header from \"@mittwald/flow-react-components/Header\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <StatusBadge>Subscribed</StatusBadge>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n","switch":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Header from \"@mittwald/flow-react-components/Header\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Switch>Subscription</Switch>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n"},"slugs":["02-components","structure","section"],"filename":"02-components/structure/section/index.mdx"}]}]]}],["$","div",null,{"className":"layout_center__e1uqg","children":[["$","$L2a",null,{"className":"layout_nav__ZiJaj","children":["$","$L2b",null,{"docs":[{"mdxSource":"$2c","examples":"$30","slugs":"$31","filename":"01-getting-started/installation/index.mdx"},{"mdxSource":"$32","examples":"$36","slugs":"$37","filename":"01-getting-started/stylesheet/index.mdx"},{"mdxSource":"$38","examples":"$3c","slugs":"$3d","filename":"02-components/actions/button/index.mdx"},{"mdxSource":"$3e","examples":"$42","slugs":"$43","filename":"02-components/actions/copy-button/index.mdx"},{"mdxSource":"$44","examples":"$48","slugs":"$49","filename":"02-components/content/avatar/index.mdx"},{"mdxSource":"$4a","examples":"$4e","slugs":"$4f","filename":"02-components/content/heading/index.mdx"},{"mdxSource":"$50","examples":"$54","slugs":"$55","filename":"02-components/content/icon/index.mdx"},{"mdxSource":"$56","examples":"$5a","slugs":"$5b","filename":"02-components/content/image/index.mdx"},{"mdxSource":"$5c","examples":"$60","slugs":"$61","filename":"02-components/content/inline-code/index.mdx"},{"mdxSource":"$62","examples":"$66","slugs":"$67","filename":"02-components/content/label/index.mdx"},{"mdxSource":"$68","examples":"$6c","slugs":"$6d","filename":"02-components/content/labeled-value/index.mdx"},{"mdxSource":"$6e","examples":"$72","slugs":"$73","filename":"02-components/form-controls/checkbox/index.mdx"},{"mdxSource":"$74","examples":"$78","slugs":"$79","filename":"02-components/form-controls/number-field/index.mdx"},{"mdxSource":"$7a","examples":"$7e","slugs":"$7f","filename":"02-components/form-controls/radio-group/index.mdx"},{"mdxSource":"$80","examples":"$84","slugs":"$85","filename":"02-components/form-controls/switch/index.mdx"},{"mdxSource":"$86","examples":"$8a","slugs":"$8b","filename":"02-components/form-controls/text-area/index.mdx"},{"mdxSource":"$8c","examples":"$90","slugs":"$91","filename":"02-components/form-controls/text-field/index.mdx"},{"mdxSource":"$92","examples":"$96","slugs":"$97","filename":"02-components/navigation/link/index.mdx"},{"mdxSource":"$98","examples":"$9c","slugs":"$9d","filename":"02-components/navigation/navigation/index.mdx"},{"mdxSource":"$9e","examples":"$a2","slugs":"$a3","filename":"02-components/overlays/tooltip/index.mdx"},{"mdxSource":"$a4","examples":"$a8","slugs":"$aa","filename":"02-components/status/inline-alert/index.mdx"},{"mdxSource":"$ab","examples":"$af","slugs":"$b0","filename":"02-components/status/status-badge/index.mdx"},{"mdxSource":"$b1","examples":"$b5","slugs":"$b6","filename":"02-components/status/status-icon/index.mdx"},{"mdxSource":"$b7","examples":"$bb","slugs":"$bc","filename":"02-components/structure/column-layout/index.mdx"},{"mdxSource":"$bd","examples":"$c1","slugs":"$c2","filename":"02-components/structure/content-placeholder/index.mdx"},{"mdxSource":"$c3","examples":"$c7","slugs":"$c8","filename":"02-components/structure/layout-card/index.mdx"},{"mdxSource":"$c9","examples":"$cd","slugs":"$ce","filename":"02-components/structure/list/index.mdx"},{"mdxSource":"$cf","examples":"$d3","slugs":"$d5","filename":"02-components/structure/section/index.mdx"}]}]}],["$","$L2a",null,{"elementType":"main","className":"layout_main__30FUz","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]]}]}]}]
-d7:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
+fc:{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Link from \"@mittwald/flow-react-components/Link\";\nimport Section from \"@mittwald/flow-react-components/Section\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n  <Link href=\"#\">Subscribe</Link>\n</Section>;\n","multiple":"$fd","status-badge":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\nimport Header from \"@mittwald/flow-react-components/Header\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <StatusBadge>Subscribed</StatusBadge>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n","switch":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Header from \"@mittwald/flow-react-components/Header\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Switch>Subscription</Switch>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n"}
+fe:["02-components","structure","section"]
+6:["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flow layout_body__oiEIT","children":["$","$L8",null,{"children":[["$","header",null,{"className":"layout_header__ttTk7","children":[["$","$L9",null,{"level":1,"className":"$undefined","children":"Flow – mittwald Design System"}],["$","$La",null,{"className":"layout_betaBadge__Rtyuk","status":"warning","children":"beta"}],["$","$Lb",null,{"docs":[{"mdxSource":{"compiledSource":"$c","frontmatter":{"description":"Welcome to the Flow documentation!"},"scope":{}},"examples":{},"slugs":["01-getting-started","installation"],"filename":"01-getting-started/installation/index.mdx"},{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"composition":"import ExampleSvg from \"@/content/01-getting-started/stylesheet/examples/components/ExampleSvg\";\n\n<aside className=\"flow--inline-alert flow--inline-alert--info\">\n  <ExampleSvg className=\"flow--icon flow--inline-alert--status-icon\" />\n  <h3 className=\"flow--heading flow--inline-alert--heading\">\n    Email address has been archived\n  </h3>\n  <div className=\"flow--inline-alert--content\">\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </div>\n</aside>;\n","multiple-variants":"<button className=\"flow--button flow--button--primary flow--button--size-s\">\n  Small primary button\n</button>;\n","variants":"<button className=\"flow--button flow--button--primary\">\n  Primary button\n</button>;\n"},"slugs":["01-getting-started","stylesheet"],"filename":"01-getting-started/stylesheet/index.mdx"},{"mdxSource":{"compiledSource":"$e","frontmatter":{"title":"Action"},"scope":{}},"examples":{"default":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleep } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleep}>\n  <Button>Save</Button>\n</Action>;\n","feedback":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleep } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleep} feedback>\n  <Button>Save</Button>\n</Action>;\n","longAction":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Action } from \"@mittwald/flow-react-components/Action\";\nimport { sleepLong } from \"@/content/02-components/actions/action/examples/lib\";\n\n<Action action={sleepLong}>\n  <Button>Save</Button>\n</Action>;\n"},"slugs":["02-components","actions","action"],"filename":"02-components/actions/action/index.mdx"},{"mdxSource":{"compiledSource":"$f","frontmatter":{"title":"Button","menuGroup":"Getting started"},"scope":{}},"examples":{"default":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button>Continue/Action</Button>;\n","icon":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Button aria-label=\"Star item\">\n  <IconHome />\n</Button>;\n","iconText":"import Button from \"@mittwald/flow-react-components/Button\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\nimport { IconChevronDown } from \"@mittwald/flow-react-components/Icons\";\n\n<Button>\n  <Text>Add email address</Text>\n  <IconChevronDown />\n</Button>;\n","plain":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"plain\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"plain\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"plain\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"plain\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","small":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Button size=\"s\">Continue/Action</Button>;\n","soft":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button style=\"soft\" variant=\"primary\">\n    Continue/Action\n  </Button>\n  <Button style=\"soft\" variant=\"secondary\">\n    Abort/Back\n  </Button>\n  <Button style=\"soft\" variant=\"accent\">\n    Create/Save\n  </Button>\n  <Button style=\"soft\" variant=\"danger\">\n    Delete/Terminate\n  </Button>\n</Row>;\n","states":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button isDisabled>Continue/Action</Button>\n  <Button isPending>Continue/Action</Button>\n  <Button isSucceeded>Continue/Action</Button>\n  <Button isFailed>Continue/Action</Button>\n</Row>;\n","variants":"import Button from \"@mittwald/flow-react-components/Button\";\n\n<Row>\n  <Button variant=\"primary\">Continue/Action</Button>\n  <Button variant=\"secondary\">Abort/Back</Button>\n  <Button variant=\"accent\">Create/Save</Button>\n  <Button variant=\"danger\">Delete/Terminate</Button>\n</Row>;\n"},"slugs":["02-components","actions","button"],"filename":"02-components/actions/button/index.mdx"},{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"default":"import ContextMenu, {\n  ContextMenuItem,\n  ContextMenuTrigger,\n} from \"@mittwald/flow-react-components/ContextMenu\";\nimport { Button } from \"@mittwald/flow-react-components/Button\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuItem>Item 1</ContextMenuItem>\n    <ContextMenuItem>Item 2</ContextMenuItem>\n    <ContextMenuItem>Item 3</ContextMenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n"},"slugs":["02-components","actions","context-menu"],"filename":"02-components/actions/context-menu/index.mdx"},{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"default":"import { CopyButton } from \"@mittwald/flow-react-components/CopyButton\";\n\n<CopyButton text=\"Copied content\" />;\n"},"slugs":["02-components","actions","copy-button"],"filename":"02-components/actions/copy-button/index.mdx"},{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"additionalSecondary":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"secondary\" style=\"soft\">\n    Save and add more\n  </Button>\n  <Button variant=\"accent\">Add email address</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","danger":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"danger\">Delete project</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","default":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button variant=\"accent\">Create customer</Button>\n  <Button variant=\"secondary\" style=\"soft\">\n    Abort\n  </Button>\n</ButtonGroup>;\n","info":"import ButtonGroup from \"@mittwald/flow-react-components/ButtonGroup\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ButtonGroup>\n  <Button>Ok</Button>\n</ButtonGroup>;\n"},"slugs":["02-components","button-group"],"filename":"02-components/button-group/index.mdx"},{"mdxSource":{"compiledSource":"$13","frontmatter":{},"scope":{}},"examples":{"colors":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\nimport { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { IconCustomer } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <Avatar>\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gustav Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gina-Lisa Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <Initials>Gorgio Gopher</Initials>\n  </Avatar>\n  <Avatar>\n    <IconHome />\n  </Avatar>\n  <Avatar>\n    <IconCustomer />\n  </Avatar>\n</Row>;\n","default":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Avatar>\n  <Initials>Gillian Gopher</Initials>\n</Avatar>;\n","icon":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\nimport { Avatar } from \"@mittwald/flow-react-components/Avatar\";\n\n<Avatar>\n  <IconHome />\n</Avatar>;\n","image":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Image from \"@mittwald/flow-react-components/Image\";\n\n<Avatar>\n  <Image\n    alt=\"Gopher\"\n    src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  />\n</Avatar>;\n","sizes":"import Avatar from \"@mittwald/flow-react-components/Avatar\";\nimport Initials from \"@mittwald/flow-react-components/Initials\";\n\n<Row>\n  <Avatar size=\"xs\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"s\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"m\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n  <Avatar size=\"l\">\n    <Initials>Gillian Gopher</Initials>\n  </Avatar>\n</Row>;\n"},"slugs":["02-components","content","avatar"],"filename":"02-components/content/avatar/index.mdx"},{"mdxSource":{"compiledSource":"$14","frontmatter":{},"scope":{}},"examples":{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<Heading>This is a heading</Heading>;\n","icon":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport { IconMember } from \"@mittwald/flow-react-components/Icons\";\n\n<Heading>\n  <IconMember />\n  Personal Information\n</Heading>;\n","levels":"import Heading from \"@mittwald/flow-react-components/Heading\";\n\n<>\n  <Heading level={1}>This is a level 1 heading</Heading>\n  <Heading level={2}>This is a level 2 heading</Heading>\n  <Heading level={3}>This is a level 3 heading</Heading>\n  <Heading level={4}>This is a level 4 heading</Heading>\n  <Heading level={5}>This is a level 5 heading</Heading>\n</>;\n"},"slugs":["02-components","content","heading"],"filename":"02-components/content/heading/index.mdx"},{"mdxSource":{"compiledSource":"$15","frontmatter":{},"scope":{}},"examples":{"coloring":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome\n  style={{ color: \"var(--primary--color--800)\" }}\n/>;\n","default":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome />;\n","sizes":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","svg-string":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n() => {\n  const svgString = `\\\n    <svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"50\" cy=\"50\" r=\"50\" />\n    </svg>\n  `;\n\n  return <Icon>{svgString}</Icon>;\n};\n","svg":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import Icon from \"@mittwald/flow-react-components/Icon\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"},"slugs":["02-components","content","icon"],"filename":"02-components/content/icon/index.mdx"},{"mdxSource":{"compiledSource":"$16","frontmatter":{},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n/>;\n"},"slugs":["02-components","content","image"],"filename":"02-components/content/image/index.mdx"},{"mdxSource":{"compiledSource":"$17","frontmatter":{},"scope":{}},"examples":{"default":"import Text from \"@mittwald/flow-react-components/Text\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\n\n<Text>\n  Enter <InlineCode>yarn start</InlineCode> to start your\n  app.\n</Text>;\n"},"slugs":["02-components","content","inline-code"],"filename":"02-components/content/inline-code/index.mdx"},{"mdxSource":{"compiledSource":"$18","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\n\n<Label>This is a label</Label>;\n"},"slugs":["02-components","content","label"],"filename":"02-components/content/label/index.mdx"},{"mdxSource":{"compiledSource":"$19","frontmatter":{},"scope":{}},"examples":{"copy-button":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>Project ID</Label>\n  <Content>p-eWRhpRV</Content>\n  <CopyButton text=\"Project ID: p-eWRhpRV\" />\n</LabeledValue>;\n","default":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<LabeledValue>\n  <Label>Storage</Label>\n  <Content>20 GB</Content>\n</LabeledValue>;\n","inline-code":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport InlineCode from \"@mittwald/flow-react-components/InlineCode\";\nimport CopyButton from \"@mittwald/flow-react-components/CopyButton\";\n\n<LabeledValue>\n  <Label>IP address</Label>\n  <InlineCode>127.0.0.1</InlineCode>\n  <CopyButton text=\"127.0.0.1\" />\n</LabeledValue>;\n","link":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport Link from \"@mittwald/flow-react-components/Link\";\n\n<LabeledValue>\n  <Label>Domain</Label>\n  <Link>https://mittwald.de</Link>\n</LabeledValue>;\n"},"slugs":["02-components","content","labeled-value"],"filename":"02-components/content/labeled-value/index.mdx"},{"mdxSource":{"compiledSource":"$1a","frontmatter":{},"scope":{}},"examples":{"default":"import Checkbox from \"@mittwald/flow-react-components/Checkbox\";\n\n<Checkbox>Activate spam protection</Checkbox>;\n"},"slugs":["02-components","form-controls","checkbox"],"filename":"02-components/form-controls/checkbox/index.mdx"},{"mdxSource":{"compiledSource":"$1b","frontmatter":{},"scope":{}},"examples":{"default":"import NumberField from \"@mittwald/flow-react-components/NumberField\";\n\n<NumberField defaultValue={5} minValue={0} maxValue={10} />;\n"},"slugs":["02-components","form-controls","number-field"],"filename":"02-components/form-controls/number-field/index.mdx"},{"mdxSource":{"compiledSource":"$1c","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport RadioGroup, {\n  Radio,\n} from \"@mittwald/flow-react-components/RadioGroup\";\n\n<RadioGroup defaultValue=\"admin\">\n  <Label>Role</Label>\n  <Radio value=\"admin\">Admin</Radio>\n  <Radio value=\"member\">Member</Radio>\n  <Radio value=\"accountant\">Accountant</Radio>\n</RadioGroup>;\n"},"slugs":["02-components","form-controls","radio-group"],"filename":"02-components/form-controls/radio-group/index.mdx"},{"mdxSource":{"compiledSource":"$1d","frontmatter":{},"scope":{}},"examples":{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"},"slugs":["02-components","form-controls","switch"],"filename":"02-components/form-controls/switch/index.mdx"},{"mdxSource":{"compiledSource":"$1e","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\nimport TextArea from \"@mittwald/flow-react-components/TextArea\";\n\n<TextArea>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextArea>;\n"},"slugs":["02-components","form-controls","text-area"],"filename":"02-components/form-controls/text-area/index.mdx"},{"mdxSource":{"compiledSource":"$1f","frontmatter":{},"scope":{}},"examples":{"default":"import Label from \"@mittwald/flow-react-components/Label\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport FieldDescription from \"@mittwald/flow-react-components/FieldDescription\";\n\n<TextField>\n  <Label>URL</Label>\n  <FieldDescription>Start with https://</FieldDescription>\n</TextField>;\n"},"slugs":["02-components","form-controls","text-field"],"filename":"02-components/form-controls/text-field/index.mdx"},{"mdxSource":{"compiledSource":"$20","frontmatter":{},"scope":{}},"examples":{"default":"import { Breadcrumb } from \"@mittwald/flow-react-components/Breadcrumb\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Breadcrumb>\n  <Link href=\"#\">Project</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">App</Link>\n</Breadcrumb>;\n"},"slugs":["02-components","navigation","breadcrumb"],"filename":"02-components/navigation/breadcrumb/index.mdx"},{"mdxSource":{"compiledSource":"$21","frontmatter":{},"scope":{}},"examples":{"danger":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\" variant=\"danger\">\n  Delete project\n</Link>;\n","default":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link href=\"#\">Adjust project</Link>;\n","icon":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { IconExternalLink } from \"@mittwald/flow-react-components/Icons\";\n\n<Link href=\"https://mittwald.de\">\n  mittwald.de\n  <IconExternalLink aria-label=\"external link\" />\n</Link>;\n","inline":"import Link from \"@mittwald/flow-react-components/Link\";\n\n<Link inline href=\"#\">\n  Inline link\n</Link>;\n","inlineText":"import Link from \"@mittwald/flow-react-components/Link\";\nimport { Text } from \"@mittwald/flow-react-components/Text\";\n\n<Text>\n  Check our <Link href=\"#\">onboarding</Link> for more\n  information.\n</Text>;\n"},"slugs":["02-components","navigation","link"],"filename":"02-components/navigation/link/index.mdx"},{"mdxSource":{"compiledSource":"$22","frontmatter":{},"scope":{}},"examples":{"default":"import Navigation from \"@mittwald/flow-react-components/Navigation\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Companies\">\n  <Link href=\"https://www.apple.com\">Apple</Link>\n  <Link href=\"https://www.mittwald.de\" aria-current=\"page\">\n    mittwald\n  </Link>\n  <Link href=\"https://www.adobe.com\">Adobe</Link>\n  <Link href=\"https://www.google.com\">Google</Link>\n</Navigation>;\n","groups":"import Navigation, {\n  NavigationGroup,\n} from \"@mittwald/flow-react-components/Navigation\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Main navigation\">\n  <Heading>General</Heading>\n  <NavigationGroup>\n    <Link href=\"#\">Dashboard</Link>\n    <Link href=\"#\" aria-current=\"page\">\n      Performance\n    </Link>\n  </NavigationGroup>\n  <Heading>Components</Heading>\n  <NavigationGroup>\n    <Link href=\"#\">Apps</Link>\n    <Link href=\"#\">Databases</Link>\n    <Link href=\"#\">Domains</Link>\n  </NavigationGroup>\n</Navigation>;\n","icons":"import Navigation from \"@mittwald/flow-react-components/Navigation\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport {\n  IconCustomer,\n  IconProject,\n  IconServer,\n} from \"@mittwald/flow-react-components/Icons\";\nimport { Link } from \"@mittwald/flow-react-components/Link\";\n\n<Navigation aria-label=\"Main menu\">\n  <Link>\n    <IconCustomer />\n    <Text>Customer</Text>\n  </Link>\n  <Link aria-current=\"page\">\n    <IconServer />\n    <Text>Server</Text>\n  </Link>\n  <Link>\n    <IconProject />\n    <Text>Project</Text>\n  </Link>\n</Navigation>;\n"},"slugs":["02-components","navigation","navigation"],"filename":"02-components/navigation/navigation/index.mdx"},{"mdxSource":{"compiledSource":"$23","frontmatter":{},"scope":{}},"examples":{"default":"$24"},"slugs":["02-components","overlays","modal"],"filename":"02-components/overlays/modal/index.mdx"},{"mdxSource":{"compiledSource":"$25","frontmatter":{},"scope":{}},"examples":{"default":"import Tooltip, {\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components/Tooltip\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport { IconCopy } from \"@mittwald/flow-react-components/Icons\";\n\n<TooltipTrigger>\n  <Button aria-label=\"save\">\n    <IconCopy />\n  </Button>\n  <Tooltip>Save</Tooltip>\n</TooltipTrigger>;\n"},"slugs":["02-components","overlays","tooltip"],"filename":"02-components/overlays/tooltip/index.mdx"},{"mdxSource":{"compiledSource":"$26","frontmatter":{},"scope":{}},"examples":{"default":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n</InlineAlert>;\n","status":"$27","with-content":"import InlineAlert from \"@mittwald/flow-react-components/InlineAlert\";\nimport Heading from \"@mittwald/flow-react-components/Heading\";\nimport Content from \"@mittwald/flow-react-components/Content\";\n\n<InlineAlert>\n  <Heading>Email address has been archived</Heading>\n  <Content>\n    As your domain has been deleted, this email address has\n    been archived. To be able to send and receive emails,\n    you must rename the address.\n  </Content>\n</InlineAlert>;\n"},"slugs":["02-components","status","inline-alert"],"filename":"02-components/status/inline-alert/index.mdx"},{"mdxSource":{"compiledSource":"$28","frontmatter":{},"scope":{}},"examples":{"default":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<StatusBadge>Info</StatusBadge>;\n","status":"import StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\n\n<Row>\n  <StatusBadge status=\"info\">Info</StatusBadge>\n  <StatusBadge status=\"success\">Success</StatusBadge>\n  <StatusBadge status=\"warning\">Warning</StatusBadge>\n  <StatusBadge status=\"danger\">Danger</StatusBadge>\n</Row>;\n"},"slugs":["02-components","status","status-badge"],"filename":"02-components/status/status-badge/index.mdx"},{"mdxSource":{"compiledSource":"$29","frontmatter":{},"scope":{}},"examples":{"default":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<StatusIcon />;\n","status":"import StatusIcon from \"@mittwald/flow-react-components/StatusIcon\";\n\n<Row>\n  <StatusIcon status=\"info\" />\n  <StatusIcon status=\"success\" />\n  <StatusIcon status=\"warning\" />\n  <StatusIcon status=\"danger\" />\n</Row>;\n"},"slugs":["02-components","status","status-icon"],"filename":"02-components/status/status-icon/index.mdx"},{"mdxSource":{"compiledSource":"$2a","frontmatter":{},"scope":{}},"examples":{"custom-values":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout m={[2, 1]}>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n","default":"import ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport TextField from \"@mittwald/flow-react-components/TextField\";\nimport Label from \"@mittwald/flow-react-components/Label\";\n\n<ColumnLayout>\n  <TextField>\n    <Label>First name</Label>\n  </TextField>\n  <TextField>\n    <Label>Last name</Label>\n  </TextField>\n  <TextField>\n    <Label>Street</Label>\n  </TextField>\n  <TextField>\n    <Label>House number</Label>\n  </TextField>\n</ColumnLayout>;\n"},"slugs":["02-components","structure","column-layout"],"filename":"02-components/structure/column-layout/index.mdx"},{"mdxSource":{"compiledSource":"$2b","frontmatter":{},"scope":{}},"examples":{"danger":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder variant=\"danger\">\n  <IconDanger />\n  <Heading>No access</Heading>\n  <Text>\n    You do not have the required permissions to access this\n    page.\n  </Text>\n  <Button>Go back</Button>\n</ContentPlaceholder>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport ContentPlaceholder from \"@mittwald/flow-react-components/ContentPlaceholder\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<ContentPlaceholder>\n  <IconApp />\n  <Heading>No apps installed</Heading>\n  <Text>\n    Create your first app to start working on your website.\n  </Text>\n  <Button>Create app</Button>\n</ContentPlaceholder>;\n"},"slugs":["02-components","structure","content-placeholder"],"filename":"02-components/structure/content-placeholder/index.mdx"},{"mdxSource":{"compiledSource":"$2c","frontmatter":{},"scope":{}},"examples":{"default":"import LayoutCard from \"@mittwald/flow-react-components/LayoutCard\";\n\n<LayoutCard>\n  Layout Card is a structure element that can contain any\n  content\n</LayoutCard>;\n"},"slugs":["02-components","structure","layout-card"],"filename":"02-components/structure/layout-card/index.mdx"},{"mdxSource":{"compiledSource":"$2d","frontmatter":{},"scope":{}},"examples":{"default":"$2e","withLink":"$2f"},"slugs":["02-components","structure","list"],"filename":"02-components/structure/list/index.mdx"},{"mdxSource":{"compiledSource":"$30","frontmatter":{},"scope":{}},"examples":{"default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Link from \"@mittwald/flow-react-components/Link\";\nimport Section from \"@mittwald/flow-react-components/Section\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n  <Link href=\"#\">Subscribe</Link>\n</Section>;\n","multiple":"$31","status-badge":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport StatusBadge from \"@mittwald/flow-react-components/StatusBadge\";\nimport Header from \"@mittwald/flow-react-components/Header\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <StatusBadge>Subscribed</StatusBadge>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n","switch":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport Header from \"@mittwald/flow-react-components/Header\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Section from \"@mittwald/flow-react-components/Section\";\nimport Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Switch>Subscription</Switch>\n  </Header>\n  <Text>\n    Upcoming releases, new features and tips about your\n    hosting - we bring the most important information to\n    inbox. Subscribe to our newsletter and stay up to date.\n  </Text>\n</Section>;\n"},"slugs":["02-components","structure","section"],"filename":"02-components/structure/section/index.mdx"}]}]]}],["$","div",null,{"className":"layout_center__e1uqg","children":[["$","$L32",null,{"className":"layout_nav__ZiJaj","children":["$","$L33",null,{"docs":[{"mdxSource":"$34","examples":"$38","slugs":"$39","filename":"01-getting-started/installation/index.mdx"},{"mdxSource":"$3a","examples":"$3e","slugs":"$3f","filename":"01-getting-started/stylesheet/index.mdx"},{"mdxSource":"$40","examples":"$44","slugs":"$45","filename":"02-components/actions/action/index.mdx"},{"mdxSource":"$46","examples":"$4a","slugs":"$4b","filename":"02-components/actions/button/index.mdx"},{"mdxSource":"$4c","examples":"$50","slugs":"$51","filename":"02-components/actions/context-menu/index.mdx"},{"mdxSource":"$52","examples":"$56","slugs":"$57","filename":"02-components/actions/copy-button/index.mdx"},{"mdxSource":"$58","examples":"$5c","slugs":"$5d","filename":"02-components/button-group/index.mdx"},{"mdxSource":"$5e","examples":"$62","slugs":"$63","filename":"02-components/content/avatar/index.mdx"},{"mdxSource":"$64","examples":"$68","slugs":"$69","filename":"02-components/content/heading/index.mdx"},{"mdxSource":"$6a","examples":"$6e","slugs":"$6f","filename":"02-components/content/icon/index.mdx"},{"mdxSource":"$70","examples":"$74","slugs":"$75","filename":"02-components/content/image/index.mdx"},{"mdxSource":"$76","examples":"$7a","slugs":"$7b","filename":"02-components/content/inline-code/index.mdx"},{"mdxSource":"$7c","examples":"$80","slugs":"$81","filename":"02-components/content/label/index.mdx"},{"mdxSource":"$82","examples":"$86","slugs":"$87","filename":"02-components/content/labeled-value/index.mdx"},{"mdxSource":"$88","examples":"$8c","slugs":"$8d","filename":"02-components/form-controls/checkbox/index.mdx"},{"mdxSource":"$8e","examples":"$92","slugs":"$93","filename":"02-components/form-controls/number-field/index.mdx"},{"mdxSource":"$94","examples":"$98","slugs":"$99","filename":"02-components/form-controls/radio-group/index.mdx"},{"mdxSource":"$9a","examples":"$9e","slugs":"$9f","filename":"02-components/form-controls/switch/index.mdx"},{"mdxSource":"$a0","examples":"$a4","slugs":"$a5","filename":"02-components/form-controls/text-area/index.mdx"},{"mdxSource":"$a6","examples":"$aa","slugs":"$ab","filename":"02-components/form-controls/text-field/index.mdx"},{"mdxSource":"$ac","examples":"$b0","slugs":"$b1","filename":"02-components/navigation/breadcrumb/index.mdx"},{"mdxSource":"$b2","examples":"$b6","slugs":"$b7","filename":"02-components/navigation/link/index.mdx"},{"mdxSource":"$b8","examples":"$bc","slugs":"$bd","filename":"02-components/navigation/navigation/index.mdx"},{"mdxSource":"$be","examples":"$c2","slugs":"$c4","filename":"02-components/overlays/modal/index.mdx"},{"mdxSource":"$c5","examples":"$c9","slugs":"$ca","filename":"02-components/overlays/tooltip/index.mdx"},{"mdxSource":"$cb","examples":"$cf","slugs":"$d1","filename":"02-components/status/inline-alert/index.mdx"},{"mdxSource":"$d2","examples":"$d6","slugs":"$d7","filename":"02-components/status/status-badge/index.mdx"},{"mdxSource":"$d8","examples":"$dc","slugs":"$dd","filename":"02-components/status/status-icon/index.mdx"},{"mdxSource":"$de","examples":"$e2","slugs":"$e3","filename":"02-components/structure/column-layout/index.mdx"},{"mdxSource":"$e4","examples":"$e8","slugs":"$e9","filename":"02-components/structure/content-placeholder/index.mdx"},{"mdxSource":"$ea","examples":"$ee","slugs":"$ef","filename":"02-components/structure/layout-card/index.mdx"},{"mdxSource":"$f0","examples":"$f4","slugs":"$f7","filename":"02-components/structure/list/index.mdx"},{"mdxSource":"$f8","examples":"$fc","slugs":"$fe","filename":"02-components/structure/section/index.mdx"}]}]}],["$","$L32",null,{"elementType":"main","className":"layout_main__30FUz","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]]}]}]}]
+100:T52f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -2478,6 +3075,6 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-2:[["$","$L9",null,{"className":"MainContent_heading__Szef0","level":1,"children":"Switch"}],"$undefined",["$","$Ld6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d7","frontmatter":{},"scope":{}},"examples":{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"},"slugs":["02-components","form-controls","switch"],"filename":"02-components/form-controls/switch/index.mdx"}}]]
+2:[["$","$L9",null,{"className":"MainContent_heading__Szef0","level":1,"children":"Switch"}],"$undefined",["$","$Lff",null,{"mdxFile":{"mdxSource":{"compiledSource":"$100","frontmatter":{},"scope":{}},"examples":{"default":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch defaultSelected>Autoresponder</Switch>;\n","disabled":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch isDisabled defaultSelected>\n  Autoresponder\n</Switch>;\n","leading-label":"import Switch from \"@mittwald/flow-react-components/Switch\";\n\n<Switch labelPosition=\"leading\" defaultSelected>\n  Autoresponder\n</Switch>;\n"},"slugs":["02-components","form-controls","switch"],"filename":"02-components/form-controls/switch/index.mdx"}}]]
 7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Switch"}],["$","link","3",{"rel":"icon","href":"/flow-previews/docs/contentPlaceholder/favicon.ico","type":"image/x-icon","sizes":"48x48"}]]
 1:null
