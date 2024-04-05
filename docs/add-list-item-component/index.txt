@@ -1,4 +1,4 @@
-0:["AXEEtcoQoZfnzeMnqShk-",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/ba28ed507d99e6a7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["FkgiLVWVmBDU8XFILAVL1",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/ba28ed507d99e6a7.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
 5:I[3702,["384","static/chunks/3ceb1ae0-5493e37061b4b850.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","771","static/chunks/771-f7c2d33c75fd6fca.js","779","static/chunks/779-e98512a762ae125d.js","185","static/chunks/app/layout-e83be4276f09586c.js"],""]
 6:I[9656,["384","static/chunks/3ceb1ae0-5493e37061b4b850.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","771","static/chunks/771-f7c2d33c75fd6fca.js","720","static/chunks/720-e78053560fc68ab1.js","877","static/chunks/app/%5B...slug%5D/page-fd02cbc53c645c0a.js"],""]
@@ -1401,7 +1401,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-2e:T538,import {
+2e:T620,import {
   List,
   ListFilter,
   ListItemView,
@@ -1423,8 +1423,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListFilter<Domain>
     property="type"
@@ -1444,7 +1445,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -1453,7 +1460,7 @@ import {
     )}
   </ListItemView>
 </List>;
-2f:T4a8,import {
+2f:T590,import {
   List,
   ListItemView,
   ListStaticData,
@@ -1473,8 +1480,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListItemView<Domain>>
     {(domain) => (
@@ -1487,7 +1495,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -3132,7 +3146,7 @@ function _missingMdxReference(id, component) {
 104:{}
 105:{}
 102:{"compiledSource":"$103","frontmatter":"$104","scope":"$105"}
-107:T538,import {
+107:T620,import {
   List,
   ListFilter,
   ListItemView,
@@ -3154,8 +3168,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListFilter<Domain>
     property="type"
@@ -3175,7 +3190,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -3184,7 +3205,7 @@ import {
     )}
   </ListItemView>
 </List>;
-108:T4a8,import {
+108:T590,import {
   List,
   ListItemView,
   ListStaticData,
@@ -3204,8 +3225,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListItemView<Domain>>
     {(domain) => (
@@ -3218,7 +3240,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>

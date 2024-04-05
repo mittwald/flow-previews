@@ -1,7 +1,7 @@
 3:I[4152,[],""]
 5:I[2855,[],""]
 4:["slug","02-components/status/status-badge","c"]
-0:["AXEEtcoQoZfnzeMnqShk-",[[["",{"children":[["slug","02-components/status/status-badge","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"status\",\"status-badge\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/status/status-badge","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/bdac759a726ddbda.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/ba28ed507d99e6a7.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+0:["FkgiLVWVmBDU8XFILAVL1",[[["",{"children":[["slug","02-components/status/status-badge","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"status\",\"status-badge\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/status/status-badge","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/bdac759a726ddbda.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-list-item-component/_next/static/css/ba28ed507d99e6a7.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
 8:I[3702,["384","static/chunks/3ceb1ae0-5493e37061b4b850.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","771","static/chunks/771-f7c2d33c75fd6fca.js","779","static/chunks/779-e98512a762ae125d.js","185","static/chunks/app/layout-e83be4276f09586c.js"],""]
 9:I[9656,["384","static/chunks/3ceb1ae0-5493e37061b4b850.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","771","static/chunks/771-f7c2d33c75fd6fca.js","720","static/chunks/720-e78053560fc68ab1.js","877","static/chunks/app/%5B...slug%5D/page-fd02cbc53c645c0a.js"],""]
 a:I[4009,["384","static/chunks/3ceb1ae0-5493e37061b4b850.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","771","static/chunks/771-f7c2d33c75fd6fca.js","779","static/chunks/779-e98512a762ae125d.js","185","static/chunks/app/layout-e83be4276f09586c.js"],""]
@@ -1402,7 +1402,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-31:T538,import {
+31:T620,import {
   List,
   ListFilter,
   ListItemView,
@@ -1424,8 +1424,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListFilter<Domain>
     property="type"
@@ -1445,7 +1446,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -1454,7 +1461,7 @@ import {
     )}
   </ListItemView>
 </List>;
-32:T4a8,import {
+32:T590,import {
   List,
   ListItemView,
   ListStaticData,
@@ -1474,8 +1481,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListItemView<Domain>>
     {(domain) => (
@@ -1488,7 +1496,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -3133,7 +3147,7 @@ function _missingMdxReference(id, component) {
 107:{}
 108:{}
 105:{"compiledSource":"$106","frontmatter":"$107","scope":"$108"}
-10a:T538,import {
+10a:T620,import {
   List,
   ListFilter,
   ListItemView,
@@ -3155,8 +3169,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListFilter<Domain>
     property="type"
@@ -3176,7 +3191,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
@@ -3185,7 +3206,7 @@ import {
     )}
   </ListItemView>
 </List>;
-10b:T4a8,import {
+10b:T590,import {
   List,
   ListItemView,
   ListStaticData,
@@ -3205,8 +3226,9 @@ import {
   IconDomain,
   IconSubdomain,
 } from "@mittwald/flow-react-components/Icons";
+import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
 
-<List>
+<List batchSize={5}>
   <ListStaticData data={domains} />
   <ListItemView<Domain>>
     {(domain) => (
@@ -3219,7 +3241,13 @@ import {
           )}
         </Avatar>
         <Heading>{domain.hostname}</Heading>
-        <Text>{domain.type}</Text>
+        {domain.verified ? (
+          <Text>{domain.type}</Text>
+        ) : (
+          <StatusBadge status="warning">
+            Not verified
+          </StatusBadge>
+        )}
         <ContextMenu>
           <ContextMenuItem>Show details</ContextMenuItem>
           <ContextMenuItem>Delete</ContextMenuItem>
