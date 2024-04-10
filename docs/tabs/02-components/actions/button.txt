@@ -1,15 +1,15 @@
 3:I[4152,[],""]
 5:I[2855,[],""]
 4:["slug","02-components/actions/button","c"]
-0:["44MRJ7Ce5tuh0Myw0bklX",[[["",{"children":[["slug","02-components/actions/button","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"actions\",\"button\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/actions/button","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/tabs/_next/static/css/83ee23c18339a858.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/tabs/_next/static/css/bfb335451445b4de.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:I[3702,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],""]
-9:I[8219,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],"IconMittwald"]
-a:I[9656,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","317","static/chunks/317-d788632687686fc0.js","935","static/chunks/935-1e1d11353886d8b4.js","535","static/chunks/535-2e758d3461d11f68.js","877","static/chunks/app/%5B...slug%5D/page-b0ad7c1edb6059c9.js"],""]
-b:I[4009,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],""]
-c:I[2652,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],""]
-38:I[1536,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],""]
-39:I[9373,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","317","static/chunks/317-d788632687686fc0.js","276","static/chunks/276-60ea5338adb082c3.js","535","static/chunks/535-2e758d3461d11f68.js","185","static/chunks/app/layout-5765a80fb870337b.js"],""]
-11e:I[3339,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","317","static/chunks/317-d788632687686fc0.js","935","static/chunks/935-1e1d11353886d8b4.js","535","static/chunks/535-2e758d3461d11f68.js","877","static/chunks/app/%5B...slug%5D/page-b0ad7c1edb6059c9.js"],""]
+0:["VA9rOZLIIfn8fo64EdvPi",[[["",{"children":[["slug","02-components/actions/button","c"],{"children":["__PAGE__?{\"slug\":[\"02-components\",\"actions\",\"button\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","02-components/actions/button","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/tabs/_next/static/css/83ee23c18339a858.css","precedence":"next","crossOrigin":""}]]}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/tabs/_next/static/css/a048b3703c93d351.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+8:I[3702,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],""]
+9:I[8219,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],"IconMittwald"]
+a:I[9656,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","209","static/chunks/209-f2cd887dc25eed54.js","935","static/chunks/935-1e1d11353886d8b4.js","535","static/chunks/535-345d15d40e73c529.js","877","static/chunks/app/%5B...slug%5D/page-7e66407f1706a5e7.js"],""]
+b:I[4009,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],""]
+c:I[2652,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],""]
+38:I[1536,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],""]
+39:I[9373,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","209","static/chunks/209-f2cd887dc25eed54.js","276","static/chunks/276-e31dd89e834ed8bc.js","535","static/chunks/535-345d15d40e73c529.js","185","static/chunks/app/layout-675dbd5cf390b0a8.js"],""]
+11e:I[1758,["384","static/chunks/3ceb1ae0-edb2f0eef5a1b78b.js","737","static/chunks/ce067a8a-c54e5a2e40c5a1b5.js","802","static/chunks/d709487a-aec4f99a68400e47.js","209","static/chunks/209-f2cd887dc25eed54.js","935","static/chunks/935-1e1d11353886d8b4.js","535","static/chunks/535-345d15d40e73c529.js","877","static/chunks/app/%5B...slug%5D/page-7e66407f1706a5e7.js"],""]
 d:Tb4f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -1148,11 +1148,10 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-29:T63a,import {
+29:T5db,import {
   Tab,
-  TabPanel,
+  TabTitle,
   Tabs,
-  TabList,
 } from "@mittwald/flow-react-components/Tabs";
 import { Section } from "@mittwald/flow-react-components/Section";
 import { Heading } from "@mittwald/flow-react-components/Heading";
@@ -1164,20 +1163,17 @@ import { Header } from "@mittwald/flow-react-components/Header";
 import { Switch } from "@mittwald/flow-react-components/Switch";
 
 <Tabs>
-  <TabList>
-    <Tab id="general">General</Tab>
-    <Tab id="storage">Storage</Tab>
-    <Tab id="spam">Spam protection</Tab>
-  </TabList>
-  <TabPanel id="general">
+  <Tab>
+    <TabTitle>General</TabTitle>
     <Section>
       <Heading>General</Heading>
       <TextField defaultValue="example@mittwald.de">
         <Label>Mail address</Label>
       </TextField>
     </Section>
-  </TabPanel>
-  <TabPanel id="storage">
+  </Tab>
+  <Tab id="storage">
+    <TabTitle>Storage</TabTitle>
     <Section>
       <Heading>Storage</Heading>
       <LabeledValue>
@@ -1185,8 +1181,9 @@ import { Switch } from "@mittwald/flow-react-components/Switch";
         <Text>2.4 GB</Text>
       </LabeledValue>
     </Section>
-  </TabPanel>
-  <TabPanel id="spam">
+  </Tab>
+  <Tab>
+    <TabTitle>Spam protection</TabTitle>
     <Section>
       <Header>
         <Heading>Spam protection</Heading>
@@ -1198,7 +1195,7 @@ import { Switch } from "@mittwald/flow-react-components/Switch";
         that you always leave spam protection activated.
       </Text>
     </Section>
-  </TabPanel>
+  </Tab>
 </Tabs>;
 2a:T422,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
@@ -3006,11 +3003,10 @@ function _missingMdxReference(id, component) {
 de:{}
 df:{}
 dc:{"compiledSource":"$dd","frontmatter":"$de","scope":"$df"}
-e1:T63a,import {
+e1:T5db,import {
   Tab,
-  TabPanel,
+  TabTitle,
   Tabs,
-  TabList,
 } from "@mittwald/flow-react-components/Tabs";
 import { Section } from "@mittwald/flow-react-components/Section";
 import { Heading } from "@mittwald/flow-react-components/Heading";
@@ -3022,20 +3018,17 @@ import { Header } from "@mittwald/flow-react-components/Header";
 import { Switch } from "@mittwald/flow-react-components/Switch";
 
 <Tabs>
-  <TabList>
-    <Tab id="general">General</Tab>
-    <Tab id="storage">Storage</Tab>
-    <Tab id="spam">Spam protection</Tab>
-  </TabList>
-  <TabPanel id="general">
+  <Tab>
+    <TabTitle>General</TabTitle>
     <Section>
       <Heading>General</Heading>
       <TextField defaultValue="example@mittwald.de">
         <Label>Mail address</Label>
       </TextField>
     </Section>
-  </TabPanel>
-  <TabPanel id="storage">
+  </Tab>
+  <Tab id="storage">
+    <TabTitle>Storage</TabTitle>
     <Section>
       <Heading>Storage</Heading>
       <LabeledValue>
@@ -3043,8 +3036,9 @@ import { Switch } from "@mittwald/flow-react-components/Switch";
         <Text>2.4 GB</Text>
       </LabeledValue>
     </Section>
-  </TabPanel>
-  <TabPanel id="spam">
+  </Tab>
+  <Tab>
+    <TabTitle>Spam protection</TabTitle>
     <Section>
       <Header>
         <Heading>Spam protection</Heading>
@@ -3056,7 +3050,7 @@ import { Switch } from "@mittwald/flow-react-components/Switch";
         that you always leave spam protection activated.
       </Text>
     </Section>
-  </TabPanel>
+  </Tab>
 </Tabs>;
 e0:{"default":"$e1"}
 e2:["02-components","navigation","tabs"]
