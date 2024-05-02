@@ -1,0 +1,6 @@
+import{m as i,S as l,O as n}from"./Default.stories-CV8caNw9.js";import{R as r}from"./index-BwDkhjyp.js";import"./index-kone6XRS.js";import{L as s}from"./Label-BY-lGqJc.js";import"./import-Cu03TQlK.js";import"./flowComponent-DnUs06RV.js";import"./clsx-B-dksMZM.js";import"./index-B8XB3FuZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./real-module-_6R3Ww0Q.js";import"./FormField.module-B5hG92F8.js";import"./IconApp-Bwxw5AuI.js";import"./IconWarning-DFvgIVCz.js";import"./index-DZ09anV6.js";import"./Popover-CCVim2Rm.js";import"./index-ZL6GrJmu.js";import"./FieldDescription-BtqRf5sT.js";import"./index-HBuN0i9E.js";import"./Text-DFvNZx2y.js";import"./index-dhKWstfL.js";const h={...i,title:"Form Controls/Select/Edge Cases"},e={render:p=>r.createElement(l,{...p},r.createElement(s,null,"Label"),Array(20).fill("").map((c,t)=>r.createElement(n,{key:t},"Option ",t+1)))};var o,a,m;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  render: props => <Select {...props}>
+      <Label>Label</Label>
+      {Array(20).fill("").map((value, index) => <Option key={index}>Option {index + 1}</Option>)}
+    </Select>
+}`,...(m=(a=e.parameters)==null?void 0:a.docs)==null?void 0:m.source}}};const j=["Default"];export{e as Default,j as __namedExportsOrder,h as default};

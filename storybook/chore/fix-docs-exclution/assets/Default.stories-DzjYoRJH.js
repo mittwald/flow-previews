@@ -1,0 +1,7 @@
+import{R as r}from"./index-BwDkhjyp.js";import{C as o}from"./CopyButton-VoDc1IHi.js";import"./_commonjsHelpers-BosuxZz1.js";import"./index-Bvj9sSMo.js";import"./Button-BViRxOm6.js";import"./import-Cu03TQlK.js";import"./flowComponent-DnUs06RV.js";import"./clsx-B-dksMZM.js";import"./index-B8XB3FuZ.js";import"./real-module-_6R3Ww0Q.js";import"./IconApp-Bwxw5AuI.js";import"./IconWarning-DFvgIVCz.js";import"./Text-DFvNZx2y.js";import"./index-dhKWstfL.js";import"./index-HBuN0i9E.js";import"./LoadingSpinner-D3tEegIC.js";import"./index--7-EqWng.js";import"./react-children-utilities-CseWD4BL.js";import"./index-BcFq7X7a.js";import"./useSelector-lySlwgFo.js";const b={title:"Actions/CopyButton",component:o,render:c=>r.createElement(o,{...c}),args:{text:"Copied content"},parameters:{controls:{exclude:["text","className"]}}},t={},e={args:{text:r.createElement("span",null,"Text ",r.createElement("span",null,"inside span"))}};var a,s,p;t.parameters={...t.parameters,docs:{...(a=t.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(p=(s=t.parameters)==null?void 0:s.docs)==null?void 0:p.source}}};var m,n,i;e.parameters={...e.parameters,docs:{...(m=e.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    text: <span>
+        Text <span>inside span</span>
+      </span>
+  }
+}`,...(i=(n=e.parameters)==null?void 0:n.docs)==null?void 0:i.source}}};const j=["Default","WithReactNodeText"];export{t as Default,e as WithReactNodeText,j as __namedExportsOrder,b as default};
