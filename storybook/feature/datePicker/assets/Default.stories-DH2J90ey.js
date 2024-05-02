@@ -1,0 +1,9 @@
+import{S as a}from"./index-CiQIuh1V.js";import{R as u}from"./index-BwDkhjyp.js";import{a as b}from"./chunk-MZXVCX43-CM0pFb8Z.js";import"./clsx-B-dksMZM.js";import"./IconApp-_FcSWQQl.js";import"./_commonjsHelpers-BosuxZz1.js";import"./flowComponent-Dglj5cqB.js";import"./index-B8XB3FuZ.js";import"./IconWarning-DZA2CR2B.js";import"./index-BUKT1Mbq.js";import"./Label-Dw5IQixM.js";import"./useLocalizedStringFormatter-BNfLxuDa.js";import"./Label-C1MFjKOK.js";import"./utils-DDqfTkhb.js";import"./filterDOMProps-CeZl_uWj.js";import"./useToggleState-BzPKb0_C.js";import"./useFormReset-Dz9no7wq.js";import"./useFocusable-1hkoevAF.js";import"./usePress-CeNy5sqc.js";import"./useControlledState-C0C-dzuH.js";import"./VisuallyHidden-DuYGmAhQ.js";import"./v4-CQkTLCs1.js";const B={title:"Form Controls/Switch",component:a,args:{onChange:b("onChange"),labelPosition:"trailing"},parameters:{controls:{exclude:["onChange"]}},argTypes:{labelPosition:{control:"inline-radio",options:["trailing","leading"]}},render:g=>u.createElement(a,{...g},"Autoresponder")},r={},o={args:{labelPosition:"leading"}},e={args:{isDisabled:!0}};var t,i,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(s=(i=r.parameters)==null?void 0:i.docs)==null?void 0:s.source}}};var n,m,p;o.parameters={...o.parameters,docs:{...(n=o.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    labelPosition: "leading"
+  }
+}`,...(p=(m=o.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};var c,l,d;e.parameters={...e.parameters,docs:{...(c=e.parameters)==null?void 0:c.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...(d=(l=e.parameters)==null?void 0:l.docs)==null?void 0:d.source}}};const G=["Default","LabelLeading","Disabled"];export{r as Default,e as Disabled,o as LabelLeading,G as __namedExportsOrder,B as default};

@@ -1,0 +1,10 @@
+import{A as o}from"./index-CrcpoVsX.js";import{R as i}from"./index-BwDkhjyp.js";import{m as c,a as r,s as e,b as a}from"./Default.stories-DNPd0w-p.js";import"./flowComponent-Dglj5cqB.js";import"./clsx-B-dksMZM.js";import"./index-B8XB3FuZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./useSelector-Cm3ogMLN.js";import"./index-BhwfpT24.js";import"./Button-Vp9K0Jj0.js";import"./IconApp-_FcSWQQl.js";import"./IconWarning-DZA2CR2B.js";import"./Text-CME0CjX1.js";import"./index-dhKWstfL.js";import"./Text-Ck09bxUA.js";import"./utils-DDqfTkhb.js";import"./index-ClBBAz8G.js";import"./LoadingSpinner-igBsChks.js";import"./useLocalizedStringFormatter-BNfLxuDa.js";import"./Button-DxZy_SLj.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-1hkoevAF.js";import"./usePress-CeNy5sqc.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./index-By2zHiun.js";import"./index-i-EOeHUO.js";import"./Dialog-BzI3DpKU.js";import"./RSPContexts-Bc9pl35m.js";import"./OverlayArrow-C-JGts0N.js";import"./number-nHrFdSb-.js";import"./useControlledState-C0C-dzuH.js";import"./FocusScope-DcAV6EIT.js";import"./useLabels-DNsw1HUe.js";import"./VisuallyHidden-DuYGmAhQ.js";import"./index-C2ZNd_js.js";import"./ButtonGroup-DiL7Og_c.js";import"./dynamic-DKDa4OpU.js";import"./index-CFi-0kt5.js";import"./Heading-Dpoua6td.js";import"./Heading-DY1nJOWO.js";import"./index-CTZVGI_L.js";import"./Content-voJAjZIO.js";const Z={...c,title:"Actions/Action/Edge Cases"},t={args:{action:r,children:i.createElement(o,{action:r},i.createElement(o,{action:e},i.createElement(o,{action:r},a)))}};var n,m,p;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    action: asyncFunction,
+    children: <Action action={asyncFunction}>
+        <Action action={syncFunction}>
+          <Action action={asyncFunction}>{button}</Action>
+        </Action>
+      </Action>
+  }
+}`,...(p=(m=t.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};const tt=["MixedAsyncSyncNested"];export{t as MixedAsyncSyncNested,tt as __namedExportsOrder,Z as default};
