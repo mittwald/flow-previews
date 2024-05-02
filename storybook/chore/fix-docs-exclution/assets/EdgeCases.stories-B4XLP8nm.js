@@ -1,0 +1,10 @@
+import{A as o}from"./index-CrcpoVsX.js";import{R as i}from"./index-BwDkhjyp.js";import{m as p,a as r,s as e,b as a}from"./Default.stories-pEQfgu99.js";import"./flowComponent-Dglj5cqB.js";import"./clsx-B-dksMZM.js";import"./index-B8XB3FuZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./useSelector-Cm3ogMLN.js";import"./index-I3tg1ZlH.js";import"./Button-B7Tl_OC2.js";import"./IconApp-_FcSWQQl.js";import"./IconWarning-DWDcGR9n.js";import"./Text-CME0CjX1.js";import"./index-dhKWstfL.js";import"./Text-Ck09bxUA.js";import"./utils-DDqfTkhb.js";import"./index-ClBBAz8G.js";import"./LoadingSpinner-BD6r3owA.js";import"./useLocalizedStringFormatter-m5PKJKvJ.js";import"./Button-EahR66DC.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-DLPCeG8s.js";import"./usePress-CJfWxQWU.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./index-C0jFGPjn.js";import"./index-BF1ZtRjo.js";import"./Dialog-BB9pmluw.js";import"./RSPContexts-Bc9pl35m.js";import"./OverlayArrow-CTItOegv.js";import"./number-nHrFdSb-.js";import"./useControlledState-C0C-dzuH.js";import"./FocusScope-DR0UY-fH.js";import"./useLabels-DNsw1HUe.js";import"./VisuallyHidden-BNJtAZAq.js";import"./index-C2ZNd_js.js";import"./ButtonGroup-DiL7Og_c.js";import"./dynamic-DKDa4OpU.js";import"./index-DHgkOPXJ.js";import"./Heading-Qvzms-BN.js";import"./index-CTZVGI_L.js";import"./Content-voJAjZIO.js";const Y={...p,title:"Actions/Action/Edge Cases"},t={args:{action:r,children:i.createElement(o,{action:r},i.createElement(o,{action:e},i.createElement(o,{action:r},a)))}};var n,m,c;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    action: asyncFunction,
+    children: <Action action={asyncFunction}>
+        <Action action={syncFunction}>
+          <Action action={asyncFunction}>{button}</Action>
+        </Action>
+      </Action>
+  }
+}`,...(c=(m=t.parameters)==null?void 0:m.docs)==null?void 0:c.source}}};const Z=["MixedAsyncSyncNested"];export{t as MixedAsyncSyncNested,Z as __namedExportsOrder,Y as default};
