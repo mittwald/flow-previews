@@ -1,0 +1,1 @@
+import{R as e}from"./index-BwDkhjyp.js";import{f as a,C as l}from"./flowComponent-BLFgELHw.js";const c=a("Content",t=>{const{children:n,elementType:o="div",ref:r,...s}=t,m=o;return e.createElement(l,null,e.createElement(m,{ref:r,...s},n))});c.__docgenInfo={description:"",methods:[],displayName:"Content"};export{c as C};
