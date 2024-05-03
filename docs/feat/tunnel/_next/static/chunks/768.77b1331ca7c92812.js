@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[768],{860768:function(e,t,n){n.r(t),n.d(t,{Image:function(){return l},default:function(){return l}});var u=n(864821),r=n(710631);n(423416);var a=n(25546);let l=e=>{let t=(0,a.u)("Image",e);return u.createElement(r.C,null,u.createElement("img",{...t}))}}}]);
