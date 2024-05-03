@@ -1,0 +1,13 @@
+import{L as d}from"./LabeledValue-D-KnwY2C.js";import C from"./Default.stories-DEi-ioa3.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import"./index--Bo1CDgE.js";import"./index-3_QjF02i.js";import{R as e}from"./index-BwDkhjyp.js";import{L as u}from"./Label-BII7KLVu.js";import{C as c}from"./Content-DU0RYJRW.js";import{C as L}from"./CopyButton-iA7Ooosx.js";import"./clsx-B-dksMZM.js";import"./flowComponent-DSjr-DA9.js";import"./index-B8XB3FuZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./index-CUoLdlfj.js";import"./InlineCode-DOdGXSpq.js";import"./index-DfDWyHk2.js";import"./Link-Civ3-cHY.js";import"./utils-BPWq_g-Q.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-BlWeTRZV.js";import"./useFocusable-DzpyvdoN.js";import"./useLocalizedStringFormatter-BrR5B9uo.js";import"./Label-8qM4s33n.js";import"./Wrap-DQq6jo70.js";import"./index-CYd1cWx8.js";import"./index-R9SXROV0.js";import"./Button-DuqxXfo1.js";import"./IconApp-Cw_YJm7P.js";import"./IconWarning-Brm6znG4.js";import"./index-Cmm4kSfL.js";import"./Text-_YkQ25lp.js";import"./index-dhKWstfL.js";import"./Text-DaIqyakl.js";import"./LoadingSpinner-B41iwwvE.js";import"./Button-CgYWhGLL.js";import"./index-BVS6DWtT.js";import"./OverlayArrow-BQ0eDFRq.js";import"./number-nHrFdSb-.js";import"./useControlledState-C0C-dzuH.js";import"./react-children-utilities-CseWD4BL.js";import"./index-DXY-z19o.js";import"./useSelector-Ca9JKhGg.js";const me={title:"Content/LabeledValue/Edge Cases",...C},r={render:m=>e.createElement(d,{...m},e.createElement(u,null,t.medium),e.createElement(c,null,t.short),e.createElement(L,{text:t.short}))},o={render:m=>e.createElement(d,{...m},e.createElement(u,null,t.medium),e.createElement(c,null,t.long),e.createElement(L,{text:t.long}))};var p,n,a;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.short}</Content>
+      <CopyButton text={dummyText.short} />
+    </LabeledValue>
+}`,...(a=(n=r.parameters)==null?void 0:n.docs)==null?void 0:a.source}}};var i,l,s;o.parameters={...o.parameters,docs:{...(i=o.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.long}</Content>
+      <CopyButton text={dummyText.long} />
+    </LabeledValue>
+}`,...(s=(l=o.parameters)==null?void 0:l.docs)==null?void 0:s.source}}};const pe=["LongLabel","LongContent"];export{o as LongContent,r as LongLabel,pe as __namedExportsOrder,me as default};
