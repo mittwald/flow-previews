@@ -1,0 +1,1 @@
+.flow--icon{flex-shrink:0;max-width:none;display:inline-block}.flow--icon:where(.flow--icon--size-m,.flow--icon){width:var(--icon--size--m);height:var(--icon--size--m)}.flow--icon:where(.flow--icon--size-s){width:var(--icon--size--s);height:var(--icon--size--s)}.flow--icon:where(.flow--icon--size-l){width:var(--icon--size--l);height:var(--icon--size--l)}
