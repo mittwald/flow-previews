@@ -1,18 +1,18 @@
-0:["XbfQWsbDK_DeaFW2KWrXy",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/311-add-listitem-content-and-compact-version/_next/static/css/5bff7809ba592dbf.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/311-add-listitem-content-and-compact-version/_next/static/css/e3620a7ecb792159.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["XNWXLW5TFBP_1sSyevKYi",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/311-add-listitem-content-and-compact-version/_next/static/css/5bff7809ba592dbf.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/311-add-listitem-content-and-compact-version/_next/static/css/e3620a7ecb792159.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-getting-started/installation;307;"}
 5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"LinkProvider"]
-6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-05b715c3ccc93ba2.js"],"IconMittwald"]
-7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-05b715c3ccc93ba2.js"],"default"]
+6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-043ad575a6b76155.js"],"IconMittwald"]
+7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-043ad575a6b76155.js"],"default"]
 8:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"default"]
 9:I[1543,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"default"]
 19:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"HeaderNavigation"]
 1a:I[72512,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"OverlayTrigger"]
 1b:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"Button"]
-1c:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-05b715c3ccc93ba2.js"],"IconMenu"]
+1c:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-043ad575a6b76155.js"],"IconMenu"]
 1d:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"OffCanvas"]
-1e:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-05b715c3ccc93ba2.js"],"Section"]
+1e:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-043ad575a6b76155.js"],"Section"]
 10a:I[18001,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","81","static/chunks/81-c75f61357c793c64.js","185","static/chunks/app/layout-9f24dedac0cc8106.js"],"default"]
-138:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-05b715c3ccc93ba2.js"],"default"]
+138:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-34c2ab60dd2d8e5c.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-c75f61357c793c64.js","877","static/chunks/app/%5B...slug%5D/page-043ad575a6b76155.js"],"default"]
 139:I[68648,[],""]
 13a:I[91385,[],""]
 a:Tbf3,/*@jsxRuntime automatic @jsxImportSource react*/
@@ -769,11 +769,12 @@ import Content from "@mittwald/flow-react-components/Content";
     </Content>
   </InlineAlert>
 </Row>;
-15:T653,import List, {
+15:T6ca,import List, {
   ListFilter,
   ListItemView,
   ListSorting,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -802,21 +803,25 @@ import MenuItem from "@mittwald/flow-react-components/MenuItem";
   <ListItemView<Domain>>
     {(domain) => (
       <>
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
@@ -825,9 +830,10 @@ import MenuItem from "@mittwald/flow-react-components/MenuItem";
     )}
   </ListItemView>
 </List>;
-16:T547,import List, {
+16:T5be,import List, {
   ListItemView,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -850,21 +856,25 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
   <ListItemView<Domain>>
     {(domain) => (
       <>
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
@@ -873,9 +883,10 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
     )}
   </ListItemView>
 </List>;
-17:T591,import List, {
+17:T608,import List, {
   ListItemView,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -899,21 +910,25 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
   <ListItemView<Domain>>
     {(domain) => (
       <Link href="#">
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
@@ -1921,11 +1936,12 @@ fb:["02-components","structure","layout-card"]
 fd:{"component":"List","description":"Die List-Component stellt eine Liste von Elementen mit verschiedenen Informationen dar."}
 fe:{}
 fc:{"compiledSource":"/*@jsxRuntime automatic @jsxImportSource react*/\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = Object.assign({}, _provideComponents(), props.components);\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"main\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);\n  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {\n    children: _jsx(_createMdxContent, props)\n  })) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$fd","scope":"$fe"}
-100:T653,import List, {
+100:T6ca,import List, {
   ListFilter,
   ListItemView,
   ListSorting,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -1954,21 +1970,25 @@ import MenuItem from "@mittwald/flow-react-components/MenuItem";
   <ListItemView<Domain>>
     {(domain) => (
       <>
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
@@ -1977,9 +1997,10 @@ import MenuItem from "@mittwald/flow-react-components/MenuItem";
     )}
   </ListItemView>
 </List>;
-101:T547,import List, {
+101:T5be,import List, {
   ListItemView,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -2002,21 +2023,25 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
   <ListItemView<Domain>>
     {(domain) => (
       <>
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
@@ -2025,9 +2050,10 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
     )}
   </ListItemView>
 </List>;
-102:T591,import List, {
+102:T608,import List, {
   ListItemView,
   ListStaticData,
+  ListItemTitle,
 } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
@@ -2051,21 +2077,25 @@ import StatusBadge from "@mittwald/flow-react-components/StatusBadge";
   <ListItemView<Domain>>
     {(domain) => (
       <Link href="#">
-        <Avatar variant={domain.type === "Domain" ? 1 : 2}>
-          {domain.type === "Domain" ? (
-            <IconDomain />
+        <ListItemTitle>
+          <Avatar
+            variant={domain.type === "Domain" ? 1 : 2}
+          >
+            {domain.type === "Domain" ? (
+              <IconDomain />
+            ) : (
+              <IconSubdomain />
+            )}
+          </Avatar>
+          <Heading>{domain.hostname}</Heading>
+          {domain.verified ? (
+            <Text>{domain.type}</Text>
           ) : (
-            <IconSubdomain />
+            <StatusBadge status="warning">
+              Nicht verifiziert
+            </StatusBadge>
           )}
-        </Avatar>
-        <Heading>{domain.hostname}</Heading>
-        {domain.verified ? (
-          <Text>{domain.type}</Text>
-        ) : (
-          <StatusBadge status="warning">
-            Nicht verifiziert
-          </StatusBadge>
-        )}
+        </ListItemTitle>
         <ContextMenu>
           <MenuItem>Details anzeigen</MenuItem>
           <MenuItem>Löschen</MenuItem>
