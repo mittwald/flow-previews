@@ -1,7 +1,7 @@
 3:I[68648,[],""]
 5:I[91385,[],""]
 4:["slug","03-components/status/status-badge","c"]
-0:["VpfVfUJvrdCY291I_eCd0",[[["",{"children":[["slug","03-components/status/status-badge","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"status-badge\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/status/status-badge","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/ca9f99294e78031b.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/b13a0f6008325e0f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/e3620a7ecb792159.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+0:["JDpqVHkxkvMbjKwl5vXIp",[[["",{"children":[["slug","03-components/status/status-badge","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"status-badge\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/status/status-badge","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/ca9f99294e78031b.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/b13a0f6008325e0f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-writing-for-errors/_next/static/css/e3620a7ecb792159.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
 8:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","74","static/chunks/74-d7269775c3f7897f.js","81","static/chunks/81-936ee7e18dcc3087.js","185","static/chunks/app/layout-3b1912d54e46d7f7.js"],"LinkProvider"]
 9:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-d7269775c3f7897f.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-936ee7e18dcc3087.js","877","static/chunks/app/%5B...slug%5D/page-8169e572cc38d831.js"],"IconMittwald"]
 a:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","74","static/chunks/74-d7269775c3f7897f.js","416","static/chunks/416-1dd9870f9bc411a7.js","81","static/chunks/81-936ee7e18dcc3087.js","877","static/chunks/app/%5B...slug%5D/page-8169e572cc38d831.js"],"default"]
@@ -206,7 +206,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-f:T26a3,/*@jsxRuntime automatic @jsxImportSource react*/
+f:T267c,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -314,7 +314,7 @@ function _createMdxContent(props) {
           children: "Entschuldige dicht nicht für Kleinigkeiten oder wenn das System keine Schuld\nträgt."
         })]
       }), _jsxs(Do, {
-        exampleText: "Es tut uns Leid, aufgrund eines Serverfehlers konnten wir deine Eingabe nicht\nspeichern. Bitte versuche es erneut.",
+        exampleText: "Wir konnten die Datei nicht hochladen. Bitte verwende eine Datei vom Typ XY.",
         children: [_jsx(_components.h4, {
           children: "Do"
         }), _jsx(_components.p, {
@@ -1349,7 +1349,7 @@ function _missingMdxReference(id, component) {
 29:{"compiledSource":"$2a","frontmatter":"$2b","scope":"$2c"}
 2d:{"composition":"import ExampleSvg from \"@/content/01-get-started/stylesheet/examples/components/ExampleSvg\";\n\n<aside className=\"flow--inline-alert flow--inline-alert--info\">\n  <ExampleSvg className=\"flow--icon flow--inline-alert--status-icon\" />\n  <h3 className=\"flow--heading flow--inline-alert--heading\">\n    E-Mail Adresse wurde archiviert\n  </h3>\n  <div className=\"flow--inline-alert--content\">\n    Da deine Domain gelöscht wurde, wurde diese\n    E-Mail-Adresse archiviert. Um E-Mails empfangen und\n    senden zu können musst du die Adresse wieder umbenennen.\n  </div>\n</aside>;\n","multiple-variants":"<button className=\"flow--button flow--button--primary flow--button--size-s\">\n  Small Primary Button\n</button>;\n","variants":"<button className=\"flow--button flow--button--primary\">\n  Primary Button\n</button>;\n"}
 2e:["01-get-started","stylesheet"]
-30:T26a3,/*@jsxRuntime automatic @jsxImportSource react*/
+30:T267c,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1457,7 +1457,7 @@ function _createMdxContent(props) {
           children: "Entschuldige dicht nicht für Kleinigkeiten oder wenn das System keine Schuld\nträgt."
         })]
       }), _jsxs(Do, {
-        exampleText: "Es tut uns Leid, aufgrund eines Serverfehlers konnten wir deine Eingabe nicht\nspeichern. Bitte versuche es erneut.",
+        exampleText: "Wir konnten die Datei nicht hochladen. Bitte verwende eine Datei vom Typ XY.",
         children: [_jsx(_components.h4, {
           children: "Do"
         }), _jsx(_components.p, {
