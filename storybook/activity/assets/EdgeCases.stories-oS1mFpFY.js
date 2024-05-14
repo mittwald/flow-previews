@@ -1,6 +1,0 @@
-import{L as a}from"./Link-Civ3-cHY.js";import{R as t}from"./index-BwDkhjyp.js";import{d as n}from"./dummyText-CX_I_Wpl.js";import p from"./Default.stories-DgNj9_Zz.js";import"./IconApp-Cw_YJm7P.js";import{d as s}from"./IconWarning-Brm6znG4.js";import"./flowComponent-DSjr-DA9.js";import"./clsx-B-dksMZM.js";import"./index-B8XB3FuZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./utils-BPWq_g-Q.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-BlWeTRZV.js";import"./useFocusable-DzpyvdoN.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./index-Cmm4kSfL.js";import"./Text-_YkQ25lp.js";import"./index-dhKWstfL.js";import"./Wrap-DQq6jo70.js";import"./Text-DaIqyakl.js";const $={...p,title:"Navigation/Link/Edge Cases"},r={render:i=>t.createElement(a,{...i},n.long,t.createElement(s,{"aria-label":"external link"}))};var o,e,m;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  render: props => <Link {...props}>
-      {dummyText.long}
-      <IconExternalLink aria-label="external link" />
-    </Link>
-}`,...(m=(e=r.parameters)==null?void 0:e.docs)==null?void 0:m.source}}};const h=["LongText"];export{r as LongText,h as __namedExportsOrder,$ as default};
