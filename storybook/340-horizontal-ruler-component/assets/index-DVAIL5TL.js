@@ -1,4 +1,0 @@
-import{S as e}from"./StatusIcon-D42LZUL6.js";e.__docgenInfo={description:"",methods:[],displayName:"StatusIcon",props:{status:{required:!1,tsType:{name:"T"},description:""},tunnelId:{required:!1,tsType:{name:"string"},description:"@internal"},render:{required:!1,tsType:{name:"union",raw:"FlowRenderFn<P> | false",elements:[{name:"signature",type:"function",raw:`(
-  component: ComponentType<P>,
-  props: P,
-) => ReactNode`,signature:{arguments:[{type:{name:"ComponentType",elements:[{name:"P"}],raw:"ComponentType<P>"},name:"component"},{type:{name:"P"},name:"props"}],return:{name:"ReactNode"}}},{name:"literal",value:"false"}]},description:"@internal"},size:{required:!1,tsType:{name:"union",raw:'"s" | "m" | "l"',elements:[{name:"literal",value:'"s"'},{name:"literal",value:'"m"'},{name:"literal",value:'"l"'}]},description:'@default "m"'}},composes:["PropsWithChildren"]};
