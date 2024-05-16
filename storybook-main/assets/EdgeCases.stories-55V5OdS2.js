@@ -1,0 +1,11 @@
+import{N as t}from"./index-Bw88hbAw.js";import{R as o}from"./index-uCp2LrAq.js";import"./index-Cmz1vSES.js";import{a as c}from"./chunk-MZXVCX43-CM0pFb8Z.js";import{L as u}from"./Label-BSqTcUZR.js";import"./FormField.module-s1_K2-y0.js";import"./clsx-B-dksMZM.js";import"./flowComponent-C3iYbsVA.js";import"./index-7Bm5Bt6L.js";import"./index-BOkhicXD.js";import"./_commonjsHelpers-BosuxZz1.js";import"./IconApp-CwGZLNCA.js";import"./IconWarning-DABzRPnq.js";import"./Form-DC_Jaq0Q.js";import"./useFocusable-BGYghl-O.js";import"./utils-CHnd_qWz.js";import"./useLabel-CRisioBB.js";import"./useLabels-7II0TQXO.js";import"./Text-QhWkLhD7.js";import"./index-D0HYlWWA.js";import"./Button-DZIkkxYk.js";import"./Wrap-DQq6jo70.js";import"./index-Bei-u9ze.js";import"./Text-9aVSwLyk.js";import"./index-DePfloUh.js";import"./LoadingSpinner-Dlmb3D8K.js";import"./useLocalizedStringFormatter-Cwaj61aR.js";import"./Button-D-FvJARW.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-C4eoOWOJ.js";import"./Input-DZsvBgax.js";import"./useFormReset-Co0XpM0Q.js";import"./useControlledState-B8AA3oOY.js";import"./Label-D2L52JVz.js";import"./number-nHrFdSb-.js";import"./useNumberFormatter-fk4sjPtJ.js";import"./useEvent-BxbBFNFa.js";import"./v4-CQkTLCs1.js";const Y={title:"Form Controls/NumberField/Edge Cases",component:t,render:l=>o.createElement(t,{onChange:c("onChange"),...l},o.createElement(u,null,"Age"))},r={args:{minValue:5,defaultValue:5}},e={args:{maxValue:5,defaultValue:5}};var m,a,i;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    minValue: 5,
+    defaultValue: 5
+  }
+}`,...(i=(a=r.parameters)==null?void 0:a.docs)==null?void 0:i.source}}};var p,s,n;e.parameters={...e.parameters,docs:{...(p=e.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    maxValue: 5,
+    defaultValue: 5
+  }
+}`,...(n=(s=e.parameters)==null?void 0:s.docs)==null?void 0:n.source}}};const Z=["WithDisabledDecrement","WithDisabledIncrement"];export{r as WithDisabledDecrement,e as WithDisabledIncrement,Z as __namedExportsOrder,Y as default};
