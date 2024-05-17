@@ -1,1 +1,0 @@
-import{R as n}from"./index-uCp2LrAq.js";import{c as l}from"./clsx-B-dksMZM.js";const m="flow--skeleton",r="flow--skeleton--shimmer",a={skeleton:m,shimmer:r},c=e=>{const{className:s,...o}=e,t=l(a.skeleton,s);return n.createElement("div",{className:t,"aria-hidden":!0,...o})};c.__docgenInfo={description:"",methods:[],displayName:"Skeleton"};export{c as S};
