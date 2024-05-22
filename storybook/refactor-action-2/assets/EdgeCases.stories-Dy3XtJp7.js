@@ -1,0 +1,10 @@
+import{R as o}from"./index-uCp2LrAq.js";import{m as p,a as i,s as e,b as a}from"./Default.stories-BDkLIQ2y.js";import{A as r}from"./Action-DyNMBFe8.js";import"./_commonjsHelpers-BosuxZz1.js";import"./Button-CN9-9vQl.js";import"./clsx-B-dksMZM.js";import"./flowComponent-CYso3G7U.js";import"./index-CFQDndEx.js";import"./index-BOkhicXD.js";import"./IconApp-DnBcJRcL.js";import"./IconWarning-D-8E7MU6.js";import"./Wrap-DQq6jo70.js";import"./Text-CP7cAcet.js";import"./EmulatedBoldText-DzNCZpDp.js";import"./Text-D6Zjnbf0.js";import"./utils-DZgOXw50.js";import"./LoadingSpinner-vR-kYhCZ.js";import"./useLocalizedStringFormatter-CHReNXSI.js";import"./Button-B3LWHon2.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-DIAzcF9v.js";import"./usePress-DL4LW3M_.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./Modal-D7viuGWT.js";import"./OverlayTrigger-DUKqU_vB.js";import"./Dialog-C_GihYWd.js";import"./RSPContexts-CJnKmcd7.js";import"./OverlayArrow-B5rNo2Ho.js";import"./number-nHrFdSb-.js";import"./useControlledState-B8AA3oOY.js";import"./FocusScope-CNJ-ZnPk.js";import"./useLabels-POLqFEYE.js";import"./VisuallyHidden-xpUhodH8.js";import"./ButtonGroup-CWgB603w.js";import"./dynamic-DKDa4OpU.js";import"./Heading-BckMXqid.js";import"./Content-BrOr3CrF.js";import"./Activity-Ck-RMSDT.js";import"./Render-Bcmr6Csp.js";const W={...p,title:"Actions/Action/Edge Cases"},t={args:{action:i,children:o.createElement(r,{action:i},o.createElement(r,{action:e},o.createElement(r,{action:i},a)))}};var n,m,c;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    action: asyncFunction,
+    children: <Action action={asyncFunction}>
+        <Action action={syncFunction}>
+          <Action action={asyncFunction}>{button}</Action>
+        </Action>
+      </Action>
+  }
+}`,...(c=(m=t.parameters)==null?void 0:m.docs)==null?void 0:c.source}}};const X=["MixedAsyncSyncNested"];export{t as MixedAsyncSyncNested,X as __namedExportsOrder,W as default};
