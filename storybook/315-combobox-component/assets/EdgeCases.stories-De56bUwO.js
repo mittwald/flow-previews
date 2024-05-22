@@ -1,0 +1,10 @@
+import{A as o}from"./Action-ARoEBRRA.js";import{R as i}from"./index-uCp2LrAq.js";import{m as p,a as r,s as e,b as a}from"./Default.stories-DD7ujMkA.js";import"./flowComponent-CVx7Nq_O.js";import"./index-CFQDndEx.js";import"./clsx-B-dksMZM.js";import"./index-BOkhicXD.js";import"./_commonjsHelpers-BosuxZz1.js";import"./useSelector-BwWIIUA_.js";import"./Button-kgu6ukff.js";import"./IconApp-Bpay03mZ.js";import"./IconWarning-CbiRLlNJ.js";import"./Wrap-DQq6jo70.js";import"./Text-KrSbjq4H.js";import"./EmulatedBoldText-DzNCZpDp.js";import"./Text-CV99Jc8q.js";import"./utils-VMHz66w6.js";import"./LoadingSpinner-InQx5M66.js";import"./useLocalizedStringFormatter-CHReNXSI.js";import"./Button-D3p9ry0o.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-6uy--nFO.js";import"./usePress-DI1g9pTm.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./Modal-BeyBS64y.js";import"./OverlayTrigger-C9B22t8n.js";import"./Dialog-DkqyJwif.js";import"./RSPContexts-CJnKmcd7.js";import"./OverlayArrow-CxiI-V8Q.js";import"./number-nHrFdSb-.js";import"./useControlledState-B8AA3oOY.js";import"./FocusScope-Bl0UA8jw.js";import"./useLabels-POLqFEYE.js";import"./VisuallyHidden-Dg6JcKHx.js";import"./ButtonGroup-DhkgVLne.js";import"./dynamic-DKDa4OpU.js";import"./Heading-C0g-K2ng.js";import"./Content-Dx30jYF4.js";import"./Activity-Ck-RMSDT.js";const W={...p,title:"Actions/Action/Edge Cases"},t={args:{action:r,children:i.createElement(o,{action:r},i.createElement(o,{action:e},i.createElement(o,{action:r},a)))}};var n,m,c;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    action: asyncFunction,
+    children: <Action action={asyncFunction}>
+        <Action action={syncFunction}>
+          <Action action={asyncFunction}>{button}</Action>
+        </Action>
+      </Action>
+  }
+}`,...(c=(m=t.parameters)==null?void 0:m.docs)==null?void 0:c.source}}};const X=["MixedAsyncSyncNested"];export{t as MixedAsyncSyncNested,X as __namedExportsOrder,W as default};
