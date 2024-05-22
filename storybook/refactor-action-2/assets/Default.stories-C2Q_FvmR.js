@@ -1,0 +1,10 @@
+import{R as r}from"./index-uCp2LrAq.js";import{A as n}from"./Accordion-Cn9ZpCEO.js";import{H as A}from"./Heading-Bl--cm6C.js";import{C as E}from"./Content--X8G4X_C.js";import{L}from"./Label-BO26s_tX.js";import"./_commonjsHelpers-BosuxZz1.js";import"./clsx-B-dksMZM.js";import"./flowComponent-zjeizx3W.js";import"./index-CFQDndEx.js";import"./index-BOkhicXD.js";import"./dynamic-DKDa4OpU.js";import"./Button-AI9Is6-0.js";import"./IconApp-BQ1SNthI.js";import"./IconWarning-CWknmh7U.js";import"./Wrap-DQq6jo70.js";import"./Text-AOFuUGmM.js";import"./EmulatedBoldText-DzNCZpDp.js";import"./Text-D6Zjnbf0.js";import"./utils-DZgOXw50.js";import"./LoadingSpinner-7LFQNVS0.js";import"./useLocalizedStringFormatter-CHReNXSI.js";import"./Button-B3LWHon2.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-DIAzcF9v.js";import"./usePress-DL4LW3M_.js";import"./Activity-Ck-RMSDT.js";import"./RSPContexts-CJnKmcd7.js";import"./Label-BQk6lJ-q.js";const Q={title:"Structure/Accordion",component:n,render:a=>r.createElement(n,{...a},r.createElement(A,null,"Heading"),r.createElement(E,null,"Accordion Content"))},e={},t={args:{defaultExpanded:!0}},o={render:a=>r.createElement(n,{...a},r.createElement(L,null,"Label"),r.createElement(E,null,"Accordion Content"))};var m,p,c;e.parameters={...e.parameters,docs:{...(m=e.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(c=(p=e.parameters)==null?void 0:p.docs)==null?void 0:c.source}}};var i,s,d;t.parameters={...t.parameters,docs:{...(i=t.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    defaultExpanded: true
+  }
+}`,...(d=(s=t.parameters)==null?void 0:s.docs)==null?void 0:d.source}}};var l,u,f;o.parameters={...o.parameters,docs:{...(l=o.parameters)==null?void 0:l.docs,source:{originalSource:`{
+  render: props => <Accordion {...props}>
+      <Label>Label</Label>
+      <Content>Accordion Content</Content>
+    </Accordion>
+}`,...(f=(u=o.parameters)==null?void 0:u.docs)==null?void 0:f.source}}};const T=["Default","DefaultExpanded","WithLabel"];export{e as Default,t as DefaultExpanded,o as WithLabel,T as __namedExportsOrder,Q as default};
