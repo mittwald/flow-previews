@@ -1,1 +1,0 @@
-import{R as e}from"./index-BwDkhjyp.js";import{C as m}from"./index-CoJk2QQB.js";import{f as a}from"./flowComponent-syVPRVDK.js";const n=a("Image",o=>{const{ref:t,...r}=o;return e.createElement(m,null,e.createElement("img",{...r,ref:t}))});n.__docgenInfo={description:"",methods:[],displayName:"Image"};export{n as I};
