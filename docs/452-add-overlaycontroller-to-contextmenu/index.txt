@@ -1,19 +1,19 @@
-0:["WMyVcomrBF_fATQ6Wx4g6",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/452-add-overlaycontroller-to-contextmenu/_next/static/css/b2c777762b8b2f2c.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/452-add-overlaycontroller-to-contextmenu/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["1MuVFBbzyPlxUJGvksSOp",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/452-add-overlaycontroller-to-contextmenu/_next/static/css/82543f3a4b0214b2.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/452-add-overlaycontroller-to-contextmenu/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-get-started/installation;307;"}
-5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"LinkProvider"]
-6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"IconMittwald"]
-7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"default"]
-8:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"default"]
-9:I[1543,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"default"]
-1b:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"HeaderNavigation"]
-1c:I[72512,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"OverlayTrigger"]
-1d:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"Button"]
-1e:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"IconMenu"]
-1f:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"OffCanvas"]
-20:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"Heading"]
-21:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"Section"]
-11e:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","81","static/chunks/81-b30c9b9bc960e70e.js","185","static/chunks/app/layout-0232a2307821d4c9.js"],"default"]
-14f:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-a73e2b4b1ba71f5c.js","360","static/chunks/360-948f623d8dbfd814.js","81","static/chunks/81-b30c9b9bc960e70e.js","877","static/chunks/app/%5B...slug%5D/page-313234c55e0fe541.js"],"default"]
+5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"LinkProvider"]
+6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"IconMittwald"]
+7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"default"]
+8:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"default"]
+9:I[1543,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"default"]
+1b:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"HeaderNavigation"]
+1c:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"OffCanvasTrigger"]
+1d:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"Button"]
+1e:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"IconMenu"]
+1f:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"OffCanvas"]
+20:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"Heading"]
+21:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"Section"]
+11e:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","121","static/chunks/121-58f101f3b78da246.js","185","static/chunks/app/layout-6ce1d1f6e45403e9.js"],"default"]
+14f:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-9e1a8ca94f19edb0.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-58f101f3b78da246.js","877","static/chunks/app/%5B...slug%5D/page-ebdaf59a346608c7.js"],"default"]
 150:I[68648,[],""]
 151:I[91385,[],""]
 a:Tbf3,/*@jsxRuntime automatic @jsxImportSource react*/
@@ -810,7 +810,9 @@ import Switch from "@mittwald/flow-react-components/Switch";
     </Section>
   </Tab>
 </Tabs>;
-12:T552,import Modal from "@mittwald/flow-react-components/Modal";
+12:T512,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -819,9 +821,8 @@ import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
   <Modal>
     <Heading>Neue Organisation</Heading>
@@ -845,8 +846,10 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Action>
     </ButtonGroup>
   </Modal>
-</OverlayTrigger>;
-13:T55c,import Modal from "@mittwald/flow-react-components/Modal";
+</ModalTrigger>;
+13:T51c,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -855,9 +858,8 @@ import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
   <Modal offCanvas>
     <Heading>Neue Organisation</Heading>
@@ -881,10 +883,12 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Action>
     </ButtonGroup>
   </Modal>
-</OverlayTrigger>;
-14:T47e,import Text from "@mittwald/flow-react-components/Text";
+</ModalTrigger>;
+14:T44a,import Text from "@mittwald/flow-react-components/Text";
 import Button from "@mittwald/flow-react-components/Button";
-import OffCanvas from "@mittwald/flow-react-components/OffCanvas";
+import OffCanvas, {
+  OffCanvasTrigger,
+} from "@mittwald/flow-react-components/OffCanvas";
 import {
   IconCustomer,
   IconMenu,
@@ -895,9 +899,8 @@ import Link from "@mittwald/flow-react-components/Link";
 import Navigation from "@mittwald/flow-react-components/Navigation";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Section } from "@mittwald/flow-react-components/Section";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<OffCanvasTrigger>
   <Button>
     <IconMenu />
   </Button>
@@ -920,7 +923,7 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Navigation>
     </Section>
   </OffCanvas>
-</OverlayTrigger>;
+</OffCanvasTrigger>;
 15:T513,import InlineAlert from "@mittwald/flow-react-components/InlineAlert";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Content from "@mittwald/flow-react-components/Content";
@@ -2154,7 +2157,9 @@ c9:["03-components","navigation","tabs"]
 cb:{"component":"Modal","description":"Benutze das Modal um Inhalte in einem Overlay über der eigentlichen Oberfläche anzuzeigen."}
 cc:{}
 ca:{"compiledSource":"/*@jsxRuntime automatic @jsxImportSource react*/\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = Object.assign({}, _provideComponents(), props.components);\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);\n  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {\n    children: _jsx(_createMdxContent, props)\n  })) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$cb","scope":"$cc"}
-ce:T552,import Modal from "@mittwald/flow-react-components/Modal";
+ce:T512,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -2163,9 +2168,8 @@ import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
   <Modal>
     <Heading>Neue Organisation</Heading>
@@ -2189,8 +2193,10 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Action>
     </ButtonGroup>
   </Modal>
-</OverlayTrigger>;
-cf:T55c,import Modal from "@mittwald/flow-react-components/Modal";
+</ModalTrigger>;
+cf:T51c,import Modal, {
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -2199,9 +2205,8 @@ import ButtonGroup from "@mittwald/flow-react-components/ButtonGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
   <Modal offCanvas>
     <Heading>Neue Organisation</Heading>
@@ -2225,15 +2230,17 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Action>
     </ButtonGroup>
   </Modal>
-</OverlayTrigger>;
+</ModalTrigger>;
 cd:{"default":"$ce","offCanvas":"$cf"}
 d0:["03-components","overlays","modal"]
 d2:{"component":"OffCanvas","description":"Das OffCanvas dient dazu Inhalte in einem seitlich angeordneten Overlay anzuzeigen. Es kann beispielsweise für mobile Navigation verwendet werden"}
 d3:{}
 d1:{"compiledSource":"/*@jsxRuntime automatic @jsxImportSource react*/\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = Object.assign({}, _provideComponents(), props.components);\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);\n  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {\n    children: _jsx(_createMdxContent, props)\n  })) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$d2","scope":"$d3"}
-d5:T47e,import Text from "@mittwald/flow-react-components/Text";
+d5:T44a,import Text from "@mittwald/flow-react-components/Text";
 import Button from "@mittwald/flow-react-components/Button";
-import OffCanvas from "@mittwald/flow-react-components/OffCanvas";
+import OffCanvas, {
+  OffCanvasTrigger,
+} from "@mittwald/flow-react-components/OffCanvas";
 import {
   IconCustomer,
   IconMenu,
@@ -2244,9 +2251,8 @@ import Link from "@mittwald/flow-react-components/Link";
 import Navigation from "@mittwald/flow-react-components/Navigation";
 import { Heading } from "@mittwald/flow-react-components/Heading";
 import { Section } from "@mittwald/flow-react-components/Section";
-import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
 
-<OverlayTrigger>
+<OffCanvasTrigger>
   <Button>
     <IconMenu />
   </Button>
@@ -2269,7 +2275,7 @@ import { OverlayTrigger } from "@mittwald/flow-react-components/OverlayTrigger";
       </Navigation>
     </Section>
   </OffCanvas>
-</OverlayTrigger>;
+</OffCanvasTrigger>;
 d4:{"default":"$d5"}
 d6:["03-components","overlays","off-canvas"]
 d8:{"component":"Tooltip","description":"Ein Tooltip zeigt dem Benutzer zusätzliche Informationen beim hovern an."}
