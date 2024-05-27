@@ -1,0 +1,10 @@
+import{R as r}from"./index-uCp2LrAq.js";import{A as n}from"./Accordion-C9B-wLus.js";import{H as A}from"./Heading-Cb2ozK3s.js";import{C as E}from"./Content-D69kYFGM.js";import{L}from"./Label-B2HEeh2I.js";import"./_commonjsHelpers-BosuxZz1.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-CQdFnQJB.js";import"./index-CFQDndEx.js";import"./dynamic-DKDa4OpU.js";import"./Button-B5z5ZFRn.js";import"./IconApp-DlT-7gZ9.js";import"./flowComponent-aRzjgfjd.js";import"./index-BOkhicXD.js";import"./IconWarning-DOkAPQri.js";import"./Wrap-DQq6jo70.js";import"./Text-DaBoIJgv.js";import"./EmulatedBoldText-DzNCZpDp.js";import"./Text-D6Zjnbf0.js";import"./utils-DZgOXw50.js";import"./LoadingSpinner-DDJSnft9.js";import"./useLocalizedStringFormatter-CHReNXSI.js";import"./Button-nTbqVPLP.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-rZ2Ly5zk.js";import"./usePress-B-dVD-xw.js";import"./Activity-Ck-RMSDT.js";import"./RSPContexts-CJnKmcd7.js";import"./Label-BQk6lJ-q.js";const T={title:"Structure/Accordion",component:n,render:a=>r.createElement(n,{...a},r.createElement(A,null,"Heading"),r.createElement(E,null,"Accordion Content"))},e={},t={args:{defaultExpanded:!0}},o={render:a=>r.createElement(n,{...a},r.createElement(L,null,"Label"),r.createElement(E,null,"Accordion Content"))};var m,p,i;e.parameters={...e.parameters,docs:{...(m=e.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(i=(p=e.parameters)==null?void 0:p.docs)==null?void 0:i.source}}};var c,s,d;t.parameters={...t.parameters,docs:{...(c=t.parameters)==null?void 0:c.docs,source:{originalSource:`{
+  args: {
+    defaultExpanded: true
+  }
+}`,...(d=(s=t.parameters)==null?void 0:s.docs)==null?void 0:d.source}}};var l,u,f;o.parameters={...o.parameters,docs:{...(l=o.parameters)==null?void 0:l.docs,source:{originalSource:`{
+  render: props => <Accordion {...props}>
+      <Label>Label</Label>
+      <Content>Accordion Content</Content>
+    </Accordion>
+}`,...(f=(u=o.parameters)==null?void 0:u.docs)==null?void 0:f.source}}};const U=["Default","DefaultExpanded","WithLabel"];export{e as Default,t as DefaultExpanded,o as WithLabel,U as __namedExportsOrder,T as default};
