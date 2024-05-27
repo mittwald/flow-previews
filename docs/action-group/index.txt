@@ -1,19 +1,19 @@
-0:["SCOoOJO2QCAoVBESsvgnn",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/action-group/_next/static/css/29b8a2ce1f0be0c7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/action-group/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["JC0ITZkyUBrdczwRMyOyT",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/action-group/_next/static/css/29b8a2ce1f0be0c7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/action-group/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-get-started/installation;307;"}
-5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"LinkProvider"]
-6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"IconMittwald"]
-7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"default"]
-8:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
-9:I[1543,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
-1b:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"HeaderNavigation"]
-1c:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"OffCanvasTrigger"]
-1d:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"Button"]
-1e:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"IconMenu"]
-1f:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"OffCanvas"]
-20:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"Heading"]
-21:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"Section"]
-123:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d5fb224faea86dba.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
-155:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d5fb224faea86dba.js","877","static/chunks/app/%5B...slug%5D/page-01614d2a2e96f57d.js"],"default"]
+5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"LinkProvider"]
+6:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"IconMittwald"]
+7:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"default"]
+8:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
+9:I[1543,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
+1b:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"HeaderNavigation"]
+1c:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"OffCanvasTrigger"]
+1d:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"Button"]
+1e:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"IconMenu"]
+1f:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"OffCanvas"]
+20:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"Heading"]
+21:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"Section"]
+123:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","121","static/chunks/121-d82cffed5c411e42.js","185","static/chunks/app/layout-0879fd35c8f8561d.js"],"default"]
+155:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","761","static/chunks/761-5bc38fbb1046f3e1.js","360","static/chunks/360-1f0bb4f509e1d43a.js","121","static/chunks/121-d82cffed5c411e42.js","877","static/chunks/app/%5B...slug%5D/page-03896635e395b266.js"],"default"]
 156:I[68648,[],""]
 157:I[91385,[],""]
 a:Tbf3,/*@jsxRuntime automatic @jsxImportSource react*/
@@ -810,7 +810,7 @@ import Switch from "@mittwald/flow-react-components/Switch";
     </Section>
   </Tab>
 </Tabs>;
-12:T512,import Modal, {
+12:T5b3,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -821,6 +821,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
+import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 
 <ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
@@ -839,7 +840,11 @@ import Action from "@mittwald/flow-react-components/Action";
     </Content>
     <ActionGroup>
       <Action closeOverlay>
-        <Button color="accent">Organisation anlegen</Button>
+        <Action action={sleepLong}>
+          <Button color="accent">
+            Organisation anlegen
+          </Button>
+        </Action>
         <Button variant="soft" color="secondary">
           Abbrechen
         </Button>
@@ -847,7 +852,7 @@ import Action from "@mittwald/flow-react-components/Action";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-13:T51c,import Modal, {
+13:T5bd,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -858,6 +863,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
+import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 
 <ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
@@ -876,7 +882,11 @@ import Action from "@mittwald/flow-react-components/Action";
     </Content>
     <ActionGroup>
       <Action closeOverlay>
-        <Button color="accent">Organisation anlegen</Button>
+        <Action action={sleepLong}>
+          <Button color="accent">
+            Organisation anlegen
+          </Button>
+        </Action>
         <Button variant="soft" color="secondary">
           Abbrechen
         </Button>
@@ -2157,7 +2167,7 @@ c9:["03-components","navigation","tabs"]
 cb:{"component":"Modal","description":"Benutze das Modal um Inhalte in einem Overlay über der eigentlichen Oberfläche anzuzeigen."}
 cc:{}
 ca:{"compiledSource":"/*@jsxRuntime automatic @jsxImportSource react*/\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = Object.assign({}, _provideComponents(), props.components);\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);\n  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {\n    children: _jsx(_createMdxContent, props)\n  })) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$cb","scope":"$cc"}
-ce:T512,import Modal, {
+ce:T5b3,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -2168,6 +2178,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
+import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 
 <ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
@@ -2186,7 +2197,11 @@ import Action from "@mittwald/flow-react-components/Action";
     </Content>
     <ActionGroup>
       <Action closeOverlay>
-        <Button color="accent">Organisation anlegen</Button>
+        <Action action={sleepLong}>
+          <Button color="accent">
+            Organisation anlegen
+          </Button>
+        </Action>
         <Button variant="soft" color="secondary">
           Abbrechen
         </Button>
@@ -2194,7 +2209,7 @@ import Action from "@mittwald/flow-react-components/Action";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-cf:T51c,import Modal, {
+cf:T5bd,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -2205,6 +2220,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
 import Button from "@mittwald/flow-react-components/Button";
 import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
+import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 
 <ModalTrigger>
   <Button color="accent">Organisation anlegen</Button>
@@ -2223,7 +2239,11 @@ import Action from "@mittwald/flow-react-components/Action";
     </Content>
     <ActionGroup>
       <Action closeOverlay>
-        <Button color="accent">Organisation anlegen</Button>
+        <Action action={sleepLong}>
+          <Button color="accent">
+            Organisation anlegen
+          </Button>
+        </Action>
         <Button variant="soft" color="secondary">
           Abbrechen
         </Button>
