@@ -1,1 +1,0 @@
-.flow--notification-group{position:fixed;top:32px;right:32px;display:flex;flex-direction:column;row-gap:16px;z-index:1}.flow--notification-group .flow--notification-group--notification{animation:flow--notification-group--modal-slide-in var(--transition--duration--slow)}@keyframes flow--notification-group--modal-slide-in{0%{right:-100px}to{right:0}}
