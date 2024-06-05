@@ -1,0 +1,6 @@
+import{L as a}from"./Link-_lwzsLcS.js";import{R as t}from"./index-uCp2LrAq.js";import{d as n}from"./dummyText-CX_I_Wpl.js";import p from"./Default.stories-DKaNMGg-.js";import"./IconApp-Bvp8_lYy.js";import{e as s}from"./IconWarning-B_x1GzbP.js";import"./PropsContextProvider-Bes6Wf8F.js";import"./index-CFQDndEx.js";import"./clsx-B-dksMZM.js";import"./flowComponent-Cgwf_8Pz.js";import"./index-BOkhicXD.js";import"./_commonjsHelpers-BosuxZz1.js";import"./utils-VMHz66w6.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-BwUp6-ib.js";import"./useFocusable-BnMUMntI.js";import"./chunk-MZXVCX43-CM0pFb8Z.js";import"./v4-CQkTLCs1.js";import"./Text-45YGqDyb.js";import"./EmulatedBoldText-DzNCZpDp.js";import"./Wrap-DQq6jo70.js";import"./Text-CV99Jc8q.js";import"./storyBackgrounds-BHxp8d-8.js";const j={...p,title:"Navigation/Link/Edge Cases"},r={render:i=>t.createElement(a,{...i},n.long,t.createElement(s,{"aria-label":"external link"}))};var o,e,m;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  render: props => <Link {...props}>
+      {dummyText.long}
+      <IconExternalLink aria-label="external link" />
+    </Link>
+}`,...(m=(e=r.parameters)==null?void 0:e.docs)==null?void 0:m.source}}};const q=["LongText"];export{r as LongText,q as __namedExportsOrder,j as default};
