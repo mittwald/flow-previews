@@ -1,7 +1,7 @@
 3:I[68648,[],""]
 5:I[91385,[],""]
 4:["slug","03-components/actions/button","c"]
-0:["x2v9ngCdS7SFXG00l-_Lw",[[["",{"children":[["slug","03-components/actions/button","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"actions\",\"button\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/actions/button","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/cfb88d9daade875e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+0:["XsuBmIygOi7O3jsQfHzjm",[[["",{"children":[["slug","03-components/actions/button","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"actions\",\"button\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/actions/button","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/cfb88d9daade875e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
 8:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","975","static/chunks/975-42db6d55523e5280.js","460","static/chunks/460-420dcc5c1c246801.js","185","static/chunks/app/layout-ac87403527dc6914.js"],"LinkProvider"]
 9:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","975","static/chunks/975-42db6d55523e5280.js","592","static/chunks/592-a900d46e309f5add.js","460","static/chunks/460-420dcc5c1c246801.js","877","static/chunks/app/%5B...slug%5D/page-10f899e3dcceb682.js"],"IconMittwald"]
 a:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","975","static/chunks/975-42db6d55523e5280.js","592","static/chunks/592-a900d46e309f5add.js","460","static/chunks/460-420dcc5c1c246801.js","877","static/chunks/app/%5B...slug%5D/page-10f899e3dcceb682.js"],"default"]
@@ -1109,7 +1109,7 @@ import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-18:T34e7,import Modal from "@mittwald/flow-react-components/Modal";
+18:T34c4,import Modal from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -1324,9 +1324,7 @@ export default () => {
         <ActionGroup>
           <Action closeOverlay>
             <Action action={sleepLong}>
-              <Button color="accent">
-                Ticket erstellen
-              </Button>
+              <Button color="accent">Server buchen</Button>
             </Action>
             <Button variant="soft" color="secondary">
               Abbrechen
@@ -3176,7 +3174,7 @@ import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-dd:T34e7,import Modal from "@mittwald/flow-react-components/Modal";
+dd:T34c4,import Modal from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -3391,9 +3389,7 @@ export default () => {
         <ActionGroup>
           <Action closeOverlay>
             <Action action={sleepLong}>
-              <Button color="accent">
-                Ticket erstellen
-              </Button>
+              <Button color="accent">Server buchen</Button>
             </Action>
             <Button variant="soft" color="secondary">
               Abbrechen
