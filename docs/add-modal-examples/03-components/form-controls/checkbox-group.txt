@@ -1,7 +1,7 @@
 3:I[68648,[],""]
 5:I[91385,[],""]
 4:["slug","03-components/form-controls/checkbox-group","c"]
-0:["JQ8af-g70qKxZQyV5aCmb",[[["",{"children":[["slug","03-components/form-controls/checkbox-group","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"form-controls\",\"checkbox-group\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/form-controls/checkbox-group","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/cfb88d9daade875e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+0:["x2v9ngCdS7SFXG00l-_Lw",[[["",{"children":[["slug","03-components/form-controls/checkbox-group","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"form-controls\",\"checkbox-group\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/form-controls/checkbox-group","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/cfb88d9daade875e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-modal-examples/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
 8:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","975","static/chunks/975-42db6d55523e5280.js","460","static/chunks/460-420dcc5c1c246801.js","185","static/chunks/app/layout-ac87403527dc6914.js"],"LinkProvider"]
 9:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","975","static/chunks/975-42db6d55523e5280.js","592","static/chunks/592-a900d46e309f5add.js","460","static/chunks/460-420dcc5c1c246801.js","877","static/chunks/app/%5B...slug%5D/page-10f899e3dcceb682.js"],"IconMittwald"]
 a:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","975","static/chunks/975-42db6d55523e5280.js","592","static/chunks/592-a900d46e309f5add.js","460","static/chunks/460-420dcc5c1c246801.js","877","static/chunks/app/%5B...slug%5D/page-10f899e3dcceb682.js"],"default"]
@@ -1109,7 +1109,7 @@ import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-18:T2f4f,import Modal from "@mittwald/flow-react-components/Modal";
+18:T34e7,import Modal from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -1163,6 +1163,7 @@ export default () => {
               display: "flex",
               alignItems: "center",
               gap: "24px",
+              borderBottom: "1px solid #909090",
             }}
           >
             <div style={{ flexGrow: "1" }}>
@@ -1173,54 +1174,88 @@ export default () => {
             <Heading levelVisual={1}>50 €</Heading>
           </div>
           <Section>
-            <TextField isRequired>
-              <Label>Servername</Label>
-            </TextField>
-            <RadioGroup defaultValue="1">
-              <Label>Ressourcen wählen</Label>
-              <RadioButton value="1">
-                <Text>2 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="2">
-                <Text>4 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="3">
-                <Text>8 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="4">
-                <Text>16 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="5">
-                <Text>32 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="6">
-                <Text>64 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-            </RadioGroup>
-            <Text>
-              Auf deinem Space-Server kannst du unlimitiert
-              viele Projekte anlegen. Wir empfehlen jedoch
-              eine maximale Anzahl - basierend auf Analysen
-              und langjähriger Erfahrung.
-            </Text>
-            <Slider
-              formatOptions={{
-                style: "unit",
-                unit: "gigabyte",
-              }}
-              minValue={20}
-              maxValue={2000}
-              defaultValue={200}
-              step={20}
-            >
-              <Label>Speicherplatz</Label>
-            </Slider>
+            <ColumnLayout m={[3, 2]}>
+              <Section>
+                <TextField isRequired>
+                  <Label>Servername</Label>
+                </TextField>
+                <RadioGroup defaultValue="1" s={[1, 1, 1]}>
+                  <Label>Ressourcen wählen</Label>
+                  <RadioButton value="1">
+                    <Text>2 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="2">
+                    <Text>4 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="3">
+                    <Text>8 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="4">
+                    <Text>16 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="5">
+                    <Text>32 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="6">
+                    <Text>64 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                </RadioGroup>
+                <Text>
+                  Auf deinem Space-Server kannst du
+                  unlimitiert viele Projekte anlegen. Wir
+                  empfehlen jedoch eine maximale Anzahl -
+                  basierend auf Analysen und langjähriger
+                  Erfahrung.
+                </Text>
+                <Slider
+                  formatOptions={{
+                    style: "unit",
+                    unit: "gigabyte",
+                  }}
+                  minValue={20}
+                  maxValue={2000}
+                  defaultValue={200}
+                  step={20}
+                >
+                  <Label>Speicherplatz</Label>
+                </Slider>
+              </Section>
+              <div
+                style={{
+                  backgroundColor: "#f8f8f8",
+                  border: "1px solid #909090",
+                  borderRadius: "4px",
+                  padding: "24px",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "16px",
+                }}
+              >
+                <Heading>Deine Konfiguration</Heading>
+                <Text>
+                  <b>Artikel: Space-Server</b>
+                </Text>
+                <ColumnLayout s={[2, 1]}>
+                  <Text>4vCPU/8 GB RAM</Text>
+                  <Text>45,00 €</Text>
+                  <Text>50 GB Speichplatz</Text>
+                  <Text>inklusive</Text>
+                  <Text>100 GB Speicherplatz</Text>
+                  <Text>5,00 €</Text>
+                </ColumnLayout>
+                <CheckboxButton
+                  style={{ marginTop: "auto" }}
+                >
+                  10 Tage kostenlos testen!
+                </CheckboxButton>
+              </div>
+            </ColumnLayout>
           </Section>
           <Section>
             <Heading>Organisation wählen</Heading>
@@ -3141,7 +3176,7 @@ import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-dd:T2f4f,import Modal from "@mittwald/flow-react-components/Modal";
+dd:T34e7,import Modal from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
 import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
@@ -3195,6 +3230,7 @@ export default () => {
               display: "flex",
               alignItems: "center",
               gap: "24px",
+              borderBottom: "1px solid #909090",
             }}
           >
             <div style={{ flexGrow: "1" }}>
@@ -3205,54 +3241,88 @@ export default () => {
             <Heading levelVisual={1}>50 €</Heading>
           </div>
           <Section>
-            <TextField isRequired>
-              <Label>Servername</Label>
-            </TextField>
-            <RadioGroup defaultValue="1">
-              <Label>Ressourcen wählen</Label>
-              <RadioButton value="1">
-                <Text>2 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="2">
-                <Text>4 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="3">
-                <Text>8 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="4">
-                <Text>16 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="5">
-                <Text>32 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-              <RadioButton value="6">
-                <Text>64 vCPU</Text>
-                <Content>4 GB RAM</Content>
-              </RadioButton>
-            </RadioGroup>
-            <Text>
-              Auf deinem Space-Server kannst du unlimitiert
-              viele Projekte anlegen. Wir empfehlen jedoch
-              eine maximale Anzahl - basierend auf Analysen
-              und langjähriger Erfahrung.
-            </Text>
-            <Slider
-              formatOptions={{
-                style: "unit",
-                unit: "gigabyte",
-              }}
-              minValue={20}
-              maxValue={2000}
-              defaultValue={200}
-              step={20}
-            >
-              <Label>Speicherplatz</Label>
-            </Slider>
+            <ColumnLayout m={[3, 2]}>
+              <Section>
+                <TextField isRequired>
+                  <Label>Servername</Label>
+                </TextField>
+                <RadioGroup defaultValue="1" s={[1, 1, 1]}>
+                  <Label>Ressourcen wählen</Label>
+                  <RadioButton value="1">
+                    <Text>2 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="2">
+                    <Text>4 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="3">
+                    <Text>8 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="4">
+                    <Text>16 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="5">
+                    <Text>32 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                  <RadioButton value="6">
+                    <Text>64 vCPU</Text>
+                    <Content>4 GB RAM</Content>
+                  </RadioButton>
+                </RadioGroup>
+                <Text>
+                  Auf deinem Space-Server kannst du
+                  unlimitiert viele Projekte anlegen. Wir
+                  empfehlen jedoch eine maximale Anzahl -
+                  basierend auf Analysen und langjähriger
+                  Erfahrung.
+                </Text>
+                <Slider
+                  formatOptions={{
+                    style: "unit",
+                    unit: "gigabyte",
+                  }}
+                  minValue={20}
+                  maxValue={2000}
+                  defaultValue={200}
+                  step={20}
+                >
+                  <Label>Speicherplatz</Label>
+                </Slider>
+              </Section>
+              <div
+                style={{
+                  backgroundColor: "#f8f8f8",
+                  border: "1px solid #909090",
+                  borderRadius: "4px",
+                  padding: "24px",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "16px",
+                }}
+              >
+                <Heading>Deine Konfiguration</Heading>
+                <Text>
+                  <b>Artikel: Space-Server</b>
+                </Text>
+                <ColumnLayout s={[2, 1]}>
+                  <Text>4vCPU/8 GB RAM</Text>
+                  <Text>45,00 €</Text>
+                  <Text>50 GB Speichplatz</Text>
+                  <Text>inklusive</Text>
+                  <Text>100 GB Speicherplatz</Text>
+                  <Text>5,00 €</Text>
+                </ColumnLayout>
+                <CheckboxButton
+                  style={{ marginTop: "auto" }}
+                >
+                  10 Tage kostenlos testen!
+                </CheckboxButton>
+              </div>
+            </ColumnLayout>
           </Section>
           <Section>
             <Heading>Organisation wählen</Heading>
