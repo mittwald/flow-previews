@@ -1,4 +1,4 @@
-0:["I74vOXE4Lfx0IqHjERyu5",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["pHmwgQ4VJcpoaiAI8qcdd",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-get-started/installation;307;"}
 5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-60a27d528d24ff6b.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"LinkProvider"]
 6:I[3842,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-60a27d528d24ff6b.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"NotificationProvider"]
@@ -135,7 +135,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponentenbasierten und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
@@ -1402,7 +1402,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponentenbasierten und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {

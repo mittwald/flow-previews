@@ -1,7 +1,7 @@
 3:I[68648,[],""]
 5:I[91385,[],""]
 4:["slug","03-components/overlays/off-canvas","c"]
-0:["I74vOXE4Lfx0IqHjERyu5",[[["",{"children":[["slug","03-components/overlays/off-canvas","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"overlays\",\"off-canvas\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/overlays/off-canvas","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+0:["pHmwgQ4VJcpoaiAI8qcdd",[[["",{"children":[["slug","03-components/overlays/off-canvas","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"overlays\",\"off-canvas\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/overlays/off-canvas","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/fix/getting-started-typos/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
 8:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-60a27d528d24ff6b.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"LinkProvider"]
 9:I[3842,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-60a27d528d24ff6b.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"NotificationProvider"]
 a:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-60a27d528d24ff6b.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconMittwald"]
@@ -143,7 +143,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponentenbasierten und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
@@ -1410,7 +1410,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponentenbasierten und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
