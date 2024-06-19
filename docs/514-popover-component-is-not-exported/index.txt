@@ -1,24 +1,24 @@
-0:["E_JlkbJ6xQdFQoLUwJW99",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["s2yOTR1yq9b0FWVcW0rGy",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/e42da72021836268.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-get-started/installation;307;"}
-5:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"LinkProvider"]
-6:I[3842,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"NotificationProvider"]
-7:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconMittwald"]
-8:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"default"]
-9:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-a:I[28132,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-1d:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"HeaderNavigation"]
-1e:I[3710,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"Content"]
-1f:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"OffCanvasTrigger"]
-20:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"Button"]
-21:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconMenu"]
-22:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"OffCanvas"]
-23:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Heading"]
-24:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Section"]
-145:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-17d:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"default"]
-17e:I[68648,[],""]
-17f:I[91385,[],""]
-b:Tbd5,"use strict";
+5:I[70592,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"LinkProvider"]
+6:I[37002,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"NotificationProvider"]
+7:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"IconMittwald"]
+8:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"default"]
+9:I[60939,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+a:I[78825,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+1d:I[79503,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"HeaderNavigation"]
+1e:I[74453,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"Content"]
+1f:I[63997,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"OffCanvasTrigger"]
+20:I[68493,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"Button"]
+21:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"IconMenu"]
+22:I[63997,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"OffCanvas"]
+23:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Heading"]
+24:I[32796,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Section"]
+145:I[40062,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+17d:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"default"]
+17e:I[48978,[],""]
+17f:I[71828,[],""]
+b:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -43,7 +43,7 @@ function _createMdxContent(props) {
         children: _jsxs(_components.p, {
           children: ["Dieses Projekt befindet sich in einer ", _jsx(_components.strong, {
             children: "frühen Entwicklungsphase"
-          }), " weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf das die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
+          }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
@@ -90,7 +90,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-c:T1884,"use strict";
+c:T1887,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -135,9 +135,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können solltest du verstehen wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponenten basiertem und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
-      children: "Generelle Klassennamen Auszeichnungen"
+      children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
         children: "-"
@@ -189,11 +189,11 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h4, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
-      children: ["Es ist gängige Praxis größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
+      children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
         children: "flow--icon"
       }), "),\nsowie den spezialisierten Klassennamen (", _jsx(_components.code, {
         children: "flow--inline-alert--status-icon"
-      }), ") um\nspezifische Styles des Inline Alerts zu erhalten."]
+      }), "), um\nspezifische Styles des Inline Alerts zu erhalten."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "composition"
     })]
@@ -1280,7 +1280,7 @@ import { InlineCode } from "@mittwald/flow-react-components/InlineCode";
     </TableRow>
   </TableBody>
 </Table>;
-26:Tbd5,"use strict";
+26:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1305,7 +1305,7 @@ function _createMdxContent(props) {
         children: _jsxs(_components.p, {
           children: ["Dieses Projekt befindet sich in einer ", _jsx(_components.strong, {
             children: "frühen Entwicklungsphase"
-          }), " weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf das die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
+          }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
@@ -1357,7 +1357,7 @@ function _missingMdxReference(id, component) {
 25:{"compiledSource":"$26","frontmatter":"$27","scope":"$28"}
 29:{}
 2a:["01-get-started","installation"]
-2c:T1884,"use strict";
+2c:T1887,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1402,9 +1402,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können solltest du verstehen wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponenten basiertem und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
-      children: "Generelle Klassennamen Auszeichnungen"
+      children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
         children: "-"
@@ -1456,11 +1456,11 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h4, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
-      children: ["Es ist gängige Praxis größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
+      children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
         children: "flow--icon"
       }), "),\nsowie den spezialisierten Klassennamen (", _jsx(_components.code, {
         children: "flow--inline-alert--status-icon"
-      }), ") um\nspezifische Styles des Inline Alerts zu erhalten."]
+      }), "), um\nspezifische Styles des Inline Alerts zu erhalten."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "composition"
     })]

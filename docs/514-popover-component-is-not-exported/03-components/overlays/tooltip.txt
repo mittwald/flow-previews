@@ -1,32 +1,32 @@
-3:I[68648,[],""]
-5:I[91385,[],""]
+3:I[48978,[],""]
+5:I[71828,[],""]
 4:["slug","03-components/overlays/tooltip","c"]
-0:["E_JlkbJ6xQdFQoLUwJW99",[[["",{"children":[["slug","03-components/overlays/tooltip","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"overlays\",\"tooltip\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/overlays/tooltip","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/cfcb4480d9c1b998.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
-8:I[18012,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"LinkProvider"]
-9:I[3842,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"NotificationProvider"]
-a:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconMittwald"]
-b:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"default"]
-c:I[25325,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-d:I[28132,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-20:I[47145,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"HeaderNavigation"]
-21:I[3710,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"Content"]
-22:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"OffCanvasTrigger"]
-23:I[18026,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"Button"]
-24:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconMenu"]
-25:I[73404,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"OffCanvas"]
-26:I[989,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Heading"]
-27:I[64580,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Section"]
-148:I[5621,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","31","static/chunks/31-fff22e8c8f979ade.js","734","static/chunks/734-1ddf77695347dca0.js","185","static/chunks/app/layout-8c08f2580031bd75.js"],"default"]
-180:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"default"]
-181:I[69947,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"LayoutCard"]
-182:I[37393,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"ColumnLayout"]
-183:I[48357,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Link"]
-184:I[41451,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"IconExternalLink"]
-185:I[69517,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"default"]
-186:I[31393,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Tabs"]
-187:I[31393,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"Tab"]
-188:I[31393,["737","static/chunks/ce067a8a-5bfcac4fb1be62e9.js","802","static/chunks/d709487a-8b04f0f7982383f9.js","31","static/chunks/31-fff22e8c8f979ade.js","275","static/chunks/275-c070d0d00f53bea8.js","734","static/chunks/734-1ddf77695347dca0.js","877","static/chunks/app/%5B...slug%5D/page-bd0d47c56e31c299.js"],"TabTitle"]
-e:Tbd5,"use strict";
+0:["s2yOTR1yq9b0FWVcW0rGy",[[["",{"children":[["slug","03-components/overlays/tooltip","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"overlays\",\"tooltip\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/overlays/tooltip","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8fe1df7c763621d8.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/e42da72021836268.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/514-popover-component-is-not-exported/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+8:I[70592,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"LinkProvider"]
+9:I[37002,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"NotificationProvider"]
+a:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"IconMittwald"]
+b:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"default"]
+c:I[60939,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+d:I[78825,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+20:I[79503,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"HeaderNavigation"]
+21:I[74453,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"Content"]
+22:I[63997,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"OffCanvasTrigger"]
+23:I[68493,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"Button"]
+24:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"IconMenu"]
+25:I[63997,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"OffCanvas"]
+26:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Heading"]
+27:I[32796,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Section"]
+148:I[40062,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","726","static/chunks/726-674a161773eb827a.js","984","static/chunks/984-7759a08780286f59.js","185","static/chunks/app/layout-bd6e6510650538b7.js"],"default"]
+180:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"default"]
+181:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"LayoutCard"]
+182:I[93235,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"ColumnLayout"]
+183:I[23175,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Link"]
+184:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"IconExternalLink"]
+185:I[92285,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"default"]
+186:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Tabs"]
+187:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"Tab"]
+188:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","726","static/chunks/726-674a161773eb827a.js","742","static/chunks/742-890fe7db3d310463.js","984","static/chunks/984-7759a08780286f59.js","877","static/chunks/app/%5B...slug%5D/page-eac70d6b6f8b7286.js"],"TabTitle"]
+e:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -51,7 +51,7 @@ function _createMdxContent(props) {
         children: _jsxs(_components.p, {
           children: ["Dieses Projekt befindet sich in einer ", _jsx(_components.strong, {
             children: "frühen Entwicklungsphase"
-          }), " weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf das die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
+          }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
@@ -98,7 +98,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-f:T1884,"use strict";
+f:T1887,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -143,9 +143,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können solltest du verstehen wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponenten basiertem und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
-      children: "Generelle Klassennamen Auszeichnungen"
+      children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
         children: "-"
@@ -197,11 +197,11 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h4, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
-      children: ["Es ist gängige Praxis größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
+      children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
         children: "flow--icon"
       }), "),\nsowie den spezialisierten Klassennamen (", _jsx(_components.code, {
         children: "flow--inline-alert--status-icon"
-      }), ") um\nspezifische Styles des Inline Alerts zu erhalten."]
+      }), "), um\nspezifische Styles des Inline Alerts zu erhalten."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "composition"
     })]
@@ -1288,7 +1288,7 @@ import { InlineCode } from "@mittwald/flow-react-components/InlineCode";
     </TableRow>
   </TableBody>
 </Table>;
-29:Tbd5,"use strict";
+29:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1313,7 +1313,7 @@ function _createMdxContent(props) {
         children: _jsxs(_components.p, {
           children: ["Dieses Projekt befindet sich in einer ", _jsx(_components.strong, {
             children: "frühen Entwicklungsphase"
-          }), " weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf das die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
+          }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
@@ -1365,7 +1365,7 @@ function _missingMdxReference(id, component) {
 28:{"compiledSource":"$29","frontmatter":"$2a","scope":"$2b"}
 2c:{}
 2d:["01-get-started","installation"]
-2f:T1884,"use strict";
+2f:T1887,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1410,9 +1410,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
-      children: "Um anfangen zu können solltest du verstehen wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nKomponenten basiertem und leicht zu verstehendem Schema."
+      children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
-      children: "Generelle Klassennamen Auszeichnungen"
+      children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
         children: "-"
@@ -1464,11 +1464,11 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h4, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
-      children: ["Es ist gängige Praxis größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
+      children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
         children: "flow--icon"
       }), "),\nsowie den spezialisierten Klassennamen (", _jsx(_components.code, {
         children: "flow--inline-alert--status-icon"
-      }), ") um\nspezifische Styles des Inline Alerts zu erhalten."]
+      }), "), um\nspezifische Styles des Inline Alerts zu erhalten."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "composition"
     })]
