@@ -1,38 +1,38 @@
 3:I[48978,[],""]
 5:I[71828,[],""]
 4:["slug","03-components/content/image","c"]
-0:["G0PU7GZKGcwwuHnacOi-q",[[["",{"children":[["slug","03-components/content/image","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"content\",\"image\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/content/image","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/05e21d2c96801ba9.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/bdaf5c1742a6cbdc.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/8b4ac0b39bf237ba.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
-8:I[70592,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"LinkProvider"]
-9:I[37002,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"NotificationProvider"]
-a:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"IconMittwald"]
-b:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"default"]
-c:I[60939,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"default"]
-d:I[78825,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"default"]
-20:I[79503,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"HeaderNavigation"]
-21:I[74453,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"Content"]
-22:I[82440,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"ModalTrigger"]
-23:I[68493,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"Button"]
-24:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"IconMenu"]
-25:I[82440,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"Modal"]
-26:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"Heading"]
-27:I[32796,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"Section"]
-143:I[40062,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-8db2b861fefb02c3.js","185","static/chunks/app/layout-ec4eb020648343bc.js"],"default"]
-17a:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"default"]
-17b:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"LayoutCard"]
-17c:I[93235,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"ColumnLayout"]
-17d:I[23175,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"Link"]
-17e:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"IconExternalLink"]
-17f:I[94164,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"default"]
-180:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"Tabs"]
-181:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"Tab"]
-182:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-8db2b861fefb02c3.js","877","static/chunks/app/%5B...slug%5D/page-69fde531a25546a6.js"],"TabTitle"]
+0:["s3V1B7Zh6rI5TZOs8sdY4",[[["",{"children":[["slug","03-components/content/image","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"content\",\"image\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/content/image","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/05e21d2c96801ba9.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/e18643035a637b08.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-button-docs/_next/static/css/5968d4f379908b86.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+8:I[70592,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"LinkProvider"]
+9:I[37002,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"NotificationProvider"]
+a:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"IconMittwald"]
+b:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"default"]
+c:I[60939,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"default"]
+d:I[78825,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"default"]
+20:I[79503,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"HeaderNavigation"]
+21:I[74453,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"Content"]
+22:I[82440,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"ModalTrigger"]
+23:I[68493,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"Button"]
+24:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"IconMenu"]
+25:I[82440,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"Modal"]
+26:I[97252,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"Heading"]
+27:I[32796,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"Section"]
+143:I[40062,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","121","static/chunks/121-da0e74e24fe0f08e.js","777","static/chunks/777-febaf8cc00d3ff18.js","185","static/chunks/app/layout-c7928ea94c9affe5.js"],"default"]
+17a:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"default"]
+17b:I[3481,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"LayoutCard"]
+17c:I[93235,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"ColumnLayout"]
+17d:I[23175,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"Link"]
+17e:I[88874,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"IconExternalLink"]
+17f:I[52646,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"default"]
+180:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"Tabs"]
+181:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"Tab"]
+182:I[92837,["449","static/chunks/5829abfd-6e2fe215f1b289f6.js","802","static/chunks/d709487a-5631ee5ab5812d10.js","121","static/chunks/121-da0e74e24fe0f08e.js","373","static/chunks/373-b84d530adc42804f.js","777","static/chunks/777-febaf8cc00d3ff18.js","877","static/chunks/app/%5B...slug%5D/page-5c054916834b73b9.js"],"TabTitle"]
 e:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
     code: "code",
-    h2: "h2",
+    h1: "h1",
     hr: "hr",
     p: "p",
     pre: "pre",
@@ -54,7 +54,7 @@ function _createMdxContent(props) {
           }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Installation der Flow React Component Library"
     }), "\n", _jsxs(_components.p, {
       children: ["Die Flow React Component Library kann mit einem Package Manager wie ", _jsx(_components.code, {
@@ -69,7 +69,7 @@ function _createMdxContent(props) {
       })
     }), "\n", _jsx(_components.p, {
       children: "Zur leichteren Verwaltung der Abhängigkeiten werden alle Komponenten innerhalb\ndiese Packages bereitgestellt."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Styles importieren"
     }), "\n", _jsx(_components.p, {
       children: "Um die Komponenten Styles zu verwenden, musst du das Stylesheet importieren.\nFüge diese Zeile zum Einstiegspunkt deines Projektes hinzu."
@@ -104,9 +104,9 @@ const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
     code: "code",
+    h1: "h1",
     h2: "h2",
     h3: "h3",
-    h4: "h4",
     hr: "hr",
     p: "p",
     pre: "pre",
@@ -120,7 +120,7 @@ function _createMdxContent(props) {
       children: "Die Flow-Komponenten-Bibliotheken werden über ein gemeinsames Stylesheet, das\nauch für sich alleine verwendet werden kann, gestyled. Das kann nützlich sein,\nwenn du dein eigenes Framework verwendest, um Komponenten zu bauen, und dich\ndabei an die mittwald Styling Guidelines halten willst."
     }), "\n", _jsx(_components.p, {
       children: "Auf dieser Seite findest du alle Informationen darüber, wie du das Stylesheet\ninstallieren kannst und wie die Klassennamen strukturiert sind."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Installation des Standalone Stylesheets"
     }), "\n", _jsxs(_components.p, {
       children: ["Zum aktuellen Entwicklungsstand des Projektes kannst du das Stylesheet nur über\nNPM installieren. Die Flow-Stylesheet-Bibliothek kann über einen Package Manager\nwie ", _jsx(_components.code, {
@@ -132,7 +132,7 @@ function _createMdxContent(props) {
       children: _jsx(_components.code, {
         children: "yarn add @mittwald/flow-stylesheet\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Styles importieren"
     }), "\n", _jsx(_components.p, {
       children: "Um die Komponenten Styles zu verwenden, musst du das Stylesheet importieren.\nFüge diese Zeile zum Einstiegspunkt deines Projektes hinzu."
@@ -140,11 +140,11 @@ function _createMdxContent(props) {
       children: _jsx(_components.code, {
         children: "import \"@mittwald/flow-stylesheet/css\";\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
       children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
@@ -156,31 +156,31 @@ function _createMdxContent(props) {
       children: ["Der erste logische Abschnitt ist immer der ", _jsx(_components.code, {
         children: "flow"
       }), " Namespace. Andere Abschnitte\nkönnten beispielsweise so aussehen:"]
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button\n.flow--heading\n.flow--status-icon\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Sub-Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--navigation\n.flow--navigation--navigation-item\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Spezialisierung: Verschiedene Varianten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button--primary\n.flow--inline-alert--danger\n.flow--icon--fixed-width\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Spezialisierung: In einer Komposition verwendete Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button--icon\n.flow--inline-alert--status-icon\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Ein Hinweis zur Spezialisierung"
     }), "\n", _jsxs(_components.p, {
       children: ["Klassennamen die verwendet werden, um die Basiskomponente zu spezialisieren,\nmüssen immer ", _jsx(_components.strong, {
@@ -190,11 +190,11 @@ function _createMdxContent(props) {
       children: "Hier ein paar Beispiele um die diese Anforderung zu verdeutlichen:"
     }), "\n", _jsx(LiveCodeEditor, {
       example: "variants"
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Kombinierte Varianten"
     }), "\n", _jsx(LiveCodeEditor, {
       example: "multiple-variants"
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
       children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
@@ -230,8 +230,8 @@ const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
+    h1: "h1",
     h2: "h2",
-    h3: "h3",
     hr: "hr",
     li: "li",
     p: "p",
@@ -243,7 +243,7 @@ function _createMdxContent(props) {
   if (!DoAndDont) _missingMdxReference("DoAndDont", true);
   if (!Dont) _missingMdxReference("Dont", true);
   return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
+    children: [_jsx(_components.h1, {
       children: "Best Practices"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsx(_components.li, {
@@ -255,9 +255,9 @@ function _createMdxContent(props) {
       }), "\n", _jsx(_components.li, {
         children: "Unterscheide verschiedene Arten von Fehlermeldungen, basierend auf ihrem\nUmfang und ihrer Dringlichkeit."
       }), "\n"]
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Grundlagen"
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Kurz und hilfreich"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen sollten kurz, sinnvoll und hilfreich für den Nutzer sein. Es\ngilt: So kurz wie möglich, aber so lang wie nötig. Das bedeutet allerdings auch,\ndass es in manchen Fällen ausreichend sein kann, nur die Lösung zu nennen."
@@ -267,7 +267,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Bitte gib eine E-Mail-Adresse im Format name@domain.de ein."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Verständliche Sprache, keine Fachsprache"
     }), "\n", _jsx(_components.p, {
       children: "Vermeide technische Begriffe und konzentriere dich auf eine einfach\nverständliche Sprache. Nutzer verstehen so am ehesten, was schiefgelaufen ist\nund wie sie das Problem lösen können."
@@ -277,7 +277,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten keine Verbindung zum Server herstellen. Bitte versuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Schuldzuweisungen vermeiden"
     }), "\n", _jsx(_components.p, {
       children: "Ein Fehler an sich ist bereits unangenehm und frustrierend. Daher sollte die\nFehlermeldung dem Nutzer das Gefühl von Unterstützung und Fürsorge vermitteln,\nanstatt ihm ein Schuldgefühl zu vermitteln oder seine Frustration zu verstärken."
@@ -287,7 +287,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten das Bild nicht hochladen. Bitte überprüfe die Dateigröße und\nversuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Fehler eingestehen, Verständnis erleichtern"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen sind einfacher zu verstehen, wenn sie sich auf das System als\n\"wir\" und den Nutzer als \"du\" beziehen. So werden die Fragen \"Wo ist etwas\nschiefgegangen?\" und \"Wer muss handeln, um es zu beheben?\" einfach und\nverständlich beantwortet."
@@ -297,7 +297,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten dein Passwort nicht zurücksetzen. Bitte überprüfe die E-Mail-Adresse\nund versuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Keine ungerechtfertigten Entschuldigungen"
     }), "\n", _jsx(_components.p, {
       children: "Entschuldige dich nicht für kleine Fehler. Dies kann Fehler oft schlimmer\nerscheinen lassen und vom wichtigen Teil der Nachricht ablenken.\nEntschuldigungen sollten für ernsthafte Fehler aufgespart werden, wie den\nVerlust von Daten oder wenn der Nutzer eine größere Aktion zur Behebung des\nProblems ausführen muss."
@@ -313,7 +313,7 @@ function _createMdxContent(props) {
           children: "Entschuldige Dich bei ernsthaften Fehlern, z.B. einem systembedingten Verlust von Daten."
         })
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Wahrscheinlichsten Fehler nennen"
     }), "\n", _jsx(_components.p, {
       children: "Wenn ein Fehler genau eine Ursache hat, dann erkläre, wie der Fehler zu beheben\nist. Gibt es mehrere mögliche Gründe, so sollte die Fehlermeldung beschreiben,\nwie der wahrscheinlichste Grund zu beheben ist."
@@ -323,7 +323,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Dein Passwort muss mindestens 8 Zeichen enthalten."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Nicht zu spezifisch"
     }), "\n", _jsx(_components.p, {
       children: "Formuliere Fehlermeldungen lieber etwas allgemeiner als zu spezifisch. Oft ist\nes nicht erforderlich, spezifische Details wie Dateinamen, Benutzernamen oder\nOrdner zu nennen, da der Nutzer diese Informationen an anderen Stellen in der\nBenutzeroberfläche finden kann."
@@ -333,7 +333,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten die Datei nicht hochladen. Bitte verwende eine Datei vom Typ XY."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Aktiv schreiben"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen werden aktiv formuliert, um das Verständnis zu erleichtern."
@@ -343,7 +343,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir unterstützen nur Dateien vom Typ XY."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Positiv formulieren"
     }), "\n", _jsx(_components.p, {
       children: "Versuche, Fehlermeldungen positiv zu formulieren und auf negativ besetzte\nBegriffe (z.B. Fehler, Problem, fehlgeschlagen, falsch, ungültig, verboten, ...)\nzu verzichten. Konzentriere dich stattdessen auf die Lösung und was als nächstes\ngetan werden kann. Beachte jedoch, dass dies in Fällen von Systemfehlern, für\ndie es keine direkte Lösung gibt, nicht immer möglich ist."
@@ -1310,7 +1310,7 @@ const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
     code: "code",
-    h2: "h2",
+    h1: "h1",
     hr: "hr",
     p: "p",
     pre: "pre",
@@ -1332,7 +1332,7 @@ function _createMdxContent(props) {
           }), ", weswegen\nwir keine Garantie zur Stabilität bieten können. Du kannst dieses Projekt\ndennoch gerne ausprobieren, verlasse dich aber bitte nicht darauf, dass die\naktuellen Inhalte in dieser Form bestehen bleiben. Wir freuen uns über jedes\nFeedback zum aktuellen Entwicklungsstand!"]
         })
       })]
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Installation der Flow React Component Library"
     }), "\n", _jsxs(_components.p, {
       children: ["Die Flow React Component Library kann mit einem Package Manager wie ", _jsx(_components.code, {
@@ -1347,7 +1347,7 @@ function _createMdxContent(props) {
       })
     }), "\n", _jsx(_components.p, {
       children: "Zur leichteren Verwaltung der Abhängigkeiten werden alle Komponenten innerhalb\ndiese Packages bereitgestellt."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Styles importieren"
     }), "\n", _jsx(_components.p, {
       children: "Um die Komponenten Styles zu verwenden, musst du das Stylesheet importieren.\nFüge diese Zeile zum Einstiegspunkt deines Projektes hinzu."
@@ -1387,9 +1387,9 @@ const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
     code: "code",
+    h1: "h1",
     h2: "h2",
     h3: "h3",
-    h4: "h4",
     hr: "hr",
     p: "p",
     pre: "pre",
@@ -1403,7 +1403,7 @@ function _createMdxContent(props) {
       children: "Die Flow-Komponenten-Bibliotheken werden über ein gemeinsames Stylesheet, das\nauch für sich alleine verwendet werden kann, gestyled. Das kann nützlich sein,\nwenn du dein eigenes Framework verwendest, um Komponenten zu bauen, und dich\ndabei an die mittwald Styling Guidelines halten willst."
     }), "\n", _jsx(_components.p, {
       children: "Auf dieser Seite findest du alle Informationen darüber, wie du das Stylesheet\ninstallieren kannst und wie die Klassennamen strukturiert sind."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Installation des Standalone Stylesheets"
     }), "\n", _jsxs(_components.p, {
       children: ["Zum aktuellen Entwicklungsstand des Projektes kannst du das Stylesheet nur über\nNPM installieren. Die Flow-Stylesheet-Bibliothek kann über einen Package Manager\nwie ", _jsx(_components.code, {
@@ -1415,7 +1415,7 @@ function _createMdxContent(props) {
       children: _jsx(_components.code, {
         children: "yarn add @mittwald/flow-stylesheet\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Styles importieren"
     }), "\n", _jsx(_components.p, {
       children: "Um die Komponenten Styles zu verwenden, musst du das Stylesheet importieren.\nFüge diese Zeile zum Einstiegspunkt deines Projektes hinzu."
@@ -1423,11 +1423,11 @@ function _createMdxContent(props) {
       children: _jsx(_components.code, {
         children: "import \"@mittwald/flow-stylesheet/css\";\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Anwendung des Stylesheets"
     }), "\n", _jsx(_components.p, {
       children: "Um anfangen zu können, solltest du verstehen, wie die Klassennamen strukturiert\nsind. Die im Stylesheet bereitgestellten Klassennamen folgen einem konsistenten,\nkomponentenbasierten und leicht zu verstehendem Schema."
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Generelle Klassennamen-Auszeichnungen"
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Klassennamen sind in Lowercase geschrieben und benutzen ", _jsx(_components.code, {
@@ -1439,31 +1439,31 @@ function _createMdxContent(props) {
       children: ["Der erste logische Abschnitt ist immer der ", _jsx(_components.code, {
         children: "flow"
       }), " Namespace. Andere Abschnitte\nkönnten beispielsweise so aussehen:"]
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button\n.flow--heading\n.flow--status-icon\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Sub-Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--navigation\n.flow--navigation--navigation-item\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Spezialisierung: Verschiedene Varianten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button--primary\n.flow--inline-alert--danger\n.flow--icon--fixed-width\n"
       })
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Spezialisierung: In einer Komposition verwendete Komponenten"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: ".flow--button--icon\n.flow--inline-alert--status-icon\n"
       })
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
       children: "Ein Hinweis zur Spezialisierung"
     }), "\n", _jsxs(_components.p, {
       children: ["Klassennamen die verwendet werden, um die Basiskomponente zu spezialisieren,\nmüssen immer ", _jsx(_components.strong, {
@@ -1473,11 +1473,11 @@ function _createMdxContent(props) {
       children: "Hier ein paar Beispiele um die diese Anforderung zu verdeutlichen:"
     }), "\n", _jsx(LiveCodeEditor, {
       example: "variants"
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "Kombinierte Varianten"
     }), "\n", _jsx(LiveCodeEditor, {
       example: "multiple-variants"
-    }), "\n", _jsx(_components.h4, {
+    }), "\n", _jsx(_components.h3, {
       children: "In einer Komposition verwendete Komponenten"
     }), "\n", _jsxs(_components.p, {
       children: ["Es ist gängige Praxis, größere Komponenten aus bereits bestehenden kleineren\nKomponenten zusammenzusetzen. Der InlineAlert besteht beispielsweise aus einem\nIcon, einer Heading und optionalem Inhalt. Die verwendeten Komponenten müssen\nihren Basis-Klassennamen für das grundsätzliche Styling erhalten (", _jsx(_components.code, {
@@ -1518,8 +1518,8 @@ const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
+    h1: "h1",
     h2: "h2",
-    h3: "h3",
     hr: "hr",
     li: "li",
     p: "p",
@@ -1531,7 +1531,7 @@ function _createMdxContent(props) {
   if (!DoAndDont) _missingMdxReference("DoAndDont", true);
   if (!Dont) _missingMdxReference("Dont", true);
   return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
+    children: [_jsx(_components.h1, {
       children: "Best Practices"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsx(_components.li, {
@@ -1543,9 +1543,9 @@ function _createMdxContent(props) {
       }), "\n", _jsx(_components.li, {
         children: "Unterscheide verschiedene Arten von Fehlermeldungen, basierend auf ihrem\nUmfang und ihrer Dringlichkeit."
       }), "\n"]
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Grundlagen"
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Kurz und hilfreich"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen sollten kurz, sinnvoll und hilfreich für den Nutzer sein. Es\ngilt: So kurz wie möglich, aber so lang wie nötig. Das bedeutet allerdings auch,\ndass es in manchen Fällen ausreichend sein kann, nur die Lösung zu nennen."
@@ -1555,7 +1555,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Bitte gib eine E-Mail-Adresse im Format name@domain.de ein."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Verständliche Sprache, keine Fachsprache"
     }), "\n", _jsx(_components.p, {
       children: "Vermeide technische Begriffe und konzentriere dich auf eine einfach\nverständliche Sprache. Nutzer verstehen so am ehesten, was schiefgelaufen ist\nund wie sie das Problem lösen können."
@@ -1565,7 +1565,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten keine Verbindung zum Server herstellen. Bitte versuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Schuldzuweisungen vermeiden"
     }), "\n", _jsx(_components.p, {
       children: "Ein Fehler an sich ist bereits unangenehm und frustrierend. Daher sollte die\nFehlermeldung dem Nutzer das Gefühl von Unterstützung und Fürsorge vermitteln,\nanstatt ihm ein Schuldgefühl zu vermitteln oder seine Frustration zu verstärken."
@@ -1575,7 +1575,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten das Bild nicht hochladen. Bitte überprüfe die Dateigröße und\nversuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Fehler eingestehen, Verständnis erleichtern"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen sind einfacher zu verstehen, wenn sie sich auf das System als\n\"wir\" und den Nutzer als \"du\" beziehen. So werden die Fragen \"Wo ist etwas\nschiefgegangen?\" und \"Wer muss handeln, um es zu beheben?\" einfach und\nverständlich beantwortet."
@@ -1585,7 +1585,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten dein Passwort nicht zurücksetzen. Bitte überprüfe die E-Mail-Adresse\nund versuche es erneut."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Keine ungerechtfertigten Entschuldigungen"
     }), "\n", _jsx(_components.p, {
       children: "Entschuldige dich nicht für kleine Fehler. Dies kann Fehler oft schlimmer\nerscheinen lassen und vom wichtigen Teil der Nachricht ablenken.\nEntschuldigungen sollten für ernsthafte Fehler aufgespart werden, wie den\nVerlust von Daten oder wenn der Nutzer eine größere Aktion zur Behebung des\nProblems ausführen muss."
@@ -1601,7 +1601,7 @@ function _createMdxContent(props) {
           children: "Entschuldige Dich bei ernsthaften Fehlern, z.B. einem systembedingten Verlust von Daten."
         })
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Wahrscheinlichsten Fehler nennen"
     }), "\n", _jsx(_components.p, {
       children: "Wenn ein Fehler genau eine Ursache hat, dann erkläre, wie der Fehler zu beheben\nist. Gibt es mehrere mögliche Gründe, so sollte die Fehlermeldung beschreiben,\nwie der wahrscheinlichste Grund zu beheben ist."
@@ -1611,7 +1611,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Dein Passwort muss mindestens 8 Zeichen enthalten."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Nicht zu spezifisch"
     }), "\n", _jsx(_components.p, {
       children: "Formuliere Fehlermeldungen lieber etwas allgemeiner als zu spezifisch. Oft ist\nes nicht erforderlich, spezifische Details wie Dateinamen, Benutzernamen oder\nOrdner zu nennen, da der Nutzer diese Informationen an anderen Stellen in der\nBenutzeroberfläche finden kann."
@@ -1621,7 +1621,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir konnten die Datei nicht hochladen. Bitte verwende eine Datei vom Typ XY."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Aktiv schreiben"
     }), "\n", _jsx(_components.p, {
       children: "Fehlermeldungen werden aktiv formuliert, um das Verständnis zu erleichtern."
@@ -1631,7 +1631,7 @@ function _createMdxContent(props) {
       }), _jsx(Do, {
         exampleText: "Wir unterstützen nur Dateien vom Typ XY."
       })]
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Positiv formulieren"
     }), "\n", _jsx(_components.p, {
       children: "Versuche, Fehlermeldungen positiv zu formulieren und auf negativ besetzte\nBegriffe (z.B. Fehler, Problem, fehlgeschlagen, falsch, ungültig, verboten, ...)\nzu verzichten. Konzentriere dich stattdessen auf die Lösung und was als nächstes\ngetan werden kann. Beachte jedoch, dass dies in Fällen von Systemfehlern, für\ndie es keine direkte Lösung gibt, nicht immer möglich ist."
@@ -2907,13 +2907,13 @@ const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
-    h2: "h2",
+    h1: "h1",
     ..._provideComponents(),
     ...props.components
   }, {LiveCodeEditor} = _components;
   if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
   return _jsxs(_Fragment, {
-    children: [_jsx(_components.h2, {
+    children: [_jsx(_components.h1, {
       children: "Beispiel"
     }), "\n", _jsx(LiveCodeEditor, {})]
   });
@@ -2936,6 +2936,6 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-2:[["$","$L17b",null,{"children":["$","$L17c",null,{"l":[1,1],"m":[1],"children":[["$","$L27",null,{"children":[["$","$Lb",null,{"level":1,"children":"Image"}],"Mit der Image-Komponente können Bilder angezeigt werden.",["$","$L17d",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Image","children":["GitHub",["$","$L17e",null,{}]]}]]}],["$","$L17f",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Image","description":"Mit der Image-Komponente können Bilder angezeigt werden."},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n  width={200}\n/>;\n"},"slugs":["03-components","content","image"],"filename":"03-components/content/image/index.mdx"}}]]}]}],["$","$L17b",null,{"children":["$","$L180",null,{"children":[["$","$L181",null,{"children":[["$","$L182",null,{"children":"Overview"}],["$","$L27",null,{"children":["$","$L17f",null,{"mdxFile":{"mdxSource":{"compiledSource":"$183","frontmatter":{},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n  width={200}\n/>;\n"},"slugs":["03-components","content","image"],"filename":"03-components/content/image/overview.mdx"}}]}]]}],"$undefined","$undefined"]}]}]]
+2:[["$","$L17b",null,{"children":["$","$L17c",null,{"l":[1,1],"m":[1],"children":[["$","$L27",null,{"children":[["$","$Lb",null,{"level":1,"levelVisual":1,"children":"Image"}],"Mit der Image-Komponente können Bilder angezeigt werden.",["$","$L17d",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Image","children":["GitHub",["$","$L17e",null,{}]]}]]}],["$","$L17f",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Image","description":"Mit der Image-Komponente können Bilder angezeigt werden."},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n  width={200}\n/>;\n"},"slugs":["03-components","content","image"],"filename":"03-components/content/image/index.mdx"}}]]}]}],["$","$L17b",null,{"children":["$","$L180",null,{"children":[["$","$L181",null,{"children":[["$","$L182",null,{"children":"Overview"}],["$","div",null,{"className":"layout_tabContent__XP2n_","children":["$","$L17f",null,{"mdxFile":{"mdxSource":{"compiledSource":"$183","frontmatter":{},"scope":{}},"examples":{"default":"import Image from \"@mittwald/flow-react-components/Image\";\n\n<Image\n  src=\"https://cdn.shopify.com/s/files/1/2022/6883/products/IMG_2002_250x250@2x.JPG?v=1538235544\"\n  alt=\"Gopher\"\n  width={200}\n/>;\n"},"slugs":["03-components","content","image"],"filename":"03-components/content/image/overview.mdx"}}]}]]}],"$undefined","$undefined"]}]}]]
 7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Image"}],["$","link","3",{"rel":"icon","href":"/flow-previews/docs/add-button-docs/favicon.ico","type":"image/x-icon","sizes":"48x48"}]]
 1:null
