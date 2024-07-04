@@ -1,0 +1,10 @@
+import{R as r}from"./index-BwDkhjyp.js";import{P as i}from"./PopoverTrigger-DfYVWCk8.js";import{B as a}from"./Button-CGYujOOx.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import s from"./Default.stories-TjhTOlyY.js";import{$ as g}from"./OverlayTrigger-CcMw9uE5.js";import"./_commonjsHelpers-BosuxZz1.js";import"./clsx-B-dksMZM.js";import"./flowComponent-pf1ZT_RA.js";import"./PropsContextProvider-DR_AoDrQ.js";import"./index-D1Z7wIYD.js";import"./index-B8XB3FuZ.js";import"./OverlayArrow-CTAo9QmE.js";import"./useFocusable-Di1f8vLw.js";import"./utils-_0I8Kdxf.js";import"./number-nHrFdSb-.js";import"./useLocalizedStringFormatter-BgjAeG81.js";import"./useControlledState-C0C-dzuH.js";import"./IconApp-C-B10zNi.js";import"./IconWarning-D08KcEGW.js";import"./Wrap-DQq6jo70.js";import"./Text-OHQxmlAI.js";import"./EmulatedBoldText-B1t6hs5E.js";import"./Text-YaHrFsZr.js";import"./LoadingSpinner-BjsJqdEZ.js";import"./Button-j9P20aTv.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-CipJ8IEr.js";import"./RSPContexts-Bc9pl35m.js";import"./PressResponder-CS6YBkA6.js";import"./FocusScope-h9apr_hQ.js";import"./getScrollParent-CcmJp979.js";import"./useLabels-h5MY4Xo1.js";import"./VisuallyHidden-CctDujdB.js";import"./context-ZkthLU-2.js";import"./useSelector-Pyc-engy.js";const Q={...s,title:"Overlays/Popover/Edge Cases",component:i},o={render:n=>r.createElement(g,null,r.createElement(a,null,"Trigger popover"),r.createElement(i,{...n,placement:"bottom right"},t.long,t.long,t.long))};var m,e,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  render: props => <Aria.DialogTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </Aria.DialogTrigger>
+}`,...(p=(e=o.parameters)==null?void 0:e.docs)==null?void 0:p.source}}};const U=["LongContent"];export{o as LongContent,U as __namedExportsOrder,Q as default};
