@@ -1,0 +1,1 @@
+.flow--image-upload{display:flex;align-items:center;justify-content:center}.flow--image-upload .flow--image-upload--file-drop-zone{flex-grow:1}.flow--image-upload .flow--image-upload--image-cropper-container{display:flex;align-items:flex-start;column-gap:var(--image-upload--cropper-to-button-spacing)}.flow--image-upload .flow--image-upload--canvas{display:none}
