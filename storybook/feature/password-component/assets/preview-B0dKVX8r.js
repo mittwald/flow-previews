@@ -1,0 +1,1 @@
+import{R as t}from"./index-BwDkhjyp.js";import"./_commonjsHelpers-BosuxZz1.js";const a={tags:["autodocs"],decorators:[o=>(document.body.classList.add("flow"),t.createElement(o,null))],globalTypes:{rtlDirection:{}},parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}}};export{a as default};
