@@ -1,4 +1,4 @@
-0:["rhN3rBfm8wQyQgJGmiP6k",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/list-search/_next/static/css/7f1b17d4ef76d6e6.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/list-search/_next/static/css/5968d4f379908b86.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
+0:["e_i3GF_eXf1_3bYhepsep",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/list-search/_next/static/css/7f1b17d4ef76d6e6.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/list-search/_next/static/css/5968d4f379908b86.css","precedence":"next","crossOrigin":"$undefined"}]],"$L4"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;01-get-started/installation;307;"}
 5:I[70592,["757","static/chunks/32b1aad9-427768397fcd00f9.js","819","static/chunks/819-edf0156be13999ca.js","20","static/chunks/20-4cd8f10605a69e8b.js","185","static/chunks/app/layout-9bd02dba8b949d4a.js"],"LinkProvider"]
 6:I[37002,["757","static/chunks/32b1aad9-427768397fcd00f9.js","819","static/chunks/819-edf0156be13999ca.js","20","static/chunks/20-4cd8f10605a69e8b.js","185","static/chunks/app/layout-9bd02dba8b949d4a.js"],"NotificationProvider"]
@@ -1577,7 +1577,7 @@ import Content from "@mittwald/flow-react-components/Content";
     </Content>
   </InlineAlert>
 </Row>;
-1e:T763,import {
+1e:T77f,import {
   ListItem,
   typedList,
 } from "@mittwald/flow-react-components/List";
@@ -1602,6 +1602,7 @@ export default () => {
   return (
     <DomainList.List batchSize={5}>
       <DomainList.StaticData data={domains} />
+      <DomainList.Search />
       <DomainList.Filter
         property="type"
         mode="some"
@@ -3721,7 +3722,7 @@ import Content from "@mittwald/flow-react-components/Content";
 13b:{"component":"List","description":"Die List-Component stellt eine Liste von Elementen mit verschiedenen Informationen dar."}
 13c:{}
 13a:{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"main\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$13b","scope":"$13c"}
-13e:T763,import {
+13e:T77f,import {
   ListItem,
   typedList,
 } from "@mittwald/flow-react-components/List";
@@ -3746,6 +3747,7 @@ export default () => {
   return (
     <DomainList.List batchSize={5}>
       <DomainList.StaticData data={domains} />
+      <DomainList.Search />
       <DomainList.Filter
         property="type"
         mode="some"
