@@ -1,0 +1,1 @@
+function c(t,l){let e=window.getComputedStyle(t),o=/(auto|scroll)/.test(e.overflow+e.overflowX+e.overflowY);return o&&l&&(o=t.scrollHeight!==t.clientHeight||t.scrollWidth!==t.clientWidth),o}function r(t,l){let e=t;for(c(e,l)&&(e=e.parentElement);e&&!c(e,l);)e=e.parentElement;return e||document.scrollingElement||document.documentElement}export{c as $,r as a};
