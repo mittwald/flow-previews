@@ -1,1 +1,0 @@
-import{a as $}from"./utils-_0I8Kdxf.js";import{$ as o}from"./Collection-BUjDbYEY.js";import{r as f,R as b}from"./index-BwDkhjyp.js";const d=f.createContext({});function s(e,a){let[r,c]=$(e,a,d),t=o("header",e,a);return t||b.createElement("header",{className:"react-aria-Header",...r,ref:c},r.children)}const x=f.forwardRef(s);export{x as $};
