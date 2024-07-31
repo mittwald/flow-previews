@@ -1,0 +1,5 @@
+import{L as t}from"./Label-C-YBza_T.js";import{R as c}from"./index-Cs7sjTYM.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-C-7PaZ52.js";import"./index-Dy0c0dcE.js";import"./flowComponent-S4fYrZHa.js";import"./index-BMdlDBjA.js";import"./_commonjsHelpers-BosuxZz1.js";import"./useLocalizedStringFormatter-Ccpl5Mb8.js";import"./Label-8PgMpAzA.js";import"./utils-Cy-A-nlV.js";const R={title:"Content/Label",component:t,render:i=>c.createElement(t,{...i},"Label")},r={},e={args:{optional:!0}};var o,a,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:"{}",...(s=(a=r.parameters)==null?void 0:a.docs)==null?void 0:s.source}}};var p,m,n;e.parameters={...e.parameters,docs:{...(p=e.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    optional: true
+  }
+}`,...(n=(m=e.parameters)==null?void 0:m.docs)==null?void 0:n.source}}};const S=["Default","Optional"];export{r as Default,e as Optional,S as __namedExportsOrder,R as default};
