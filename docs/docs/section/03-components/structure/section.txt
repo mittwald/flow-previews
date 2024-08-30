@@ -1,7 +1,7 @@
 3:I[60821,[],""]
 5:I[28002,[],""]
 4:["slug","03-components/structure/section","c"]
-0:["hfOJLS6t7a8Lk8lP-_stE",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
+0:["zkK-E7VXeLv0uVlrDLHAi",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
 8:I[92023,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"LinkProvider"]
 9:I[65298,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"NotificationProvider"]
 a:I[13647,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","802","static/chunks/d709487a-0fa76f6ca953b96e.js","19","static/chunks/19-1ee3a6e1f12621a1.js","574","static/chunks/574-c2d948c51f110821.js","434","static/chunks/434-d32372ea168a427a.js","877","static/chunks/app/%5B...slug%5D/page-1c33a868d97d7bd1.js"],"IconMittwald"]
@@ -4763,7 +4763,7 @@ import { IconExternalLink } from "@mittwald/flow-react-components/Icons";
     </ColumnLayout>
   </Content>
 </Section>;
-1a8:T2661,"use strict";
+1a8:T2529,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -4832,18 +4832,13 @@ function _createMdxContent(props) {
       children: "Anwendung"
     }), "\n", _jsx(_components.h2, {
       children: "Abstände"
-    }), "\n", _jsxs(_components.ul, {
-      children: ["\n", _jsxs(_components.li, {
-        children: [_jsx(_components.a, {
-          href: "/03-components/content/heading",
-          children: "Heading"
-        }), " und Content haben einen Abstand von\n16px. Aufeinanderfolgende Sections werden von einem\n", _jsx(_components.a, {
-          href: "/03-components/structure/seperator",
-          children: "Separator"
-        }), " und je 32px Abstand getrennt.\nDiese Abstände sorgen für eine klare visuelle Struktur und Hierarchie. Soweit\nmöglich, sollten sie nicht verändert werden."]
-      }), "\n", _jsx(_components.li, {
-        children: "Innerhalb des Content-Bereichs erzeugt die Section einen Abstand von 8px\nzwischen Elementen. Achte darauf, diesen Abstand möglichst beizubehalten.\nFalls Anpassungen nötig sind, sollte der Abstand nicht kleiner als 8px und\nnicht größer als 32px sein."
-      }), "\n"]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Section liefert automatisch Abstände zwischen Elementen, die in ihr\nplatziert werden. Aufeinanderfolgende Sections werden zusätzlich durch einen\n", _jsx(_components.a, {
+        href: "/03-components/structure/seperator",
+        children: "Separator"
+      }), " getrennt."]
+    }), "\n", _jsx(_components.p, {
+      children: "Im Standard entsteht so eine klare visuelle Struktur und Hierarchie für den\nContent, der in einer Section platziert wird. Falls du Abstände anpassen musst,\nachte darauf, dass sie unserem generellen Spacing entsprechen."
     }), "\n", _jsx(_components.h2, {
       children: "Position"
     }), "\n", _jsx(_components.p, {
