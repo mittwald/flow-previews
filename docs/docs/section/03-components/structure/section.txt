@@ -1,7 +1,7 @@
 3:I[60821,[],""]
 5:I[28002,[],""]
 4:["slug","03-components/structure/section","c"]
-0:["zkK-E7VXeLv0uVlrDLHAi",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
+0:["_f0k9Vxjb6Dz31-SAj865",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
 8:I[92023,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"LinkProvider"]
 9:I[65298,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"NotificationProvider"]
 a:I[13647,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","802","static/chunks/d709487a-0fa76f6ca953b96e.js","19","static/chunks/19-1ee3a6e1f12621a1.js","574","static/chunks/574-c2d948c51f110821.js","434","static/chunks/434-d32372ea168a427a.js","877","static/chunks/app/%5B...slug%5D/page-1c33a868d97d7bd1.js"],"IconMittwald"]
@@ -4763,7 +4763,7 @@ import { IconExternalLink } from "@mittwald/flow-react-components/Icons";
     </ColumnLayout>
   </Content>
 </Section>;
-1a8:T2529,"use strict";
+1a8:T241a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -4777,9 +4777,9 @@ function _createMdxContent(props) {
     ul: "ul",
     ..._provideComponents(),
     ...props.components
-  }, {ColumnLayout, Do, Dont, Info} = _components;
-  if (!ColumnLayout) _missingMdxReference("ColumnLayout", true);
+  }, {Do, DoAndDont, Dont, Info} = _components;
   if (!Do) _missingMdxReference("Do", true);
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
   if (!Dont) _missingMdxReference("Dont", true);
   if (!Info) _missingMdxReference("Info", true);
   return _jsxs(_Fragment, {
@@ -4803,10 +4803,7 @@ function _createMdxContent(props) {
         }), " oder\n", _jsx(_components.a, {
           href: "/03-components/actions/button",
           children: "Buttons"
-        }), " (siehe\n", _jsx(_components.a, {
-          href: "/03-components/structure/section",
-          children: "Overview"
-        }), ")."]
+        }), "."]
       }), "\n", _jsx(_components.li, {
         children: "Verwendest du mehrere Sections, sollte die wichtigste ganz oben stehen."
       }), "\n"]
@@ -4923,25 +4920,20 @@ function _createMdxContent(props) {
           children: "StatusBadge"
         }), " bleibt immer auf einer\nHöhe mit dem Titel. Ist der Titel zu lang, wird er zweizeilig."]
       }), "\n"]
-    }), "\n", _jsxs(ColumnLayout, {
-      m: [1, 1],
-      children: [_jsx("div", {
-        children: _jsx(Info, {
-          mobile: true,
-          heading: "Mobile",
-          example: "status-badge",
-          children: _jsx(_components.p, {
-            children: "Wenn die Section nicht alle Inhalte horizontal darstellen kann, springen\ndie Actions in die nächste Zeile. Dort ordnen sie sich weiterhin rechts\nan."
-          })
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Info, {
+        mobile: true,
+        heading: "Mobile",
+        example: "status-badge",
+        children: _jsx(_components.p, {
+          children: "Wenn die Section nicht alle Inhalte horizontal darstellen kann, springen die\nActions in die nächste Zeile. Dort ordnen sie sich weiterhin rechts an."
         })
-      }), _jsx("div", {
-        children: _jsx(Info, {
-          mobile: true,
-          heading: "Textumbruch Heading",
-          example: "long-heading",
-          children: _jsx(_components.p, {
-            children: "StatusBadge und Heading bleiben immer auf einer Höhe. Ist der Text zu\nlang, bricht er in die nächste Zeile um."
-          })
+      }), _jsx(Info, {
+        mobile: true,
+        heading: "Textumbruch Heading",
+        example: "long-heading",
+        children: _jsx(_components.p, {
+          children: "StatusBadge und Heading bleiben immer auf einer Höhe. Ist der Text zu lang,\nbricht er in die nächste Zeile um."
         })
       })]
     })]
