@@ -1,7 +1,7 @@
 3:I[60821,[],""]
 5:I[28002,[],""]
 4:["slug","03-components/structure/section","c"]
-0:["_f0k9Vxjb6Dz31-SAj865",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
+0:["Cv1U1qYNWj8oqBHWPuMtY",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/ea28f6bd44e80e23.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/docs/section/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
 8:I[92023,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"LinkProvider"]
 9:I[65298,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","19","static/chunks/19-1ee3a6e1f12621a1.js","434","static/chunks/434-d32372ea168a427a.js","185","static/chunks/app/layout-f8c21be62f24ec63.js"],"NotificationProvider"]
 a:I[13647,["635","static/chunks/4a40281a-4c7550fe615d4da0.js","802","static/chunks/d709487a-0fa76f6ca953b96e.js","19","static/chunks/19-1ee3a6e1f12621a1.js","574","static/chunks/574-c2d948c51f110821.js","434","static/chunks/434-d32372ea168a427a.js","877","static/chunks/app/%5B...slug%5D/page-1c33a868d97d7bd1.js"],"IconMittwald"]
@@ -4456,7 +4456,7 @@ import { IconExternalLink } from "@mittwald/flow-react-components/Icons";
     </ColumnLayout>
   </Content>
 </Section>;
-1a3:Tec7,"use strict";
+1a3:Tecc,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -4477,14 +4477,14 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Verwende ", _jsx(_components.code, {
         children: "<Section />"
-      }), ", um eine Section darzustellen. Innerhalb einer Section\nerhalten Elemente automatisch einen Abstand von 16px."]
+      }), ", um eine Section darzustellen. Eine Section erzeugt\nautomatisch feste Abstände zwischen den Elementen, die in ihr platziert werden."]
     }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Mehrere Sections"
     }), "\n", _jsxs(_components.p, {
-      children: ["Wenn du mehrere Sections untereinander platzierst, werden sie automatisch durch\n", _jsx(_components.a, {
+      children: ["Wenn du mehrere Sections untereinander platzierst, werden sie automatisch durch\neinen ", _jsx(_components.a, {
         href: "/03-components/structure/separator",
         children: "Separator"
-      }), " einen mit jeweils 32 px\ngetrennt."]
+      }), " getrennt."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "multiple",
       editorCollapsed: true
@@ -4763,7 +4763,7 @@ import { IconExternalLink } from "@mittwald/flow-react-components/Icons";
     </ColumnLayout>
   </Content>
 </Section>;
-1a8:T241a,"use strict";
+1a8:T2415,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -4887,7 +4887,7 @@ function _createMdxContent(props) {
       }), ".\nDarauf folgt der eigentliche Content – also Informationen in Form vom\n", _jsx(_components.a, {
         href: "/03-components/content/labeled-value",
         children: "LabeledValues"
-      }), " oder auch einfacher Text.\nIm unteren Bereich der Section bilden häufig\n", _jsx(_components.a, {
+      }), " oder einfachem Text. Im\nunteren Bereich der Section bilden häufig\n", _jsx(_components.a, {
         href: "/03-components/navigation/link",
         children: "Links"
       }), " und\n", _jsx(_components.a, {
