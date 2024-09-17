@@ -1,0 +1,1 @@
+import{$ as r}from"./useLocalizedStringFormatter-BSNlGq_b.js";import{$ as o}from"./NumberFormatter-DNR9MAW-.js";import{r as a}from"./index-Cs7sjTYM.js";function b(e={}){let{locale:f}=r();return a.useMemo(()=>new o(f,e),[f,e])}export{b as $};
