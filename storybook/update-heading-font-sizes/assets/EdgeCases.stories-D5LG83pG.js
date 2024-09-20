@@ -1,0 +1,16 @@
+import{R as t}from"./index-Cs7sjTYM.js";import{a as g,C as d,M as o}from"./ContextMenuTrigger-CuSp3rWF.js";import{B as x}from"./Button-D9bhsRGO.js";import M from"./Default.stories-DITgKFp8.js";import{d as i}from"./dummyText-CX_I_Wpl.js";import"./_commonjsHelpers-BosuxZz1.js";import"./ContextMenu.module-68N5lvfm.js";import"./flowComponent-CvwRENnB.js";import"./PropsContextProvider-BmJWDS_p.js";import"./index-C8LjR2Bd.js";import"./clsx-B-dksMZM.js";import"./index-BU4L-DQy.js";import"./PopoverTrigger-DiQdNu3C.js";import"./OverlayTrigger-DD33fYz0.js";import"./utils-CgpzwoFP.js";import"./RSPContexts-BseA8goh.js";import"./OverlayArrow-B9aGSeR2.js";import"./useFocusable-DdFCD-YN.js";import"./number-nHrFdSb-.js";import"./useLocalizedStringFormatter-BSNlGq_b.js";import"./useControlledState-B7K2eYzO.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-C9_maMb0.js";import"./FocusScope-jwB0dEBj.js";import"./Hidden-BsXGu--s.js";import"./getScrollParent-CcmJp979.js";import"./useLabels-DMhdkBu1.js";import"./VisuallyHidden-Bx6BLr_2.js";import"./context-CXlEaGVI.js";import"./useSelector-CJePwlsu.js";import"./Action-DLPAjbQp.js";import"./Text-OA-i8KWP.js";import"./EmulatedBoldText-Dmze-Iwg.js";import"./Wrap-DQq6jo70.js";import"./Text-BgIWd_-0.js";import"./dynamic-DKDa4OpU.js";import"./IconApp-C8WE169t.js";import"./IconWarning-N6qlzk8A.js";import"./deepFindOfType-BylCc5Xi.js";import"./react-children-utilities-CdZndyK3.js";import"./Collection-D5YsYnk7.js";import"./CollectionBuilder-bH4u-dJi.js";import"./Header-8TqMsGve.js";import"./Separator-BGQky6UT.js";import"./useMenuTrigger-BOwmIx5X.js";import"./SelectionManager-DV2VTso8.js";import"./useEvent-Be9f7BQw.js";import"./useCollator-BmGy_8lF.js";import"./LoadingSpinner-DZbbkHo4.js";import"./Button-B_pBO4HW.js";import"./Separator-C2gZaoV0.js";import"./Heading-yDKHFW2e.js";import"./Heading-2-efPYe9.js";import"./Section-wKmtEl-a.js";import"./Activity-CPnWONG0.js";const Et={...M,title:"Actions/ContextMenu/Edge Cases"},e={render:m=>t.createElement(g,null,t.createElement(x,null,"Trigger"),t.createElement(d,{...m},t.createElement(o,null,i.medium),t.createElement(o,null,i.medium)))},r={render:m=>t.createElement(g,null,t.createElement(x,null,"Trigger"),t.createElement(d,{...m},Array(20).fill("").map((T,n)=>t.createElement(o,{key:n},"Item ",n+1))))};var p,a,u;e.parameters={...e.parameters,docs:{...(p=e.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        <MenuItem>{dummyText.medium}</MenuItem>
+        <MenuItem>{dummyText.medium}</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(u=(a=e.parameters)==null?void 0:a.docs)==null?void 0:u.source}}};var s,l,c;r.parameters={...r.parameters,docs:{...(s=r.parameters)==null?void 0:s.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        {Array(20).fill("").map((value, index) => <MenuItem key={index}>Item {index + 1}</MenuItem>)}
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(c=(l=r.parameters)==null?void 0:l.docs)==null?void 0:c.source}}};const It=["LongTexts","LongList"];export{r as LongList,e as LongTexts,It as __namedExportsOrder,Et as default};
