@@ -1,31 +1,31 @@
 3:I[13955,[],""]
 5:I[79361,[],""]
 4:["slug","03-components/status/notification-provider","c"]
-0:["2_875M-eyKB2nVsstKkaH",[[["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"notification-provider\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/3dad6e59dc0db9a3.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
-8:I[43424,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"LinkProvider"]
-9:I[69119,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"NotificationProvider"]
-a:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"IconMittwald"]
-b:I[8356,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"default"]
-c:I[69171,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"default"]
-d:I[30309,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"default"]
-2a:I[50403,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"HeaderNavigation"]
-2b:I[40552,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"Content"]
-2c:I[24340,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"ModalTrigger"]
-2d:I[27441,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"Button"]
-2e:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"IconMenu"]
-2f:I[24340,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"Modal"]
-30:I[8356,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"Heading"]
-31:I[39098,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"Section"]
-170:I[58127,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","791","static/chunks/791-b00a5700be19741a.js","366","static/chunks/366-fb7429a8a1846605.js","185","static/chunks/app/layout-33c0739a07b75f0d.js"],"default"]
-1ac:I[58773,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"default"]
-1ad:I[58773,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"LayoutCard"]
-1ae:I[84887,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"ColumnLayout"]
-1af:I[1979,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"Link"]
-1b0:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"IconExternalLink"]
-1b1:I[34189,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"default"]
-1b2:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"Tabs"]
-1b3:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"Tab"]
-1b4:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","791","static/chunks/791-b00a5700be19741a.js","404","static/chunks/404-15cdd8788a275dba.js","366","static/chunks/366-fb7429a8a1846605.js","877","static/chunks/app/%5B...slug%5D/page-0f837c848d61dae5.js"],"TabTitle"]
+0:["CvKK3C6orQWOaPQiGcGgf",[[["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"notification-provider\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$L6",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/3dad6e59dc0db9a3.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/743-adjustments-to-the-icon-library/_next/static/css/2a205a8fe5710080.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
+8:I[43424,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"LinkProvider"]
+9:I[69119,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"NotificationProvider"]
+a:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"IconMittwald"]
+b:I[8356,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"default"]
+c:I[69171,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"default"]
+d:I[30309,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"default"]
+2a:I[50403,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"HeaderNavigation"]
+2b:I[40552,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"Content"]
+2c:I[24340,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"ModalTrigger"]
+2d:I[27441,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"Button"]
+2e:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"IconMenu"]
+2f:I[24340,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"Modal"]
+30:I[8356,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"Heading"]
+31:I[39098,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"Section"]
+170:I[58127,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","148","static/chunks/148-ee9b8cca731774b7.js","366","static/chunks/366-9483bdd45b8dbe80.js","185","static/chunks/app/layout-4a31a62305c90745.js"],"default"]
+1ac:I[58773,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"default"]
+1ad:I[58773,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"LayoutCard"]
+1ae:I[84887,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"ColumnLayout"]
+1af:I[1979,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"Link"]
+1b0:I[68526,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"IconExternalLink"]
+1b1:I[34189,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"default"]
+1b2:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"Tabs"]
+1b3:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"Tab"]
+1b4:I[7916,["635","static/chunks/4a40281a-c28cb681df84ebb8.js","802","static/chunks/d709487a-ba3c80a69af244a0.js","148","static/chunks/148-ee9b8cca731774b7.js","973","static/chunks/973-d4a318d3e78c9b80.js","366","static/chunks/366-9483bdd45b8dbe80.js","877","static/chunks/app/%5B...slug%5D/page-4917e77cef667312.js"],"TabTitle"]
 e:Tbd8,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -726,7 +726,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
     Projekt löschen
   </Button>
 </Action>;
-15:Tf70,import {
+15:T10a0,import {
   IconApp,
   IconBackup,
   IconCalendar,
@@ -739,6 +739,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
   IconCustomer,
   IconDashboard,
   IconDatabase,
+  IconDeliveryBox,
   IconDomain,
   IconEmail,
   IconExtension,
@@ -752,9 +753,11 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
   IconPerformance,
   IconProject,
   IconSearchEngine,
+  IconSecurity,
   IconServer,
   IconSpamProtectionOff,
   IconSpamProtectionOn,
+  IconSshKey,
   IconSshSftp,
   IconStar,
   IconStarFilled,
@@ -800,6 +803,10 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   <LabeledValue>
     <Label>E-Mail</Label>
     <IconEmail />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Delivery Box</Label>
+    <IconDeliveryBox />
   </LabeledValue>
   <LabeledValue>
     <Label>App</Label>
@@ -913,8 +920,16 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
     <Label>Terminate</Label>
     <IconTerminate />
   </LabeledValue>
+  <LabeledValue>
+    <Label>Security</Label>
+    <IconSecurity />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshKey</Label>
+    <IconSshKey />
+  </LabeledValue>
 </ColumnLayout>;
-16:Tf95,import {
+16:T1051,import {
   IconBackLink,
   IconCheck,
   IconCheckboxChecked,
@@ -929,13 +944,12 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconContextMenu,
   IconCopy,
   IconDelete,
+  IconDownload,
   IconEdit,
   IconExternalLink,
   IconFilter,
-  IconGrid,
   IconHide,
   IconHome,
-  IconList,
   IconLogout,
   IconMaximize,
   IconMenu,
@@ -945,6 +959,7 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconPlus,
   IconRadioOff,
   IconRadioOn,
+  IconRedo,
   IconRefresh,
   IconSave,
   IconSearch,
@@ -952,6 +967,8 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconShare,
   IconShow,
   IconSorting,
+  IconUndo,
+  IconView,
 } from "@mittwald/flow-react-components/Icons";
 import Label from "@mittwald/flow-react-components/Label";
 import LabeledValue from "@mittwald/flow-react-components/LabeledValue";
@@ -980,12 +997,8 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
     <IconMenu />
   </LabeledValue>
   <LabeledValue>
-    <Label>Grid</Label>
-    <IconGrid />
-  </LabeledValue>
-  <LabeledValue>
-    <Label>List</Label>
-    <IconList />
+    <Label>View</Label>
+    <IconView />
   </LabeledValue>
   <LabeledValue>
     <Label>Filter</Label>
@@ -1106,6 +1119,18 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   <LabeledValue>
     <Label>Check</Label>
     <IconCheck />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Download</Label>
+    <IconDownload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Redo</Label>
+    <IconRedo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Undo</Label>
+    <IconUndo />
   </LabeledValue>
 </ColumnLayout>;
 17:T595,import LabeledValue from "@mittwald/flow-react-components/LabeledValue";
@@ -2851,7 +2876,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
 76:{"component":"Icon","description":"Die Icon-Komponente unterstützt Tabler Icons sowie benutzerdefinierte SVGs."}
 77:{}
 75:{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":"$76","scope":"$77"}
-79:Tf70,import {
+79:T10a0,import {
   IconApp,
   IconBackup,
   IconCalendar,
@@ -2864,6 +2889,7 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
   IconCustomer,
   IconDashboard,
   IconDatabase,
+  IconDeliveryBox,
   IconDomain,
   IconEmail,
   IconExtension,
@@ -2877,9 +2903,11 @@ import ActionGroup from "@mittwald/flow-react-components/ActionGroup";
   IconPerformance,
   IconProject,
   IconSearchEngine,
+  IconSecurity,
   IconServer,
   IconSpamProtectionOff,
   IconSpamProtectionOn,
+  IconSshKey,
   IconSshSftp,
   IconStar,
   IconStarFilled,
@@ -2925,6 +2953,10 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   <LabeledValue>
     <Label>E-Mail</Label>
     <IconEmail />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Delivery Box</Label>
+    <IconDeliveryBox />
   </LabeledValue>
   <LabeledValue>
     <Label>App</Label>
@@ -3038,8 +3070,16 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
     <Label>Terminate</Label>
     <IconTerminate />
   </LabeledValue>
+  <LabeledValue>
+    <Label>Security</Label>
+    <IconSecurity />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshKey</Label>
+    <IconSshKey />
+  </LabeledValue>
 </ColumnLayout>;
-7a:Tf95,import {
+7a:T1051,import {
   IconBackLink,
   IconCheck,
   IconCheckboxChecked,
@@ -3054,13 +3094,12 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconContextMenu,
   IconCopy,
   IconDelete,
+  IconDownload,
   IconEdit,
   IconExternalLink,
   IconFilter,
-  IconGrid,
   IconHide,
   IconHome,
-  IconList,
   IconLogout,
   IconMaximize,
   IconMenu,
@@ -3070,6 +3109,7 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconPlus,
   IconRadioOff,
   IconRadioOn,
+  IconRedo,
   IconRefresh,
   IconSave,
   IconSearch,
@@ -3077,6 +3117,8 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   IconShare,
   IconShow,
   IconSorting,
+  IconUndo,
+  IconView,
 } from "@mittwald/flow-react-components/Icons";
 import Label from "@mittwald/flow-react-components/Label";
 import LabeledValue from "@mittwald/flow-react-components/LabeledValue";
@@ -3105,12 +3147,8 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
     <IconMenu />
   </LabeledValue>
   <LabeledValue>
-    <Label>Grid</Label>
-    <IconGrid />
-  </LabeledValue>
-  <LabeledValue>
-    <Label>List</Label>
-    <IconList />
+    <Label>View</Label>
+    <IconView />
   </LabeledValue>
   <LabeledValue>
     <Label>Filter</Label>
@@ -3231,6 +3269,18 @@ import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
   <LabeledValue>
     <Label>Check</Label>
     <IconCheck />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Download</Label>
+    <IconDownload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Redo</Label>
+    <IconRedo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Undo</Label>
+    <IconUndo />
   </LabeledValue>
 </ColumnLayout>;
 78:{"coloring":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome\n  style={{ color: \"var(--primary--color--800)\" }}\n/>;\n","dark":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome color=\"dark\" />;\n","decorative":"$79","default":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome />;\n","functional":"$7a","light":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<IconHome color=\"light\" />;\n","sizes":"import { IconHome } from \"@mittwald/flow-react-components/Icons\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","states":"import LabeledValue from \"@mittwald/flow-react-components/LabeledValue\";\nimport ColumnLayout from \"@mittwald/flow-react-components/ColumnLayout\";\nimport Label from \"@mittwald/flow-react-components/Label\";\nimport {\n  IconDanger,\n  IconFailed,\n  IconInfo,\n  IconPending,\n  IconSucceeded,\n  IconSuccess,\n  IconWarning,\n} from \"@mittwald/flow-react-components/Icons\";\n\n<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>\n  <LabeledValue>\n    <Label>Danger</Label>\n    <IconDanger />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Warning</Label>\n    <IconWarning />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Success</Label>\n    <IconSuccess />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Info</Label>\n    <IconInfo />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Pending</Label>\n    <IconPending />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Failed</Label>\n    <IconFailed />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Succeeded</Label>\n    <IconSucceeded />\n  </LabeledValue>\n</ColumnLayout>;\n","svg-string":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\nexport default () => {\n  const svgString = `\\\n    <svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"50\" cy=\"50\" r=\"50\" />\n    </svg>\n  `;\n\n  return <Icon>{svgString}</Icon>;\n};\n","svg":"import Icon from \"@mittwald/flow-react-components/Icon\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import Icon from \"@mittwald/flow-react-components/Icon\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"}
