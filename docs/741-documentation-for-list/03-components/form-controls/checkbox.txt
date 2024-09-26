@@ -1,7 +1,7 @@
 3:I[83702,[],""]
 5:I[80024,[],""]
 4:["slug","03-components/form-controls/checkbox","c"]
-0:["J0xms5g1Ti2kY5fi0NaKw",[[["",{"children":[["slug","03-components/form-controls/checkbox","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"form-controls\",\"checkbox\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/form-controls/checkbox","c"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/4ce0be11c3f02d1e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/2817017865eb2e52.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null],["$L7",null]]]]
+0:["M9HBBalljnbdLivjzkHck",[[["",{"children":[["slug","03-components/form-controls/checkbox","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"form-controls\",\"checkbox\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/form-controls/checkbox","c"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/27914beb34f6abef.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/4ce0be11c3f02d1e.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/741-documentation-for-list/_next/static/css/2817017865eb2e52.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null],["$L7",null]]]]
 8:I[26896,["335","static/chunks/b5c65b9b-f4ca004796e6f1cf.js","79","static/chunks/79-2690dedb02d42812.js","483","static/chunks/483-bc674c4f74d11bd2.js","515","static/chunks/515-65d02d6f23b1938a.js","831","static/chunks/831-12a748a6a2d24964.js","185","static/chunks/app/layout-f61b1bd067f2384e.js"],"LinkProvider"]
 9:I[35228,["335","static/chunks/b5c65b9b-f4ca004796e6f1cf.js","79","static/chunks/79-2690dedb02d42812.js","483","static/chunks/483-bc674c4f74d11bd2.js","515","static/chunks/515-65d02d6f23b1938a.js","831","static/chunks/831-12a748a6a2d24964.js","185","static/chunks/app/layout-f61b1bd067f2384e.js"],"NotificationProvider"]
 a:I[38289,["335","static/chunks/b5c65b9b-f4ca004796e6f1cf.js","802","static/chunks/d709487a-44bead416aebb4ae.js","79","static/chunks/79-2690dedb02d42812.js","483","static/chunks/483-bc674c4f74d11bd2.js","743","static/chunks/743-3d355c4a421af1c0.js","515","static/chunks/515-65d02d6f23b1938a.js","831","static/chunks/831-12a748a6a2d24964.js","877","static/chunks/app/%5B...slug%5D/page-8f44831c32191fb4.js"],"Link"]
@@ -2022,7 +2022,7 @@ export default () => {
     </DomainList.List>
   );
 };
-26:T80e,import { typedList } from "@mittwald/flow-react-components/List";
+26:T7e4,import { typedList } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
   domains,
@@ -2054,7 +2054,6 @@ export default () => {
             ? verified
             : !verified;
         }}
-        defaultSelected={["Verifiziert"]}
       />
       <DomainList.Item>
         {(domain) => (
@@ -2090,7 +2089,7 @@ export default () => {
     </DomainList.List>
   );
 };
-27:T968,import { typedList } from "@mittwald/flow-react-components/List";
+27:T8c9,import { typedList } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
   domains,
@@ -2122,20 +2121,16 @@ export default () => {
             ? verified
             : !verified;
         }}
-        defaultSelected={["Verifiziert"]}
       />
       <DomainList.Filter
-        property="tld"
+        property="id"
         mode="some"
         name="Filter"
-        values={[".de Endung", ".com Endung"]}
-        matcher={(filterValue, tld) => {
-          return (
-            filterValue.split(" ")[0].replace(".", "") ===
-            tld
-          );
-        }}
-        defaultSelected={[".de Endung"]}
+        values={[
+          "SSL Zertifikat abgelaufen",
+          "Kein Ziel hinterlegt",
+        ]}
+        matcher={() => true}
       />
       <DomainList.Item>
         {(domain) => (
@@ -5472,7 +5467,7 @@ export default () => {
     </DomainList.List>
   );
 };
-178:T80e,import { typedList } from "@mittwald/flow-react-components/List";
+178:T7e4,import { typedList } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
   domains,
@@ -5504,7 +5499,6 @@ export default () => {
             ? verified
             : !verified;
         }}
-        defaultSelected={["Verifiziert"]}
       />
       <DomainList.Item>
         {(domain) => (
@@ -5540,7 +5534,7 @@ export default () => {
     </DomainList.List>
   );
 };
-179:T968,import { typedList } from "@mittwald/flow-react-components/List";
+179:T8c9,import { typedList } from "@mittwald/flow-react-components/List";
 import {
   type Domain,
   domains,
@@ -5572,20 +5566,16 @@ export default () => {
             ? verified
             : !verified;
         }}
-        defaultSelected={["Verifiziert"]}
       />
       <DomainList.Filter
-        property="tld"
+        property="id"
         mode="some"
         name="Filter"
-        values={[".de Endung", ".com Endung"]}
-        matcher={(filterValue, tld) => {
-          return (
-            filterValue.split(" ")[0].replace(".", "") ===
-            tld
-          );
-        }}
-        defaultSelected={[".de Endung"]}
+        values={[
+          "SSL Zertifikat abgelaufen",
+          "Kein Ziel hinterlegt",
+        ]}
+        matcher={() => true}
       />
       <DomainList.Item>
         {(domain) => (
