@@ -1,0 +1,10 @@
+import{R as r}from"./index-Cs7sjTYM.js";import{P as i}from"./PopoverTrigger-XlMnyj-9.js";import{B as a}from"./Button-CBaVSeEb.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import s from"./Default.stories-DyuYWi6s.js";import{$ as g}from"./OverlayTrigger-BvOr0J9V.js";import"./_commonjsHelpers-BosuxZz1.js";import"./clsx-B-dksMZM.js";import"./flowComponent-D7ioKQ_2.js";import"./PropsContextProvider-BmJWDS_p.js";import"./index-C8LjR2Bd.js";import"./index-Cf-03bMR.js";import"./OverlayArrow-B8rEgeMV.js";import"./useFocusRing-CRCkdtud.js";import"./number-nHrFdSb-.js";import"./useLocalizedStringFormatter-BSNlGq_b.js";import"./useControlledState-B7K2eYzO.js";import"./utils-BBsc42SX.js";import"./IconApp-BOae6dD3.js";import"./IconWarning-DMnbQijb.js";import"./Wrap-DQq6jo70.js";import"./Text-DYnmzK5R.js";import"./EmulatedBoldText-Dmze-Iwg.js";import"./Text-C0gOxGaJ.js";import"./LoadingSpinner-BLH-7Wh6.js";import"./Button-BknGA9dM.js";import"./Hidden-DMUPAT4b.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-D6sODRzj.js";import"./usePress-Do5SRlXR.js";import"./RSPContexts-BseA8goh.js";import"./FocusScope-CGKzeA_Y.js";import"./getScrollParent-CcmJp979.js";import"./useLabels-DMhdkBu1.js";import"./VisuallyHidden-D4oQIDY4.js";import"./context-Dd6hPQBJ.js";import"./useSelector-0qDIPR45.js";const U={...s,title:"Overlays/Popover/Edge Cases",component:i},o={render:n=>r.createElement(g,null,r.createElement(a,null,"Trigger popover"),r.createElement(i,{...n,placement:"bottom right"},t.long,t.long,t.long))};var m,e,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  render: props => <Aria.DialogTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </Aria.DialogTrigger>
+}`,...(p=(e=o.parameters)==null?void 0:e.docs)==null?void 0:p.source}}};const V=["LongContent"];export{o as LongContent,V as __namedExportsOrder,U as default};
