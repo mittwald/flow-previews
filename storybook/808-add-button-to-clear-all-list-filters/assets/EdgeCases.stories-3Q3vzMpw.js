@@ -1,0 +1,11 @@
+import{N as e}from"./NumberField-3nVvDB2q.js";import{R as o}from"./index-Cs7sjTYM.js";import{L as c}from"./Label-Cb_5Fm_J.js";import{a as u}from"./chunk-D5ZWXAHU-CGElDDNX.js";import"./FormField.module-C46xlbmd.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-BmJWDS_p.js";import"./index-C8LjR2Bd.js";import"./IconApp-BOae6dD3.js";import"./_commonjsHelpers-BosuxZz1.js";import"./flowComponent-D7ioKQ_2.js";import"./index-Cf-03bMR.js";import"./IconWarning-P6NmkjLC.js";import"./Form-BJmzrAR9.js";import"./useFocusRing-CRCkdtud.js";import"./useLabel-D8UVq-XF.js";import"./useLabels-DMhdkBu1.js";import"./utils-BBsc42SX.js";import"./Text-C0gOxGaJ.js";import"./Button-BLJCmALH.js";import"./Wrap-DQq6jo70.js";import"./Text-DYnmzK5R.js";import"./EmulatedBoldText-Dmze-Iwg.js";import"./LoadingSpinner-ZeZA4Lmj.js";import"./useLocalizedStringFormatter-BSNlGq_b.js";import"./Button-BknGA9dM.js";import"./Hidden-DMUPAT4b.js";import"./filterDOMProps-CeZl_uWj.js";import"./useFocusable-D6sODRzj.js";import"./usePress-Do5SRlXR.js";import"./Group-B4S_haar.js";import"./Input-BRW8j_n9.js";import"./Label-DgAfL5vK.js";import"./useControlledState-B7K2eYzO.js";import"./number-nHrFdSb-.js";import"./NumberFormatter-DNR9MAW-.js";import"./useSpinButton-DksKbOre.js";import"./LiveAnnouncer-AIgN_avV.js";import"./useFormReset-DlrFI1sj.js";import"./useEvent-Be9f7BQw.js";import"./useTextField-BfWoRbPu.js";import"./useNumberFormatter-D1GyhdLF.js";import"./v4-CQkTLCs1.js";const er={title:"Form Controls/NumberField/Edge Cases",component:e,render:l=>o.createElement(e,{onChange:u("onChange"),...l},o.createElement(c,null,"Age"))},r={args:{minValue:5,defaultValue:5}},t={args:{maxValue:5,defaultValue:5}};var m,i,a;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    minValue: 5,
+    defaultValue: 5
+  }
+}`,...(a=(i=r.parameters)==null?void 0:i.docs)==null?void 0:a.source}}};var p,s,n;t.parameters={...t.parameters,docs:{...(p=t.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    maxValue: 5,
+    defaultValue: 5
+  }
+}`,...(n=(s=t.parameters)==null?void 0:s.docs)==null?void 0:n.source}}};const or=["WithDisabledDecrement","WithDisabledIncrement"];export{r as WithDisabledDecrement,t as WithDisabledIncrement,or as __namedExportsOrder,er as default};
