@@ -1,0 +1,13 @@
+import{L as d}from"./LabeledValue-DY3Z86ut.js";import C from"./Default.stories-9qVu6vXH.js";import{d as e}from"./dummyText-CX_I_Wpl.js";import{L as u}from"./Label-Ce3Da7vQ.js";import{C as c}from"./Content-SctQ_6lp.js";import{R as t}from"./index-Cs7sjTYM.js";import{C as L}from"./CopyButton-D8Wk_3Rt.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DXo7lD_U.js";import"./index-j_f0pOtZ.js";import"./InlineCode-B71Dqtny.js";import"./Link-DL82QAc6.js";import"./flowComponent-Bg40pdZw.js";import"./index-Cf-03bMR.js";import"./_commonjsHelpers-BosuxZz1.js";import"./utils-Cd8r7pc9.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-Cn8oVN-C.js";import"./useFocusRing-DdBFev_0.js";import"./useFocusable-GQF4xS8_.js";import"./useLocalizedStringFormatter-TZkCr3Qr.js";import"./Label-C-iBdzH7.js";import"./Hidden-C2kgQquV.js";import"./Wrap-DQq6jo70.js";import"./Button-B0USDlqA.js";import"./IconApp-CKfGrMYq.js";import"./IconWarning-DEkEtbPD.js";import"./Text-DbnY-2dT.js";import"./EmulatedBoldText-Dmze-Iwg.js";import"./Text-Bnjm0IRl.js";import"./LoadingSpinner-DoLEpSOo.js";import"./Button-B89OlhFY.js";import"./ProgressBar-K2upHjuk.js";import"./useLabel-BA8WH6BO.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./TooltipTrigger-BLADi09Q.js";import"./OverlayArrow-Bm5GlnqX.js";import"./useControlledState-B7K2eYzO.js";import"./react-children-utilities-CdZndyK3.js";import"./Action-BUDMgI3W.js";import"./context-BnMUo41h.js";import"./useSelector-DiJHxpbu.js";import"./dynamic-DKDa4OpU.js";const nt={title:"Content/LabeledValue/Edge Cases",...C},r={render:m=>t.createElement(d,{...m},t.createElement(u,null,e.medium),t.createElement(c,null,e.short),t.createElement(L,{text:e.short}))},o={render:m=>t.createElement(d,{...m},t.createElement(u,null,e.medium),t.createElement(c,null,e.long),t.createElement(L,{text:e.long}))};var p,n,a;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.short}</Content>
+      <CopyButton text={dummyText.short} />
+    </LabeledValue>
+}`,...(a=(n=r.parameters)==null?void 0:n.docs)==null?void 0:a.source}}};var i,l,s;o.parameters={...o.parameters,docs:{...(i=o.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.long}</Content>
+      <CopyButton text={dummyText.long} />
+    </LabeledValue>
+}`,...(s=(l=o.parameters)==null?void 0:l.docs)==null?void 0:s.source}}};const at=["LongLabel","LongContent"];export{o as LongContent,r as LongLabel,at as __namedExportsOrder,nt as default};
