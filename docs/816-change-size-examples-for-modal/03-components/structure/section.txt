@@ -1,7 +1,7 @@
 3:I[91526,[],""]
 5:I[62407,[],""]
 4:["slug","03-components/structure/section","c"]
-0:["lzZYjjATZqbskrSojn7-k",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/b88fa6c36ed06aea.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/7048c87ff275b4f0.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/8916c227425ddfdc.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null],["$L7",null]]]]
+0:["m0TnGxLQYHTn0zdltGHEe",[[["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"structure\",\"section\"]}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","03-components/structure/section","c"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/b88fa6c36ed06aea.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/7048c87ff275b4f0.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/816-change-size-examples-for-modal/_next/static/css/8916c227425ddfdc.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null],["$L7",null]]]]
 8:I[84724,["188","static/chunks/76253c6e-65e5e6dfef0c820f.js","139","static/chunks/139-aa99d66895000d81.js","193","static/chunks/193-a3049659c659b667.js","861","static/chunks/861-5b629ec5f0715541.js","890","static/chunks/890-6ef6406737cb2101.js","185","static/chunks/app/layout-388093308edee6d5.js"],"LinkProvider"]
 9:I[82128,["188","static/chunks/76253c6e-65e5e6dfef0c820f.js","139","static/chunks/139-aa99d66895000d81.js","193","static/chunks/193-a3049659c659b667.js","861","static/chunks/861-5b629ec5f0715541.js","890","static/chunks/890-6ef6406737cb2101.js","185","static/chunks/app/layout-388093308edee6d5.js"],"NotificationProvider"]
 a:I[26959,["188","static/chunks/76253c6e-65e5e6dfef0c820f.js","802","static/chunks/d709487a-b3878ba3aff42134.js","139","static/chunks/139-aa99d66895000d81.js","193","static/chunks/193-a3049659c659b667.js","326","static/chunks/326-3245c0fc57292011.js","861","static/chunks/861-5b629ec5f0715541.js","890","static/chunks/890-6ef6406737cb2101.js","877","static/chunks/app/%5B...slug%5D/page-f1a29193ccfb1bf0.js"],"Link"]
@@ -1797,7 +1797,7 @@ import Section from "@mittwald/flow-react-components/Section";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-20:T113c,import Modal, {
+20:T283c,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -1810,136 +1810,297 @@ import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
 import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 import Section from "@mittwald/flow-react-components/Section";
+import {
+  IconBackup,
+  IconSettings,
+  IconSshSftp,
+} from "@mittwald/flow-react-components/Icons";
+import {
+  Select,
+  Option,
+} from "@mittwald/flow-react-components/Select";
+import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
+import { Switch } from "@mittwald/flow-react-components/Switch";
+import Link from "@mittwald/flow-react-components/Link";
+import { DatePicker } from "@mittwald/flow-react-components/DatePicker";
+import FieldDescription from "@mittwald/flow-react-components/FieldDescription";
+import RadioGroup, {
+  Radio,
+  RadioButton,
+} from "@mittwald/flow-react-components/RadioGroup";
 
-<Row>
-  <ModalTrigger>
-    <Button>Modal S</Button>
-    <Modal size="s">
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+export default () => {
+  return (
+    <Row>
+      <ModalTrigger>
+        <Button>Modal S</Button>
+        <Modal size="s">
+          <Heading>
+            Möchtest du die Bestellung wirklich abbrechen?
+          </Heading>
+          <Content>
+            <Section>
+              <Text>
+                Deine eingegebenen Daten werden nicht
+                gespeichert.
+              </Text>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="danger">
+                  Bestellung abbrechen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Bestellung fortsetzen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
 
-  <ModalTrigger>
-    <Button>Modal M</Button>
-    <Modal size="m">
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+      <ModalTrigger>
+        <Button>Modal M</Button>
+        <Modal size="m">
+          <Heading>
+            <IconBackup />
+            <Text>Backup anlegen</Text>
+          </Heading>
+          <Content>
+            <Section>
+              <Text>
+                Das Backup enthält alle Dateien deines
+                Dateisystems und den Inhalt deiner
+                Datenbanken. Dei Erstellung eines Backups
+                dauert in der Regel einige Minuten.
+              </Text>
+              <ColumnLayout m={[1, 1]}>
+                <TextField>
+                  <Label>Beschreibung</Label>
+                </TextField>
+                <Select isRequired>
+                  <Label>Speicherdauer</Label>
+                  <Option>7 Tage</Option>
+                  <Option>14 Tage</Option>
+                  <Option>30 Tage</Option>
+                  <Option>6 Monate</Option>
+                  <Option>12 Monate</Option>
+                </Select>
+              </ColumnLayout>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="accent">
+                  Backup anlegen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Abbrechen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
 
-  <ModalTrigger>
-    <Button>OffCanvas S</Button>
-    <Modal size="s" offCanvas>
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+      <ModalTrigger>
+        <Button>OffCanvas S</Button>
+        <Modal size="s" offCanvas>
+          <Heading>
+            <IconSettings />
+            Dashboard-Einstellungen
+          </Heading>
+          <Content>
+            <Section>
+              <Heading>Widget-Sichtbarkeit</Heading>
+              <Text>
+                Aktiviere und deaktiviere die Widgets, die
+                du wirklich benötigst. So bestimmst du
+                selbst, wie dein Dashboard aussehen soll.
+              </Text>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "32px",
+                }}
+              >
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>Erste Schritte</Switch>
+                  <Text>
+                    Im Onboarding erklären wir dir alles
+                    Wichtige im mStudio.
+                  </Text>
+                  <Link>Erste Schritte starten</Link>
+                </ColumnLayout>
 
-  <ModalTrigger>
-    <Button>OffCanvas M</Button>
-    <Modal size="m" offCanvas>
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
-</Row>;
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    mittwald Status
+                  </Switch>
+                  <Text>
+                    Wir informieren dich über Wartung und
+                    Störungen.
+                  </Text>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>mittwald Produkt-Slider</Switch>
+                  <Text>
+                    Im Produkt-Slider erhälst du
+                    Informationen und einen schnellen
+                    Einstieg in weitere mittwald Produkte.
+                  </Text>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    Neue Features
+                  </Switch>
+                  <Text>
+                    Wir entwickeln das mStudio stetig weiter
+                    Alle kommenden Features findest du auf
+                    der <Link>Roadmap</Link>.
+                  </Text>
+                  <Link>Changelog öffnen</Link>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    Neue Blogbeiträge
+                  </Switch>
+                  <Text>
+                    Wir zeigen dir den neuesten mittwald
+                    Blogartikel an.
+                  </Text>
+                  <Link>Blogartikel öffnen</Link>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>Lastschift Hinweis</Switch>
+                  <Text>
+                    Wir informieren über die neue
+                    Möglichkeit, deine Rechnungen per
+                    Lastschrift zu bezahlen.
+                  </Text>
+                </ColumnLayout>
+              </div>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Button variant="soft" color="secondary">
+                Schließen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
+
+      <ModalTrigger>
+        <Button>OffCanvas M</Button>
+        <Modal size="m" offCanvas>
+          <Heading>
+            <IconSshSftp />
+            SFTP-Benutzer anlegen
+          </Heading>
+          <Content>
+            <Section>
+              <Heading>Beschreibung</Heading>
+              <Text>
+                Mit einem SFTP-Benutzer kannst du dich mit
+                deinem Projekt verbinden, um z.B. Dateien
+                hochzuladen.
+              </Text>
+              <ColumnLayout m={[1, 1]}>
+                <TextField isRequired>
+                  <Label>Beschreibung</Label>
+                </TextField>
+                <DatePicker>
+                  <Label>Ablaufdatum</Label>
+                  <FieldDescription>
+                    Nach diesem Datum wird der SFTP-Benutzer
+                    gelöscht.
+                  </FieldDescription>
+                </DatePicker>
+              </ColumnLayout>
+            </Section>
+            <Section>
+              <Heading>Authentifizierung</Heading>
+              <Text>
+                Wähle zwischen der Authentifikation per
+                Passwort oder über einen SSH-Key.
+              </Text>
+              <RadioGroup
+                variant="segmented"
+                value="password"
+              >
+                <Radio value="password">Passwort</Radio>
+                <Radio value="ssh">SSH-Key</Radio>
+              </RadioGroup>
+              <ColumnLayout s={[1, 1]}>
+                <TextField>
+                  <Label>Passwort</Label>
+                </TextField>
+              </ColumnLayout>
+            </Section>
+            <Section>
+              <Heading>Berechtigungen</Heading>
+              <Text>
+                Wähle hier die Berechtigungen aus, mit denen
+                der SFTP-Benutzer zugreifen darf.
+              </Text>
+              <RadioGroup
+                s={[1, 1]}
+                defaultValue="read&write"
+              >
+                <RadioButton value="write">
+                  <Text>Lesezugriff</Text>
+                  <Content>
+                    Der SFTP-Benutzer kann Dateien einsehen
+                    und herunterladen.
+                  </Content>
+                </RadioButton>
+                <RadioButton value="read&write">
+                  <Text>Lese- und Schreibzugriff</Text>
+                  <Content>
+                    Der SFTP-Benutzer kann Dateien einsehen,
+                    bearbeiten, hoch und herunterladen.
+                  </Content>
+                </RadioButton>
+              </RadioGroup>
+            </Section>
+            <Section>
+              <Heading>Verzeichnisauswahl</Heading>
+              <Text>
+                Hier legst du das Verzeichnis fest, auf dsa
+                der SFTP-Benutzer Zugriff hat.
+              </Text>
+              <TextField isRequired>
+                <Label>Pfad</Label>
+              </TextField>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="accent">
+                  SFTP-Benutzer anlegen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Abbrechen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
+    </Row>
+  );
+};
 21:T503,import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
 import Label from "@mittwald/flow-react-components/Label";
@@ -5489,7 +5650,7 @@ import Section from "@mittwald/flow-react-components/Section";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-132:T113c,import Modal, {
+132:T283c,import Modal, {
   ModalTrigger,
 } from "@mittwald/flow-react-components/Modal";
 import Content from "@mittwald/flow-react-components/Content";
@@ -5502,136 +5663,297 @@ import Heading from "@mittwald/flow-react-components/Heading";
 import Action from "@mittwald/flow-react-components/Action";
 import { sleepLong } from "@/content/03-components/actions/action/examples/lib";
 import Section from "@mittwald/flow-react-components/Section";
+import {
+  IconBackup,
+  IconSettings,
+  IconSshSftp,
+} from "@mittwald/flow-react-components/Icons";
+import {
+  Select,
+  Option,
+} from "@mittwald/flow-react-components/Select";
+import ColumnLayout from "@mittwald/flow-react-components/ColumnLayout";
+import { Switch } from "@mittwald/flow-react-components/Switch";
+import Link from "@mittwald/flow-react-components/Link";
+import { DatePicker } from "@mittwald/flow-react-components/DatePicker";
+import FieldDescription from "@mittwald/flow-react-components/FieldDescription";
+import RadioGroup, {
+  Radio,
+  RadioButton,
+} from "@mittwald/flow-react-components/RadioGroup";
 
-<Row>
-  <ModalTrigger>
-    <Button>Modal S</Button>
-    <Modal size="s">
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+export default () => {
+  return (
+    <Row>
+      <ModalTrigger>
+        <Button>Modal S</Button>
+        <Modal size="s">
+          <Heading>
+            Möchtest du die Bestellung wirklich abbrechen?
+          </Heading>
+          <Content>
+            <Section>
+              <Text>
+                Deine eingegebenen Daten werden nicht
+                gespeichert.
+              </Text>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="danger">
+                  Bestellung abbrechen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Bestellung fortsetzen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
 
-  <ModalTrigger>
-    <Button>Modal M</Button>
-    <Modal size="m">
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+      <ModalTrigger>
+        <Button>Modal M</Button>
+        <Modal size="m">
+          <Heading>
+            <IconBackup />
+            <Text>Backup anlegen</Text>
+          </Heading>
+          <Content>
+            <Section>
+              <Text>
+                Das Backup enthält alle Dateien deines
+                Dateisystems und den Inhalt deiner
+                Datenbanken. Dei Erstellung eines Backups
+                dauert in der Regel einige Minuten.
+              </Text>
+              <ColumnLayout m={[1, 1]}>
+                <TextField>
+                  <Label>Beschreibung</Label>
+                </TextField>
+                <Select isRequired>
+                  <Label>Speicherdauer</Label>
+                  <Option>7 Tage</Option>
+                  <Option>14 Tage</Option>
+                  <Option>30 Tage</Option>
+                  <Option>6 Monate</Option>
+                  <Option>12 Monate</Option>
+                </Select>
+              </ColumnLayout>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="accent">
+                  Backup anlegen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Abbrechen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
 
-  <ModalTrigger>
-    <Button>OffCanvas S</Button>
-    <Modal size="s" offCanvas>
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
+      <ModalTrigger>
+        <Button>OffCanvas S</Button>
+        <Modal size="s" offCanvas>
+          <Heading>
+            <IconSettings />
+            Dashboard-Einstellungen
+          </Heading>
+          <Content>
+            <Section>
+              <Heading>Widget-Sichtbarkeit</Heading>
+              <Text>
+                Aktiviere und deaktiviere die Widgets, die
+                du wirklich benötigst. So bestimmst du
+                selbst, wie dein Dashboard aussehen soll.
+              </Text>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "32px",
+                }}
+              >
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>Erste Schritte</Switch>
+                  <Text>
+                    Im Onboarding erklären wir dir alles
+                    Wichtige im mStudio.
+                  </Text>
+                  <Link>Erste Schritte starten</Link>
+                </ColumnLayout>
 
-  <ModalTrigger>
-    <Button>OffCanvas M</Button>
-    <Modal size="m" offCanvas>
-      <Heading>Organisation anlegen</Heading>
-      <Content>
-        <Section>
-          <Text>
-            Eine Organisation kannst du dir wie ein
-            Unternehmen vorstellen. An diesem Ort verwaltest
-            du deine Mitarbeiter, Zahlungsmodalitäten und
-            kannst deine Rechnungen einsehen.
-          </Text>
-          <TextField isRequired>
-            <Label>Organisationsname</Label>
-          </TextField>
-        </Section>
-      </Content>
-      <ActionGroup>
-        <Action closeOverlay="Modal">
-          <Action action={sleepLong}>
-            <Button color="accent">
-              Organisation anlegen
-            </Button>
-          </Action>
-          <Button variant="soft" color="secondary">
-            Abbrechen
-          </Button>
-        </Action>
-      </ActionGroup>
-    </Modal>
-  </ModalTrigger>
-</Row>;
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    mittwald Status
+                  </Switch>
+                  <Text>
+                    Wir informieren dich über Wartung und
+                    Störungen.
+                  </Text>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>mittwald Produkt-Slider</Switch>
+                  <Text>
+                    Im Produkt-Slider erhälst du
+                    Informationen und einen schnellen
+                    Einstieg in weitere mittwald Produkte.
+                  </Text>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    Neue Features
+                  </Switch>
+                  <Text>
+                    Wir entwickeln das mStudio stetig weiter
+                    Alle kommenden Features findest du auf
+                    der <Link>Roadmap</Link>.
+                  </Text>
+                  <Link>Changelog öffnen</Link>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch defaultSelected>
+                    Neue Blogbeiträge
+                  </Switch>
+                  <Text>
+                    Wir zeigen dir den neuesten mittwald
+                    Blogartikel an.
+                  </Text>
+                  <Link>Blogartikel öffnen</Link>
+                </ColumnLayout>
+
+                <ColumnLayout s={[1]} gap="s">
+                  <Switch>Lastschift Hinweis</Switch>
+                  <Text>
+                    Wir informieren über die neue
+                    Möglichkeit, deine Rechnungen per
+                    Lastschrift zu bezahlen.
+                  </Text>
+                </ColumnLayout>
+              </div>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Button variant="soft" color="secondary">
+                Schließen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
+
+      <ModalTrigger>
+        <Button>OffCanvas M</Button>
+        <Modal size="m" offCanvas>
+          <Heading>
+            <IconSshSftp />
+            SFTP-Benutzer anlegen
+          </Heading>
+          <Content>
+            <Section>
+              <Heading>Beschreibung</Heading>
+              <Text>
+                Mit einem SFTP-Benutzer kannst du dich mit
+                deinem Projekt verbinden, um z.B. Dateien
+                hochzuladen.
+              </Text>
+              <ColumnLayout m={[1, 1]}>
+                <TextField isRequired>
+                  <Label>Beschreibung</Label>
+                </TextField>
+                <DatePicker>
+                  <Label>Ablaufdatum</Label>
+                  <FieldDescription>
+                    Nach diesem Datum wird der SFTP-Benutzer
+                    gelöscht.
+                  </FieldDescription>
+                </DatePicker>
+              </ColumnLayout>
+            </Section>
+            <Section>
+              <Heading>Authentifizierung</Heading>
+              <Text>
+                Wähle zwischen der Authentifikation per
+                Passwort oder über einen SSH-Key.
+              </Text>
+              <RadioGroup
+                variant="segmented"
+                value="password"
+              >
+                <Radio value="password">Passwort</Radio>
+                <Radio value="ssh">SSH-Key</Radio>
+              </RadioGroup>
+              <ColumnLayout s={[1, 1]}>
+                <TextField>
+                  <Label>Passwort</Label>
+                </TextField>
+              </ColumnLayout>
+            </Section>
+            <Section>
+              <Heading>Berechtigungen</Heading>
+              <Text>
+                Wähle hier die Berechtigungen aus, mit denen
+                der SFTP-Benutzer zugreifen darf.
+              </Text>
+              <RadioGroup
+                s={[1, 1]}
+                defaultValue="read&write"
+              >
+                <RadioButton value="write">
+                  <Text>Lesezugriff</Text>
+                  <Content>
+                    Der SFTP-Benutzer kann Dateien einsehen
+                    und herunterladen.
+                  </Content>
+                </RadioButton>
+                <RadioButton value="read&write">
+                  <Text>Lese- und Schreibzugriff</Text>
+                  <Content>
+                    Der SFTP-Benutzer kann Dateien einsehen,
+                    bearbeiten, hoch und herunterladen.
+                  </Content>
+                </RadioButton>
+              </RadioGroup>
+            </Section>
+            <Section>
+              <Heading>Verzeichnisauswahl</Heading>
+              <Text>
+                Hier legst du das Verzeichnis fest, auf dsa
+                der SFTP-Benutzer Zugriff hat.
+              </Text>
+              <TextField isRequired>
+                <Label>Pfad</Label>
+              </TextField>
+            </Section>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Action action={sleepLong}>
+                <Button color="accent">
+                  SFTP-Benutzer anlegen
+                </Button>
+              </Action>
+              <Button variant="soft" color="secondary">
+                Abbrechen
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>
+    </Row>
+  );
+};
 133:T503,import Text from "@mittwald/flow-react-components/Text";
 import TextField from "@mittwald/flow-react-components/TextField";
 import Label from "@mittwald/flow-react-components/Label";
