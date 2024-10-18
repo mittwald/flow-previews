@@ -1,0 +1,10 @@
+import{R as r}from"./index-Cs7sjTYM.js";import{P as i}from"./PopoverTrigger-VdjWYqST.js";import{B as a}from"./Button-CE824h2d.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import s from"./Default.stories-RnBoOrsg.js";import{$ as g}from"./OverlayTrigger-Dk1assuB.js";import"./_commonjsHelpers-BosuxZz1.js";import"./clsx-B-dksMZM.js";import"./flowComponent-Bg40pdZw.js";import"./PropsContextProvider-DXo7lD_U.js";import"./index-j_f0pOtZ.js";import"./index-Cf-03bMR.js";import"./OverlayArrow-Bm5GlnqX.js";import"./useFocusRing-DdBFev_0.js";import"./ProgressBar-K2upHjuk.js";import"./utils-Cd8r7pc9.js";import"./Label-C-iBdzH7.js";import"./Hidden-C2kgQquV.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-BA8WH6BO.js";import"./useLocalizedStringFormatter-TZkCr3Qr.js";import"./NumberFormatter-DNR9MAW-.js";import"./useControlledState-B7K2eYzO.js";import"./IconApp-CKfGrMYq.js";import"./IconWarning-CfieAnFV.js";import"./Wrap-DQq6jo70.js";import"./Text-DbnY-2dT.js";import"./EmulatedBoldText-Dmze-Iwg.js";import"./Text-Bnjm0IRl.js";import"./LoadingSpinner-CvKk9A5c.js";import"./Button-B89OlhFY.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./useFocusable-GQF4xS8_.js";import"./usePress-Cn8oVN-C.js";import"./RSPContexts-BseA8goh.js";import"./FocusScope-DMuRQrVO.js";import"./getScrollParent-CcmJp979.js";import"./VisuallyHidden-BVqa5uLw.js";import"./context-BnMUo41h.js";import"./useSelector-DiJHxpbu.js";const X={...s,title:"Overlays/Popover/Edge Cases",component:i},o={render:n=>r.createElement(g,null,r.createElement(a,null,"Trigger popover"),r.createElement(i,{...n,placement:"bottom right"},t.long,t.long,t.long))};var m,e,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  render: props => <Aria.DialogTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </Aria.DialogTrigger>
+}`,...(p=(e=o.parameters)==null?void 0:e.docs)==null?void 0:p.source}}};const Y=["LongContent"];export{o as LongContent,Y as __namedExportsOrder,X as default};
