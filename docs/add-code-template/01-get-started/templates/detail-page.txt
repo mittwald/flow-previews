@@ -8,7 +8,7 @@ f:I[20853,[],""]
 1:HL["/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","style"]
 2:HL["/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","style"]
 3:HL["/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","style"]
-0:{"P":null,"b":"zM_baH4UxSPArsBzSWWMj","p":"/flow-previews/docs/add-code-template","c":["","03-components","content","illustrated-message"],"i":false,"f":[[["",{"children":[["slug","03-components/content/illustrated-message","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"content\",\"illustrated-message\"]}",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L5"]}],{"children":[["slug","03-components/content/illustrated-message","c"],["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","$0:f:0:1:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":"$La"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","x2OnC5IUvE4BLakAwkuU8",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}]]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"zM_baH4UxSPArsBzSWWMj","p":"/flow-previews/docs/add-code-template","c":["","01-get-started","templates","detail-page"],"i":false,"f":[[["",{"children":[["slug","01-get-started/templates/detail-page","c"],{"children":["__PAGE__?{\"slug\":[\"01-get-started\",\"templates\",\"detail-page\"]}",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L5"]}],{"children":[["slug","01-get-started/templates/detail-page","c"],["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","$0:f:0:1:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":"$La"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","I6BmVySb0vITe4tSjBftt",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}]]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
 10:I[66060,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"LinkProvider"]
 11:I[33017,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"NotificationProvider"]
 12:I[49381,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"Link"]
@@ -3825,107 +3825,173 @@ import { InlineCode } from "@mittwald/flow-react-components/InlineCode";
 4b:I[71202,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"LayoutCard"]
 4c:I[61145,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"ColumnLayout"]
 4d:I[6929,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"default"]
-4e:I[4499,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"IconExternalLink"]
-4f:I[90272,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"default"]
-50:I[56360,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"Tabs"]
-8:[["$","$L4b",null,{"children":["$","$L4c",null,{"l":[1,1],"m":[1],"children":[["$","$L49",null,{"children":[["$","$L4d",null,{"level":1,"children":"IllustratedMessage"}],"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann.",["$","$L12",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/IllustratedMessage","children":["GitHub",["$","$L4e",null,{}]]}]]}],["$","$L4f",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"IllustratedMessage","description":"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann."},"scope":{}},"examples":{"actionGroup":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport ActionGroup from \"@mittwald/flow-react-components/ActionGroup\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","dark":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","negative":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Button>Zum Dashboard</Button>\n</IllustratedMessage>;\n"},"slugs":["03-components","content","illustrated-message"],"filename":"03-components/content/illustrated-message/index.mdx"}}]]}]}],false,["$","$L4b",null,{"children":["$","$L50",null,{"children":["$L51","$L52","$undefined"]}]}],["$","$L12",null,{"href":"https://github.com/mittwald/flow/issues/new?title=Feedback%20on%20IllustratedMessage%20component","children":["Feedback geben ",["$","$L4e",null,{}]]}]]
-53:I[56360,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"Tab"]
-54:I[56360,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"TabTitle"]
-55:T71d,"use strict";
-const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
-const {useMDXComponents: _provideComponents} = arguments[0];
-function _createMdxContent(props) {
-  const _components = {
-    h1: "h1",
-    h2: "h2",
-    hr: "hr",
-    ..._provideComponents(),
-    ...props.components
-  }, {LiveCodeEditor} = _components;
-  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
-  return _jsxs(_Fragment, {
-    children: [_jsx(_components.h1, {
-      children: "Beispiel"
-    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
-      children: "Colors"
-    }), "\n", _jsx(_components.h2, {
-      children: "Negative"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "negative",
-      editorCollapsed: true
-    }), "\n", _jsx(_components.h2, {
-      children: "Dark"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "dark",
-      bgColor: "light",
-      editorCollapsed: true
-    }), "\n", _jsx(_components.h2, {
-      children: "Light"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "light",
-      bgColor: "dark",
-      editorCollapsed: true
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
-      children: "Mit ActionGroup"
-    }), "\n", _jsx(LiveCodeEditor, {
-      example: "actionGroup"
-    })]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ..._provideComponents(),
-    ...props.components
-  };
-  return MDXLayout ? _jsx(MDXLayout, {
-    ...props,
-    children: _jsx(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-return {
-  default: MDXContent
+4e:I[90272,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-59b6ddeab58065ec.js"],"default"]
+4f:T1614,import Heading from "@mittwald/flow-react-components/Heading";
+import Text from "@mittwald/flow-react-components/Text";
+import Button from "@mittwald/flow-react-components/Button";
+import Section from "@mittwald/flow-react-components/Section";
+import Content from "@mittwald/flow-react-components/Content";
+import Link from "@mittwald/flow-react-components/Link";
+import {
+  Modal,
+  ModalTrigger,
+} from "@mittwald/flow-react-components/Modal";
+import Label from "@mittwald/flow-react-components/Label";
+import Header from "@mittwald/flow-react-components/Header";
+import { ColumnLayout } from "@mittwald/flow-react-components/ColumnLayout";
+import { LayoutCard } from "@mittwald/flow-react-components/LayoutCard";
+import Alert from "@mittwald/flow-react-components/Alert";
+import {
+  ContextMenu,
+  ContextMenuTrigger,
+  MenuItem,
+} from "@mittwald/flow-react-components/ContextMenu";
+import { IconContextMenu } from "@mittwald/flow-react-components/Icons";
+import LabeledValue from "@mittwald/flow-react-components/LabeledValue";
+import TextField from "@mittwald/flow-react-components/TextField";
+import { ActionGroup } from "@mittwald/flow-react-components/ActionGroup";
+import { Action } from "@mittwald/flow-react-components/Action";
+
+export default () => {
+  return (
+    <LayoutCard>
+      <Section>
+        <Alert status="danger">
+          <Heading>
+            Es konnte kein SSL-Zertifikat ausgestellt werden
+          </Heading>
+          <Content>
+            <Text>
+              Für diese Domain konnte kein SSL-Zertifikat
+              ausgestellt werden, da example.de nicht per
+              DNS auf deine Server-IP zeigt. Ändere den
+              A-Record oder CNAME auf die Server-IP zeigen.
+              Es kann einige Minuten dauern, bis das
+              Zertifikat bei korrekten Einstellungen
+              ausgestellt ist.
+            </Text>
+            <Link>SSL-Zertifikat ausstellen</Link>
+          </Content>
+        </Alert>
+      </Section>
+      <Section>
+        <Header>
+          <Heading>Domain-Details</Heading>
+          <ContextMenuTrigger>
+            <Button color="secondary" variant="soft">
+              <IconContextMenu />
+            </Button>
+            <ContextMenu>
+              <MenuItem>Domain umziehen</MenuItem>
+              <MenuItem>Domain entfernen</MenuItem>
+            </ContextMenu>
+          </ContextMenuTrigger>
+          <Button>Domain-Ziel ändern</Button>
+        </Header>
+        <ColumnLayout s={[1, 1]}>
+          <LabeledValue>
+            <Label>Domain-Ziel</Label>
+            <Text>example.de</Text>
+          </LabeledValue>
+          <LabeledValue>
+            <Label>Zertifikat</Label>
+            <Text>-</Text>
+          </LabeledValue>
+        </ColumnLayout>
+      </Section>
+      <Section>
+        <Header>
+          <Heading>Domain-Inhaber</Heading>
+          <ModalTrigger>
+            <Button color="secondary" variant="soft">
+              Bearbeiten
+            </Button>
+            <Modal>
+              <Heading>Domain-Inhaber bearbeiten</Heading>
+
+              <Content>
+                <Section>
+                  <ColumnLayout>
+                    <TextField
+                      isRequired
+                      defaultValue="Max"
+                    >
+                      <Label>Vorname</Label>
+                    </TextField>
+                    <TextField
+                      isRequired
+                      defaultValue="Mustermann"
+                    >
+                      <Label>Nachname</Label>
+                    </TextField>
+                    <ColumnLayout gap="s" s={[2, 1]}>
+                      <TextField
+                        isRequired
+                        defaultValue="Königsberger Str"
+                      >
+                        <Label>Straße</Label>
+                      </TextField>
+                      <TextField
+                        isRequired
+                        defaultValue="4"
+                      >
+                        <Label>Hausnr.</Label>
+                      </TextField>
+                    </ColumnLayout>
+                    <ColumnLayout gap="s" s={[1, 2]}>
+                      <TextField
+                        isRequired
+                        defaultValue="32339"
+                      >
+                        <Label>PLZ</Label>
+                      </TextField>
+                      <TextField
+                        isRequired
+                        defaultValue="Espelkamp"
+                      >
+                        <Label>Ort</Label>
+                      </TextField>
+                    </ColumnLayout>
+                  </ColumnLayout>
+                </Section>
+              </Content>
+
+              <ActionGroup>
+                <Action closeOverlay="Modal">
+                  <Button color="secondary" variant="soft">
+                    Abbrechen
+                  </Button>
+                  <Button color="accent" type="submit">
+                    Speichern
+                  </Button>
+                </Action>
+              </ActionGroup>
+            </Modal>
+          </ModalTrigger>
+        </Header>
+        <ColumnLayout>
+          <LabeledValue>
+            <Label>Inhaber</Label>
+            <Text>
+              Max Mustermann
+              <br />
+              Königsberger Str. 4, 32339 Espelkamp
+            </Text>
+          </LabeledValue>
+          <LabeledValue>
+            <Label>Kontaktdaten</Label>
+            <Text>
+              max@mustermann.de
+              <br />
+              0163/123456789
+            </Text>
+          </LabeledValue>
+        </ColumnLayout>
+      </Section>
+    </LayoutCard>
+  );
 };
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-51:["$","$L53",null,{"children":[["$","$L54",null,{"children":"Overview"}],["$","div",null,{"className":"layout_tabContent__XP2n_","children":["$","$L4f",null,{"mdxFile":{"mdxSource":{"compiledSource":"$55","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport ActionGroup from \"@mittwald/flow-react-components/ActionGroup\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","dark":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","negative":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Button>Zum Dashboard</Button>\n</IllustratedMessage>;\n"},"slugs":["03-components","content","illustrated-message"],"filename":"03-components/content/illustrated-message/overview.mdx"},"indexFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"IllustratedMessage","description":"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann."},"scope":{}},"examples":{"actionGroup":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport ActionGroup from \"@mittwald/flow-react-components/ActionGroup\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","dark":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","negative":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Button>Zum Dashboard</Button>\n</IllustratedMessage>;\n"},"slugs":["src","content","03-components","content","illustrated-message"],"filename":"src/content/03-components/content/illustrated-message/index.mdx"}}]}]]}]
-56:T40f,"use strict";
-const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
-const {useMDXComponents: _provideComponents} = arguments[0];
-function _createMdxContent(props) {
-  const _components = {
-    h1: "h1",
-    ..._provideComponents(),
-    ...props.components
-  }, {PropertiesTables} = _components;
-  if (!PropertiesTables) _missingMdxReference("PropertiesTables", true);
-  return _jsxs(_Fragment, {
-    children: [_jsx(_components.h1, {
-      children: "Properties"
-    }), "\n", _jsx(PropertiesTables, {})]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ..._provideComponents(),
-    ...props.components
-  };
-  return MDXLayout ? _jsx(MDXLayout, {
-    ...props,
-    children: _jsx(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-return {
-  default: MDXContent
-};
-function _missingMdxReference(id, component) {
-  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
-}
-52:["$","$L53",null,{"children":[["$","$L54",null,{"children":"Develop"}],["$","div",null,{"className":"layout_tabContent__XP2n_","children":["$","$L4f",null,{"mdxFile":{"mdxSource":{"compiledSource":"$56","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport ActionGroup from \"@mittwald/flow-react-components/ActionGroup\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","dark":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","negative":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Button>Zum Dashboard</Button>\n</IllustratedMessage>;\n"},"slugs":["03-components","content","illustrated-message"],"filename":"03-components/content/illustrated-message/develop.mdx"},"indexFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"IllustratedMessage","description":"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann."},"scope":{}},"examples":{"actionGroup":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\nimport ActionGroup from \"@mittwald/flow-react-components/ActionGroup\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","dark":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconApp } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","negative":"import Heading from \"@mittwald/flow-react-components/Heading\";\nimport IllustratedMessage from \"@mittwald/flow-react-components/IllustratedMessage\";\nimport { IconDanger } from \"@mittwald/flow-react-components/Icons\";\nimport Text from \"@mittwald/flow-react-components/Text\";\nimport Button from \"@mittwald/flow-react-components/Button\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Button>Zum Dashboard</Button>\n</IllustratedMessage>;\n"},"slugs":["src","content","03-components","content","illustrated-message"],"filename":"src/content/03-components/content/illustrated-message/index.mdx"}}]}]]}]
+8:[["$","$L4b",null,{"children":["$","$L4c",null,{"l":[1],"m":[1],"children":[["$","$L49",null,{"children":[["$","$L4d",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L4e",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    bgColor: \"dark\",\n    editorCollapsed: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"default":"$4f"},"slugs":["01-get-started","templates","detail-page"],"filename":"01-get-started/templates/detail-page/index.mdx"}}]]}]}],"$undefined","$undefined","$undefined"]
 e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-c:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"IllustratedMessage"}],["$","link","2",{"rel":"icon","href":"/flow-previews/docs/add-code-template/favicon.ico","type":"image/x-icon","sizes":"48x48"}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Detailseite"}],["$","link","2",{"rel":"icon","href":"/flow-previews/docs/add-code-template/favicon.ico","type":"image/x-icon","sizes":"48x48"}]]
 a:null
