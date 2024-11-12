@@ -1,12 +1,12 @@
 3:"$Sreact.fragment"
-5:I[61145,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"ColumnLayout"]
-6:I[71202,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"default"]
+5:I[61145,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"ColumnLayout"]
+6:I[71202,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"default"]
 7:I[32348,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","494","static/chunks/494-8489cc3c0d70e9d2.js","931","static/chunks/app/page-510a918aa4f72e0d.js"],"Image"]
-8:I[6929,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"Heading"]
+8:I[6929,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"Heading"]
 9:I[16864,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","494","static/chunks/494-8489cc3c0d70e9d2.js","931","static/chunks/app/page-510a918aa4f72e0d.js"],"AlertBadge"]
 a:I[57855,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","494","static/chunks/494-8489cc3c0d70e9d2.js","931","static/chunks/app/page-510a918aa4f72e0d.js"],"Text"]
-b:I[60759,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"Section"]
-c:I[49381,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"Link"]
+b:I[60759,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"Section"]
+c:I[49381,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"Link"]
 d:I[92251,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","494","static/chunks/494-8489cc3c0d70e9d2.js","931","static/chunks/app/page-510a918aa4f72e0d.js"],"default"]
 e:I[8720,[],"OutletBoundary"]
 10:I[8720,[],"MetadataBoundary"]
@@ -14,7 +14,7 @@ e:I[8720,[],"OutletBoundary"]
 14:I[20853,[],""]
 1:HL["/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","style"]
 2:HL["/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","style"]
-0:{"P":null,"b":"4VtOEnMZ1haV1M7yQONaA","p":"/flow-previews/docs/add-code-template","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","$L5",null,{"l":[1],"m":[1],"children":[["$","$L6",null,{"className":"layout_homeTopLayoutCard__wd_2k","children":[["$","$L7",null,{"className":"layout_homeImage__BIZsA","src":"/flow-previews/docs/add-code-template/_next/static/media/Styleguide_Startseite.6974f330.svg","alt":"Flow Design System"}],["$","$L5",null,{"l":[1],"className":"layout_homeTopContent__vVyX6","children":[["$","$L8",null,{"level":1,"children":["Flow Design System ",["$","$L9",null,{"children":"beta"}]]}],["$","$La",null,{"children":"Entwickle performante und nutzerzentrierte Benutzeroberflächen, die die Markenidentität von mittwald konsistent widerspiegeln."}]]}]]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":"Unsere Grundprinzipien"}],["$","$La",null,{"children":["$","ul",null,{"children":[["$","li",null,{"children":"Developer-Experience: Einfache Integration in gängige Frontend-Entwicklungsprozesse."}],["$","li",null,{"children":"State-of-the-Art: Wir halten uns an Best Practices für leistungsfähige und nutzerzentrierte Benutzeroberflächen."}],["$","li",null,{"children":["Open-Source: Flow ist 100 % öffentlich auf"," ",["$","$Lc",null,{"href":"https://github.com/mittwald/flow","children":"GitHub"}],"."]}],["$","li",null,{"children":"Accessibility: Alle Components sind barrierefrei."}]]}]}]]}]}],["$","$L5",null,{"l":[1,1,1],"children":[["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-device-laptop ","children":["$undefined",["$","path","svg-0",{"d":"M3 19l18 0"}],["$","path","svg-1",{"d":"M5 6m0 1a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1z"}],"$undefined"]}]}],"Get Started"]}],["$","$La",null,{"children":"Installiere Flow und starte in wenigen Schritten."}],["$","$Lc",null,{"href":"01-get-started/installation","children":"Get started"}]]}]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-books ","children":["$undefined",["$","path","svg-0",{"d":"M5 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z"}],["$","path","svg-1",{"d":"M9 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z"}],["$","path","svg-2",{"d":"M5 8h4"}],["$","path","svg-3",{"d":"M9 16h4"}],["$","path","svg-4",{"d":"M13.803 4.56l2.184 -.53c.562 -.135 1.133 .19 1.282 .732l3.695 13.418a1.02 1.02 0 0 1 -.634 1.219l-.133 .041l-2.184 .53c-.562 .135 -1.133 -.19 -1.282 -.732l-3.695 -13.418a1.02 1.02 0 0 1 .634 -1.219l.133 -.041z"}],["$","path","svg-5",{"d":"M14 9l4 -1"}],["$","path","svg-6",{"d":"M16 16l3.923 -.98"}],"$undefined"]}]}],"Foundations"]}],["$","$La",null,{"children":"Erfahre mehr über die Grundlagen unseres Design Systems."}],["$","$Lc",null,{"href":"02-foundations/content-guidelines/fehlermeldungen","children":"Foundations"}]]}]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-components ","children":["$undefined",["$","path","svg-0",{"d":"M3 12l3 3l3 -3l-3 -3z"}],["$","path","svg-1",{"d":"M15 12l3 3l3 -3l-3 -3z"}],["$","path","svg-2",{"d":"M9 6l3 3l3 -3l-3 -3z"}],["$","path","svg-3",{"d":"M9 18l3 3l3 -3l-3 -3z"}],"$undefined"]}]}],"Components"]}],["$","$La",null,{"children":"Nutze unseren modularen Components-Baukasten für dein Projekt."}],["$","$Lc",null,{"href":"03-components/actions/action-group","children":"Components"}]]}]}]]}]]}],null,["$","$Le",null,{"children":"$Lf"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","D_jqXkM6paQW3DF3wgZP6",{"children":[["$","$L10",null,{"children":"$L11"}],["$","$L12",null,{"children":"$L13"}],null]}]]}]]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"WgovNV5gqR2qz_tlkTeyE","p":"/flow-previews/docs/add-code-template","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","$L5",null,{"l":[1],"m":[1],"children":[["$","$L6",null,{"className":"layout_homeTopLayoutCard__wd_2k","children":[["$","$L7",null,{"className":"layout_homeImage__BIZsA","src":"/flow-previews/docs/add-code-template/_next/static/media/Styleguide_Startseite.6974f330.svg","alt":"Flow Design System"}],["$","$L5",null,{"l":[1],"className":"layout_homeTopContent__vVyX6","children":[["$","$L8",null,{"level":1,"children":["Flow Design System ",["$","$L9",null,{"children":"beta"}]]}],["$","$La",null,{"children":"Entwickle performante und nutzerzentrierte Benutzeroberflächen, die die Markenidentität von mittwald konsistent widerspiegeln."}]]}]]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":"Unsere Grundprinzipien"}],["$","$La",null,{"children":["$","ul",null,{"children":[["$","li",null,{"children":"Developer-Experience: Einfache Integration in gängige Frontend-Entwicklungsprozesse."}],["$","li",null,{"children":"State-of-the-Art: Wir halten uns an Best Practices für leistungsfähige und nutzerzentrierte Benutzeroberflächen."}],["$","li",null,{"children":["Open-Source: Flow ist 100 % öffentlich auf"," ",["$","$Lc",null,{"href":"https://github.com/mittwald/flow","children":"GitHub"}],"."]}],["$","li",null,{"children":"Accessibility: Alle Components sind barrierefrei."}]]}]}]]}]}],["$","$L5",null,{"l":[1,1,1],"children":[["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-device-laptop ","children":["$undefined",["$","path","svg-0",{"d":"M3 19l18 0"}],["$","path","svg-1",{"d":"M5 6m0 1a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1z"}],"$undefined"]}]}],"Get Started"]}],["$","$La",null,{"children":"Installiere Flow und starte in wenigen Schritten."}],["$","$Lc",null,{"href":"01-get-started/installation","children":"Get started"}]]}]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-books ","children":["$undefined",["$","path","svg-0",{"d":"M5 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z"}],["$","path","svg-1",{"d":"M9 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z"}],["$","path","svg-2",{"d":"M5 8h4"}],["$","path","svg-3",{"d":"M9 16h4"}],["$","path","svg-4",{"d":"M13.803 4.56l2.184 -.53c.562 -.135 1.133 .19 1.282 .732l3.695 13.418a1.02 1.02 0 0 1 -.634 1.219l-.133 .041l-2.184 .53c-.562 .135 -1.133 -.19 -1.282 -.732l-3.695 -13.418a1.02 1.02 0 0 1 .634 -1.219l.133 -.041z"}],["$","path","svg-5",{"d":"M14 9l4 -1"}],["$","path","svg-6",{"d":"M16 16l3.923 -.98"}],"$undefined"]}]}],"Foundations"]}],["$","$La",null,{"children":"Erfahre mehr über die Grundlagen unseres Design Systems."}],["$","$Lc",null,{"href":"02-foundations/content-guidelines/fehlermeldungen","children":"Foundations"}]]}]}],["$","$L6",null,{"children":["$","$Lb",null,{"children":[["$","$L8",null,{"children":[["$","$Ld",null,{"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"tabler-icon tabler-icon-components ","children":["$undefined",["$","path","svg-0",{"d":"M3 12l3 3l3 -3l-3 -3z"}],["$","path","svg-1",{"d":"M15 12l3 3l3 -3l-3 -3z"}],["$","path","svg-2",{"d":"M9 6l3 3l3 -3l-3 -3z"}],["$","path","svg-3",{"d":"M9 18l3 3l3 -3l-3 -3z"}],"$undefined"]}]}],"Components"]}],["$","$La",null,{"children":"Nutze unseren modularen Components-Baukasten für dein Projekt."}],["$","$Lc",null,{"href":"03-components/actions/action-group","children":"Components"}]]}]}]]}]]}],null,["$","$Le",null,{"children":"$Lf"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","nVn3IqHoRYSNCxVCD1DC4",{"children":[["$","$L10",null,{"children":"$L11"}],["$","$L12",null,{"children":"$L13"}],null]}]]}]]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
 15:I[66060,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"LinkProvider"]
 16:I[33017,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"NotificationProvider"]
 17:I[51238,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"default"]
@@ -22,7 +22,7 @@ e:I[8720,[],"OutletBoundary"]
 46:I[18215,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"Content"]
 47:I[22623,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"ModalTrigger"]
 48:I[76588,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"Button"]
-49:I[4499,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-fb2a19b50d7ad751.js"],"IconMenu"]
+49:I[4499,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"IconMenu"]
 4a:I[22623,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"Modal"]
 4b:I[28006,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"default"]
 4c:I[33797,[],""]
@@ -226,12 +226,11 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-1a:T14d6,import Heading from "@mittwald/flow-react-components/Heading";
+1a:T19c7,import Heading from "@mittwald/flow-react-components/Heading";
 import Text from "@mittwald/flow-react-components/Text";
 import Button from "@mittwald/flow-react-components/Button";
 import Section from "@mittwald/flow-react-components/Section";
 import Content from "@mittwald/flow-react-components/Content";
-import Link from "@mittwald/flow-react-components/Link";
 import {
   Modal,
   ModalTrigger,
@@ -259,39 +258,58 @@ export default () => {
     domain: "example.de",
     type: "Domain",
     ssl: undefined,
+    owner: {
+      firstName: "Max",
+      lastName: "Mustermann",
+      street: "Königsberger Str",
+      houseNumber: "4",
+      zip: "32339",
+      city: "Espelkamp",
+    },
   };
 
   const updateOwnerModal = (
     <Modal>
       <Heading>Domain-Inhaber bearbeiten</Heading>
-
       <Content>
         <Section>
           <ColumnLayout>
-            <TextField isRequired defaultValue="Max">
+            <TextField
+              isRequired
+              defaultValue={domain.owner.firstName}
+            >
               <Label>Vorname</Label>
             </TextField>
-            <TextField isRequired defaultValue="Mustermann">
+            <TextField
+              isRequired
+              defaultValue={domain.owner.lastName}
+            >
               <Label>Nachname</Label>
             </TextField>
             <ColumnLayout gap="s" s={[2, 1]}>
               <TextField
                 isRequired
-                defaultValue="Königsberger Str"
+                defaultValue={domain.owner.street}
               >
                 <Label>Straße</Label>
               </TextField>
-              <TextField isRequired defaultValue="4">
+              <TextField
+                isRequired
+                defaultValue={domain.owner.houseNumber}
+              >
                 <Label>Hausnr.</Label>
               </TextField>
             </ColumnLayout>
             <ColumnLayout gap="s" s={[1, 2]}>
-              <TextField isRequired defaultValue="32339">
+              <TextField
+                isRequired
+                defaultValue={domain.owner.zip}
+              >
                 <Label>PLZ</Label>
               </TextField>
               <TextField
                 isRequired
-                defaultValue="Espelkamp"
+                defaultValue={domain.owner.city}
               >
                 <Label>Ort</Label>
               </TextField>
@@ -299,7 +317,6 @@ export default () => {
           </ColumnLayout>
         </Section>
       </Content>
-
       <ActionGroup>
         <Action closeOverlay="Modal">
           <Button color="secondary" variant="soft">
@@ -313,84 +330,130 @@ export default () => {
     </Modal>
   );
 
+  const updateDomainTargetModal = (
+    <Modal>
+      <Heading>Domain-Ziel ändern</Heading>
+      <Content>
+        <Section>
+          <TextField isRequired>
+            <Label>Domain-Ziel</Label>
+          </TextField>
+        </Section>
+      </Content>
+      <ActionGroup>
+        <Action closeOverlay="Modal">
+          <Button color="secondary" variant="soft">
+            Abbrechen
+          </Button>
+          <Button color="accent" type="submit">
+            Speichern
+          </Button>
+        </Action>
+      </ActionGroup>
+    </Modal>
+  );
+
+  const sslAlertSection = !domain.ssl && (
+    <Section>
+      <Alert status="danger">
+        <Heading>
+          Es konnte kein SSL-Zertifikat ausgestellt werden
+        </Heading>
+        <Content>
+          <Text>
+            Für diese Domain konnte kein SSL-Zertifikat
+            ausgestellt werden, da {domain.hostname} nicht
+            per DNS auf deine Server-IP zeigt. Ändere den
+            A-Record oder CNAME auf die Server-IP zeigen. Es
+            kann einige Minuten dauern, bis das Zertifikat
+            bei korrekten Einstellungen ausgestellt ist.
+          </Text>
+          <Action showFeedback>
+            <Button variant="plain">
+              SSL-Zertifikat ausstellen
+            </Button>
+          </Action>
+        </Content>
+      </Alert>
+    </Section>
+  );
+
+  const domainDetailsSection = (
+    <Section>
+      <Header>
+        <Heading>Domain-Details</Heading>
+        <ContextMenuTrigger>
+          <Button color="secondary" variant="soft">
+            <IconContextMenu />
+          </Button>
+          <ContextMenu>
+            <MenuItem
+              onAction={() => alert("not implemented")}
+            >
+              Domain umziehen
+            </MenuItem>
+            <MenuItem
+              onAction={() => alert("not implemented")}
+            >
+              Domain entfernen
+            </MenuItem>
+          </ContextMenu>
+        </ContextMenuTrigger>
+        <ModalTrigger>
+          <Button>Domain-Ziel ändern</Button>
+          {updateDomainTargetModal}
+        </ModalTrigger>
+      </Header>
+      <ColumnLayout s={[1, 1]}>
+        <LabeledValue>
+          <Label>Domain-Ziel</Label>
+          <Text>{domain.domain}</Text>
+        </LabeledValue>
+        <LabeledValue>
+          <Label>Zertifikat</Label>
+          <Text>{domain.ssl ? domain.ssl : "-"}</Text>
+        </LabeledValue>
+      </ColumnLayout>
+    </Section>
+  );
+
+  const domainOwnerSection = (
+    <Section>
+      <Header>
+        <Heading>Domain-Inhaber</Heading>
+        <ModalTrigger>
+          <Button color="secondary" variant="soft">
+            Bearbeiten
+          </Button>
+          {updateOwnerModal}
+        </ModalTrigger>
+      </Header>
+      <ColumnLayout>
+        <LabeledValue>
+          <Label>Inhaber</Label>
+          <Text>
+            Max Mustermann
+            <br />
+            Königsberger Str. 4, 32339 Espelkamp
+          </Text>
+        </LabeledValue>
+        <LabeledValue>
+          <Label>Kontaktdaten</Label>
+          <Text>
+            max@mustermann.de
+            <br />
+            0163/123456789
+          </Text>
+        </LabeledValue>
+      </ColumnLayout>
+    </Section>
+  );
+
   return (
     <LayoutCard>
-      <Section>
-        {!domain.ssl && (
-          <Alert status="danger">
-            <Heading>
-              Es konnte kein SSL-Zertifikat ausgestellt
-              werden
-            </Heading>
-            <Content>
-              <Text>
-                Für diese Domain konnte kein SSL-Zertifikat
-                ausgestellt werden, da {domain.hostname}{" "}
-                nicht per DNS auf deine Server-IP zeigt.
-                Ändere den A-Record oder CNAME auf die
-                Server-IP zeigen. Es kann einige Minuten
-                dauern, bis das Zertifikat bei korrekten
-                Einstellungen ausgestellt ist.
-              </Text>
-              <Link>SSL-Zertifikat ausstellen</Link>
-            </Content>
-          </Alert>
-        )}
-      </Section>
-      <Section>
-        <Header>
-          <Heading>Domain-Details</Heading>
-          <ContextMenuTrigger>
-            <Button color="secondary" variant="soft">
-              <IconContextMenu />
-            </Button>
-            <ContextMenu>
-              <MenuItem>Domain umziehen</MenuItem>
-              <MenuItem>Domain entfernen</MenuItem>
-            </ContextMenu>
-          </ContextMenuTrigger>
-          <Button>Domain-Ziel ändern</Button>
-        </Header>
-        <ColumnLayout s={[1, 1]}>
-          <LabeledValue>
-            <Label>Domain-Ziel</Label>
-            <Text>{domain.domain}</Text>
-          </LabeledValue>
-          <LabeledValue>
-            <Label>Zertifikat</Label>
-            <Text>{domain.ssl ? domain.ssl : "-"}</Text>
-          </LabeledValue>
-        </ColumnLayout>
-      </Section>
-      <Section>
-        <Header>
-          <Heading>Domain-Inhaber</Heading>
-          <ModalTrigger>
-            <Button color="secondary" variant="soft">
-              Bearbeiten
-            </Button>
-            {updateOwnerModal}
-          </ModalTrigger>
-        </Header>
-        <ColumnLayout>
-          <LabeledValue>
-            <Label>Inhaber</Label>
-            <Text>
-              Max Mustermann
-              <br />
-              Königsberger Str. 4, 32339 Espelkamp
-            </Text>
-          </LabeledValue>
-          <LabeledValue>
-            <Label>Kontaktdaten</Label>
-            <Text>
-              max@mustermann.de
-              <br />
-              0163/123456789
-            </Text>
-          </LabeledValue>
-        </ColumnLayout>
-      </Section>
+      {sslAlertSection}
+      {domainDetailsSection}
+      {domainOwnerSection}
     </LayoutCard>
   );
 };
