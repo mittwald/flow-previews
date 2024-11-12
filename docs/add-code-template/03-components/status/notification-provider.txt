@@ -8,7 +8,7 @@ f:I[20853,[],""]
 1:HL["/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","style"]
 2:HL["/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","style"]
 3:HL["/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","style"]
-0:{"P":null,"b":"WgovNV5gqR2qz_tlkTeyE","p":"/flow-previews/docs/add-code-template","c":["","03-components","status","notification-provider"],"i":false,"f":[[["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"notification-provider\"]}",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L5"]}],{"children":[["slug","03-components/status/notification-provider","c"],["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","$0:f:0:1:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":"$La"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","9QZKNP1qEn9ueXtAVpAI3",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}]]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"-nsIy-jXPv6XzG5eBD6rk","p":"/flow-previews/docs/add-code-template","c":["","03-components","status","notification-provider"],"i":false,"f":[[["",{"children":[["slug","03-components/status/notification-provider","c"],{"children":["__PAGE__?{\"slug\":[\"03-components\",\"status\",\"notification-provider\"]}",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/fd9990a845c42c03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/3ba222b9e962f049.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L5"]}],{"children":[["slug","03-components/status/notification-provider","c"],["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","$0:f:0:1:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/flow-previews/docs/add-code-template/_next/static/css/f70528a53dff734d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":"$La"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","hiAfhA7zb88ME-iX9xaNa",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}]]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
 10:I[66060,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"LinkProvider"]
 11:I[33017,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","185","static/chunks/app/layout-f33785d4a442f19f.js"],"NotificationProvider"]
 12:I[49381,["188","static/chunks/76253c6e-6d7f7ab0e108c2a4.js","802","static/chunks/d709487a-696c39bfc5773da1.js","696","static/chunks/696-9258ef89c5b60672.js","331","static/chunks/331-c98a2dbf776970f9.js","712","static/chunks/712-cb72b7e9b7fbc39a.js","494","static/chunks/494-8489cc3c0d70e9d2.js","691","static/chunks/691-458aa04acb5a9a21.js","877","static/chunks/app/%5B...slug%5D/page-b8cd9d27c33ac061.js"],"Link"]
@@ -222,7 +222,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-17:T19c7,import Heading from "@mittwald/flow-react-components/Heading";
+17:T19a9,import Heading from "@mittwald/flow-react-components/Heading";
 import Text from "@mittwald/flow-react-components/Text";
 import Button from "@mittwald/flow-react-components/Button";
 import Section from "@mittwald/flow-react-components/Section";
@@ -331,7 +331,10 @@ export default () => {
       <Heading>Domain-Ziel ändern</Heading>
       <Content>
         <Section>
-          <TextField isRequired>
+          <TextField
+            isRequired
+            defaultValue={domain.hostname}
+          >
             <Label>Domain-Ziel</Label>
           </TextField>
         </Section>
@@ -403,7 +406,7 @@ export default () => {
       <ColumnLayout s={[1, 1]}>
         <LabeledValue>
           <Label>Domain-Ziel</Label>
-          <Text>{domain.domain}</Text>
+          <Text>{domain.hostname}</Text>
         </LabeledValue>
         <LabeledValue>
           <Label>Zertifikat</Label>
@@ -428,17 +431,10 @@ export default () => {
         <LabeledValue>
           <Label>Inhaber</Label>
           <Text>
-            Max Mustermann
+            {domain.owner.firstName} {domain.owner.lastName}
             <br />
-            Königsberger Str. 4, 32339 Espelkamp
-          </Text>
-        </LabeledValue>
-        <LabeledValue>
-          <Label>Kontaktdaten</Label>
-          <Text>
-            max@mustermann.de
-            <br />
-            0163/123456789
+            {domain.owner.street} {domain.owner.houseNumber}
+            , {domain.owner.zip} {domain.owner.city}
           </Text>
         </LabeledValue>
       </ColumnLayout>
