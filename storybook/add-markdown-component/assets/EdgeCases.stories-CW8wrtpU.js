@@ -1,7 +1,0 @@
-import{m as n,B as p}from"./Default.stories-D2KE2JHK.js";import{R as m}from"./index-Cs7sjTYM.js";import{d as e}from"./dummyText-CX_I_Wpl.js";import{L as t}from"./Link-sLEXs6bq.js";import"./clsx-B-dksMZM.js";import"./IconApp-Dl7D1yMd.js";import"./_commonjsHelpers-BosuxZz1.js";import"./PropsContextProvider-CRusYdr1.js";import"./index-j_f0pOtZ.js";import"./flowComponent-ioG1zo33.js";import"./index-Cf-03bMR.js";import"./IconWarning-D0l2tnhs.js";import"./Collection-BdcdgcY_.js";import"./CollectionBuilder-B4BE-ZOx.js";import"./Hidden-C2kgQquV.js";import"./utils-Cd8r7pc9.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLocalizedStringFormatter-TZkCr3Qr.js";import"./storyBackgrounds-GFSAi-dI.js";import"./usePress-Dcn7RY69.js";import"./useFocusRing-CqFdZJbR.js";import"./useFocusable-CKybZYMg.js";const $={...n,title:"Navigation/Breadcrumb/Edge Cases"},r={render:()=>m.createElement(p,null,m.createElement(t,null,e.medium),m.createElement(t,null,e.medium),m.createElement(t,null,e.medium))};var o,i,a;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  render: () => <Breadcrumb>
-      <Link>{dummyText.medium}</Link>
-      <Link>{dummyText.medium}</Link>
-      <Link>{dummyText.medium}</Link>
-    </Breadcrumb>
-}`,...(a=(i=r.parameters)==null?void 0:i.docs)==null?void 0:a.source}}};const h=["LongTexts"];export{r as LongTexts,h as __namedExportsOrder,$ as default};
