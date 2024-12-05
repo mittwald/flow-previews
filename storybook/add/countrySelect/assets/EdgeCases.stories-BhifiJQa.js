@@ -27,9 +27,7 @@ import{m as S,C as a}from"./Default.stories-D6EwYqR7.js";import{R as r}from"./in
   },
   render: props => <CountrySelect {...props}>
       <Label>Country</Label>
-      <FieldDescription>
-        Complete example with all properties
-      </FieldDescription>
+      <FieldDescription>Complete example with all properties</FieldDescription>
       <FieldError>Fehlerbeispiel</FieldError>
     </CountrySelect>
 }`,...(f=(E=i.parameters)==null?void 0:E.docs)==null?void 0:f.source}}};const xr=["NonExistentCountryCode","WithCustomOnChange","WithDachFirstAndDefault","WithAllProps"];export{t as NonExistentCountryCode,i as WithAllProps,o as WithCustomOnChange,n as WithDachFirstAndDefault,xr as __namedExportsOrder,Lr as default};
