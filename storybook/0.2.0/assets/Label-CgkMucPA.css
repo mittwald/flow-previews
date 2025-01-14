@@ -1,0 +1,1 @@
+.flow--src--label{color:var(--label--color--default);font-size:var(--label--font-size);font-weight:var(--label--font-weight);line-height:var(--label--line-height);display:inline-flex;align-items:center;column-gap:var(--label--spacing)}.flow--src--label.flow--src--label--disabled{color:var(--label--color--disabled)}

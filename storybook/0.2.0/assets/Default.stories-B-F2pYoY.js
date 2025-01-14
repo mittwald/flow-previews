@@ -1,0 +1,14 @@
+import{j as t}from"./jsx-runtime-CLpGMVip.js";import"./index-Cf9XvIV_.js";import{c as S}from"./clsx-B-dksMZM.js";import{f as I}from"./flowComponent-CGvK_9lq.js";import{B as _}from"./Button-BIf7ZsHf.js";import"./IconApp-DoH4uGTw.js";import{t as y}from"./IconWarning--dCRo9Au.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-Y1p7vO9S.js";import"./index-ByctJgwf.js";import"./index-CoqFY4cC.js";import"./PropsContextProvider-CWFvCxZj.js";import"./Wrap-DQq6jo70.js";import"./Text-CISO88fp.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-y-0OLV69.js";import"./Text-DUOeOfAn.js";import"./utils-DbIpkr2E.js";import"./LoadingSpinner-qiMjUZAx.js";import"./useLocalizedStringFormatter-Dq-FGM-G.js";import"./Button-Cft9vso-.js";import"./ProgressBar-Bu1Xugb0.js";import"./Label-wrbsGWF5.js";import"./Hidden-le53pkqW.js";import"./filterDOMProps-BSfnXAP7.js";import"./useLabel-ByHVstPj.js";import"./NumberFormatter-DT0cDaax.js";import"./LiveAnnouncer-DFDjXwI8.js";import"./useFocusable-DSRH2vY_.js";import"./useFocusRing-Jnne1fGl.js";import"./usePress-6Arr-Ydv.js";import"./react-children-utilities-C_p-_B4N.js";const w="flow--src--counter-badge",D={counterBadge:w},n=I("CounterBadge",r=>{const{className:N,count:i,ref:j,...W}=r,b=S(D.counterBadge,N);return t.jsx("span",{className:b,...W,"aria-hidden":!0,ref:j,children:i&&i>99?"99+":i})});n.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"CounterBadge"};const mr={title:"Status/CounterBadge",component:n,args:{count:5},parameters:{controls:{exclude:["elementType","tunnelId","render"]}},render:r=>t.jsx(n,{...r})},o={},e={args:{count:void 0}},s={args:{count:120}},a={render:r=>t.jsxs(_,{"aria-label":"Notifications: 7",children:[t.jsx(y,{}),t.jsx(n,{...r,count:7})]})};var m,c,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(p=(c=o.parameters)==null?void 0:c.docs)==null?void 0:p.source}}};var u,d,l;e.parameters={...e.parameters,docs:{...(u=e.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    count: undefined
+  }
+}`,...(l=(d=e.parameters)==null?void 0:d.docs)==null?void 0:l.source}}};var g,f,B;s.parameters={...s.parameters,docs:{...(g=s.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    count: 120
+  }
+}`,...(B=(f=s.parameters)==null?void 0:f.docs)==null?void 0:B.source}}};var h,x,C;a.parameters={...a.parameters,docs:{...(h=a.parameters)==null?void 0:h.docs,source:{originalSource:`{
+  render: props => <Button aria-label="Notifications: 7">
+      <IconNotification />
+      <CounterBadge {...props} count={7}></CounterBadge>
+    </Button>
+}`,...(C=(x=a.parameters)==null?void 0:x.docs)==null?void 0:C.source}}};const cr=["Default","WithoutContent","WithHighNumber","WithButton"];export{o as Default,a as WithButton,s as WithHighNumber,e as WithoutContent,cr as __namedExportsOrder,mr as default};

@@ -1,1 +1,0 @@
-import{b as i}from"./index-CPTjWdH1.js";import{r as u}from"./index-BbMBc-iG.js";function s(n,f,t){let a=u.useRef(f),r=i(()=>{t&&t(a.current)});u.useEffect(()=>{var d;let e=n==null||(d=n.current)===null||d===void 0?void 0:d.form;return e==null||e.addEventListener("reset",r),()=>{e==null||e.removeEventListener("reset",r)}},[n,r])}export{s as $};

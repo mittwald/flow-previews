@@ -1,1 +1,0 @@
-import{R as o}from"./index-BbMBc-iG.js";import"./_commonjsHelpers-Cpj98o6Y.js";const a={decorators:[e=>(document.body.classList.add("flow"),o.createElement(e,null))],globalTypes:{rtlDirection:{}},parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}}};export{a as default};
