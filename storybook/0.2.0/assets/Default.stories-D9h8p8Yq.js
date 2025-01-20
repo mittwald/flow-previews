@@ -1,0 +1,14 @@
+import{j as e}from"./jsx-runtime-CLpGMVip.js";import{A as s}from"./Alert-Dgk_OFEU.js";import"./index-Cf9XvIV_.js";import{H as c}from"./Heading-BeIHyBZu.js";import{C as l}from"./Content-BEV2zUkx.js";import{B as h}from"./Button-DHWTNALP.js";import"./PropsContextProvider-CWFvCxZj.js";import"./index-CoqFY4cC.js";import"./clsx-B-dksMZM.js";import"./dynamic-DKDa4OpU.js";import"./AlertIcon-BrFtAldv.js";import"./IconApp-B1n3xJhN.js";import"./flowComponent-DRn_CkhL.js";import"./index-CFEY-m6m.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-ByctJgwf.js";import"./IconWarning-D8dw3UeH.js";import"./useLocalizedStringFormatter-Dq-FGM-G.js";import"./Heading-KiBkZhoZ.js";import"./RSPContexts-BG_vMng8.js";import"./utils-CVMEqJeI.js";import"./Wrap-DQq6jo70.js";import"./Text-CjWzxq3B.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-CWUNNmIs.js";import"./Text-F0Mi_G2S.js";import"./LoadingSpinner-UEb47rBz.js";import"./Button-Depz1QWJ.js";import"./ProgressBar-Jtxrz8Zb.js";import"./Label-0l9LIJhu.js";import"./Hidden-Cfl4ctnK.js";import"./filterDOMProps-BSfnXAP7.js";import"./useLabel-ByHVstPj.js";import"./NumberFormatter-DT0cDaax.js";import"./LiveAnnouncer-DFDjXwI8.js";import"./useFocusable-ZIe1iymP.js";import"./focusSafely-D0g9gk72.js";import"./useFocusRing-CKcPrrmF.js";import"./usePress-6HCAk5fU.js";import"./_class_private_field_set-CamGEj8o.js";const ee={title:"Status/Alert",component:s,argTypes:{status:{control:"inline-radio",options:["info","success","warning","danger"]}},args:{status:"info"}},r={render:o=>e.jsx(s,{...o,children:e.jsx(c,{children:"Email address has been archived"})})},t={render:o=>e.jsxs(s,{...o,children:[e.jsx(c,{children:"Email address has been archived"}),e.jsxs(l,{children:["As your domain has been deleted, this email address has been archived. To be able to send and receive emails, you must rename the address.",e.jsx(h,{children:"Update email address"})]})]})};var i,a,n;r.parameters={...r.parameters,docs:{...(i=r.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  render: props => <Alert {...props}>
+      <Heading>Email address has been archived</Heading>
+    </Alert>
+}`,...(n=(a=r.parameters)==null?void 0:a.docs)==null?void 0:n.source}}};var m,d,p;t.parameters={...t.parameters,docs:{...(m=t.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  render: props => <Alert {...props}>
+      <Heading>Email address has been archived</Heading>
+      <Content>
+        As your domain has been deleted, this email address has been archived.
+        To be able to send and receive emails, you must rename the address.
+        <Button>Update email address</Button>
+      </Content>
+    </Alert>
+}`,...(p=(d=t.parameters)==null?void 0:d.docs)==null?void 0:p.source}}};const re=["Default","WithContent"];export{r as Default,t as WithContent,re as __namedExportsOrder,ee as default};

@@ -1,0 +1,14 @@
+import{j as t}from"./jsx-runtime-CLpGMVip.js";import"./index-Cf9XvIV_.js";import{c as S}from"./clsx-B-dksMZM.js";import{f as I}from"./flowComponent-DRn_CkhL.js";import{B as _}from"./Button-DHWTNALP.js";import"./IconApp-B1n3xJhN.js";import{t as y}from"./IconWarning-D8dw3UeH.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-CFEY-m6m.js";import"./index-ByctJgwf.js";import"./index-CoqFY4cC.js";import"./PropsContextProvider-CWFvCxZj.js";import"./Wrap-DQq6jo70.js";import"./Text-CjWzxq3B.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-CWUNNmIs.js";import"./Text-F0Mi_G2S.js";import"./utils-CVMEqJeI.js";import"./LoadingSpinner-UEb47rBz.js";import"./useLocalizedStringFormatter-Dq-FGM-G.js";import"./Button-Depz1QWJ.js";import"./ProgressBar-Jtxrz8Zb.js";import"./Label-0l9LIJhu.js";import"./Hidden-Cfl4ctnK.js";import"./filterDOMProps-BSfnXAP7.js";import"./useLabel-ByHVstPj.js";import"./NumberFormatter-DT0cDaax.js";import"./LiveAnnouncer-DFDjXwI8.js";import"./useFocusable-ZIe1iymP.js";import"./focusSafely-D0g9gk72.js";import"./useFocusRing-CKcPrrmF.js";import"./usePress-6HCAk5fU.js";import"./_class_private_field_set-CamGEj8o.js";const w="flow--counter-badge",D={counterBadge:w},s=I("CounterBadge",r=>{const{className:N,count:i,ref:j,...W}=r,b=S(D.counterBadge,N);return t.jsx("span",{className:b,...W,"aria-hidden":!0,ref:j,children:i&&i>99?"99+":i})});s.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"CounterBadge"};const cr={title:"Status/CounterBadge",component:s,args:{count:5},parameters:{controls:{exclude:["elementType","tunnelId","render"]}},render:r=>t.jsx(s,{...r})},o={},e={args:{count:void 0}},a={args:{count:120}},n={render:r=>t.jsxs(_,{"aria-label":"Notifications: 7",children:[t.jsx(y,{}),t.jsx(s,{...r,count:7})]})};var m,c,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(p=(c=o.parameters)==null?void 0:c.docs)==null?void 0:p.source}}};var u,d,l;e.parameters={...e.parameters,docs:{...(u=e.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    count: undefined
+  }
+}`,...(l=(d=e.parameters)==null?void 0:d.docs)==null?void 0:l.source}}};var g,f,B;a.parameters={...a.parameters,docs:{...(g=a.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    count: 120
+  }
+}`,...(B=(f=a.parameters)==null?void 0:f.docs)==null?void 0:B.source}}};var h,x,C;n.parameters={...n.parameters,docs:{...(h=n.parameters)==null?void 0:h.docs,source:{originalSource:`{
+  render: props => <Button aria-label="Notifications: 7">
+      <IconNotification />
+      <CounterBadge {...props} count={7}></CounterBadge>
+    </Button>
+}`,...(C=(x=n.parameters)==null?void 0:x.docs)==null?void 0:C.source}}};const pr=["Default","WithoutContent","WithHighNumber","WithButton"];export{o as Default,n as WithButton,a as WithHighNumber,e as WithoutContent,pr as __namedExportsOrder,cr as default};
