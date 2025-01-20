@@ -1,1 +1,0 @@
-.flow--src--loading-spinner{animation:flow--src--loading-spinner--spin var(--loading-spinner--transition-duration) linear infinite}@keyframes flow--src--loading-spinner--spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}

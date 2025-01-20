@@ -1,1 +1,0 @@
-.flow--src--text{color:inherit}.flow--src--text:where(.flow--src--text--light){color:var(--text--color--light)}.flow--src--text:where(.flow--src--text--dark){color:var(--text--color--dark)}.flow--src--text ul,.flow--src--text ol{padding-left:var(--size-rem--l)}.flow--src--text ul li{list-style:initial}.flow--src--text small{font-size:var(--font-size-text--s)}
