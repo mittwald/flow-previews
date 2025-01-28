@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-CLpGMVip.js";import{r as i}from"./index-Cf9XvIV_.js";import{D as t}from"./DialogTrigger-DhZJeKzQ.js";import{v as s}from"./IconApp-B1n3xJhN.js";const g=o=>{const r=i.useContext(s).DialogTrigger??t;return e.jsx(r,{...o})};g.__docgenInfo={description:"",methods:[],displayName:"DialogTriggerView"};export{g as D};
