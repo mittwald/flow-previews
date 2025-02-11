@@ -1,1 +1,0 @@
-import{j as o}from"./jsx-runtime-D_zvdyIk.js";import"./index-BZISi7jw.js";import{C as m}from"./PropsContextProvider-CnD-oO9S.js";import{f as s}from"./flowComponent-C3EXXnsB.js";const a=s("Image",e=>{const{ref:r,...t}=e;return o.jsx(m,{children:o.jsx("img",{...t,ref:r})})});a.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Image"};export{a as I};
