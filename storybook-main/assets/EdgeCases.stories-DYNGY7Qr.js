@@ -1,0 +1,13 @@
+import{L as d}from"./LabeledValue-BqTC1AcG.js";import C from"./Default.stories-DZytPz5w.js";import{d as e}from"./dummyText-CX_I_Wpl.js";import{L as u}from"./Label-DMTVGheq.js";import{C as c}from"./Content-SKiNSCmP.js";import{R as t}from"./index-B-o1Wr-g.js";import{C as L}from"./CopyButton-83mwCw_3.js";import"./clsx-B-dksMZM.js";import"./flowComponent-Bi8R7MU8.js";import"./index-ynQ6n1pc.js";import"./index-DolzVqEf.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./Button-DxJ53Gh-.js";import"./IconApp-B0VM5pA-.js";import"./IconWarning-CeoFRZGA.js";import"./Wrap-DQq6jo70.js";import"./Text-Cxo14Dks.js";import"./browser-B3hGj0u-.js";import"./EmulatedBoldText-1x_0FOGF.js";import"./Text-R-rrVGxo.js";import"./utils-7gTBvjqH.js";import"./LoadingSpinner-BIc094zz.js";import"./useLocalizedStringFormatter-BQr1rA-c.js";import"./Button-CPCoFgob.js";import"./ProgressBar-BQAJCbMD.js";import"./Label-CqgmsInd.js";import"./Hidden-CRdWNeH8.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-DrlXsFf-.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./useFocusable-BXVt7Q_3.js";import"./useFocusRing-CTDVvBmm.js";import"./usePress-C3EQNDer.js";import"./InlineCode-qu8pTTA9.js";import"./Link-Lqnfb2ti.js";import"./Tooltip-BTyBnpIw.js";import"./OverlayArrow-CuXMKzfT.js";import"./useControlledState-BgxdDqm0.js";import"./react-children-utilities-xgYgah_I.js";import"./Action-_v7HSv4S.js";import"./context-tra5QY3B.js";import"./useStatic-DVVlOpvb.js";import"./getActionGroupSlot-7U_pQ_UO.js";import"./dynamic-DKDa4OpU.js";const at={title:"Content/LabeledValue/Edge Cases",...C},r={render:m=>t.createElement(d,{...m},t.createElement(u,null,e.medium),t.createElement(c,null,e.short),t.createElement(L,{text:e.short}))},o={render:m=>t.createElement(d,{...m},t.createElement(u,null,e.medium),t.createElement(c,null,e.long),t.createElement(L,{text:e.long}))};var p,n,a;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.short}</Content>
+      <CopyButton text={dummyText.short} />
+    </LabeledValue>
+}`,...(a=(n=r.parameters)==null?void 0:n.docs)==null?void 0:a.source}}};var i,l,s;o.parameters={...o.parameters,docs:{...(i=o.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>{dummyText.medium}</Label>
+      <Content>{dummyText.long}</Content>
+      <CopyButton text={dummyText.long} />
+    </LabeledValue>
+}`,...(s=(l=o.parameters)==null?void 0:l.docs)==null?void 0:s.source}}};const it=["LongLabel","LongContent"];export{o as LongContent,r as LongLabel,it as __namedExportsOrder,at as default};
