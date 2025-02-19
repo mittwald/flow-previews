@@ -1,1 +1,0 @@
-import{R as e}from"./index-B-o1Wr-g.js";import{C as a}from"./ColumnLayout-A06KudZI.js";import{P as m}from"./flowComponent-Bi8R7MU8.js";const n=t=>{const{className:o,...r}=t,s={FileCard:{elementType:"li"}};return e.createElement(m,{props:s},e.createElement(a,{elementType:"ul",className:o,...r}))};n.__docgenInfo={description:"",methods:[],displayName:"FileCardList"};export{n as F};
