@@ -1,0 +1,24 @@
+import{j as o}from"./jsx-runtime-D_zvdyIk.js";import"./index-BZISi7jw.js";import{B as t}from"./Button-DeH5Fe-l.js";import{A as L}from"./ActionGroup-DlhtRnrQ.js";import{f as A,P as D,A as F,o as _,S as W,k as S,N as y}from"./IconWarning-C6QfuWaX.js";import{O as $}from"./OverlayContent-CR6wKxi5.js";import{c as k}from"./clsx-B-dksMZM.js";import{u as v,O as E}from"./MenuTrigger-kA-v7kws.js";import{b as R}from"./Dialog-B_fESGfq.js";import{I as C}from"./Image-TuOvad_y.js";import{d as I}from"./dummyText-CX_I_Wpl.js";import"./_commonjsHelpers-CqkleIqs.js";import"./Wrap-DQq6jo70.js";import"./Text-BTGzpv9i.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-BfYT5ZHF.js";import"./Text-PTaPc_Ci.js";import"./utils-CzVyYWZn.js";import"./index-IBhSrjl6.js";import"./LoadingSpinner-D3OOfFZU.js";import"./useLocalizedStringFormatter-D6AjEcek.js";import"./Button-BBWo3kGM.js";import"./ProgressBar-B3uNJn7L.js";import"./Label-RYyxMwZH.js";import"./Hidden-DBxI3g91.js";import"./index-BBXbSWyk.js";import"./index-C0qn59OO.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-Hju3pN3c.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./useFocusable-CdO2YIL_.js";import"./useFocusRing-DzGSygZM.js";import"./usePress-DZCrAIzv.js";import"./dynamic-DKDa4OpU.js";import"./getActionGroupSlot-NO8qrxlf.js";import"./useStatic-HG5pO9uM.js";import"./OverlayArrow-3nCN3lnL.js";import"./useControlledState-4nfZ-XMX.js";import"./context-D5lRpDj5.js";import"./RSPContexts-BEYwq1Zw.js";import"./Collection-DxADqCjP.js";import"./CollectionBuilder-D73R-Ru4.js";import"./Separator-DNY_h6GP.js";import"./SelectionManager-D_sMwGle.js";import"./useEvent-CPQp9FCP.js";import"./useCollator-C0JtIjTO.js";import"./FocusScope-BnLtY9jQ.js";import"./VisuallyHidden-DJvehTyr.js";const q="flow--light-box",z="flow--light-box--content",H="flow--light-box--fit-screen",J="flow--light-box--actions",K="flow--light-box--action-group",n={lightBox:q,content:z,fitScreen:H,actions:J,actionGroup:K},l=A("LightBox",r=>{const{controller:e,children:p,ref:M,className:G,fitScreen:N=!0,...b}=r,w=k(n.lightBox,N&&n.fitScreen,G),P={ActionGroup:{className:n.actionGroup,Button:{variant:"soft",color:"light"},tunnelId:"actionGroup",ignoreBreakpoint:!0}},T=v("LightBox",{reuseControllerFromContext:!0}),s=e??T;return o.jsx($,{overlayType:"LightBox",className:w,controller:s,...b,children:o.jsx(D,{props:P,children:o.jsxs(F,{children:[o.jsx("div",{className:n.content,children:p}),o.jsxs("div",{className:n.actions,children:[o.jsx(t,{color:"light",variant:"soft",onPress:s==null?void 0:s.close,children:o.jsx(_,{})}),o.jsx(W,{id:"actionGroup"})]})]})})})});l.__docgenInfo={description:`@flr-generate all
+@flr-clear-props-context`,methods:[],displayName:"LightBox"};const O=r=>{const{children:e,...p}=r;return o.jsx(E,{overlayType:"LightBox",...p,component:R,children:e})};O.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"LightBoxTrigger"};const Ho={title:"Overlays/LightBox",component:l,parameters:{controls:{exclude:["controller"]}},render:r=>o.jsxs(O,{children:[o.jsx(t,{children:"Open LightBox"}),o.jsxs(l,{...r,children:[o.jsx(C,{src:I.imageSrc}),o.jsxs(L,{children:[o.jsx(t,{children:o.jsx(S,{})}),o.jsx(t,{children:o.jsx(y,{})})]})]})]})},i={},c={args:{fitScreen:!1}},a={render:r=>{const e=v("LightBox");return o.jsxs(o.Fragment,{children:[o.jsx(t,{onPress:e.open,children:"Open LightBox"}),o.jsxs(l,{...r,controller:e,children:[o.jsx(C,{src:I.imageSrc}),o.jsxs(L,{children:[o.jsx(t,{children:o.jsx(S,{})}),o.jsx(t,{children:o.jsx(y,{})})]})]})]})}};var m,x,d;i.parameters={...i.parameters,docs:{...(m=i.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(d=(x=i.parameters)==null?void 0:x.docs)==null?void 0:d.source}}};var g,h,u;c.parameters={...c.parameters,docs:{...(g=c.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    fitScreen: false
+  }
+}`,...(u=(h=c.parameters)==null?void 0:h.docs)==null?void 0:u.source}}};var f,j,B;a.parameters={...a.parameters,docs:{...(f=a.parameters)==null?void 0:f.docs,source:{originalSource:`{
+  render: props => {
+    const controller = useOverlayController("LightBox");
+    return <>
+        <Button onPress={controller.open}>Open LightBox</Button>
+        <LightBox {...props} controller={controller}>
+          <Image src={dummyText.imageSrc} />
+          <ActionGroup>
+            <Button>
+              <IconDownload />
+            </Button>
+            <Button>
+              <IconDelete />
+            </Button>
+          </ActionGroup>
+        </LightBox>
+      </>;
+  }
+}`,...(B=(j=a.parameters)==null?void 0:j.docs)==null?void 0:B.source}}};const Jo=["Default","WithoutFitScreen","WithController"];export{i as Default,a as WithController,c as WithoutFitScreen,Jo as __namedExportsOrder,Ho as default};
