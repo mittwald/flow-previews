@@ -1,0 +1,30 @@
+import{j as e}from"./jsx-runtime-D_zvdyIk.js";import{f as D,A as M,P as B,S as f,C as _}from"./flowComponent-B-ghCXY_.js";import"./index-BZISi7jw.js";import{f as o,F as R}from"./FieldError-DL0lZ3pj.js";import{c as $}from"./clsx-B-dksMZM.js";import{$ as y,a as P}from"./RadioGroup-dsBcmkhX.js";import"./IconApp-vAs-LrT2.js";import{m as V}from"./IconWarning-Pa3TKbPU.js";import{L as c}from"./Label-_wcwLnA8.js";import{a as q}from"./chunk-D5ZWXAHU-Dm3eDOzv.js";import"./index-BBXbSWyk.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-C0qn59OO.js";import"./index-IBhSrjl6.js";import"./FieldError-DoW3KOQ8.js";import"./useFocusRing-DzGSygZM.js";import"./utils-CzVyYWZn.js";import"./Text-PTaPc_Ci.js";import"./filterDOMProps-CeZl_uWj.js";import"./Form-D162gIjQ.js";import"./useLabel-Hju3pN3c.js";import"./Label-RYyxMwZH.js";import"./Hidden-DBxI3g91.js";import"./useFormReset-CilIRCFg.js";import"./useFocusable-CdO2YIL_.js";import"./usePress-DZCrAIzv.js";import"./FocusScope-BnLtY9jQ.js";import"./useLocalizedStringFormatter-D6AjEcek.js";import"./VisuallyHidden-DJvehTyr.js";import"./useControlledState-4nfZ-XMX.js";import"./v4-CtRu48qb.js";const W="flow--segmented-control",O="flow--segmented-control--segments",G="flow--segmented-control--segmented-control-container",H="flow--segmented-control--segment",s={segmentedControl:W,segments:O,segmentedControlContainer:G,"container-breakpoint-size-xs":"flow--segmented-control--container-breakpoint-size-xs",segment:H,"container-breakpoint-size-s":"flow--segmented-control--container-breakpoint-size-s","container-breakpoint-size-m":"flow--segmented-control--container-breakpoint-size-m","container-breakpoint-size-l":"flow--segmented-control--container-breakpoint-size-l","container-breakpoint-size-xl":"flow--segmented-control--container-breakpoint-size-xl"},J=n=>`container-breakpoint-size-${n}`,t=D("SegmentedControl",n=>{const{children:d,className:p,containerBreakpointSize:g="m",ref:u,...x}=n,I=$(o.formField,s.segmentedControlContainer,p,s[J(g)]),L={Label:{className:o.label},FieldDescription:{className:o.fieldDescription,tunnelId:"fieldDescription"},FieldError:{className:o.customFieldError,tunnelId:"fieldError"},Segment:{tunnelId:"segments",className:s.segment}};return e.jsxs(y,{...x,className:I,ref:u,children:[e.jsx(M,{children:e.jsxs(B,{dependencies:["segment"],props:L,mergeInParentContext:!0,children:[d,e.jsx("div",{className:s.segmentedControl,children:e.jsx("div",{className:s.segments,children:e.jsx(f,{id:"segments"})})}),e.jsx(f,{id:"fieldDescription"}),e.jsx(f,{id:"fieldError"})]})}),e.jsx(R,{className:o.fieldError})]})});t.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"SegmentedControl"};const K="flow--segmented-control--segment",Q="flow--segmented-control--segment--checkmark",b={segment:K,checkmark:Q},r=D("Segment",n=>{const{children:d,className:p,ref:g,...u}=n,x=$(b.segment,p);return e.jsx(_,{children:e.jsxs(P,{...u,className:x,ref:g,children:[d,e.jsx(V,{className:b.checkmark})]})})});r.__docgenInfo={description:`@flr-generate all
+@flr-clear-props-context`,methods:[],displayName:"Segment"};const ze={title:"Form Controls/SegmentedControl",component:t,args:{onChange:q("onChange")},parameters:{controls:{exclude:["onChange"]}},render:n=>e.jsxs(t,{...n,defaultValue:"admin",children:[e.jsx(c,{children:"Role"}),e.jsx(r,{value:"admin",children:"Admin"}),e.jsx(r,{value:"member",children:"Member"}),e.jsx(r,{value:"accountant",children:"Accountant"})]})},a={},m={render:n=>e.jsxs(t,{...n,defaultValue:"admin",containerBreakpointSize:"xs",children:[e.jsx(c,{children:"Role"}),e.jsx(r,{value:"admin",children:"Admin"}),e.jsx(r,{value:"member",children:"Member"})]}),parameters:{viewport:{defaultViewport:"mobile1"}}},i={render:n=>e.jsxs(t,{...n,isInvalid:!0,isRequired:!0,children:[e.jsx(c,{children:"Role"}),e.jsx(r,{value:"admin",children:"Admin"}),e.jsx(r,{value:"member",children:"Member"}),e.jsx(r,{value:"accountant",children:"Accountant"}),e.jsx(R,{children:"Select a role to continue"})]})},l={render:n=>e.jsxs(t,{...n,children:[e.jsx(c,{children:"Role"}),e.jsx(r,{value:"admin",children:"Admin"}),e.jsx(r,{value:"member",isDisabled:!0,children:"Member"}),e.jsx(r,{value:"accountant",children:"Accountant"})]})};var S,h,C;a.parameters={...a.parameters,docs:{...(S=a.parameters)==null?void 0:S.docs,source:{originalSource:"{}",...(C=(h=a.parameters)==null?void 0:h.docs)==null?void 0:C.source}}};var j,k,v;m.parameters={...m.parameters,docs:{...(j=m.parameters)==null?void 0:j.docs,source:{originalSource:`{
+  render: props => <SegmentedControl {...props} defaultValue="admin" containerBreakpointSize="xs">
+      <Label>Role</Label>
+      <Segment value="admin">Admin</Segment>
+      <Segment value="member">Member</Segment>
+    </SegmentedControl>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...(v=(k=m.parameters)==null?void 0:k.docs)==null?void 0:v.source}}};var N,w,z;i.parameters={...i.parameters,docs:{...(N=i.parameters)==null?void 0:N.docs,source:{originalSource:`{
+  render: props => <SegmentedControl {...props} isInvalid isRequired>
+      <Label>Role</Label>
+      <Segment value="admin">Admin</Segment>
+      <Segment value="member">Member</Segment>
+      <Segment value="accountant">Accountant</Segment>
+      <FieldError>Select a role to continue</FieldError>
+    </SegmentedControl>
+}`,...(z=(w=i.parameters)==null?void 0:w.docs)==null?void 0:z.source}}};var A,E,F;l.parameters={...l.parameters,docs:{...(A=l.parameters)==null?void 0:A.docs,source:{originalSource:`{
+  render: props => <SegmentedControl {...props}>
+      <Label>Role</Label>
+      <Segment value="admin">Admin</Segment>
+      <Segment value="member" isDisabled>
+        Member
+      </Segment>
+      <Segment value="accountant">Accountant</Segment>
+    </SegmentedControl>
+}`,...(F=(E=l.parameters)==null?void 0:E.docs)==null?void 0:F.source}}};const Ae=["Default","CustomContainerBreakpoint","WithFieldError","DisabledSegments"];export{m as CustomContainerBreakpoint,a as Default,l as DisabledSegments,i as WithFieldError,Ae as __namedExportsOrder,ze as default};
