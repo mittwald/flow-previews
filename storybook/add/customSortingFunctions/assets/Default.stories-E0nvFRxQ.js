@@ -99,4 +99,4 @@ globstar while`,e,g,n,f,v),this.matchOne(e.slice(g),n.slice(f),s))return this.de
         </InvoiceList.List>
       </Section>;
   }
-}`,...(yi=(vi=Vt.parameters)==null?void 0:vi.docs)==null?void 0:yi.source}}};const lf=["Default","WithSummary","WithAccordion"],dg=Object.freeze(Object.defineProperty({__proto__:null,Default:kt,WithAccordion:Vt,WithSummary:Pt,__namedExportsOrder:lf,default:af},Symbol.toStringTag,{value:"Module"}));export{dg as D,Wt as L,Ei as R,af as m,ms as t,Vc as u};
+}`,...(yi=(vi=Vt.parameters)==null?void 0:vi.docs)==null?void 0:yi.source}}};const lf=["Default","WithSummary","WithAccordion"],dg=Object.freeze(Object.defineProperty({__proto__:null,Default:kt,WithAccordion:Vt,WithSummary:Pt,__namedExportsOrder:lf,default:af},Symbol.toStringTag,{value:"Module"}));export{dg as D,Wt as L,Ei as R,eo as d,af as m,ms as t,Vc as u};
