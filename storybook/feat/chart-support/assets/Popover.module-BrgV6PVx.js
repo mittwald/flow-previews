@@ -1,0 +1,1 @@
+const o="flow--popover",p="flow--popover--content",e="flow--popover--tip",t={popover:o,content:p,"padding-s":"flow--popover--padding-s",tip:e,"popover-slide":"flow--popover--popover-slide"};export{t as s};

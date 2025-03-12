@@ -1,0 +1,1 @@
+import{b as l}from"./index-DN6_Rp6A.js";import{r as s}from"./index-CtQTiInQ.js";function i(e,r,c,t){let a=l(c),f=c==null;s.useEffect(()=>{if(f||!e.current)return;let n=e.current;return n.addEventListener(r,a,t),()=>{n.removeEventListener(r,a,t)}},[e,r,t,f,a])}export{i as $};
