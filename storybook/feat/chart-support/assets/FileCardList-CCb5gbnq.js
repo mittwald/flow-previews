@@ -1,2 +1,0 @@
-import{j as e}from"./jsx-runtime-D_zvdyIk.js";import"./index-CtQTiInQ.js";import{C as n}from"./ColumnLayout-BwwR96iA.js";import{f as i,P as l}from"./flowComponent-CBvh9Ys5.js";const p=i("FileCardList",o=>{const{className:r,...t}=o,s={FileCard:{elementType:"li"}};return e.jsx(l,{props:s,children:e.jsx(n,{elementType:"ul",className:r,...t})})});p.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"FileCardList"};export{p as F};
