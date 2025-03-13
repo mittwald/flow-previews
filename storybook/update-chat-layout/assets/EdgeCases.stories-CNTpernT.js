@@ -1,0 +1,7 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import{B as s}from"./Breadcrumb-I0F8h0tM.js";import"./index-BZISi7jw.js";import{d as i}from"./dummyText-CX_I_Wpl.js";import d from"./Default.stories-DYx2AofJ.js";import{L as t}from"./Link-iCB64Jmn.js";import"./clsx-B-dksMZM.js";import"./IconApp-W8-S6AAB.js";import"./flowComponent-BPJHi05H.js";import"./index-BBXbSWyk.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-C0qn59OO.js";import"./index-DmntCNXg.js";import"./IconWarning-BUA863Ku.js";import"./Collection-B-y1oEx2.js";import"./CollectionBuilder-cVXcHFND.js";import"./Hidden-kqRI_mPI.js";import"./useFocusable-dJayk3b7.js";import"./useFocus-0lzzAyJ_.js";import"./utils-B8p6n-_S.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLocalizedStringFormatter-z2l0_8m0.js";import"./storyBackgrounds-GFSAi-dI.js";import"./usePress-D_abas1X.js";import"./useFocusRing-C08ZnYSv.js";const q={...d,title:"Navigation/Breadcrumb/Edge Cases"},m={render:()=>r.jsxs(s,{children:[r.jsx(t,{children:i.medium}),r.jsx(t,{children:i.medium}),r.jsx(t,{children:i.medium})]})};var o,e,p;m.parameters={...m.parameters,docs:{...(o=m.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  render: () => <Breadcrumb>
+      <Link>{dummyText.medium}</Link>
+      <Link>{dummyText.medium}</Link>
+      <Link>{dummyText.medium}</Link>
+    </Breadcrumb>
+}`,...(p=(e=m.parameters)==null?void 0:e.docs)==null?void 0:p.source}}};const w=["LongTexts"];export{m as LongTexts,w as __namedExportsOrder,q as default};
