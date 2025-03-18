@@ -1,2 +1,0 @@
-import{j as s}from"./jsx-runtime-D_zvdyIk.js";import{f as l,C as n}from"./flowComponent-BQKp_5Ng.js";import{c as p}from"./clsx-B-dksMZM.js";const g="flow--image",f="flow--image--border",d="flow--image--aspect-ratio",e={image:g,border:f,aspectRatio:d},x=l("Image",t=>{const{className:a,withBorder:r,style:m,aspectRatio:o,...c}=t,i=p(e.image,r&&e.border,o&&e.aspectRatio,a);return s.jsx(n,{children:s.jsx("img",{className:i,style:{...m,aspectRatio:o},...c})})});x.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"Image"};export{x as I};
