@@ -1,2 +1,0 @@
-import{j as o}from"./jsx-runtime-D_zvdyIk.js";import{f as m,C as n}from"./flowComponent-BQKp_5Ng.js";import{c as l}from"./clsx-B-dksMZM.js";const c="flow--image--border",i={border:c},p=m("Image",r=>{const{className:e,withBorder:s,...t}=r,a=l(s&&i.border,e);return o.jsx(n,{children:o.jsx("img",{className:a,...t})})});p.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"Image"};export{p as I};
