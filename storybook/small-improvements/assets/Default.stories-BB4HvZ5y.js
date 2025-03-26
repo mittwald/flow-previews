@@ -1,0 +1,223 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import"./index-BZISi7jw.js";import{B as e}from"./Button-BJXlxerY.js";import{T as c}from"./Text-BwURBFsG.js";import{T as d}from"./TextField-C0MFmDxJ.js";import{L as p}from"./Label-DOL6pGCw.js";import{C as m}from"./Content-CwyRk6Sz.js";import{H as t}from"./Heading-BkqfOpTv.js";import{M as a,a as ir}from"./Modal-CK2qW3pi.js";import{u}from"./OverlayTrigger-y32pdg1B.js";import{A as l}from"./Action-oPy_g2KX.js";import{A as i}from"./ActionGroup-B_-ythaz.js";import{c as dr}from"./lib-B5wwni4N.js";import{u as O,F,a as T}from"./Form-CNaeLIL8.js";import{a as S}from"./index-B-lxVbXh.js";import{S as mr}from"./Section-Bqxa29Os.js";import{A as pr}from"./Align-Lz-04LNa.js";import{C as ur}from"./ColumnLayout-91510yXX.js";import{A as xr}from"./AccentBox-DfuSKbxE.js";import{d as x}from"./dummyText-CX_I_Wpl.js";import"./_commonjsHelpers-CqkleIqs.js";import"./clsx-B-dksMZM.js";import"./flowComponent-CB_r5UQ3.js";import"./index-BBXbSWyk.js";import"./index-C0qn59OO.js";import"./index-Dfd2pZHs.js";import"./IconApp-Do9-6_HN.js";import"./IconWarning-Dahq1OkV.js";import"./Wrap-DQq6jo70.js";import"./LoadingSpinner-BWATc-O8.js";import"./useLocalizedStringFormatter-CZn_2Om1.js";import"./Button-Bd7GnYjT.js";import"./utils-BAtcVSHo.js";import"./ProgressBar-B6tGqqoL.js";import"./Label--FbMCZJS.js";import"./Hidden-kqRI_mPI.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-Bh1EGhcd.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-AhNAqARA.js";import"./useFocus-CGq_xkJe.js";import"./useFocusRing-D6MLu59I.js";import"./useFocusable-D8BATkaF.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-BfYT5ZHF.js";import"./Text-CxIdO6ok.js";import"./TextFieldBase-y2FOH4rH.js";import"./FormField.module-B9AzUSUD.js";import"./FieldError-CH0xy9sj.js";import"./FieldError-DGtg9YPD.js";import"./FieldDescription-AyF_Dh8L.js";import"./Form-qm5cnMB7.js";import"./Input-njpPCLyw.js";import"./useTextField--bi5H5bl.js";import"./useFormReset-4n_yD9ws.js";import"./useControlledState-4nfZ-XMX.js";import"./useFormValidation-CbU_Acnh.js";import"./Heading-DmITIAYD.js";import"./RSPContexts-BEYwq1Zw.js";import"./DialogTriggerView-CFDJjbxM.js";import"./Overlay-CJ0hTS6O.js";import"./Dialog-CI6Vrv3H.js";import"./OverlayArrow-B-bZ71PV.js";import"./Collection-BHsfcKmd.js";import"./CollectionBuilder-C_ibKIdv.js";import"./Separator-BH0DZ6tu.js";import"./SelectionManager-DjqhJ6FU.js";import"./useEvent-0eO3yNkM.js";import"./useCollator-CDl7pGf-.js";import"./FocusScope-FOL1CxoP.js";import"./VisuallyHidden-FconPwXt.js";import"./Header-n5o_wodV.js";import"./ButtonView-CS6E1gtX.js";import"./context-B15Zrh1O.js";import"./useStatic-D-e10mVk.js";import"./getActionGroupSlot-CDFIfnsV.js";import"./dynamic-DKDa4OpU.js";import"./v4-CtRu48qb.js";import"./ContextMenuSection-6FJCuZh4.js";const Ve={title:"Overlays/Modal",component:a,parameters:{controls:{exclude:["controller","offCanvas"]}},argTypes:{size:{control:"inline-radio",options:["s","m"]}},args:{size:"s"},render:o=>r.jsxs(a,{...o,controller:u("Modal",{isDefaultOpen:!0}),children:[r.jsx(t,{children:"New Customer"}),r.jsx(m,{children:r.jsxs(mr,{children:[r.jsx(c,{children:"Create a new customer to manage your projects, members and payments."}),r.jsx(d,{children:r.jsx(p,{children:"Customer name"})})]})}),r.jsx(i,{children:r.jsxs(l,{closeOverlay:"Modal",children:[r.jsx(l,{action:dr,children:r.jsx(e,{color:"accent",children:"Create customer"})}),r.jsx(e,{color:"secondary",variant:"soft",children:"Abort"})]})})]})},f={},j={render:o=>{const s=u("Modal",{onOpen:()=>S("onOpen")(),onClose:()=>S("onClose")()});return r.jsxs(r.Fragment,{children:[r.jsx(e,{color:"primary",onPress:s.open,children:"Create customer"}),r.jsxs(a,{...o,controller:s,children:[r.jsx(t,{children:"New Customer"}),r.jsxs(m,{children:[r.jsx(c,{children:"Create a new customer to manage your projects, members and payments."}),r.jsx(d,{children:r.jsx(p,{children:"Customer name"})})]}),r.jsx(i,{children:r.jsxs(l,{closeOverlay:"Modal",children:[r.jsx(e,{color:"accent",children:"Create customer"}),r.jsx(e,{color:"secondary",variant:"soft",children:"Abort"})]})})]})]})}},h={render:o=>r.jsxs(ir,{children:[r.jsx(e,{color:"danger",children:"Delete project"}),r.jsxs(a,{...o,children:[r.jsx(t,{children:"Delete project"}),r.jsx(m,{children:r.jsx(c,{children:"Are you sure you want to delete this project?"})}),r.jsx(i,{children:r.jsxs(l,{closeOverlay:"Modal",children:[r.jsx(e,{color:"danger",children:"Delete project"}),r.jsx(e,{variant:"soft",color:"secondary",children:"Abort"})]})})]})]})},C={parameters:{viewport:{defaultViewport:"mobile1"}}},g={args:{offCanvas:!0}},v={args:{offCanvas:!0,offCanvasOrientation:"left"}},A={args:{offCanvas:!0},parameters:{viewport:{defaultViewport:"mobile1"}}},y={render:o=>{const s=O(),n=u("Modal");return r.jsxs(r.Fragment,{children:[r.jsx(e,{color:"accent",onPress:n.open,children:"Add customer"}),r.jsx(a,{...o,controller:n,children:r.jsxs(F,{form:s,onSubmit:()=>n.close(),children:[r.jsx(t,{children:"Add Customer"}),r.jsx(m,{children:r.jsx(T,{name:"name",rules:{required:"Please enter a name"},children:r.jsx(d,{children:r.jsx(p,{children:"Customer name"})})})}),r.jsxs(i,{children:[r.jsx(e,{type:"submit",color:"accent",children:"Submit"}),r.jsx(l,{closeOverlay:"Modal",children:r.jsx(e,{variant:"soft",color:"secondary",children:"Abort"})})]})]})})]})}},b={render:o=>{const s=O(),n=u("Modal");return r.jsxs(r.Fragment,{children:[r.jsx(e,{color:"accent",onPress:n.open,children:"Add customer"}),r.jsx(a,{offCanvas:!0,...o,controller:n,children:r.jsxs(F,{form:s,onSubmit:()=>n.close(),children:[r.jsx(t,{children:"Add customer"}),r.jsx(m,{children:r.jsx(T,{name:"name",rules:{required:"Please enter a name"},children:r.jsx(d,{children:r.jsx(p,{children:"Customer name"})})})}),r.jsxs(i,{children:[r.jsx(e,{type:"submit",color:"accent",children:"Submit"}),r.jsx(l,{closeOverlay:"Modal",children:r.jsx(e,{variant:"soft",color:"secondary",children:"Abort"})})]})]})})]})}},B={render:o=>{const s=O(),n=u("Modal");return r.jsxs(r.Fragment,{children:[r.jsx(e,{color:"accent",onPress:n.open,children:"Add nameservers"}),r.jsxs(a,{...o,controller:n,children:[r.jsx(t,{children:"Add nameservers"}),r.jsx(m,{children:r.jsx(F,{form:s,onSubmit:()=>n.close(),children:r.jsxs(pr,{children:[r.jsx(T,{name:"name",rules:{required:"Please enter a name"},children:r.jsx(d,{children:r.jsx(p,{children:"Nameservers"})})}),r.jsx(e,{type:"submit",children:"Add"})]})})}),r.jsxs(i,{children:[r.jsx(e,{color:"accent",children:"Submit"}),r.jsx(l,{closeOverlay:"Modal",children:r.jsx(e,{variant:"soft",color:"secondary",children:"Abort"})})]})]})]})}},M={args:{size:"l",offCanvas:!0},render:o=>r.jsxs(ir,{children:[r.jsx(e,{color:"accent",children:"Book tariff"}),r.jsxs(a,{...o,children:[r.jsx(t,{children:"Book tariff"}),r.jsxs(ur,{children:[r.jsxs(mr,{children:[r.jsx(t,{children:"Configuration"}),r.jsx(c,{children:x.long}),r.jsx(c,{children:x.long}),r.jsx(c,{children:x.long})]}),r.jsxs(xr,{children:[r.jsx(t,{level:4,children:"Overview"}),r.jsx(c,{children:x.medium})]})]}),r.jsxs(i,{children:[r.jsx(e,{color:"accent",children:"Submit"}),r.jsx(l,{closeOverlay:"Modal",children:r.jsx(e,{variant:"soft",color:"secondary",children:"Abort"})})]})]})]})};var w,H,L;f.parameters={...f.parameters,docs:{...(w=f.parameters)==null?void 0:w.docs,source:{originalSource:"{}",...(L=(H=f.parameters)==null?void 0:H.docs)==null?void 0:L.source}}};var P,G,W;j.parameters={...j.parameters,docs:{...(P=j.parameters)==null?void 0:P.docs,source:{originalSource:`{
+  render: props => {
+    const controller = useOverlayController("Modal", {
+      onOpen: () => action("onOpen")(),
+      onClose: () => action("onClose")()
+    });
+    return <>
+        <Button color="primary" onPress={controller.open}>
+          Create customer
+        </Button>
+        <Modal {...props} controller={controller}>
+          <Heading>New Customer</Heading>
+          <Content>
+            <Text>
+              Create a new customer to manage your projects, members and
+              payments.
+            </Text>
+            <TextField>
+              <Label>Customer name</Label>
+            </TextField>
+          </Content>
+          <ActionGroup>
+            <Action closeOverlay="Modal">
+              <Button color="accent">Create customer</Button>
+              <Button color="secondary" variant="soft">
+                Abort
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </>;
+  }
+}`,...(W=(G=j.parameters)==null?void 0:G.docs)==null?void 0:W.source}}};var D,q,N;h.parameters={...h.parameters,docs:{...(D=h.parameters)==null?void 0:D.docs,source:{originalSource:`{
+  render: props => <ModalTrigger>
+      <Button color="danger">Delete project</Button>
+      <Modal {...props}>
+        <Heading>Delete project</Heading>
+        <Content>
+          <Text>Are you sure you want to delete this project?</Text>
+        </Content>
+        <ActionGroup>
+          <Action closeOverlay="Modal">
+            <Button color="danger">Delete project</Button>
+            <Button variant="soft" color="secondary">
+              Abort
+            </Button>
+          </Action>
+        </ActionGroup>
+      </Modal>
+    </ModalTrigger>
+}`,...(N=(q=h.parameters)==null?void 0:q.docs)==null?void 0:N.source}}};var k,z,V;C.parameters={...C.parameters,docs:{...(k=C.parameters)==null?void 0:k.docs,source:{originalSource:`{
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...(V=(z=C.parameters)==null?void 0:z.docs)==null?void 0:V.source}}};var E,I,_;g.parameters={...g.parameters,docs:{...(E=g.parameters)==null?void 0:E.docs,source:{originalSource:`{
+  args: {
+    offCanvas: true
+  }
+}`,...(_=(I=g.parameters)==null?void 0:I.docs)==null?void 0:_.source}}};var R,J,K;v.parameters={...v.parameters,docs:{...(R=v.parameters)==null?void 0:R.docs,source:{originalSource:`{
+  args: {
+    offCanvas: true,
+    offCanvasOrientation: "left"
+  }
+}`,...(K=(J=v.parameters)==null?void 0:J.docs)==null?void 0:K.source}}};var Q,U,X;A.parameters={...A.parameters,docs:{...(Q=A.parameters)==null?void 0:Q.docs,source:{originalSource:`{
+  args: {
+    offCanvas: true
+  },
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...(X=(U=A.parameters)==null?void 0:U.docs)==null?void 0:X.source}}};var Y,Z,$;y.parameters={...y.parameters,docs:{...(Y=y.parameters)==null?void 0:Y.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm<{
+      name: string;
+    }>();
+    const modalController = useOverlayController("Modal");
+    return <>
+        <Button color="accent" onPress={modalController.open}>
+          Add customer
+        </Button>
+
+        <Modal {...props} controller={modalController}>
+          <Form form={form} onSubmit={() => modalController.close()}>
+            <Heading>Add Customer</Heading>
+            <Content>
+              <Field name="name" rules={{
+              required: "Please enter a name"
+            }}>
+                <TextField>
+                  <Label>Customer name</Label>
+                </TextField>
+              </Field>
+            </Content>
+            <ActionGroup>
+              <Button type="submit" color="accent">
+                Submit
+              </Button>
+              <Action closeOverlay="Modal">
+                <Button variant="soft" color="secondary">
+                  Abort
+                </Button>
+              </Action>
+            </ActionGroup>
+          </Form>
+        </Modal>
+      </>;
+  }
+}`,...($=(Z=y.parameters)==null?void 0:Z.docs)==null?void 0:$.source}}};var rr,er,or;b.parameters={...b.parameters,docs:{...(rr=b.parameters)==null?void 0:rr.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm<{
+      name: string;
+    }>();
+    const modalController = useOverlayController("Modal");
+    return <>
+        <Button color="accent" onPress={modalController.open}>
+          Add customer
+        </Button>
+
+        <Modal offCanvas {...props} controller={modalController}>
+          <Form form={form} onSubmit={() => modalController.close()}>
+            <Heading>Add customer</Heading>
+            <Content>
+              <Field name="name" rules={{
+              required: "Please enter a name"
+            }}>
+                <TextField>
+                  <Label>Customer name</Label>
+                </TextField>
+              </Field>
+            </Content>
+            <ActionGroup>
+              <Button type="submit" color="accent">
+                Submit
+              </Button>
+              <Action closeOverlay="Modal">
+                <Button variant="soft" color="secondary">
+                  Abort
+                </Button>
+              </Action>
+            </ActionGroup>
+          </Form>
+        </Modal>
+      </>;
+  }
+}`,...(or=(er=b.parameters)==null?void 0:er.docs)==null?void 0:or.source}}};var nr,tr,sr;B.parameters={...B.parameters,docs:{...(nr=B.parameters)==null?void 0:nr.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm<{
+      name: string;
+    }>();
+    const modalController = useOverlayController("Modal");
+    return <>
+        <Button color="accent" onPress={modalController.open}>
+          Add nameservers
+        </Button>
+
+        <Modal {...props} controller={modalController}>
+          <Heading>Add nameservers</Heading>
+          <Content>
+            <Form form={form} onSubmit={() => modalController.close()}>
+              <Align>
+                <Field name="name" rules={{
+                required: "Please enter a name"
+              }}>
+                  <TextField>
+                    <Label>Nameservers</Label>
+                  </TextField>
+                </Field>
+                <Button type="submit">Add</Button>
+              </Align>
+            </Form>
+          </Content>
+          <ActionGroup>
+            <Button color="accent">Submit</Button>
+            <Action closeOverlay="Modal">
+              <Button variant="soft" color="secondary">
+                Abort
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </>;
+  }
+}`,...(sr=(tr=B.parameters)==null?void 0:tr.docs)==null?void 0:sr.source}}};var ar,lr,cr;M.parameters={...M.parameters,docs:{...(ar=M.parameters)==null?void 0:ar.docs,source:{originalSource:`{
+  args: {
+    size: "l",
+    offCanvas: true
+  },
+  render: props => {
+    return <ModalTrigger>
+        <Button color="accent">Book tariff</Button>
+
+        <Modal {...props}>
+          <Heading>Book tariff</Heading>
+
+          <ColumnLayout>
+            <Section>
+              <Heading>Configuration</Heading>
+              <Text>{dummyText.long}</Text>
+              <Text>{dummyText.long}</Text>
+              <Text>{dummyText.long}</Text>
+            </Section>
+            <AccentBox>
+              <Heading level={4}>Overview</Heading>
+              <Text>{dummyText.medium}</Text>
+            </AccentBox>
+          </ColumnLayout>
+
+          <ActionGroup>
+            <Button color="accent">Submit</Button>
+            <Action closeOverlay="Modal">
+              <Button variant="soft" color="secondary">
+                Abort
+              </Button>
+            </Action>
+          </ActionGroup>
+        </Modal>
+      </ModalTrigger>;
+  }
+}`,...(cr=(lr=M.parameters)==null?void 0:lr.docs)==null?void 0:cr.source}}};const Ee=["Default","WithController","WithTrigger","Mobile","OffCanvas","OffCanvasOrientationLeft","OffCanvasMobile","WithForm","OffCanvasWithForm","WithFormInside","LargeOffCanvas"];export{f as Default,M as LargeOffCanvas,C as Mobile,g as OffCanvas,A as OffCanvasMobile,v as OffCanvasOrientationLeft,b as OffCanvasWithForm,j as WithController,y as WithForm,B as WithFormInside,h as WithTrigger,Ee as __namedExportsOrder,Ve as default};

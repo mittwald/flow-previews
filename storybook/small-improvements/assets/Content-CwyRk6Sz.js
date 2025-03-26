@@ -1,0 +1,2 @@
+import{j as e}from"./jsx-runtime-D_zvdyIk.js";import"./index-BZISi7jw.js";import{f as a,C as i}from"./flowComponent-CB_r5UQ3.js";import{W as m}from"./Wrap-DQq6jo70.js";const c=a("Content",t=>{const{children:o,elementType:r="div",ref:n,clearPropsContext:s=!0,...p}=t,l=r;return e.jsx(m,{if:s,children:e.jsx(i,{children:e.jsx(l,{ref:n,...p,children:o})})})});c.__docgenInfo={description:`@flr-generate all
+@flr-clear-props-context`,methods:[],displayName:"Content"};export{c as C};
