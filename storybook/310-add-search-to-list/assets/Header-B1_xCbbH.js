@@ -1,1 +1,0 @@
-import{R as m}from"./index-BwDkhjyp.js";import{f as s}from"./flowComponent-B9DLSnGg.js";const d=s("Header",e=>{const{children:r,ref:t,elementType:o="header",...n}=e,a=o;return m.createElement(a,{...n,ref:t},r)});d.__docgenInfo={description:"",methods:[],displayName:"Header"};export{d as H};
