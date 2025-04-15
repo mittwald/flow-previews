@@ -1,5 +1,0 @@
-import{j as c}from"./jsx-runtime-D_zvdyIk.js";import"./index-CtQTiInQ.js";import{R as e}from"./Rating-D_F7Y0pL.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./IconApp-ZwiVKkvj.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-CcavWj25.js";import"./mergeProps-BKLeaOo7.js";import"./index-DTllGi7h.js";import"./index-Cdp0xV4M.js";import"./IconWarning-DwN0_tyk.js";import"./useLocalizedStringFormatter-DpLhROVm.js";const E={title:"Content/Rating",component:e,argTypes:{value:{control:"inline-radio",options:[0,1,2,3,4,5]}},args:{value:2},render:n=>c.jsx(e,{...n})},r={},o={args:{size:"s"}};var t,s,a;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};var m,i,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
-  args: {
-    size: "s"
-  }
-}`,...(p=(i=o.parameters)==null?void 0:i.docs)==null?void 0:p.source}}};const _=["Default","Small"];export{r as Default,o as Small,_ as __namedExportsOrder,E as default};
