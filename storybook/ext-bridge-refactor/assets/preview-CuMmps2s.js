@@ -1,0 +1,1 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import"./index-n-xcLTj3.js";import"./_commonjsHelpers-Cpj98o6Y.js";const a={decorators:[o=>(document.body.classList.add("flow"),r.jsx(o,{}))],globalTypes:{rtlDirection:{}},parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}}};export{a as default};
