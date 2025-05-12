@@ -1,0 +1,14 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import{A as n}from"./Accordion-BiDXiAiv.js";import{H as L}from"./Heading-Ci0oCS42.js";import{C as A}from"./Content-n8Ar1uo5.js";import{L as b}from"./Label-BmZK1Q_a.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-BAMY2Nnw.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DPpY_m4Q.js";import"./mergeRefs-C3hk6Bw5.js";import"./iframe-BMXV9deb.js";import"./index-d29qW9Ar.js";import"./index-lEnnwJps.js";import"./dynamic-DKDa4OpU.js";import"./Button-BxYcNOFo.js";import"./IconWarning-Wb0-E6wX.js";import"./Text-Bjrd7pUX.js";import"./browser-BJKb5O22.js";import"./EmulatedBoldText-DOyoRrwd.js";import"./Text-bCwBREBS.js";import"./utils-B2jHvTU8.js";import"./LoadingSpinner-BeODXER_.js";import"./useLocalizedStringFormatter-CVg1y45F.js";import"./Button-0sHIpBCS.js";import"./ProgressBar-D87xnYtB.js";import"./Label-DULpRqFS.js";import"./Hidden-RoZfe91Z.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-BTthEqzH.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-D8pXfMRf.js";import"./useFocus-DtkvuJ2b.js";import"./useFocusRing-CsskK932.js";import"./useFocusable-J3t5Qa20.js";import"./Activity-B9K-xJ8v.js";import"./Heading-FTY3VzEi.js";import"./RSPContexts-Cbm9ZJUe.js";const pr={title:"Structure/Accordion",component:n,render:i=>r.jsxs(n,{...i,children:[r.jsx(L,{children:"Heading"}),r.jsx(A,{children:"Accordion Content"})]}),parameters:{controls:{exclude:["defaultExpanded"]}}},o={},t={args:{defaultExpanded:!0}},e={args:{variant:"outline"}},a={render:i=>r.jsxs(n,{...i,children:[r.jsx(b,{children:"Label"}),r.jsx(A,{children:"Accordion Content"})]})};var p,s,m;o.parameters={...o.parameters,docs:{...(p=o.parameters)==null?void 0:p.docs,source:{originalSource:"{}",...(m=(s=o.parameters)==null?void 0:s.docs)==null?void 0:m.source}}};var c,d,l;t.parameters={...t.parameters,docs:{...(c=t.parameters)==null?void 0:c.docs,source:{originalSource:`{
+  args: {
+    defaultExpanded: true
+  }
+}`,...(l=(d=t.parameters)==null?void 0:d.docs)==null?void 0:l.source}}};var u,x,f;e.parameters={...e.parameters,docs:{...(u=e.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    variant: "outline"
+  }
+}`,...(f=(x=e.parameters)==null?void 0:x.docs)==null?void 0:f.source}}};var g,h,j;a.parameters={...a.parameters,docs:{...(g=a.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  render: props => <Accordion {...props}>
+      <Label>Label</Label>
+      <Content>Accordion Content</Content>
+    </Accordion>
+}`,...(j=(h=a.parameters)==null?void 0:h.docs)==null?void 0:j.source}}};const sr=["Default","DefaultExpanded","OutlineVariant","WithLabel"];export{o as Default,t as DefaultExpanded,e as OutlineVariant,a as WithLabel,sr as __namedExportsOrder,pr as default};

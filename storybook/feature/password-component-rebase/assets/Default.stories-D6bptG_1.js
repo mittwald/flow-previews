@@ -1,6 +1,0 @@
-import{j as t}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import{B as s}from"./BigNumber-CtHYyJPt.js";import{T as i}from"./Text-CApC98DZ.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-BAMY2Nnw.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-Cc14Gajy.js";import"./mergeRefs-C3hk6Bw5.js";import"./iframe-T8_kJxw3.js";import"./index-d29qW9Ar.js";import"./index-lEnnwJps.js";import"./browser-BJKb5O22.js";import"./EmulatedBoldText-DOyoRrwd.js";import"./Text-bCwBREBS.js";import"./utils-B2jHvTU8.js";const _={title:"Data Visualisation/BigNumber",component:s,render:o=>t.jsx(s,{...o,children:"69%"})},r={},e={render:o=>t.jsxs(s,{...o,children:[t.jsx(i,{children:"69%"}),t.jsx(i,{children:"Performance"})]})};var m,a,p;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(p=(a=r.parameters)==null?void 0:a.docs)==null?void 0:p.source}}};var n,c,u;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
-  render: props => <BigNumber {...props}>
-      <Text>69%</Text>
-      <Text>Performance</Text>
-    </BigNumber>
-}`,...(u=(c=e.parameters)==null?void 0:c.docs)==null?void 0:u.source}}};const O=["Default","WithSubtitle"];export{r as Default,e as WithSubtitle,O as __namedExportsOrder,_ as default};
