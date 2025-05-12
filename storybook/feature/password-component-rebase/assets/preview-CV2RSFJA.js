@@ -1,1 +1,0 @@
-import{j as t}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-BAMY2Nnw.js";const c={tags:["autodocs"],decorators:[o=>(document.body.classList.add("flow"),t.jsx(o,{}))],globalTypes:{rtlDirection:{}},parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}}};export{c as default};
