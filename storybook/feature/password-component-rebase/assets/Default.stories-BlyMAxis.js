@@ -1,6 +1,0 @@
-import{j as t}from"./jsx-runtime-D_zvdyIk.js";import"./index-F2Fta7eo.js";import{B as s}from"./BigNumber-BkrAKid9.js";import{T as i}from"./Text-CSTNT9NW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-dnCHcaDZ.js";import"./mergeRefs-12BfVTtv.js";import"./index-GHXRqlzO.js";import"./index-FKzx4Va7.js";import"./browser-BJKb5O22.js";import"./EmulatedBoldText-DovK0xj5.js";import"./Text-D85TVzOv.js";import"./utils-DsSK6wng.js";const P={title:"Data Visualisation/BigNumber",component:s,render:o=>t.jsx(s,{...o,children:"69%"})},r={},e={render:o=>t.jsxs(s,{...o,children:[t.jsx(i,{children:"69%"}),t.jsx(i,{children:"Performance"})]})};var m,a,p;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:"{}",...(p=(a=r.parameters)==null?void 0:a.docs)==null?void 0:p.source}}};var n,c,u;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:`{
-  render: props => <BigNumber {...props}>
-      <Text>69%</Text>
-      <Text>Performance</Text>
-    </BigNumber>
-}`,...(u=(c=e.parameters)==null?void 0:c.docs)==null?void 0:u.source}}};const W=["Default","WithSubtitle"];export{r as Default,e as WithSubtitle,W as __namedExportsOrder,P as default};
