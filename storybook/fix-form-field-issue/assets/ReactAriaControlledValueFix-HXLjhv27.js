@@ -1,7 +1,0 @@
-import{j as f}from"./jsx-runtime-D_zvdyIk.js";import{r as e}from"./index-CgfFrydU.js";import{c as x}from"./mergeRefs-_uxeg_17.js";import{$ as h,b}from"./utils-DvYDvJ-W.js";const y=a=>{const{inputContext:r,children:i}=a,t=e.Children.only(i);if(!e.isValidElement(t))throw new Error("Expected valid element");const n=t.props,c=n.ref,l=e.useRef(null),[s,p]=h(n,c,r),u=x(o=>{(o instanceof HTMLInputElement||o instanceof HTMLTextAreaElement)&&(o.value=String(s.value??""))},p,l),d={...s,value:void 0,ref:u},m={...n,ref:void 0,value:void 0};return f.jsx(b,{values:[[r,d]],children:e.cloneElement(t,m)})};y.__docgenInfo={description:`React Aria (accidentally?!) enforces controlled inputs by always setting the
-value prop on Inputs and TextAreas with its context props API. This component
-also uses this API to only unset the value prop. Furthermore setting an input
-value is finally done by directly on the DOM element.
-
-https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/textfield/src/useTextField.ts#L182
-https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/numberfield/src/useNumberField.ts#L206`,methods:[],displayName:"ReactAriaControlledValueFix",props:{inputContext:{required:!0,tsType:{name:"Context",elements:[{name:"any"}],raw:"Context<any>"},description:""},props:{required:!0,tsType:{name:"unknown"},description:""}},composes:["PropsWithChildren"]};export{y as R};
