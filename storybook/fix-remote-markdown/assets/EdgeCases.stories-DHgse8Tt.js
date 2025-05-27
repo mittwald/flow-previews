@@ -1,0 +1,30 @@
+import{j as t}from"./jsx-runtime-D_zvdyIk.js";import{S as d}from"./Section-C5U0ab2l.js";import"./index-CgfFrydU.js";import{H as c}from"./Heading-DdMK9uxY.js";import{T as u}from"./Text-D7P1-Ebs.js";import{S as b}from"./Switch-CcGhH9sR.js";import S from"./Default.stories-DBU9Nxan.js";import{d as h}from"./dummyText-CX_I_Wpl.js";import{H as l}from"./Header-CJLVQkWc.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DBqjDBJq.js";import"./mergeRefs-_uxeg_17.js";import"./index-sY8i7rw0.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-B2KKL2uI.js";import"./ContextMenuSection-q-WWQZvC.js";import"./Action-CFc5pDpb.js";import"./context-Dl2Nzub5.js";import"./useStatic-DmFR9Vew.js";import"./browser-B1A6F7LW.js";import"./getActionGroupSlot-CgDIUdUI.js";import"./dynamic-DKDa4OpU.js";import"./Dialog-WcTWvLN6.js";import"./Button-CY6niT9f.js";import"./utils-DvYDvJ-W.js";import"./ProgressBar-DuZjZRB2.js";import"./Label-XuXA-row.js";import"./Hidden-DwT0szmK.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-DP9zv8XI.js";import"./useLocalizedStringFormatter-jDgQNJem.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-rEv_nV0O.js";import"./useFocus-bBgo0bKd.js";import"./useFocusRing-DUlPoSa4.js";import"./useFocusable-fU6dY-gF.js";import"./RSPContexts-9nj2DFX_.js";import"./OverlayArrow-C1erJO4A.js";import"./useControlledState-DjePt-lg.js";import"./Collection-i8EjBJSq.js";import"./CollectionBuilder-Dw9MTGx5.js";import"./Separator-CUf66PuO.js";import"./Text-1CJ30n_Q.js";import"./SelectionManager-CTcRB2Ps.js";import"./useEvent-DsDOr2ug.js";import"./useCollator-Cym9_BaK.js";import"./FocusScope-BCiwkv3e.js";import"./VisuallyHidden-B4AzoGqn.js";import"./Heading-BFHXViOZ.js";import"./EmulatedBoldText-KnQ_Srvn.js";import"./IconWarning-CTsWIAx0.js";import"./Label-7YZm-yDa.js";import"./useToggleState-DghbFXGk.js";import"./useFormReset-BiMHJINb.js";import"./TextField-BYz6omlA.js";import"./TextFieldBase-N2C5a_3k.js";import"./FormField.module-B9AzUSUD.js";import"./FieldError-7p7MOcPd.js";import"./FieldError-DQg1rr6h.js";import"./FieldDescription-VrSTP0V7.js";import"./Form-eodUc7lY.js";import"./Input-Bwq1TeOx.js";import"./useTextField-CfbNrntM.js";import"./useFormValidation-9a9nu2yD.js";import"./ReactAriaControlledValueFix-CzEct_qc.js";import"./Link-bjfdK99o.js";import"./AlertBadge-9a9kMe9L.js";import"./AlertIcon-Dv6wshpu.js";import"./Button-jIw9nnwC.js";import"./LoadingSpinner-DN0dUJdB.js";import"./Modal-D0disKhx.js";import"./OverlayTrigger-DqoutB-1.js";import"./DialogTriggerView-BtmdQ0TJ.js";import"./Overlay-i-nPUDxo.js";import"./ButtonView-AW6Oecbs.js";import"./ContextualHelpTrigger-BUAsAB1Y.js";import"./Popover-BcHEafD2.js";import"./ContextMenuContent-CEjeqV8K.js";import"./FileField-rwhw5eI9.js";import"./Form-B87-6P1R.js";import"./index-B-lxVbXh.js";import"./v4-CtRu48qb.js";const Jt={...S,title:"Structure/Section/Edge Cases"},r={render:i=>t.jsxs(d,{...i,children:[t.jsxs(l,{children:[t.jsx(c,{children:h.medium}),t.jsx(b,{children:"Subscribed"})]}),t.jsx(u,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]})},o={render:i=>t.jsxs(d,{...i,children:[t.jsxs(l,{children:[t.jsx(c,{children:"Newsletter Subscription"}),t.jsx(b,{children:"Subscribed"})]}),t.jsx(u,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]}),parameters:{viewport:{defaultViewport:"mobile1"}}};var e,m,p;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>{dummyText.medium}</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>
+}`,...(p=(m=r.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};var n,s,a;o.parameters={...o.parameters,docs:{...(n=o.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>Newsletter Subscription</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...(a=(s=o.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};const Kt=["WithLongHeading","SmallSpace"];export{o as SmallSpace,r as WithLongHeading,Kt as __namedExportsOrder,Jt as default};
