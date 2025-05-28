@@ -1,0 +1,36 @@
+import{j as p}from"./jsx-runtime-D_zvdyIk.js";import"./index-CgfFrydU.js";import{F as c}from"./FileCard-Dkbez4qz.js";import{d as R}from"./dummyText-CX_I_Wpl.js";import{a as _}from"./index-B-lxVbXh.js";import{C as U,M as b}from"./ContextMenuContent-DC8HeNL-.js";import"./ContextMenuSection-lYIm3Wsn.js";import"./_commonjsHelpers-CqkleIqs.js";import"./IconWarning-CNxTpz-G.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-ADM7KP_B.js";import"./mergeRefs-DiwoqHxs.js";import"./index-Brqd7pHr.js";import"./index-B2KKL2uI.js";import"./Avatar-DuZMhaZU.js";import"./AlertIcon-QDb6lgt2.js";import"./useLocalizedStringFormatter-BzGhSkyu.js";import"./Image-C_7p0Plq.js";import"./Text-DqBkWPX0.js";import"./browser-B1A6F7LW.js";import"./EmulatedBoldText-KnQ_Srvn.js";import"./Text-I7rzu-gq.js";import"./utils-Bm37ngJk.js";import"./Link-BhFzlzB6.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-CC9yd5Fh.js";import"./useFocus-C3ExUvEL.js";import"./useFocusRing-wzjDdF0K.js";import"./useFocusable-CzgSXE3t.js";import"./Button-CbN8Qn6V.js";import"./LoadingSpinner-BT51OXM_.js";import"./Button-3GcZ2y2i.js";import"./ProgressBar-lRSo0OUL.js";import"./Label-B_sU3NXB.js";import"./Hidden-DwT0szmK.js";import"./useLabel-BQ8zpiVY.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./OptionsButton-CT4R5n3l.js";import"./ButtonView-mBPI_WP8.js";import"./v4-CtRu48qb.js";import"./Action-Cl6JccS9.js";import"./context-Cku6jByl.js";import"./useStatic-BrY-dsbP.js";import"./getActionGroupSlot-C3DYPhlZ.js";import"./dynamic-DKDa4OpU.js";import"./Popover-C4B47nlu.js";import"./OverlayTrigger-DY12d_17.js";import"./Dialog-DHB7afQp.js";import"./RSPContexts-9nj2DFX_.js";import"./OverlayArrow-CyRBwams.js";import"./useControlledState-YIijONQK.js";import"./Collection-43aF_0U7.js";import"./CollectionBuilder--ipx_qrV.js";import"./Separator-By-KuC_f.js";import"./SelectionManager-W-F9tXjW.js";import"./useEvent-Dw3zA1wO.js";import"./useCollator-rVor1fd8.js";import"./FocusScope--xlp8sQI.js";import"./VisuallyHidden-C4REVXC4.js";import"./DialogTriggerView-BwEKSqnI.js";import"./Switch-DyZ3EHGe.js";import"./Label-B4ewt7OD.js";import"./useToggleState-BrsYFbbM.js";import"./useFormReset-gF4HkNmA.js";const Xr={title:"Upload/FileCard",component:c,args:{name:"image.jpg"},render:n=>p.jsx(c,{...n})},r={},e={args:{type:"image/png"}},t={args:{sizeInBytes:47500}},o={args:{onDelete:()=>{_("onDelete")}}},m={args:{href:"#"}},i={args:{href:"#",onDelete:()=>{_("onDelete")}}},s={render:n=>p.jsx(c,{...n,children:p.jsx(U,{children:p.jsx(b,{children:"Löschen"})})})},a={args:{imageSrc:R.imageSrc}};var d,u,g;r.parameters={...r.parameters,docs:{...(d=r.parameters)==null?void 0:d.docs,source:{originalSource:"{}",...(g=(u=r.parameters)==null?void 0:u.docs)==null?void 0:g.source}}};var l,h,x;e.parameters={...e.parameters,docs:{...(l=e.parameters)==null?void 0:l.docs,source:{originalSource:`{
+  args: {
+    type: "image/png"
+  }
+}`,...(x=(h=e.parameters)==null?void 0:h.docs)==null?void 0:x.source}}};var D,S,W;t.parameters={...t.parameters,docs:{...(D=t.parameters)==null?void 0:D.docs,source:{originalSource:`{
+  args: {
+    sizeInBytes: 47500
+  }
+}`,...(W=(S=t.parameters)==null?void 0:S.docs)==null?void 0:W.source}}};var f,C,M;o.parameters={...o.parameters,docs:{...(f=o.parameters)==null?void 0:f.docs,source:{originalSource:`{
+  args: {
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...(M=(C=o.parameters)==null?void 0:C.docs)==null?void 0:M.source}}};var y,j,I;m.parameters={...m.parameters,docs:{...(y=m.parameters)==null?void 0:y.docs,source:{originalSource:`{
+  args: {
+    href: "#"
+  }
+}`,...(I=(j=m.parameters)==null?void 0:j.docs)==null?void 0:I.source}}};var L,F,O;i.parameters={...i.parameters,docs:{...(L=i.parameters)==null?void 0:L.docs,source:{originalSource:`{
+  args: {
+    href: "#",
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...(O=(F=i.parameters)==null?void 0:F.docs)==null?void 0:O.source}}};var k,z,T;s.parameters={...s.parameters,docs:{...(k=s.parameters)==null?void 0:k.docs,source:{originalSource:`{
+  render: props => <FileCard {...props}>
+      <ContextMenu>
+        <MenuItem>Löschen</MenuItem>
+      </ContextMenu>
+    </FileCard>
+}`,...(T=(z=s.parameters)==null?void 0:z.docs)==null?void 0:T.source}}};var A,B,E;a.parameters={...a.parameters,docs:{...(A=a.parameters)==null?void 0:A.docs,source:{originalSource:`{
+  args: {
+    imageSrc: dummyText.imageSrc
+  }
+}`,...(E=(B=a.parameters)==null?void 0:B.docs)==null?void 0:E.source}}};const Yr=["Default","WithType","WithSize","WithOnDelete","WithLink","WithLinkAndOnDelete","WithContextMenu","WithImage"];export{r as Default,s as WithContextMenu,a as WithImage,m as WithLink,i as WithLinkAndOnDelete,o as WithOnDelete,t as WithSize,e as WithType,Yr as __namedExportsOrder,Xr as default};
