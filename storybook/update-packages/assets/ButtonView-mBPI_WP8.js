@@ -1,1 +1,0 @@
-import{j as e}from"./jsx-runtime-D_zvdyIk.js";import{r}from"./index-CgfFrydU.js";import{B as n}from"./Button-CbN8Qn6V.js";import{v as s}from"./PropsContextProvider-ADM7KP_B.js";const i=t=>{const o=r.useContext(s).Button??n;return e.jsx(o,{...t})};i.__docgenInfo={description:"",methods:[],displayName:"ButtonView"};export{i as B};
