@@ -1,5 +1,0 @@
-import{j as c}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import{R as t}from"./Rating-7QDUkAnX.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-BAMY2Nnw.js";import"./IconWarning-BXaaxfUH.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DT5D5rm_.js";import"./mergeRefs-COuk0-v5.js";import"./iframe-D_awiJhh.js";import"./index-DU8gk_nc.js";import"./index-lEnnwJps.js";import"./useLocalizedStringFormatter-Bs3jJydz.js";import"./context-C-2WHVw-.js";const y={title:"Content/Rating",component:t,argTypes:{value:{control:"inline-radio",options:[0,1,2,3,4,5]}},args:{value:2},render:n=>c.jsx(t,{...n})},r={},o={args:{size:"s"}};var e,s,a;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:"{}",...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};var m,i,p;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
-  args: {
-    size: "s"
-  }
-}`,...(p=(i=o.parameters)==null?void 0:i.docs)==null?void 0:p.source}}};const C=["Default","Small"];export{r as Default,o as Small,C as __namedExportsOrder,y as default};
