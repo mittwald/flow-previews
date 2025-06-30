@@ -1,0 +1,13 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import{I as i}from"./InlineCode-CnK6VJD1.js";import"./index-BdpSHsi2.js";import{T as d}from"./Text-USfqZ1-K.js";import s from"./Default.stories-9jfc9196.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import{S as a}from"./Section-TVP5AfZH.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-D7XpJMjl.js";import"./mergeRefs-COuk0-v5.js";import"./iframe-Cr61LjVx.js";import"./index-DU8gk_nc.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-lEnnwJps.js";import"./index-BAMY2Nnw.js";import"./browser-BJKb5O22.js";import"./EmulatedBoldText-DOyoRrwd.js";import"./Text-DtGJyZhh.js";import"./utils-q_Aud5Js.js";import"./storyBackgrounds-GFSAi-dI.js";import"./ContextMenuSection-Cdw0cgUi.js";import"./Action-CYABpvN2.js";import"./context-GxXlUYOT.js";import"./useStatic-VlFWjJup.js";import"./getActionGroupSlot-BY7yNHLS.js";import"./dynamic-DKDa4OpU.js";import"./Dialog-HD9t1mUg.js";import"./Button-BV9jeieD.js";import"./ProgressBar-DbWwTk60.js";import"./Label-C5gSD-Mq.js";import"./Hidden-RoZfe91Z.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-DtWExE0a.js";import"./useLocalizedStringFormatter-QO03R6A5.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-mDFtgnbt.js";import"./useFocus-4XTC7e6o.js";import"./useFocusRing-DY5AGIis.js";import"./useFocusable-BXcKiciC.js";import"./RSPContexts-Cbm9ZJUe.js";import"./OverlayArrow-fUY3Kb5L.js";import"./useControlledState-rjpdN6qd.js";import"./Collection-CgAMQp3e.js";import"./CollectionBuilder-DkA--_MS.js";import"./Separator-Dc9-x765.js";import"./SelectionManager-DweNvqjD.js";import"./useEvent-C_OiV_rL.js";import"./useCollator-DWYYoDxV.js";import"./FocusScope-D_x47-q0.js";import"./VisuallyHidden-D-Ys6Nju.js";const dm={...s,title:"Content/InlineCode/Edge Cases"},o={render:t=>r.jsx(a,{children:r.jsxs(d,{children:[m.medium," ",r.jsx(i,{...t,children:m.medium.replaceAll(" ","")})," ",m.medium,r.jsx(i,{...t,children:m.medium})," ",m.medium]})})};var e,p,n;o.parameters={...o.parameters,docs:{...(e=o.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Text>
+        {dummyText.medium}{" "}
+        <InlineCode {...props}>
+          {dummyText.medium.replaceAll(" ", "")}
+        </InlineCode>{" "}
+        {dummyText.medium}
+        <InlineCode {...props}>{dummyText.medium}</InlineCode>{" "}
+        {dummyText.medium}
+      </Text>
+    </Section>
+}`,...(n=(p=o.parameters)==null?void 0:p.docs)==null?void 0:n.source}}};const sm=["LongText"];export{o as LongText,sm as __namedExportsOrder,dm as default};
