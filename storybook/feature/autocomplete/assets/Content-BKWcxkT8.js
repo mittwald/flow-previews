@@ -1,2 +1,0 @@
-import{j as e}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import{f as a,W as i,C as c}from"./PropsContextProvider-CPXDLRGK.js";const m=a("Content",t=>{const{children:n,elementType:o="div",ref:r,clearPropsContext:s=!0,...l}=t,p=o;return e.jsx(i,{if:s,children:e.jsx(c,{children:e.jsx(p,{ref:r,...l,children:n})})})});m.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"Content"};export{m as C};
