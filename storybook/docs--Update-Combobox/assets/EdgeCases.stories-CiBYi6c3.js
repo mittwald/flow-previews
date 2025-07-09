@@ -1,0 +1,19 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import"./index-BdpSHsi2.js";import{a as g,C as c,M as i}from"./ContextMenuContent-D-KUPAxF.js";import"./ContextMenuSection-DIoZ4Z7R.js";import{B as l}from"./Button-DwHtBqFW.js";import M from"./Default.stories-BFDzSbo-.js";import{d as p}from"./dummyText-CX_I_Wpl.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-BAMY2Nnw.js";import"./Action-DgURBJP9.js";import"./context-DiJHlbUU.js";import"./PropsContextProvider-DnLgJg6U.js";import"./mergeRefs-COuk0-v5.js";import"./clsx-B-dksMZM.js";import"./iframe-CGyHRFga.js";import"./index-DU8gk_nc.js";import"./index-lEnnwJps.js";import"./useStatic-DLGRLk6X.js";import"./browser-BJKb5O22.js";import"./getActionGroupSlot-Ig362b4v.js";import"./dynamic-DKDa4OpU.js";import"./Popover-m2wctAZs.js";import"./DialogTriggerView-DgTtxVJQ.js";import"./Dialog-DpYCtZ3W.js";import"./Button-DnnpdS5P.js";import"./utils-q_Aud5Js.js";import"./ProgressBar-Dwuqfbjf.js";import"./Label-C5gSD-Mq.js";import"./Hidden-RoZfe91Z.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-DtWExE0a.js";import"./context-C-2WHVw-.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-Cx3ZvVfI.js";import"./useFocus-BK-u4cdi.js";import"./useFocusRing-DHXckIXO.js";import"./useFocusable-BeYVpnFb.js";import"./RSPContexts-Cbm9ZJUe.js";import"./OverlayArrow-FfRQYwIg.js";import"./useControlledState-rjpdN6qd.js";import"./Collection-oJzNy84A.js";import"./CollectionBuilder-C2AfWA97.js";import"./Separator-D8lRHJ5d.js";import"./Text-DtGJyZhh.js";import"./Input-DKshHGKQ.js";import"./SearchField-BPqcjU2c.js";import"./FieldError-rzQ5ghoP.js";import"./Form-Ckmgkmz_.js";import"./Group-46VfC_jx.js";import"./useLocalizedStringFormatter-Bs3jJydz.js";import"./useTextField-CNVbrZkS.js";import"./useFormReset-B9LhY6oC.js";import"./TextField-C3T3nKGe.js";import"./SelectionManager-CRLw705v.js";import"./useEvent-C_OiV_rL.js";import"./useCollator-CmZhdF0V.js";import"./FocusScope-D5hiFDC1.js";import"./VisuallyHidden-CRdqyLT8.js";import"./IconWarning-Dyk76vLa.js";import"./Switch-CgENhJBm.js";import"./Label-Ce4TcN5t.js";import"./useToggleState-DfK-P6lK.js";import"./Text-4jjJWkyE.js";import"./EmulatedBoldText-DOyoRrwd.js";import"./LoadingSpinner-rWHFBvau.js";import"./Separator-BRDUyjH2.js";import"./Heading-DVd6oWZp.js";import"./Heading-PKR8zMP8.js";import"./Avatar-CqsiF8id.js";import"./AlertIcon-DTRVV-le.js";import"./Initials-D_6w37vE.js";import"./react-children-utilities-DvaK_N8_.js";import"./index-SBtdq8jY.js";import"./onlyText-C2raRYWa.js";const Dr={...M,title:"Actions/ContextMenu/Edge Cases"},t={args:{width:400},render:m=>r.jsxs(g,{children:[r.jsx(l,{children:"Trigger"}),r.jsxs(c,{...m,children:[r.jsx(i,{children:p.medium}),r.jsx(i,{children:p.medium})]})]})},o={render:m=>r.jsxs(g,{children:[r.jsx(l,{children:"Trigger"}),r.jsx(c,{...m,children:Array(20).fill("").map((T,e)=>r.jsxs(i,{children:["Item ",e+1]},e))})]})};var n,s,u;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    width: 400
+  },
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        <MenuItem>{dummyText.medium}</MenuItem>
+        <MenuItem>{dummyText.medium}</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(u=(s=t.parameters)==null?void 0:s.docs)==null?void 0:u.source}}};var a,d,x;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        {Array(20).fill("").map((value, index) => <MenuItem key={index}>Item {index + 1}</MenuItem>)}
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(x=(d=o.parameters)==null?void 0:d.docs)==null?void 0:x.source}}};const Fr=["LongTexts","LongList"];export{o as LongList,t as LongTexts,Fr as __namedExportsOrder,Dr as default};
