@@ -1,0 +1,1 @@
+.flow--rating{display:flex}.flow--rating .flow--rating--star{color:var(--rating--star-color)}.flow--rating .flow--rating--star-filled{color:var(--rating--star-filled-color)}.flow--rating.flow--rating--size-s{column-gap:var(--rating--spacing--s)}.flow--rating.flow--rating--size-m{column-gap:var(--rating--spacing--m)}
