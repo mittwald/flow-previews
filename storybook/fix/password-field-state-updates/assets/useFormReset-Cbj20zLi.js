@@ -1,0 +1,1 @@
+import{c as l}from"./mergeRefs-DMoFTSBP.js";import{r as d}from"./iframe-B7LyKmrW.js";function c(r,i,a){let n=d.useRef(i),t=l(()=>{a&&a(n.current)});d.useEffect(()=>{var o;let e=r==null||(o=r.current)===null||o===void 0?void 0:o.form;return e==null||e.addEventListener("reset",t),()=>{e==null||e.removeEventListener("reset",t)}},[r,t])}export{c as $};
