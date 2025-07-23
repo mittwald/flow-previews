@@ -1,0 +1,14 @@
+import{j as C}from"./iframe-CIziUxb4.js";import{C as s}from"./Checkbox-CgohCN_4.js";import"./IconWarning-Bo3R4dY7.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-CTHa5A9a.js";import"./mergeRefs-BWd0MHpr.js";import"./index-BCb4M8Mf.js";import"./RSPContexts-C-PXoOC4.js";import"./utils-CDtaCsrA.js";import"./FieldError-D98nnMcy.js";import"./Text-CgaJS0Gc.js";import"./filterDOMProps-CeZl_uWj.js";import"./Form-B_FAPEGw.js";import"./useFocus-C2EjpkOi.js";import"./useLabel-xKHqVDKV.js";import"./Label-CjcM3hPV.js";import"./Hidden-FsuglVKe.js";import"./usePress-DBbw6zuw.js";import"./useFocusRing-GixRvSCg.js";import"./useToggleState-DGtSGzsH.js";import"./useFormReset-TpB1RScY.js";import"./useFocusable-CTkb3k3n.js";import"./useControlledState-DVvxwSwc.js";import"./VisuallyHidden-D_XOb9iP.js";const{action:x}=__STORYBOOK_MODULE_ACTIONS__,G={title:"Form Controls/Checkbox",component:s,args:{onChange:x("onChange")},parameters:{controls:{exclude:["onChange"]}},render:S=>C.jsx(s,{...S,children:"Consent to terms and conditions"})},e={},r={args:{isDisabled:!0}},t={args:{isIndeterminate:!0}},o={args:{isDisabled:!0,isSelected:!0}};var a,i,m;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(m=(i=e.parameters)==null?void 0:i.docs)==null?void 0:m.source}}};var n,p,c;r.parameters={...r.parameters,docs:{...(n=r.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...(c=(p=r.parameters)==null?void 0:p.docs)==null?void 0:c.source}}};var d,u,l;t.parameters={...t.parameters,docs:{...(d=t.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  args: {
+    isIndeterminate: true
+  }
+}`,...(l=(u=t.parameters)==null?void 0:u.docs)==null?void 0:l.source}}};var g,D,b;o.parameters={...o.parameters,docs:{...(g=o.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true,
+    isSelected: true
+  }
+}`,...(b=(D=o.parameters)==null?void 0:D.docs)==null?void 0:b.source}}};const H=["Default","Disabled","Indeterminate","DisabledSelected"];export{e as Default,r as Disabled,o as DisabledSelected,t as Indeterminate,H as __namedExportsOrder,G as default};
