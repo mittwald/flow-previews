@@ -1,0 +1,18 @@
+import c from"./Default.stories-B6PcP8ir.js";import{F as d}from"./FileCard-C6aKHD9b.js";import{d as a}from"./dummyText-CX_I_Wpl.js";import"./iframe-B14Hztna.js";import"./ContextMenuContent-DaF-KKJ0.js";import"./Action-C7DGnd--.js";import"./context-BfdzKOWn.js";import"./PropsContextProvider-uadcFCMp.js";import"./mergeRefs-Bv4UzjNV.js";import"./index-BavqP8B-.js";import"./clsx-B-dksMZM.js";import"./useStatic-CMMnV-8N.js";import"./browser-DQtsHFqq.js";import"./getActionGroupSlot-Coxgvja7.js";import"./dynamic-DKDa4OpU.js";import"./ContextMenuSection-CZ89H5a4.js";import"./Dialog-BFvasG0n.js";import"./Button-C-dpYs0v.js";import"./utils-DoVwnhJ7.js";import"./ProgressBar-DTeLqJx_.js";import"./Label-Dj1DBquH.js";import"./Hidden-DEGhv2S1.js";import"./filterDOMProps-CeZl_uWj.js";import"./useLabel-BQ9idzkA.js";import"./context-ClRpg4Pi.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-CIDHtETH.js";import"./useFocus-DUtc_xDc.js";import"./useFocusRing-BniRYtyP.js";import"./useFocusable-qJIKezDE.js";import"./RSPContexts-Bfi0I49R.js";import"./OverlayArrow-DZfk_ErB.js";import"./useControlledState-ByF29kyY.js";import"./Collection-fH4Kmtgq.js";import"./CollectionBuilder-bLuJ-4e5.js";import"./Separator-D2GbxrzK.js";import"./Text-CpIc-G8R.js";import"./Input-DpcS1CTS.js";import"./SearchField-BKuT-taP.js";import"./FieldError-Bx0_OVZy.js";import"./Form-Dxjc7g8l.js";import"./Group-CBVKEx7-.js";import"./useLocalizedStringFormatter-Dv2L7e6J.js";import"./useTextField-BRjgXeuB.js";import"./useFormReset-C7VrIa_J.js";import"./TextField-CPtvewAJ.js";import"./SelectionManager-DXvn-F5v.js";import"./useEvent-CXj5GaK9.js";import"./useCollator-BOITc0eH.js";import"./FocusScope-GGet2N6d.js";import"./VisuallyHidden-B90-554O.js";import"./Popover-04r-SnMx.js";import"./DialogTriggerView-jAz3y-z7.js";import"./IconWarning-EXdx-O5E.js";import"./Switch-D-38tazE.js";import"./Label-zfejy0bC.js";import"./useToggleState-CyLes_UD.js";import"./Avatar--EyPBsHF.js";import"./AlertIcon-CbWA53Xf.js";import"./Image-DdTcydQF.js";import"./Text-CvN8mc0t.js";import"./EmulatedBoldText-CgkGARPI.js";import"./Link-BfBOEB9t.js";import"./Button-CgtdFPzc.js";import"./LoadingSpinner-BUgI2O_m.js";import"./OptionsButton-Dlk-Bkey.js";import"./ButtonView-BGYabchC.js";const{action:s}=__STORYBOOK_MODULE_ACTIONS__,Co={...c,title:"Upload/FileCard/Edge Cases",component:d},o={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")}}},r={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")},href:"#"}};var t,m,i;o.parameters={...o.parameters,docs:{...(t=o.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...(i=(m=o.parameters)==null?void 0:m.docs)==null?void 0:i.source}}};var p,e,n;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    },
+    href: "#"
+  }
+}`,...(n=(e=r.parameters)==null?void 0:e.docs)==null?void 0:n.source}}};const So=["LongName","LongNameAndLink"];export{o as LongName,r as LongNameAndLink,So as __namedExportsOrder,Co as default};
