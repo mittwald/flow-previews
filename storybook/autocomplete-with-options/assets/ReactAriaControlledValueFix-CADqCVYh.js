@@ -1,0 +1,7 @@
+import{r,j as x}from"./iframe-ABGSKs5r.js";import{$ as f,e as h}from"./utils-DiDGDlBS.js";const b=l=>{const{inputContext:s,children:p}=l,n=r.Children.only(p);if(!r.isValidElement(n))throw new Error("Expected valid element");const{ref:u,...d}=n.props,[o,a]=f(d,u,s);r.useLayoutEffect(()=>{var i;const e=a.current;if(e instanceof HTMLInputElement||e instanceof HTMLTextAreaElement){const c=String(o.value??"");try{const t=(i=Object.getOwnPropertyDescriptor(Object.getPrototypeOf(e),"value"))==null?void 0:i.set;t==null||t.call(e,c)}catch{e.value=c}}},[o.value]);const m={...o,value:void 0,ref:a};return x.jsx(h,{values:[[s,m]],children:n})};b.__docgenInfo={description:`React Aria (accidentally?!) enforces controlled inputs by always setting the
+value prop on Inputs and TextAreas with its context props API. This component
+also uses this API to only unset the value prop. Furthermore setting an input
+value is finally done by directly on the DOM element.
+
+https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/textfield/src/useTextField.ts#L182
+https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/numberfield/src/useNumberField.ts#L206`,methods:[],displayName:"ReactAriaControlledValueFix",props:{inputContext:{required:!0,tsType:{name:"Context",elements:[{name:"any"}],raw:"Context<any>"},description:""},props:{required:!0,tsType:{name:"unknown"},description:""}},composes:["PropsWithChildren"]};export{b as R};
