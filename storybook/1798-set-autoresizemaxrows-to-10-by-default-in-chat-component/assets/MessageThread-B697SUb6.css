@@ -1,1 +1,0 @@
-.flow--message-thread{display:flex;flex-direction:column;row-gap:var(--message-thread--spacing)}.flow--message-thread .flow--message-thread--message.flow--message-thread--responder{padding-inline-end:var(--message-thread--indentation)}.flow--message-thread .flow--message-thread--message.flow--message-thread--sender{padding-inline-start:var(--message-thread--indentation)}
