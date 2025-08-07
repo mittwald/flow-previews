@@ -1,7 +1,0 @@
-import{r as i,j as d}from"./iframe-Dykv-siI.js";import{$ as m,e as b}from"./utils-B-ceMMh2.js";const h=(t,n,s=new Event("change",{bubbles:!0}))=>{var o;const e=(o=Object.getOwnPropertyDescriptor(Object.getPrototypeOf(t),"value"))==null?void 0:o.set;e==null||e.call(t,n),t.dispatchEvent(s)},x=t=>{const{inputContext:n,children:s}=t,e=i.Children.only(s);if(!i.isValidElement(e))throw new Error("Expected valid element");const{ref:o,...p}=e.props,[a,c]=m(p,o,n);i.useLayoutEffect(()=>{const r=c.current;if(r instanceof HTMLInputElement||r instanceof HTMLTextAreaElement){const l=String(a.value??"");try{h(r,l,new Event("input",{bubbles:!0}))}catch{r.value=l}}},[a.value]);const u={...a,value:void 0,ref:c};return d.jsx(b,{values:[[n,u]],children:e})};x.__docgenInfo={description:`React Aria (accidentally?!) enforces controlled inputs by always setting the
-value prop on Inputs and TextAreas with its context props API. This component
-also uses this API to only unset the value prop. Furthermore setting an input
-value is finally done by directly on the DOM element.
-
-https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/textfield/src/useTextField.ts#L182
-https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/numberfield/src/useNumberField.ts#L206`,methods:[],displayName:"ReactAriaControlledValueFix",props:{inputContext:{required:!0,tsType:{name:"Context",elements:[{name:"any"}],raw:"Context<any>"},description:""},props:{required:!0,tsType:{name:"unknown"},description:""}},composes:["PropsWithChildren"]};export{x as R,h as e};
