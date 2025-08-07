@@ -1,0 +1,13 @@
+import{j as r}from"./iframe-Dykv-siI.js";import{I as i}from"./InlineCode-NBB8bQUz.js";import{T as d}from"./Text-D7_Ckqho.js";import s from"./Default.stories-DjK1jQym.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import{S as a}from"./Section-DnGxK03-.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-Bor3EKSO.js";import"./mergeRefs-D4l15LMa.js";import"./index-CUyX81Vk.js";import"./browser-C-YjMasC.js";import"./EmulatedBoldText-CBoWsrrJ.js";import"./Text-CLEeB9ax.js";import"./utils-B-ceMMh2.js";import"./ContextMenuSection-Lvc1Bla6.js";import"./Action-EDOdcPTi.js";import"./context-BIjwWtGw.js";import"./useStatic-DesXMpPQ.js";import"./getActionGroupSlot-BhsGjSHK.js";import"./dynamic-DKDa4OpU.js";import"./Dialog-fv_y1U4K.js";import"./Button-BG4LaOh8.js";import"./ProgressBar-D9jVrFgv.js";import"./Label-DDTleg66.js";import"./Hidden-B1Iw_O48.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-Cl2tFDz1.js";import"./context-5SGg1gn7.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-JMB6_eRB.js";import"./useFocus-DT_Sim8A.js";import"./useFocusRing-BLIO3-Um.js";import"./useFocusable-DsypMLKX.js";import"./RSPContexts-D030pJdB.js";import"./OverlayArrow-NgM1lQd-.js";import"./useControlledState-C0gMHLaR.js";import"./Collection-DswZtzwx.js";import"./CollectionBuilder-BVax36LH.js";import"./Separator-CubwYYam.js";import"./Group-CHnOtxCU.js";import"./SearchField-ZKNym0UI.js";import"./FieldError-HMu3Fq7J.js";import"./Form-CjGGxOiW.js";import"./useLocalizedStringFormatter-CQJsBQBp.js";import"./useTextField-DP0W3nYG.js";import"./useFormReset-ceBz3BPo.js";import"./TextField-Cfy1I-0m.js";import"./useEvent-qRsXeNBQ.js";import"./SelectionManager--KDKW3lV.js";import"./useCollator-BbJwwBb8.js";import"./FocusScope-BSi0CMVM.js";import"./VisuallyHidden-BglhDB6t.js";const am={...s,title:"Content/InlineCode/Edge Cases"},o={render:t=>r.jsx(a,{children:r.jsxs(d,{children:[m.medium," ",r.jsx(i,{...t,children:m.medium.replaceAll(" ","")})," ",m.medium,r.jsx(i,{...t,children:m.medium})," ",m.medium]})})};var e,p,n;o.parameters={...o.parameters,docs:{...(e=o.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Text>
+        {dummyText.medium}{" "}
+        <InlineCode {...props}>
+          {dummyText.medium.replaceAll(" ", "")}
+        </InlineCode>{" "}
+        {dummyText.medium}
+        <InlineCode {...props}>{dummyText.medium}</InlineCode>{" "}
+        {dummyText.medium}
+      </Text>
+    </Section>
+}`,...(n=(p=o.parameters)==null?void 0:p.docs)==null?void 0:n.source}}};const um=["LongText"];export{o as LongText,um as __namedExportsOrder,am as default};
