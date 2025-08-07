@@ -1,1 +1,0 @@
-import{c as i}from"./mergeRefs-DP3Z4rVS.js";import{r as n}from"./iframe-H6s4LegX.js";function c(r,a,d){let t=i(()=>{d&&d(a)});n.useEffect(()=>{var o;let e=r==null||(o=r.current)===null||o===void 0?void 0:o.form;return e==null||e.addEventListener("reset",t),()=>{e==null||e.removeEventListener("reset",t)}},[r,t])}export{c as $};
