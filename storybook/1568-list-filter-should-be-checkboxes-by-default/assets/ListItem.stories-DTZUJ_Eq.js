@@ -1,0 +1,218 @@
+import{j as e}from"./iframe-CMpsVwOM.js";import{H as i}from"./Heading-HMKXl4u6.js";import{T as a}from"./Text-BimBNWGT.js";import{C as o,M as m}from"./ContextMenuContent-C8kV34IJ.js";import"./ContextMenuSection-DE_hzDAF.js";import{m as Z}from"./Default.stories-D2y2bIFp.js";import{A as s}from"./Avatar-Vmq0NVhh.js";import{d as l}from"./dummyText-CX_I_Wpl.js";import{I as T}from"./Image-Brr56nDb.js";import{C as d}from"./Content-B3J-4zPl.js";import{A as ee}from"./AlertBadge-CB11u8Rf.js";import{A as te}from"./ActionGroup-nxKAVe34.js";import{B as C}from"./Button-B762HPeD.js";import{W as S,k as ne}from"./IconWarning-D8u_mAP3.js";import"./browser-B-2It7Rx.js";import"./List-3q3VbF14.js";import{t as r}from"./typedList-BkCnaKYA.js";import{P as V}from"./ProgressBar-BuTClbdN.js";import{L as b}from"./Label-kjk-IWzA.js";import{I as ie}from"./Initials-DRvGOrdD.js";import{C as w}from"./Checkbox-Ercq9K7x.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-BMeS3O6n.js";import"./mergeRefs-C92X0W_p.js";import"./index-CZ3QCY_v.js";import"./Heading-BtLFOT0L.js";import"./RSPContexts-DHCERfty.js";import"./utils-pWRi9foc.js";import"./EmulatedBoldText-M-EPRI7w.js";import"./Text-CCkfOTTF.js";import"./Action-C-7Oy_wv.js";import"./context-BB_uKWDa.js";import"./useStatic-BFocWmVI.js";import"./getActionGroupSlot-CEeEGEjJ.js";import"./dynamic-DKDa4OpU.js";import"./Popover-ChWuErEI.js";import"./DialogTriggerView-zPfOYurT.js";import"./Dialog-4INrBZTO.js";import"./Button-CNx4aTn8.js";import"./ProgressBar-DR_zEB_o.js";import"./Label-CYx7L7HM.js";import"./Hidden-Cyo3M4hZ.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-BA3FU80w.js";import"./context-EPQ013pJ.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-Dcm4Z-gf.js";import"./useFocus-C9MMrMar.js";import"./useFocusRing-DqD2BiAa.js";import"./useFocusable-FYb42PWO.js";import"./OverlayArrow-CMVfGmQe.js";import"./useControlledState-BNxfrGT2.js";import"./Collection-C_dbbgqH.js";import"./CollectionBuilder-Cc21ue3R.js";import"./Separator-ySPE90Jb.js";import"./Group-BmHKM3mz.js";import"./SearchField-yY4hDHGI.js";import"./FieldError-Dnex0fXb.js";import"./Form-BGZ-9vu8.js";import"./useLocalizedStringFormatter-BlPP9i8C.js";import"./useTextField-CVfCDHOY.js";import"./useFormReset-CrSG7MNm.js";import"./TextField-Cwtkj9As.js";import"./useEvent-CBtEWer2.js";import"./SelectionManager-Bwjhvkb_.js";import"./useCollator-CBSgX5OE.js";import"./FocusScope-HNBnbjNF.js";import"./VisuallyHidden-Ctc-ZpYI.js";import"./Switch-CTQ7WGso.js";import"./useToggleState-Bn8qAr6K.js";import"./Section-DVLAwJSl.js";import"./Flex-CMzHhK18.js";import"./AlertIcon-DpmkfaUE.js";import"./LoadingSpinner-C0J7J3GJ.js";import"./OptionsButton-LUMrDBpp.js";import"./ButtonView-DjZqX0bw.js";import"./Tooltip-D8IErp1u.js";import"./DivView-g9shrrf8.js";import"./Badge-CBjsgC2U.js";import"./SearchField-BwKi8JKA.js";import"./FormField.module-B9AzUSUD.js";import"./FieldError-DenvXdCo.js";import"./ReactAriaControlledValueFix-oklrrIu3.js";import"./IllustratedMessage-3Ab7zApy.js";import"./DragAndDrop-FKybprg7.js";import"./ListBox-7cTZ8Mo0.js";import"./inertValue-Fqq2CREh.js";import"./useListState-Cw99Di8A.js";import"./Table-DFF_nX_P.js";import"./SkeletonText-B9XGRbkO.js";import"./useUpdateEffect-DBo0A8N9.js";import"./useHasTabbableChild-DYLyNPjq.js";import"./ColumnLayout-C6TVlpVs.js";import"./Skeleton-DfD7M6hQ.js";import"./index-SBtdq8jY.js";import"./react-children-utilities-DKTCRAEF.js";import"./Separator-DBghoRI3.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-B2Ad4Xgk.js";import"./onlyText-PKT04ZQx.js";const Xt={...Z,title:"Structure/List/ListItem",render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(T,{alt:n.name,src:l.imageSrc})}),e.jsxs(i,{children:[n.name," ",e.jsx(ee,{status:"danger",children:"Gesperrt"})]}),e.jsx(a,{children:"Mittwald"}),e.jsx(o,{children:e.jsx(m,{children:"Show details"})})]})})]})}},c={},x={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{mail:"john@doe.de"}]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.mail,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(S,{})}),e.jsx(i,{children:n.mail}),e.jsx(d,{children:e.jsx(V,{value:50,children:e.jsx(b,{children:"Storage"})})}),e.jsx(o,{children:e.jsx(m,{children:"Show details"})})]})})]})}},p={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(ie,{children:n.name})}),e.jsx(i,{children:n.name}),e.jsx(a,{children:"Mittwald"}),e.jsx(d,{slot:"bottom",children:l.long}),e.jsx(o,{children:e.jsx(m,{children:"Show details"})})]})})]})}},h={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(T,{alt:n.name,src:l.imageSrc})}),e.jsx(i,{children:n.name}),e.jsx(a,{children:"Mittwald"}),e.jsx(d,{children:e.jsxs(te,{children:[e.jsx(C,{color:"secondary",variant:"soft",slot:"secondary",children:"Edit"}),e.jsx(C,{color:"danger",variant:"soft",children:"Delete"})]})})]})})]})}},u={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(T,{alt:n.name,src:l.imageSrc})}),e.jsx(i,{children:n.name}),e.jsx(a,{children:"Mittwald"}),e.jsx(a,{children:"Development"})]})})]})}},L={render:()=>{const t=r();return e.jsxs(t.List,{defaultViewMode:"tiles",children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{tileMaxWidth:100,showTiles:!0,textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(s,{children:e.jsx(T,{alt:n.name,src:l.imageSrc})}),e.jsx(i,{children:n.name}),e.jsx(a,{children:"Mittwald"}),e.jsx(a,{children:"Development"})]})})]})}},j={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{name:"John Doe"}]}),e.jsx(t.Item,{textValue:n=>n.name,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(i,{children:n.name}),e.jsx(C,{color:"secondary",variant:"plain",slot:"secondary",children:e.jsx(ne,{})})]})})]})}},I={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{mail:"john@doe.de"}]}),e.jsxs(t.Table,{children:[e.jsxs(t.TableHeader,{children:[e.jsx(t.TableColumn,{children:e.jsx(w,{"aria-label":"select all"})}),e.jsx(t.TableColumn,{children:"Mail address"})]}),e.jsx(t.TableBody,{children:e.jsxs(t.TableRow,{children:[e.jsx(t.TableCell,{children:()=>e.jsx(w,{"aria-label":"select address"})}),e.jsx(t.TableCell,{children:n=>n.mail})]})})]}),e.jsx(t.Item,{showTiles:!0,textValue:n=>n.mail,children:n=>e.jsxs(t.ItemView,{children:[e.jsx(w,{"aria-label":"select address"}),e.jsx(s,{children:e.jsx(S,{})}),e.jsx(i,{children:n.mail}),e.jsx(d,{children:e.jsx(V,{value:50,children:e.jsx(b,{children:"Storage"})})}),e.jsx(o,{children:e.jsx(m,{children:"Show details"})})]})})]})}},g={render:()=>{const t=r();return e.jsxs(t.List,{children:[e.jsx(t.StaticData,{data:[{mail:"john@doe.de"},{mail:"johnWithAVeryVeryLongEmailAddress@doe.de"}]}),e.jsx(t.Item,{textValue:n=>n.mail,children:n=>e.jsxs(t.ItemView,{l:[1,1],m:[2,1],s:[1,null],children:[e.jsx(s,{children:e.jsx(S,{})}),e.jsx(i,{children:n.mail}),e.jsx(d,{children:e.jsx(V,{value:50,children:e.jsx(b,{children:"Storage"})})}),e.jsx(o,{children:e.jsx(m,{children:"Show details"})})]})})]})}};var M,D,A;c.parameters={...c.parameters,docs:{...(M=c.parameters)==null?void 0:M.docs,source:{originalSource:"{}",...(A=(D=c.parameters)==null?void 0:D.docs)==null?void 0:A.source}}};var v,y,f;x.parameters={...x.parameters,docs:{...(v=x.parameters)==null?void 0:v.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      mail: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        mail: "john@doe.de"
+      }]} />
+        <List.Item showTiles textValue={mail => mail.mail}>
+          {mail => <List.ItemView>
+              <Avatar>
+                <IconEmail />
+              </Avatar>
+              <Heading>{mail.mail}</Heading>
+              <Content>
+                <ProgressBar value={50}>
+                  <Label>Storage</Label>
+                </ProgressBar>
+              </Content>
+              <ContextMenu>
+                <MenuItem>Show details</MenuItem>
+              </ContextMenu>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(f=(y=x.parameters)==null?void 0:y.docs)==null?void 0:f.source}}};var H,W,B;p.parameters={...p.parameters,docs:{...(H=p.parameters)==null?void 0:H.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      name: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        name: "John Doe"
+      }]} />
+        <List.Item showTiles textValue={user => user.name}>
+          {user => <List.ItemView>
+              <Avatar>
+                <Initials>{user.name}</Initials>
+              </Avatar>
+              <Heading>{user.name}</Heading>
+              <Text>Mittwald</Text>
+              <Content slot="bottom">{dummyText.long}</Content>
+              <ContextMenu>
+                <MenuItem>Show details</MenuItem>
+              </ContextMenu>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(B=(W=p.parameters)==null?void 0:W.docs)==null?void 0:B.source}}};var J,E,P;h.parameters={...h.parameters,docs:{...(J=h.parameters)==null?void 0:J.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      name: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        name: "John Doe"
+      }]} />
+        <List.Item showTiles textValue={user => user.name}>
+          {user => <List.ItemView>
+              <Avatar>
+                <Image alt={user.name} src={dummyText.imageSrc} />
+              </Avatar>
+              <Heading>{user.name}</Heading>
+              <Text>Mittwald</Text>
+              <Content>
+                <ActionGroup>
+                  <Button color="secondary" variant="soft" slot="secondary">
+                    Edit
+                  </Button>
+                  <Button color="danger" variant="soft">
+                    Delete
+                  </Button>
+                </ActionGroup>
+              </Content>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(P=(E=h.parameters)==null?void 0:E.docs)==null?void 0:P.source}}};var k,G,R;u.parameters={...u.parameters,docs:{...(k=u.parameters)==null?void 0:k.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      name: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        name: "John Doe"
+      }]} />
+        <List.Item showTiles textValue={user => user.name}>
+          {user => <List.ItemView>
+              <Avatar>
+                <Image alt={user.name} src={dummyText.imageSrc} />
+              </Avatar>
+              <Heading>{user.name}</Heading>
+              <Text>Mittwald</Text>
+              <Text>Development</Text>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(R=(G=u.parameters)==null?void 0:G.docs)==null?void 0:R.source}}};var _,O,$;L.parameters={...L.parameters,docs:{...(_=L.parameters)==null?void 0:_.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      name: string;
+    }>();
+    return <List.List defaultViewMode="tiles">
+        <List.StaticData data={[{
+        name: "John Doe"
+      }]} />
+        <List.Item tileMaxWidth={100} showTiles textValue={user => user.name}>
+          {user => <List.ItemView>
+              <Avatar>
+                <Image alt={user.name} src={dummyText.imageSrc} />
+              </Avatar>
+              <Heading>{user.name}</Heading>
+              <Text>Mittwald</Text>
+              <Text>Development</Text>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...($=(O=L.parameters)==null?void 0:O.docs)==null?void 0:$.source}}};var q,z,F;j.parameters={...j.parameters,docs:{...(q=j.parameters)==null?void 0:q.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      name: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        name: "John Doe"
+      }]} />
+        <List.Item textValue={user => user.name}>
+          {user => <List.ItemView>
+              <Heading>{user.name}</Heading>
+              <Button color="secondary" variant="plain" slot="secondary">
+                <IconClose />
+              </Button>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(F=(z=j.parameters)==null?void 0:z.docs)==null?void 0:F.source}}};var K,N,Q;I.parameters={...I.parameters,docs:{...(K=I.parameters)==null?void 0:K.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      mail: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        mail: "john@doe.de"
+      }]} />
+        <List.Table>
+          <List.TableHeader>
+            <List.TableColumn>
+              <Checkbox aria-label="select all" />
+            </List.TableColumn>
+            <List.TableColumn>Mail address</List.TableColumn>
+          </List.TableHeader>
+          <List.TableBody>
+            <List.TableRow>
+              <List.TableCell>
+                {() => <Checkbox aria-label="select address" />}
+              </List.TableCell>
+              <List.TableCell>{mail => mail.mail}</List.TableCell>
+            </List.TableRow>
+          </List.TableBody>
+        </List.Table>
+        <List.Item showTiles textValue={mail => mail.mail}>
+          {mail => <List.ItemView>
+              <Checkbox aria-label="select address" />
+              <Avatar>
+                <IconEmail />
+              </Avatar>
+              <Heading>{mail.mail}</Heading>
+              <Content>
+                <ProgressBar value={50}>
+                  <Label>Storage</Label>
+                </ProgressBar>
+              </Content>
+              <ContextMenu>
+                <MenuItem>Show details</MenuItem>
+              </ContextMenu>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(Q=(N=I.parameters)==null?void 0:N.docs)==null?void 0:Q.source}}};var U,X,Y;g.parameters={...g.parameters,docs:{...(U=g.parameters)==null?void 0:U.docs,source:{originalSource:`{
+  render: () => {
+    const List = typedList<{
+      mail: string;
+    }>();
+    return <List.List>
+        <List.StaticData data={[{
+        mail: "john@doe.de"
+      }, {
+        mail: "johnWithAVeryVeryLongEmailAddress@doe.de"
+      }]} />
+        <List.Item textValue={mail => mail.mail}>
+          {mail => <List.ItemView l={[1, 1]} m={[2, 1]} s={[1, null]}>
+              <Avatar>
+                <IconEmail />
+              </Avatar>
+              <Heading>{mail.mail}</Heading>
+
+              <Content>
+                <ProgressBar value={50}>
+                  <Label>Storage</Label>
+                </ProgressBar>
+              </Content>
+
+              <ContextMenu>
+                <MenuItem>Show details</MenuItem>
+              </ContextMenu>
+            </List.ItemView>}
+        </List.Item>
+      </List.List>;
+  }
+}`,...(Y=(X=g.parameters)==null?void 0:X.docs)==null?void 0:Y.source}}};const Yt=["Default","WithTopContent","WithBottomContent","WithActionGroup","WithMultipleTexts","WithCustomTileMaxWidth","WithHeadingAndAction","WithCheckbox","WithColumnLayout"];export{c as Default,h as WithActionGroup,p as WithBottomContent,I as WithCheckbox,g as WithColumnLayout,L as WithCustomTileMaxWidth,j as WithHeadingAndAction,u as WithMultipleTexts,x as WithTopContent,Yt as __namedExportsOrder,Xt as default};
