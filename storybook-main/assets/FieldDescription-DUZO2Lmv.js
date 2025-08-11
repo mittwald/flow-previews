@@ -1,2 +1,0 @@
-import{j as e}from"./iframe-Cvd7_oGo.js";import{c as l}from"./clsx-B-dksMZM.js";import{f as c,C as p}from"./PropsContextProvider-CjZ8S_R8.js";import{T as a}from"./Text-hU5scIVG.js";const d="flow--field-description",f={fieldDescription:d},m=c("FieldDescription",s=>{const{children:o,className:t,ref:i,...r}=s,n=l(f.fieldDescription,t);return e.jsx(p,{children:e.jsx(a,{slot:"description",...r,className:n,ref:i,children:o})})});m.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"FieldDescription"};export{m as F};
