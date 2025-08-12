@@ -14,8 +14,8 @@ cleanup_dirs() {
   for dir in "$path"/*; do
     if [ -d "$dir" ]; then
       checked_dirs=$((checked_dirs + 1))
-
-      commit_date=$(git log -1 --format=%ct -- "$dir" 2>/dev/null)
+      
+      commit_date=$(git log -1 --format=%ct -- "$dir/." 2>/dev/null)
 
       if [[ -z "$commit_date" || ! "$commit_date" =~ ^[0-9]+$ ]]; then
         echo "Warning: Could not get a valid commit date for $dir. Skipping." >&2
