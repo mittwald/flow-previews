@@ -1,1 +1,0 @@
-import{$ as r,b as $,a as o}from"./LocalizedStringFormatter-CmF9aEqk.js";import{r as b}from"./index-B-o1Wr-g.js";const f=new WeakMap;function n(e){let a=f.get(e);return a||(a=new o(e),f.set(e,a)),a}function i(e,a){return a&&o.getGlobalDictionaryForPackage(a)||n(e)}function p(e,a){let{locale:t}=r(),c=i(e,a);return b.useMemo(()=>new $(t,c),[t,c])}export{p as $,i as a};

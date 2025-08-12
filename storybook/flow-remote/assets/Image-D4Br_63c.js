@@ -1,1 +1,0 @@
-import{R as e}from"./index-BbMBc-iG.js";import{C as a}from"./PropsContextProvider-BgoMLKZk.js";import{f as m}from"./flowComponent-CaEd1ouJ.js";const n=m("Image",t=>{const{ref:o,...r}=t;return e.createElement(a,null,e.createElement("img",{...r,ref:o}))});n.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Image"};export{n as I};
