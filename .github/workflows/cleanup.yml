@@ -14,8 +14,6 @@ jobs:
       - name: Run cleanup script
         run: |
           bash .github/workflows/cleanup-old-dirs.sh || exit 1
-      - name: Print success message
-        run: echo "Old directories have been removed."
       - name: Configure git
         run: |
           git config user.name "github-actions"
