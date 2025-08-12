@@ -21,14 +21,14 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git status --porcelain | grep -q '^[ MADRCU]'; then
-            echo "::set-output name=changes_detected::true"
+          if git diff-index --quiet HEAD --; then
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=changes_detected::false"
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
           fi
       - name: Commit and push changes
         if: ${{ steps.cleanup.outcome == 'success' && steps.check_changes.outputs.changes_detected == 'true' }}
         run: |
-          git add docs/* storybook/*
+          git add docs/ storybook/
           git commit -m "Cleanup old deployments"
           git push
