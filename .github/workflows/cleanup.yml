@@ -1,0 +1,36 @@
+name: Cleanup old deployments
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Run cleanup script
+        run: |
+          bash cleanup-old-dirs.sh || exit 1
+      - name: Print success message
+        run: echo "Old directories have been removed."
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git status --porcelain | grep -q '^[ MADRCU]'; then
+            echo "::set-output name=changes_detected::true"
+          else
+            echo "::set-output name=changes_detected::false"
+          fi
+      - name: Commit and push changes
+        if: ${{ steps.cleanup.outcome == 'success' && steps.check_changes.outputs.changes_detected == 'true' }}
+        run: |
+          git add docs/* storybook/*
+          git commit -m "Cleanup old deployments"
+          git push
