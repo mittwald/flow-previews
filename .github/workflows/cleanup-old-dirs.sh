@@ -14,7 +14,7 @@ cleanup_dirs() {
   for dir in "$path"/*; do
     if [ -d "$dir" ]; then
       checked_dirs=$((checked_dirs + 1))
-      dir_date=$(stat -f "%Y" "$dir")
+      dir_date=$(stat -c "%Y" "$dir")
 
       oldest_dirs+=("$dir")
       oldest_dates+=("$dir_date")
