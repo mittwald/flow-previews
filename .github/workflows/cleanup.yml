@@ -20,20 +20,14 @@ jobs:
           git config user.email "github-actions@github.com"
       - name: Show git status
         run: git status
-      - name: Check for changes
-        id: check_changes
+      - name: Check for changes and commit
         run: |
           if [[ -z $(git status --porcelain) ]]; then
-            echo "No changes detected."
-            echo "changes_detected=false" >> $GITHUB_OUTPUT
-          else
-            echo "Changes detected:"
-            git status --porcelain
-            echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "No changes to commit."
+            exit 0
           fi
-      - name: Commit and push changes
-        if: ${{ steps.cleanup.outcome == 'success' && steps.check_changes.outputs.changes_detected == 'true' }}
-        run: |
+
+          echo "Changes detected. Committing..."
           git add -u
           git commit -m "Cleanup old deployments"
           git push
