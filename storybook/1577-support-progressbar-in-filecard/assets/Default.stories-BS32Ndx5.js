@@ -1,0 +1,56 @@
+import{r as M,j as r}from"./iframe-DdApAMdB.js";import{d as I,e as k,P as a,V as A,n as s,r as K}from"./PasswordCreationField-BwXq3nsu.js";import{L as h}from"./Label-Yw88ZPyv.js";import{u as N,F as z,a as U}from"./Form-BnKCjhff.js";import{s as Y}from"./Action-CsdkjVM_.js";import{B as u}from"./Button-BxqrW572.js";import{m as Z}from"./IconWarning-Cpaydhok.js";import{C as G}from"./CopyButton-B8sOMD5f.js";import"./PropsContextProvider-CEuVt76S.js";import"./mergeRefs-BvD6XTJo.js";import"./index-CmLMHji9.js";import"./clsx-B-dksMZM.js";import"./dynamic-DKDa4OpU.js";import"./FieldError-CIX9Q6F5.js";import"./utils-DAIXfBLw.js";import"./Text-CGWbxphN.js";import"./filterDOMProps-CghfNOdR.js";import"./Group-D5m3Hvm8.js";import"./Hidden-BMg7stLw.js";import"./useFocusRing-PbnZIDVe.js";import"./useFocus-D5He2YFW.js";import"./TextField-DkSNZzFP.js";import"./Form-EknBmRno.js";import"./useLabel-DpyWwSJM.js";import"./Label-kWZFrMix.js";import"./useTextField-5LH3O4RW.js";import"./useFormReset-BHdeIf20.js";import"./useControlledState-BEGJzQOc.js";import"./useFocusable-DBXoEHDs.js";import"./FormField.module-B9AzUSUD.js";import"./FieldError-D-Hf7sx5.js";import"./FieldDescription-C8ajk1oL.js";import"./Text-BwGnDMAi.js";import"./browser-Bz93nYTI.js";import"./EmulatedBoldText-BU0UeOKO.js";import"./Tooltip-D2sz_pMC.js";import"./OverlayArrow-C4-25t1a.js";import"./ProgressBar-Cc1yHw2d.js";import"./context-DR2Fzh74.js";import"./NumberFormatter-DNR9MAW-.js";import"./useLocalizedStringFormatter-TjZfQGwd.js";import"./ReactAriaControlledValueFix-D9mZmcZN.js";import"./ContextualHelpTrigger-BdrssJh1.js";import"./Popover-7VI1iAFw.js";import"./DialogTriggerView-B0VPnPVc.js";import"./context-ruD8SKGF.js";import"./useStatic-CD0TvTTa.js";import"./Dialog-BpJkjD9u.js";import"./Button-C9Xh5N71.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-DRRHPdfj.js";import"./RSPContexts-BOrJeOok.js";import"./Collection-DGYwVSuD.js";import"./CollectionBuilder-EIxRxNub.js";import"./Separator-S3NhCE8J.js";import"./SearchField-C5uNx_R9.js";import"./useEvent-L4LWTqTI.js";import"./SelectionManager-CLIYI5bX.js";import"./useCollator-DB6a0khr.js";import"./FocusScope-CMXbBALw.js";import"./VisuallyHidden-DyxmrKqh.js";import"./Heading-DcDMFNCx.js";import"./Heading-nK46_57w.js";import"./getActionGroupSlot-w8JWX1Ad.js";import"./LoadingSpinner-BhKvcbL5.js";import"./react-children-utilities-D2LvCQyt.js";import"./onlyText-Bv0rXEZy.js";const H=(e=I)=>async o=>{if(!o)return!0;const t=await e.validate(o);return k(t.isValid)?await t.isValid:t.isValid},{action:w}=__STORYBOOK_MODULE_ACTIONS__,J={minComplexity:3,rules:[{ruleType:s.length,min:8,max:12},{ruleType:s.sequence,sequences:[K.number],maxLength:2},{ruleType:s.regex,pattern:"^[0-9]",min:1,max:2},{ruleType:s.regex,pattern:"^[A-Za-z0-9]",translationKey:"canNotStartWithSpecialCharacter"},{ruleType:s.hibp},{identifier:"special",ruleType:s.charPool,charPools:["special"],min:1,max:2},{identifier:"numbers",ruleType:s.charPool,charPools:["numbers"],min:1,max:2},{ruleType:s.blocklist,blocklist:["foo","bar"],substringMatch:!0}]},le={title:"Form Controls/PasswordCreationField",component:a,render:e=>{const[o,t]=M.useState("");return r.jsx(a,{value:o,onValidationResult:w("onValidationResult"),onChange:P=>{w("onChange"),t(P)},...e,children:r.jsx(h,{children:"Password"})})}},i={},n={args:{isDisabled:!0}},m={args:{isRequired:!0}},p={args:{placeholder:"helloMoto"}},l={render:e=>r.jsxs(a,{...e,children:[r.jsx(h,{children:"Password"}),r.jsx(u,{children:r.jsx(Z,{})})]})},d={render:()=>{const e=A.fromDeclaration(J),o=N({defaultValues:{password:""}});return r.jsxs(z,{form:o,onSubmit:async t=>{await Y(2e3),console.log("submitted",t)},children:[r.jsx(U,{rules:{required:!0,validate:H(e)},name:"password",children:r.jsxs(a,{validationPolicy:e,children:[r.jsx(h,{children:"Password"}),r.jsx(u,{children:"asd"})]})}),r.jsx("br",{}),r.jsx(u,{onPress:()=>o.reset(),children:"Reset"}),r.jsx(u,{type:"submit",children:"Submit"})]})}},c={render:e=>{const[o,t]=M.useState("");return r.jsxs(a,{onChange:P=>t(P),...e,children:[r.jsx(h,{children:"Password"}),r.jsx(G,{text:o})]})}};var x,b,g;i.parameters={...i.parameters,docs:{...(x=i.parameters)==null?void 0:x.docs,source:{originalSource:"{}",...(g=(b=i.parameters)==null?void 0:b.docs)==null?void 0:g.source}}};var y,f,C;n.parameters={...n.parameters,docs:{...(y=n.parameters)==null?void 0:y.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...(C=(f=n.parameters)==null?void 0:f.docs)==null?void 0:C.source}}};var F,j,S;m.parameters={...m.parameters,docs:{...(F=m.parameters)==null?void 0:F.docs,source:{originalSource:`{
+  args: {
+    isRequired: true
+  }
+}`,...(S=(j=m.parameters)==null?void 0:j.docs)==null?void 0:S.source}}};var B,D,V;p.parameters={...p.parameters,docs:{...(B=p.parameters)==null?void 0:B.docs,source:{originalSource:`{
+  args: {
+    placeholder: "helloMoto"
+  }
+}`,...(V=(D=p.parameters)==null?void 0:D.docs)==null?void 0:V.source}}};var R,v,L;l.parameters={...l.parameters,docs:{...(R=l.parameters)==null?void 0:R.docs,source:{originalSource:`{
+  render: props => {
+    return <PasswordCreationField {...props}>
+        <Label>Password</Label>
+        <Button>
+          <IconDanger />
+        </Button>
+      </PasswordCreationField>;
+  }
+}`,...(L=(v=l.parameters)==null?void 0:v.docs)==null?void 0:L.source}}};var T,W,q;d.parameters={...d.parameters,docs:{...(T=d.parameters)==null?void 0:T.docs,source:{originalSource:`{
+  render: () => {
+    const customPolicy = Policy.fromDeclaration(policyDecl);
+    const form = useForm({
+      defaultValues: {
+        password: ""
+      }
+    });
+    return <Form form={form} onSubmit={async values => {
+      await sleep(2000);
+      console.log("submitted", values);
+    }}>
+        <Field rules={{
+        required: true,
+        validate: generatePasswordCreationFieldValidation(customPolicy)
+      }} name="password">
+          <PasswordCreationField validationPolicy={customPolicy}>
+            <Label>Password</Label>
+            <Button>asd</Button>
+          </PasswordCreationField>
+        </Field>
+        <br />
+        <Button onPress={() => form.reset()}>Reset</Button>
+        <Button type="submit">Submit</Button>
+      </Form>;
+  }
+}`,...(q=(W=d.parameters)==null?void 0:W.docs)==null?void 0:q.source}}};var _,O,E;c.parameters={...c.parameters,docs:{...(_=c.parameters)==null?void 0:_.docs,source:{originalSource:`{
+  render: props => {
+    const [password, setPassword] = useState<string>("");
+    return <PasswordCreationField onChange={v => setPassword(v)} {...props}>
+        <Label>Password</Label>
+        <CopyButton text={password} />
+      </PasswordCreationField>;
+  }
+}`,...(E=(O=c.parameters)==null?void 0:O.docs)==null?void 0:E.source}}};const de=["Default","Disabled","Required","WithPlaceholder","WithCustomButtons","WithForm","WithCopyButton"];export{i as Default,n as Disabled,m as Required,c as WithCopyButton,l as WithCustomButtons,d as WithForm,p as WithPlaceholder,de as __namedExportsOrder,le as default};
