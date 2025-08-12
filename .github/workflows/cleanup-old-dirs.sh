@@ -2,6 +2,10 @@
 
 set -e
 
+echo "Fetching full git history to ensure correct date calculation..."
+git fetch --unshallow --quiet
+echo "History fetched."
+
 checked_dirs=0
 removed_dirs=0
 oldest_dirs=()
@@ -14,7 +18,7 @@ cleanup_dirs() {
   for dir in "$path"/*; do
     if [ -d "$dir" ]; then
       checked_dirs=$((checked_dirs + 1))
-      
+
       commit_date=$(git log -1 --format=%ct -- "$dir/." 2>/dev/null)
 
       if [[ -z "$commit_date" || ! "$commit_date" =~ ^[0-9]+$ ]]; then
