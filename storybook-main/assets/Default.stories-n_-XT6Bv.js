@@ -1,0 +1,15 @@
+import{j as m}from"./iframe-Czve8Ng1.js";import{I as p}from"./InlineCode-DnSCf8ze.js";import{T as k}from"./Text-CMgn7hJq.js";import{S as h}from"./Section-DEA4irc9.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DLHfSyo1.js";import"./mergeRefs-BkScJl_E.js";import"./index-SeEX-dzh.js";import"./browser-C659BIXC.js";import"./EmulatedBoldText-CYlQsTFY.js";import"./Text-xUaxq5aV.js";import"./utils-C85tsJLi.js";import"./ContextMenuSection-BwsDvC0k.js";import"./Action-B4jn1mWw.js";import"./context-CNefDW5h.js";import"./useStatic-CzYWXmZ1.js";import"./getActionGroupSlot-DCBGN5KI.js";import"./dynamic-DKDa4OpU.js";import"./Dialog-DRA529j2.js";import"./Button-Cis11iQd.js";import"./ProgressBar-CQMCSPa7.js";import"./Label-BfVvFZj4.js";import"./Hidden-B3217TUg.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-BFN45BzM.js";import"./context-D03EQw3p.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-8K4_ozuW.js";import"./useFocus-DLNoddQ5.js";import"./useFocusRing-Bu3hVrpu.js";import"./useFocusable-DPi5-Rks.js";import"./RSPContexts-dpque2BF.js";import"./OverlayArrow-DAtBTKTJ.js";import"./useControlledState-BeXkP8kb.js";import"./Collection-CSylHNqr.js";import"./CollectionBuilder-Dt6aii9k.js";import"./Separator-C90j9JiE.js";import"./Group-D_IbuD73.js";import"./SearchField-C86J2fE8.js";import"./FieldError-CNai_82t.js";import"./Form-B2b0RBd7.js";import"./useLocalizedStringFormatter-uQUw7qmu.js";import"./useTextField-l00Z-hVA.js";import"./useFormReset-BM4kigyU.js";import"./TextField-IalWcoDx.js";import"./useEvent-CJyM_iko.js";import"./SelectionManager-BrCB2ldz.js";import"./useCollator-Bl41TtO8.js";import"./FocusScope-Cg_D6BEH.js";import"./VisuallyHidden-DTvv8wPC.js";const ur={title:"Content/InlineCode",component:p,render:r=>m.jsx(h,{children:m.jsxs(k,{color:r.color==="dark"||r.color==="light"?r.color:void 0,children:["Enter ",m.jsx(p,{...r,children:"yarn start"})," to start your app."]})})},o={},t={args:{color:"dark"},globals:{backgrounds:"light"}},i={args:{color:"light"},globals:{backgrounds:"dark"}};var a,e,s;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(s=(e=o.parameters)==null?void 0:e.docs)==null?void 0:s.source}}};var n,c,l;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    color: "dark"
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...(l=(c=t.parameters)==null?void 0:c.docs)==null?void 0:l.source}}};var d,g,u;i.parameters={...i.parameters,docs:{...(d=i.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  args: {
+    color: "light"
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...(u=(g=i.parameters)==null?void 0:g.docs)==null?void 0:u.source}}};const kr=["Default","Dark","Light"];export{t as Dark,o as Default,i as Light,kr as __namedExportsOrder,ur as default};
