@@ -1,0 +1,28 @@
+import{j as L}from"./iframe-xY198WZi.js";import{C as s}from"./CodeBlock-BM13a_3C.js";import"./clsx-B-dksMZM.js";import"./CopyButton-1e9GmGnc.js";import"./Button-Bwr0Tqpq.js";import"./PropsContextProvider-Bcl1TdL7.js";import"./mergeRefs-C3ATilz7.js";import"./index-DUH-JGkU.js";import"./IconWarning-DKtpXb3v.js";import"./Text-sCeau28A.js";import"./browser-CoruqHMI.js";import"./EmulatedBoldText-D19FH_Aq.js";import"./Text-Caf7sjAz.js";import"./utils-9eQBP1kk.js";import"./LoadingSpinner-DDnO9vH9.js";import"./useLocalizedStringFormatter-CJ8Vq7It.js";import"./context-cbiqA6Ma.js";import"./Button-quH8-MSh.js";import"./ProgressBar-D8GoG1d0.js";import"./Label-Dcgw9TtS.js";import"./Hidden-CtG-gAWP.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-EZ6qW8_W.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-DyqoAsF-.js";import"./useFocus-Dp6Kb8w7.js";import"./useFocusRing-CNdh1loc.js";import"./useFocusable-BEMuxCdm.js";import"./Tooltip-Dbq7W_Mr.js";import"./OverlayArrow-J-8UDj7n.js";import"./useControlledState-DwYELHJ7.js";import"./react-children-utilities-CPepyZJu.js";import"./Action-D1Re6xpB.js";import"./context-DIL7reYg.js";import"./useStatic-BuBW5DuY.js";import"./getActionGroupSlot-rEXXQEwj.js";import"./dynamic-DKDa4OpU.js";import"./onlyText-DNktQqQ7.js";const ir={title:"Content/CodeBlock",component:s,render:C=>L.jsx(s,{...C,code:`{
+    "projectId": "b3a96db5-ba8f-40dd-9100-bab43ac1f698",
+    "name": "My Project"
+}`}),args:{language:"json"}},r={},o={args:{showLineNumbers:!0}},e={args:{copyable:!0}},t={args:{color:"dark",copyable:!0},globals:{backgrounds:"light"}},a={args:{color:"light",copyable:!0},globals:{backgrounds:"dark"}};var p,m,i;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:"{}",...(i=(m=r.parameters)==null?void 0:m.docs)==null?void 0:i.source}}};var c,n,l;o.parameters={...o.parameters,docs:{...(c=o.parameters)==null?void 0:c.docs,source:{originalSource:`{
+  args: {
+    showLineNumbers: true
+  }
+}`,...(l=(n=o.parameters)==null?void 0:n.docs)==null?void 0:l.source}}};var u,d,g;e.parameters={...e.parameters,docs:{...(u=e.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    copyable: true
+  }
+}`,...(g=(d=e.parameters)==null?void 0:d.docs)==null?void 0:g.source}}};var b,k,h;t.parameters={...t.parameters,docs:{...(b=t.parameters)==null?void 0:b.docs,source:{originalSource:`{
+  args: {
+    color: "dark",
+    copyable: true
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...(h=(k=t.parameters)==null?void 0:k.docs)==null?void 0:h.source}}};var y,f,j;a.parameters={...a.parameters,docs:{...(y=a.parameters)==null?void 0:y.docs,source:{originalSource:`{
+  args: {
+    color: "light",
+    copyable: true
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...(j=(f=a.parameters)==null?void 0:f.docs)==null?void 0:j.source}}};const cr=["Default","WithLineNumbers","Copyable","Dark","Light"];export{e as Copyable,t as Dark,r as Default,a as Light,o as WithLineNumbers,cr as __namedExportsOrder,ir as default};
