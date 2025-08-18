@@ -1,0 +1,11 @@
+import{j as o}from"./iframe-ANbYZxYh.js";import{N as e}from"./NumberField-BNcpcyXX.js";import{L as c}from"./Label-BNGIQ-CZ.js";import"./FormField.module-CqWyJNQI.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-Bh9sJwp9.js";import"./mergeRefs-C7E84bFC.js";import"./index-sj9Kgwl7.js";import"./FieldError-CknxTZ0z.js";import"./IconWarning-DS7IkYNL.js";import"./FieldError-8FwQObi_.js";import"./utils-Cy_MvyB4.js";import"./Text-DtPhrSvp.js";import"./filterDOMProps-CghfNOdR.js";import"./Button-BrOgS8k0.js";import"./Text-M71Ue6Ol.js";import"./browser-DiQDtMf4.js";import"./EmulatedBoldText-D7XMT75r.js";import"./LoadingSpinner-BalYmqav.js";import"./useLocalizedStringFormatter-CwJnm8Gm.js";import"./context-C29UMt2a.js";import"./Button-pW7XEr-A.js";import"./ProgressBar-D0pevNPv.js";import"./Label-DHVn08UY.js";import"./Hidden-CKPTgp3M.js";import"./useLabel-BSgApQcW.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-YyV1OQc2.js";import"./useFocus-TkuOvp2H.js";import"./useFocusRing-CdWhuOPm.js";import"./useFocusable-Do5j3Niz.js";import"./ReactAriaControlledValueFix-Dcoh4pDk.js";import"./Form-BzuKHEmj.js";import"./Group-BbZVKWqc.js";import"./useControlledState-qP1KlDsL.js";import"./useSpinButton-Dp_yNPfP.js";import"./useFormReset-DK8My9j5.js";import"./useEvent-C-0WgXZh.js";import"./useTextField-CrHHZhdf.js";const{action:d}=__STORYBOOK_MODULE_ACTIONS__,$={title:"Form Controls/NumberField/Edge Cases",component:e,render:l=>o.jsx(e,{onChange:d("onChange"),...l,children:o.jsx(c,{children:"Age"})})},r={args:{minValue:5,defaultValue:5}},t={args:{maxValue:5,defaultValue:5}};var m,i,a;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    minValue: 5,
+    defaultValue: 5
+  }
+}`,...(a=(i=r.parameters)==null?void 0:i.docs)==null?void 0:a.source}}};var p,s,n;t.parameters={...t.parameters,docs:{...(p=t.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    maxValue: 5,
+    defaultValue: 5
+  }
+}`,...(n=(s=t.parameters)==null?void 0:s.docs)==null?void 0:n.source}}};const rr=["WithDisabledDecrement","WithDisabledIncrement"];export{r as WithDisabledDecrement,t as WithDisabledIncrement,rr as __namedExportsOrder,$ as default};
