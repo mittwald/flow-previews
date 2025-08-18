@@ -1,0 +1,1 @@
+import{r as e,j as n}from"./iframe-BAtUELBR.js";import{B as s}from"./Button-BEq1XaV7.js";import{v as r}from"./PropsContextProvider-Cm-qlPij.js";const i=t=>{const o=e.useContext(r).Button??s;return n.jsx(o,{...t})};i.__docgenInfo={description:"",methods:[],displayName:"ButtonView"};export{i as B};
