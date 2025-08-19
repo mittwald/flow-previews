@@ -1,0 +1,1 @@
+import{$ as c}from"./RSPContexts-DCrZu0Mf.js";import{$ as f}from"./utils-DD1RW9f4.js";import{r as m,R as s}from"./iframe-TjmQ4-hc.js";const x=m.forwardRef(function(e,a){[e,a]=f(e,a,c);let{children:t,level:l=3,className:r,...o}=e,$=`h${l}`;return s.createElement($,{...o,ref:a,className:r??"react-aria-Heading"},t)});export{x as $};
