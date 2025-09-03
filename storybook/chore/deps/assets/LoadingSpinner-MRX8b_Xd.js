@@ -1,1 +1,0 @@
-import{j as r}from"./iframe-DdrpCK7O.js";import{j as a}from"./IconWarning-lf4U_i6L.js";import{c as i}from"./clsx-B-dksMZM.js";const t="flow--loading-spinner",l={loadingSpinner:t},p=n=>{const{className:o,...s}=n,e=i(l.loadingSpinner,o);return r.jsx(a,{className:e,...s})};p.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"LoadingSpinner"};export{p as L};

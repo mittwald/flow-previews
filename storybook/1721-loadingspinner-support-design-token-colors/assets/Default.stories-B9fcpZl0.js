@@ -1,9 +1,0 @@
-import{j as u}from"./iframe-Bd70UBfQ.js";import{S as t}from"./Switch-BSpsNTtb.js";import"./clsx-B-dksMZM.js";import"./IconWarning-Dx4sU-j9.js";import"./PropsContextProvider-i-IYwZFk.js";import"./mergeRefs-BlmmrTdi.js";import"./index-BXdiMNYx.js";import"./Label-2hW8G0Q4.js";import"./useLocalizedStringFormatter-CvG_jx-f.js";import"./context-C3LNBa76.js";import"./Label-g6yaf0Tw.js";import"./utils-BmyyYDYY.js";import"./Hidden-CvIRFHlC.js";import"./filterDOMProps-CeZl_uWj.js";import"./useToggleState-B8_P_tNL.js";import"./useFormReset-D2aXstqB.js";import"./usePress-Z-qLfgnH.js";import"./useFocus-_CMpkysi.js";import"./useFocusRing-DTBcK8mU.js";import"./useFocusable-rNBIEL3L.js";import"./useControlledState-ChZkaxon.js";import"./VisuallyHidden-CEaQSbTN.js";const{action:b}=__STORYBOOK_MODULE_ACTIONS__,N={title:"Form Controls/Switch",component:t,args:{onChange:b("onChange"),labelPosition:"trailing"},parameters:{controls:{exclude:["onChange"]}},argTypes:{labelPosition:{control:"inline-radio",options:["trailing","leading"]}},render:g=>u.jsx(t,{...g,children:"Autoresponder"})},r={},o={args:{labelPosition:"leading"}},e={args:{isDisabled:!0}};var a,i,s;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(s=(i=r.parameters)==null?void 0:i.docs)==null?void 0:s.source}}};var n,m,p;o.parameters={...o.parameters,docs:{...(n=o.parameters)==null?void 0:n.docs,source:{originalSource:`{
-  args: {
-    labelPosition: "leading"
-  }
-}`,...(p=(m=o.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};var c,l,d;e.parameters={...e.parameters,docs:{...(c=e.parameters)==null?void 0:c.docs,source:{originalSource:`{
-  args: {
-    isDisabled: true
-  }
-}`,...(d=(l=e.parameters)==null?void 0:l.docs)==null?void 0:d.source}}};const U=["Default","LabelLeading","Disabled"];export{r as Default,e as Disabled,o as LabelLeading,U as __namedExportsOrder,N as default};
