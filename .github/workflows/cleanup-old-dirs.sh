@@ -33,7 +33,7 @@ cleanup_dirs() {
       age_seconds=$((current_date - commit_date))
       days_stale=$((age_seconds / 86400))
 
-      if [ "$days_stale" -gt 120 ]; then
+      if [ "$days_stale" -gt 14 ]; then
         echo "Removing $dir (last commit was $days_stale days ago)"
         rm -rf "$dir"
         removed_dirs=$((removed_dirs + 1))
