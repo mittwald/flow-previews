@@ -1,0 +1,39 @@
+import{j as e}from"./iframe-r9Fl_3r-.js";import{A as n}from"./Alert-DEZujLsa.js";import{H as i}from"./Heading-D97qHWnP.js";import{C as d}from"./Content-CYxheAeS.js";import v from"./Default.stories-BLRsOTiQ.js";import"./AlertIcon-DaBbovAD.js";import"./IconWarning-BUxpotmw.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-_w1UeHmF.js";import"./mergeRefs-D6E7Ef6S.js";import"./index-CrBYWkM2.js";import"./useLocalizedStringFormatter-BlChhJwn.js";import"./context-B1eqcBF6.js";import"./dynamic-DKDa4OpU.js";import"./Heading-BfSyYlEK.js";import"./RSPContexts-Bz7sSPBE.js";import"./utils-DXh-iENK.js";import"./Button-D0ktHzCI.js";import"./Text-DD-b1p2M.js";import"./browser-tiRbxzJD.js";import"./EmulatedBoldText-CDsZBMJH.js";import"./Text-DHfFA3io.js";import"./LoadingSpinner-zCjOjpaf.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./Button-4Qe77JoQ.js";import"./ProgressBar-BsRRuR7U.js";import"./Label-C3TZzzex.js";import"./Hidden-BJHVOqWC.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-DoVt-K4x.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-CjAT5thu.js";import"./useFocus-DRS9ufOF.js";import"./useFocusRing-C_G4oYuI.js";import"./useFocusable-DI-LrkzR.js";const te={...v,title:"Status/Alert/Status"},s={render:r=>e.jsxs(n,{...r,children:[e.jsx(i,{children:"Email address has been archived"}),e.jsx(d,{children:"As your domain has been deleted, this email address has been archived. To be able to send and receive emails, you must rename the address."})]})},t={args:{status:"warning"},render:r=>e.jsxs(n,{...r,children:[e.jsx(i,{children:"Storage is almost exceeded"}),e.jsx(d,{children:"Your storage space is over 80% utilized. We recommend that you upgrade the storage space to avoid disruptions during backups."})]})},o={args:{status:"danger"},render:r=>e.jsxs(n,{...r,children:[e.jsx(i,{children:"No SSL certificate could be issued"}),e.jsx(d,{children:"No SSL certificate could be issued for this domain because the domain IP does not point to your server IP."})]})},a={args:{status:"success"},render:r=>e.jsxs(n,{...r,children:[e.jsx(i,{children:"Your app is up to date"}),e.jsx(d,{children:"Your app has been updated to the current version."})]})};var p,c,m;s.parameters={...s.parameters,docs:{...(p=s.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: props => <Alert {...props}>
+      <Heading>Email address has been archived</Heading>
+      <Content>
+        As your domain has been deleted, this email address has been archived.
+        To be able to send and receive emails, you must rename the address.
+      </Content>
+    </Alert>
+}`,...(m=(c=s.parameters)==null?void 0:c.docs)==null?void 0:m.source}}};var u,l,h;t.parameters={...t.parameters,docs:{...(u=t.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    status: "warning"
+  },
+  render: props => <Alert {...props}>
+      <Heading>Storage is almost exceeded</Heading>
+      <Content>
+        Your storage space is over 80% utilized. We recommend that you upgrade
+        the storage space to avoid disruptions during backups.
+      </Content>
+    </Alert>
+}`,...(h=(l=t.parameters)==null?void 0:l.docs)==null?void 0:h.source}}};var g,b,x;o.parameters={...o.parameters,docs:{...(g=o.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    status: "danger"
+  },
+  render: props => <Alert {...props}>
+      <Heading>No SSL certificate could be issued</Heading>
+      <Content>
+        No SSL certificate could be issued for this domain because the domain IP
+        does not point to your server IP.
+      </Content>
+    </Alert>
+}`,...(x=(b=o.parameters)==null?void 0:b.docs)==null?void 0:x.source}}};var S,f,j;a.parameters={...a.parameters,docs:{...(S=a.parameters)==null?void 0:S.docs,source:{originalSource:`{
+  args: {
+    status: "success"
+  },
+  render: props => <Alert {...props}>
+      <Heading>Your app is up to date</Heading>
+      <Content>Your app has been updated to the current version.</Content>
+    </Alert>
+}`,...(j=(f=a.parameters)==null?void 0:f.docs)==null?void 0:j.source}}};const oe=["Info","Warning","Danger","Success"];export{o as Danger,s as Info,a as Success,t as Warning,oe as __namedExportsOrder,te as default};
