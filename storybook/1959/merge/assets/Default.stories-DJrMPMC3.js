@@ -1,0 +1,27 @@
+import{j as i}from"./iframe-9NvHEEYX.js";import{C as c}from"./CheckboxButton-D28bOv3r.js";import{C as y}from"./Content-DXt2b3K-.js";import{T as E}from"./Text-DmCU-xjB.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-CqBUeMMu.js";import"./mergeRefs-C771JiYT.js";import"./index-CxV9xeMB.js";import"./Checkbox-VchJqZkg.js";import"./IconWarning-BrSB4tEd.js";import"./RSPContexts-C2QF7PgZ.js";import"./utils-phTOhdhB.js";import"./FieldError-osHXMSr-.js";import"./Text-BvWwS3Z5.js";import"./filterDOMProps-CghfNOdR.js";import"./Form-Bv_h1ugL.js";import"./useFocus-D6PAQN6n.js";import"./useLabel-BM-ocsZo.js";import"./Label-BnOBL7z7.js";import"./Hidden-yLzo_Xn1.js";import"./usePress-B41vbTz8.js";import"./useFocusRing-B-QDi9By.js";import"./useToggleState-CO3ErD0a.js";import"./useFormReset-CqIGJUAV.js";import"./useFocusable-B9Hhp3CR.js";import"./useControlledState-QTuKyMuz.js";import"./VisuallyHidden-BMUrvrGU.js";import"./browser-bwKj2ElG.js";import"./EmulatedBoldText-D0lgjAwv.js";const{action:W}=__STORYBOOK_MODULE_ACTIONS__,ce={title:"Form Controls/CheckboxButton",component:c,args:{onChange:W("onChange")},parameters:{controls:{exclude:["onChange"]}},render:m=>i.jsx(c,{...m,children:"Consent to terms and conditions"})},e={},r={args:{isDisabled:!0}},t={args:{isReadOnly:!0}},o={args:{isIndeterminate:!0}},s={args:{isDisabled:!0,isSelected:!0}},a={render:m=>i.jsxs(c,{...m,children:[i.jsx(E,{children:"Terms and Conditions"}),i.jsx(y,{children:"Consent to terms and conditions"})]})},n={args:{isInvalid:!0}};var d,p,u;e.parameters={...e.parameters,docs:{...(d=e.parameters)==null?void 0:d.docs,source:{originalSource:"{}",...(u=(p=e.parameters)==null?void 0:p.docs)==null?void 0:u.source}}};var l,g,C;r.parameters={...r.parameters,docs:{...(l=r.parameters)==null?void 0:l.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...(C=(g=r.parameters)==null?void 0:g.docs)==null?void 0:C.source}}};var x,h,S;t.parameters={...t.parameters,docs:{...(x=t.parameters)==null?void 0:x.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...(S=(h=t.parameters)==null?void 0:h.docs)==null?void 0:S.source}}};var b,D,O;o.parameters={...o.parameters,docs:{...(b=o.parameters)==null?void 0:b.docs,source:{originalSource:`{
+  args: {
+    isIndeterminate: true
+  }
+}`,...(O=(D=o.parameters)==null?void 0:D.docs)==null?void 0:O.source}}};var I,T,_;s.parameters={...s.parameters,docs:{...(I=s.parameters)==null?void 0:I.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true,
+    isSelected: true
+  }
+}`,...(_=(T=s.parameters)==null?void 0:T.docs)==null?void 0:_.source}}};var f,j,R;a.parameters={...a.parameters,docs:{...(f=a.parameters)==null?void 0:f.docs,source:{originalSource:`{
+  render: props => <CheckboxButton {...props}>
+      <Text>Terms and Conditions</Text>
+      <Content>Consent to terms and conditions</Content>
+    </CheckboxButton>
+}`,...(R=(j=a.parameters)==null?void 0:j.docs)==null?void 0:R.source}}};var B,k,v;n.parameters={...n.parameters,docs:{...(B=n.parameters)==null?void 0:B.docs,source:{originalSource:`{
+  args: {
+    isInvalid: true
+  }
+}`,...(v=(k=n.parameters)==null?void 0:k.docs)==null?void 0:v.source}}};const de=["Default","Disabled","ReadOnly","Indeterminate","DisabledSelected","WithContent","Invalid"];export{e as Default,r as Disabled,s as DisabledSelected,o as Indeterminate,n as Invalid,t as ReadOnly,a as WithContent,de as __namedExportsOrder,ce as default};
