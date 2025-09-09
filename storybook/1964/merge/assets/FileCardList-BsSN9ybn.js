@@ -1,0 +1,2 @@
+import{j as e}from"./iframe-CW4eA9k4.js";import{C as i}from"./ColumnLayout-CW48NvkQ.js";import{f as a,P as p}from"./PropsContextProvider-Bql0h4A2.js";const m=a("FileCardList",r=>{const{className:o,ref:t,children:s,...n}=r,l={FileCard:{elementType:"li"}};return e.jsx(p,{props:l,children:e.jsx(i,{ref:t,elementType:"ul",className:o,...n,children:s})})});m.__docgenInfo={description:`@flr-generate all
+@flr-clear-props-context`,methods:[],displayName:"FileCardList"};export{m as F};
