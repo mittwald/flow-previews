@@ -1,2 +1,0 @@
-import{j as e}from"./iframe-d9P-aV0W.js";import{f as p,W as c,C as i}from"./PropsContextProvider-COJEgxrC.js";const f=p("Content",t=>{const{children:n,elementType:o="div",ref:r,clearPropsContext:s=!1,...l}=t,a=o;return e.jsx(c,{if:s,children:e.jsx(i,{children:e.jsx(a,{ref:r,...l,children:n})})})});f.__docgenInfo={description:`@flr-generate all
-@flr-clear-props-context`,methods:[],displayName:"Content"};export{f as C};
