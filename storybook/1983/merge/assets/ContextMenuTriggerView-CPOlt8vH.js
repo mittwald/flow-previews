@@ -1,0 +1,1 @@
+import{r as o,j as r}from"./iframe-DUtcAVii.js";import{b as n}from"./ContextMenuSection-BbIodJXW.js";import{v as i}from"./PropsContextProvider-CwzFOg6G.js";const s=e=>{const t=o.useContext(i).ContextMenuTrigger??n;return r.jsx(t,{...e})};s.__docgenInfo={description:"",methods:[],displayName:"ContextMenuTriggerView"};export{s as C};

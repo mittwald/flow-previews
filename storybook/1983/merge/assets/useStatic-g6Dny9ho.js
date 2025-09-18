@@ -1,1 +1,0 @@
-import{e as a}from"./PropsContextProvider-2d7AdEi8.js";import{r as e}from"./iframe-Fj9rH4cM.js";const n=(t,r=[])=>{const[s,o]=e.useState(t());return e.useEffect(()=>a(()=>{o(t())}),r),s},S=t=>e.useState(()=>t())[0];export{n as a,S as u};
