@@ -1,0 +1,15 @@
+import{j as m}from"./iframe-C41GO6P6.js";import{I as p}from"./InlineCode-DpITmxoB.js";import{T as k}from"./Text-BYSgteT5.js";import{S as h}from"./Section-kaw1-Ecj.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-BlE6VFtE.js";import"./mergeRefs-Hgr2X06A.js";import"./index-D__hiUrI.js";import"./browser-DspoMTVt.js";import"./EmulatedBoldText-CJIUXOgz.js";import"./Text-Bnb73OL0.js";import"./utils-Be5F4DcQ.js";import"./ContextMenuSection-BlJvGXA9.js";import"./Action-DU6nM0zW.js";import"./context-1RA5jvOs.js";import"./useStatic-DHBtTVNq.js";import"./getActionGroupSlot-BqgUIaia.js";import"./dynamic-DxnCaHhV.js";import"./Popover-DEl9axMZ.js";import"./DialogTriggerView-BwB5gCJZ.js";import"./Button-DlD3fRGu.js";import"./ProgressBar-BdICdwMW.js";import"./Label-I71uq1jB.js";import"./Hidden-COug4O8x.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel--RfYT5XW.js";import"./context-Om8YW_Qo.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-DSqdD5KI.js";import"./useFocus-CcyM5uvG.js";import"./useFocusRing-DXsfSaAZ.js";import"./useFocusable-DyjaqCu5.js";import"./RSPContexts-B6QAlzIf.js";import"./ClearPropsContextView-CpAffOzl.js";import"./useControlledState-D2xxPiTl.js";import"./FocusScope-V0DR1oSw.js";import"./useCollator-D5nYlsQq.js";import"./useLocalizedStringFormatter-DK3NG-Ma.js";import"./VisuallyHidden-D1Yd7fBj.js";import"./Collection-C5OyY5G9.js";import"./CollectionBuilder-DOOsEd3G.js";import"./Separator-CWruQEFN.js";import"./Group-celsVWdW.js";import"./SearchField-BbBM1aCT.js";import"./FieldError-qUs-TTn2.js";import"./Form-DZUJdQjd.js";import"./useTextField-CQA55vhK.js";import"./useFormReset-DAlqRR2j.js";import"./TextField-DApuMKmH.js";import"./useEvent-C6r-N21P.js";import"./SelectionManager-ARZMK7nk.js";import"./IconWarning-C5RwbqDR.js";import"./Switch-CPNMTTop.js";import"./Label-BmUyaMI1.js";import"./useToggleState-Dbq0WoWL.js";const fr={title:"Content/InlineCode",component:p,render:r=>m.jsx(h,{children:m.jsxs(k,{color:r.color==="dark"||r.color==="light"?r.color:void 0,children:["Enter ",m.jsx(p,{...r,children:"yarn start"})," to start your app."]})})},o={},t={args:{color:"dark"},globals:{backgrounds:"light"}},i={args:{color:"light"},globals:{backgrounds:"dark"}};var a,e,s;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(s=(e=o.parameters)==null?void 0:e.docs)==null?void 0:s.source}}};var n,c,l;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    color: "dark"
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...(l=(c=t.parameters)==null?void 0:c.docs)==null?void 0:l.source}}};var d,g,u;i.parameters={...i.parameters,docs:{...(d=i.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  args: {
+    color: "light"
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...(u=(g=i.parameters)==null?void 0:g.docs)==null?void 0:u.source}}};const jr=["Default","Dark","Light"];export{t as Dark,o as Default,i as Light,jr as __namedExportsOrder,fr as default};
