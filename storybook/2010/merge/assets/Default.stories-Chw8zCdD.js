@@ -1,5 +1,0 @@
-import{j as c}from"./iframe-DSMxFmCo.js";import{R as o}from"./Rating-BwGBSWE5.js";import"./index-Cun1SEai.js";import"./IconWarning-BVk6tlGE.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DVyBiVg_.js";import"./mergeRefs-R9qg0vBI.js";import"./index-GrlXgZoZ.js";import"./useLocalizedStringFormatter-Dk8jStlZ.js";import"./context-64LigRkb.js";const z={title:"Content/Rating",component:o,argTypes:{value:{control:"inline-radio",options:[0,1,2,3,4,5]}},args:{value:2},render:n=>c.jsx(o,{...n})},r={},e={args:{size:"s"}};var t,s,a;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};var m,i,p;e.parameters={...e.parameters,docs:{...(m=e.parameters)==null?void 0:m.docs,source:{originalSource:`{
-  args: {
-    size: "s"
-  }
-}`,...(p=(i=e.parameters)==null?void 0:i.docs)==null?void 0:p.source}}};const D=["Default","Small"];export{r as Default,e as Small,D as __namedExportsOrder,z as default};
