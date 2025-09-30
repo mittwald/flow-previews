@@ -1,0 +1,11 @@
+import{j as o}from"./iframe-k0i0tSJI.js";import{N as e}from"./NumberField-CDBGE2L5.js";import{L as c}from"./Label-qKeJblmJ.js";import"./index-Cun1SEai.js";import"./FormField.module-CqWyJNQI.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-tjPYyEf7.js";import"./mergeRefs-BRZ6RM1F.js";import"./index-C9Xz1mMc.js";import"./FieldError-DmBkReI5.js";import"./IconWarning-Dg2SDivU.js";import"./FieldError-9szde7-f.js";import"./utils-BgzpsI0V.js";import"./Text-BxPl3Uwa.js";import"./filterDOMProps-CghfNOdR.js";import"./Button-oL_0-1Fa.js";import"./Text-Cgxvqary.js";import"./browser-4UXY86st.js";import"./EmulatedBoldText-DDmG2Q6m.js";import"./LoadingSpinner-DmRdTw1-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./useLocalizedStringFormatter-D4FOu5sH.js";import"./context-C6mYXPQf.js";import"./Button-S7ehKHFA.js";import"./ProgressBar-BxBVznBa.js";import"./Label-CrL1n18B.js";import"./Hidden-B4FAVo4g.js";import"./useLabel-r92EfUV9.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-BmNwYdlA.js";import"./useFocus-rEgPF8zF.js";import"./useFocusRing-CO9MadZb.js";import"./useFocusable-B3ABF-8R.js";import"./ReactAriaControlledValueFix-DdfAVWxh.js";import"./Form-Dqp5q8Rw.js";import"./Group-DaB8Aw8e.js";import"./Input-DArPZQ3a.js";import"./useControlledState-ydeueESl.js";import"./useFormValidation-CoaqJdcD.js";import"./useSpinButton-DkwUzzhN.js";import"./useFormReset-DpoZWz7L.js";import"./useEvent-BKfze8FD.js";import"./useTextField-BhPReeNg.js";const{action:d}=__STORYBOOK_MODULE_ACTIONS__,or={title:"Form Controls/NumberField/Edge Cases",component:e,render:l=>o.jsx(e,{onChange:d("onChange"),...l,children:o.jsx(c,{children:"Age"})})},r={args:{minValue:5,defaultValue:5}},t={args:{maxValue:5,defaultValue:5}};var m,i,p;r.parameters={...r.parameters,docs:{...(m=r.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    minValue: 5,
+    defaultValue: 5
+  }
+}`,...(p=(i=r.parameters)==null?void 0:i.docs)==null?void 0:p.source}}};var a,s,n;t.parameters={...t.parameters,docs:{...(a=t.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    maxValue: 5,
+    defaultValue: 5
+  }
+}`,...(n=(s=t.parameters)==null?void 0:s.docs)==null?void 0:n.source}}};const er=["WithDisabledDecrement","WithDisabledIncrement"];export{r as WithDisabledDecrement,t as WithDisabledIncrement,er as __namedExportsOrder,or as default};
