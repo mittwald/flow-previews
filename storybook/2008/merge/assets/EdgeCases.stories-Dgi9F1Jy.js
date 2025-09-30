@@ -1,0 +1,13 @@
+import{j as r}from"./iframe-BkQEXHdV.js";import{I as i}from"./InlineCode-CCr0f-WY.js";import{T as d}from"./Text-waR3uY_i.js";import s from"./Default.stories-Bu4VgWNK.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import{S as a}from"./Section-FKwjM1dg.js";import"./index-Cun1SEai.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-DGcDvaD0.js";import"./mergeRefs-CrNR4Adf.js";import"./index-NrWjSaDr.js";import"./browser-T6JBIPNk.js";import"./EmulatedBoldText-DAPjbogn.js";import"./Text-vqf5-lqk.js";import"./utils-vh8nJaNh.js";import"./ContextMenuSection-fPmGy5Mt.js";import"./Action-ZxRK_-5p.js";import"./context-D6bN450f.js";import"./useStatic-D2LoWVgv.js";import"./getActionGroupSlot-rKcLr1EF.js";import"./dynamic-BBWe3ygL.js";import"./Popover-8rOZkqNf.js";import"./DialogTriggerView-wkk6S007.js";import"./Button-U99YD9dQ.js";import"./ProgressBar-BZ-kanOy.js";import"./Label-CmAFKzLd.js";import"./Hidden-B12OlcMW.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-B9G_gEh3.js";import"./context-DYNAGC-2.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-CS8Sp9_K.js";import"./useFocus-DvrdYcoe.js";import"./useFocusRing-DgjuUHXy.js";import"./useFocusable-E_oKRPWi.js";import"./RSPContexts-BoauDkAB.js";import"./ClearPropsContextView-DluELhC2.js";import"./useControlledState-DaeuqNOc.js";import"./FocusScope-1Unh1ODV.js";import"./useCollator-CckG7hwg.js";import"./useLocalizedStringFormatter-C-gsK0Kk.js";import"./VisuallyHidden-BJPXQOEU.js";import"./Collection-41evgXm1.js";import"./CollectionBuilder-CMEP5N_o.js";import"./context-Df1kKepL.js";import"./Separator-ITSOrukA.js";import"./SelectionManager-B2eDCuA_.js";import"./useEvent-XpLfJ4Ej.js";import"./IconWarning-Bhg2W068.js";import"./Switch-BbY-iNWo.js";import"./Label-DCwzji4R.js";import"./useToggleState-D586bBrY.js";import"./useFormReset-C2GAx1Zc.js";const um={...s,title:"Content/InlineCode/Edge Cases"},o={render:t=>r.jsx(a,{children:r.jsxs(d,{children:[m.medium," ",r.jsx(i,{...t,children:m.medium.replaceAll(" ","")})," ",m.medium,r.jsx(i,{...t,children:m.medium})," ",m.medium]})})};var e,p,n;o.parameters={...o.parameters,docs:{...(e=o.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Text>
+        {dummyText.medium}{" "}
+        <InlineCode {...props}>
+          {dummyText.medium.replaceAll(" ", "")}
+        </InlineCode>{" "}
+        {dummyText.medium}
+        <InlineCode {...props}>{dummyText.medium}</InlineCode>{" "}
+        {dummyText.medium}
+      </Text>
+    </Section>
+}`,...(n=(p=o.parameters)==null?void 0:p.docs)==null?void 0:n.source}}};const lm=["LongText"];export{o as LongText,lm as __namedExportsOrder,um as default};
