@@ -1,0 +1,1 @@
+import{j as o}from"./iframe-FESji9AM.js";import{c as t}from"./clsx-B-dksMZM.js";import{a as p}from"./Separator-C3QdnVt7.js";const c="flow--separator",m={separator:c},n=a=>{const{className:r,...s}=a,e=t(m.separator,r);return o.jsx(p,{elementType:"hr",className:e,...s})};n.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Separator"};export{n as S};
