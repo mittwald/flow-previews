@@ -1,0 +1,18 @@
+import c from"./Default.stories-DVCPwvZk.js";import{F as d}from"./FileCard-CFfPqQKJ.js";import{d as a}from"./dummyText-CX_I_Wpl.js";import"./iframe-CwuqIU3i.js";import"./index-Cun1SEai.js";import"./MenuItem-CeoFeI3k.js";import"./Action-Dz8VIf0X.js";import"./context-B1E32d2Q.js";import"./useStatic-DLE3zC_Y.js";import"./browser-DUGYsxZ_.js";import"./getActionGroupSlot-Bjm84Kbj.js";import"./dynamic-DTSFzVL0.js";import"./flowComponent-CW5hnf4o.js";import"./index-DCuX0QuH.js";import"./clsx-B-dksMZM.js";import"./index-DdRMNQVP.js";import"./ContextMenuSection-BU9M0i_t.js";import"./Dialog-BB45Hyg5.js";import"./Button-BUhZq-tB.js";import"./utils-BNUN6Z86.js";import"./ProgressBar-BzO_ljLZ.js";import"./Label-Ds7Yihzi.js";import"./Hidden-AzgHkXqa.js";import"./filterDOMProps-CghfNOdR.js";import"./context-Cr--o0Ww.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-CdaIPuHn.js";import"./useFocus-JEz06IDi.js";import"./useFocusRing-Csjn1IfN.js";import"./useFocusable-CYb_RHOH.js";import"./RSPContexts-BJREWOlr.js";import"./OverlayArrow-DPamNpoY.js";import"./useControlledState-B3_Egg2G.js";import"./Collection-YYfkw6ZM.js";import"./CollectionBuilder-BkgyTACG.js";import"./SelectionIndicator-pORsGxIs.js";import"./Separator-OZJOm_uc.js";import"./Text-WRK6H0Wn.js";import"./SelectionManager-Cunz5w8r.js";import"./useEvent-CWvMBd14.js";import"./useCollator-Vvi4fPh5.js";import"./FocusScope-AJCIL371.js";import"./useLocalizedStringFormatter-CenpEZM_.js";import"./VisuallyHidden-DO5WoARG.js";import"./Popover-D__JW8z9.js";import"./useOverlayController-B8XIYbgT.js";import"./OverlayContextProvider-97LfiWf0.js";import"./ClearPropsContextView-fXO2DKoU.js";import"./ClearPropsContext-DGTEyAkG.js";import"./IconWarning-DfuZN-Hc.js";import"./Switch-DUqYNCRm.js";import"./useFieldComponent-eP2W8yne.js";import"./react-children-utilities-BfKePjVo.js";import"./Label.module-CUYTf9Jc.js";import"./useMakeFocusable-ChwytvWt.js";import"./useToggleState-DPxyhoX0.js";import"./useFormReset-BLDFw02N.js";import"./ContextMenuTrigger-BVXZ9-K6.js";import"./OverlayTrigger-CCvRkMKz.js";import"./ControlledNotification-2mKoGJJ0.js";import"./Label-B0BiyK3O.js";import"./ProgressBar-DJ0oXBT6.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-BgVEC8F8.js";import"./Text-Dbs8GmZM.js";import"./EmulatedBoldText-DuSj7T8w.js";import"./Button-BqbqUci_.js";import"./LoadingSpinner-BmjVj-LQ.js";import"./Avatar-Bf_XHyCG.js";import"./AlertIcon-DAOrSmNj.js";import"./Image-DMBCdMfT.js";import"./Link-BR92CTno.js";import"./ButtonView-DhEy7fWF.js";import"./ContextMenuTriggerView-DJxCuvrc.js";const{action:s}=__STORYBOOK_MODULE_ACTIONS__,Uo={...c,title:"Upload/FileCard/Edge Cases",component:d},o={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")}}},r={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")},href:"#"}};var t,m,i;o.parameters={...o.parameters,docs:{...(t=o.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...(i=(m=o.parameters)==null?void 0:m.docs)==null?void 0:i.source}}};var p,e,n;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    },
+    href: "#"
+  }
+}`,...(n=(e=r.parameters)==null?void 0:e.docs)==null?void 0:n.source}}};const Ko=["LongName","LongNameAndLink"];export{o as LongName,r as LongNameAndLink,Ko as __namedExportsOrder,Uo as default};
