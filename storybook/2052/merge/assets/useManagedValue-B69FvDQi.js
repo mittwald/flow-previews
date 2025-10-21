@@ -1,1 +1,0 @@
-import{r as f}from"./iframe-DTheBFqg.js";const v=(e,t=e.onChange,l={value:"value",defaultValue:"defaultValue"})=>{const a=e[l.value],u=e[l.defaultValue],n=typeof a<"u",o=typeof u<"u",[r,d]=f.useState(o?u:a);return{value:n?a:r,handleOnChange:s=>{t==null||t(s),n||d(()=>s)}}};export{v as u};
