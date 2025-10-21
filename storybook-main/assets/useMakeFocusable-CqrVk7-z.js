@@ -1,1 +1,0 @@
-import{r as o}from"./iframe-BJcrhiyS.js";const a=(t,s)=>{o.useEffect(()=>{const e=t.current;if(!(e&&e instanceof HTMLElement))return;const n=()=>s?.();e.addEventListener("focus",n);const r=e.hasAttribute("tabIndex");return r||e.setAttribute("tabIndex","-1"),()=>{e.removeEventListener("focus",n),r||e.removeAttribute("tabIndex")}},[t.current,s])};export{a as u};
