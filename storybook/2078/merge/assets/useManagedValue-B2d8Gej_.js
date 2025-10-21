@@ -1,0 +1,1 @@
+import{r as d}from"./iframe-DW8JgK09.js";const V=(t,e=t.onChange)=>{const{value:a,defaultValue:l}=t,n=typeof a<"u",s=typeof l<"u",[o,r]=d.useState(s?l:"");return{value:n?a:o,handleOnChange:u=>{e==null||e(u),n||r(()=>u)}}};export{V as u};
