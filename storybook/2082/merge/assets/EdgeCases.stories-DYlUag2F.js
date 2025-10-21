@@ -1,5 +1,0 @@
-import{j as o}from"./iframe-EtTbRQoM.js";import{S as e}from"./Switch-BJ2qQq7S.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import p from"./Default.stories-CPuI7SVx.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./IconWarning-CO-lUcxm.js";import"./flowComponent-CRP3amPt.js";import"./index-DwnAt2PO.js";import"./index-rMxpLDk9.js";import"./utils-C_hvyJpn.js";import"./useMakeFocusable-qjH8k0Qb.js";import"./filterDOMProps-i7L6S0l1.js";import"./useToggleState-DtJJbISv.js";import"./useFormReset-B1BZ1rNK.js";import"./usePress-sAonsHdy.js";import"./useFocus-9RWBE5qv.js";import"./useFocusRing-hCmULEnE.js";import"./useFocusable-Do_2l7DI.js";import"./useControlledState-DmCe06Ai.js";import"./VisuallyHidden-B8Lwuqmn.js";const F={...p,title:"Form Controls/Switch/Edge Cases"},r={render:t=>o.jsx(e,{defaultSelected:!0,...t,children:m.long})};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
-  render: props => <Switch defaultSelected {...props}>
-      {dummyText.long}
-    </Switch>
-}`,...r.parameters?.docs?.source}}};const O=["LongText"];export{r as LongText,O as __namedExportsOrder,F as default};

@@ -1,1 +1,0 @@
-import{r as d}from"./iframe-EtTbRQoM.js";const i=(e,l=e.onChange)=>{const{value:a,defaultValue:n}=e,t=typeof a<"u",u=typeof n<"u",[s,r]=d.useState(u?n:"");return{value:t?a:s,handleOnChange:o=>{l?.(o),t||r(()=>o)}}};export{i as u};
