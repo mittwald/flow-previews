@@ -1,0 +1,27 @@
+import{j as r}from"./iframe-Cxe2R7_6.js";import{a as x,u as h,F as f,t as D}from"./Form-J2UUhBWk.js";import{L as o}from"./Label-BvEZKMSr.js";import{B as n}from"./Button-DDreAfBq.js";import{S}from"./Section-CTCBpNMs.js";import{A as g}from"./ActionGroup-3nPo4GGD.js";import{s as j}from"./Action-g8e46b99.js";import{J as y,h as B,L as P}from"./DateField-TRxC0QYQ.js";import{D as e}from"./DatePicker-CYLxMOj4.js";import"./index-Cun1SEai.js";import"./dynamic-C5ZbgSqQ.js";import"./flowComponent-atuhteL1.js";import"./index-BmulK9zF.js";import"./clsx-B-dksMZM.js";import"./index-C9WdiMZF.js";import"./FieldError-DJ7xx1bf.js";import"./IconWarning-Jidhe8u4.js";import"./FieldError-C0Ib8VCD.js";import"./utils-DyWdIPZh.js";import"./Text-DwJdwITw.js";import"./filterDOMProps-CghfNOdR.js";import"./useLocalizedStringFormatter-Iif1rEXq.js";import"./context-C4neI5Xk.js";import"./browser-eQsbTmR1.js";import"./isPromise-APPd_fLV-8tYzn7uh.js";import"./Label-bC6dqEsb.js";import"./Hidden-D2ApJihV.js";import"./Text-BRz7lILS.js";import"./EmulatedBoldText-C6_bi1Ug.js";import"./LoadingSpinner-e3lyxMd6.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./Button-CDVXHq5z.js";import"./ProgressBar-CNBuCKLn.js";import"./useLabel-D72_X68t.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-CePQ8dAH.js";import"./useFocus-Cpp7XZsJ.js";import"./useFocusRing-b-PxAWXn.js";import"./useFocusable-D66X7lwl.js";import"./ContextMenuSection-Bi1QxvNY.js";import"./Dialog-Ch6Gf7aG.js";import"./RSPContexts-BTHaIq-S.js";import"./OverlayArrow-BxgQp36F.js";import"./useControlledState-B5CLhXq4.js";import"./Collection-C-iX88s0.js";import"./CollectionBuilder-DY4KGZ6m.js";import"./SelectionIndicator-BZBAluCS.js";import"./Separator-TUkk8FpW.js";import"./SelectionManager-D-Y_L5dA.js";import"./useEvent-C1DB-zaK.js";import"./useCollator-B3EheL1U.js";import"./FocusScope-NPqoHgmt.js";import"./VisuallyHidden-BVfZKHZh.js";import"./getActionGroupSlot-BsGN6_f1.js";import"./useStatic-CcLu1Qpn.js";import"./context-DVixImBB.js";import"./Form-xSvri39Q.js";import"./Group-CoOuBhM6.js";import"./Input-D9HmJNQ0.js";import"./useFormValidation-Bu_33Brb.js";import"./useFormReset-ClXq3Rv0.js";import"./useSpinButton-4gjmVF0o.js";import"./useFilter-pcCIK5rA.js";import"./FormField.module-CqWyJNQI.js";import"./Popover-CD2R0w6L.js";import"./useOverlayController-YObJaJsP.js";import"./OverlayContextProvider-CjeK4qkK.js";import"./ClearPropsContextView-qCrklifR.js";import"./RangeCalendar-9R055ptZ.js";import"./Heading-Cg-1JubH.js";import"./useUpdateEffect-DFpBdZRj.js";import"./useMakeFocusable-DEGrXNpK.js";const{action:$}=__STORYBOOK_MODULE_ACTIONS__,_=$("submit"),Kr={title:"Integrations/React Hook Form/DatePicker",component:x,render:()=>{const t=async F=>{await j(1500),_(F)},b=h({defaultValues:{dateDefaultValue:y("2025-09-01")}}),i=D();return r.jsx(f,{form:b,onSubmit:t,children:r.jsxs(S,{children:[r.jsx(i,{name:"date",children:r.jsx(e,{children:r.jsx(o,{children:"Date"})})}),r.jsx(i,{name:"dateDefaultValue",children:r.jsx(e,{children:r.jsx(o,{children:"Date"})})}),r.jsx(i,{name:"dateRequired",rules:{required:"Please select a date"},children:r.jsx(e,{children:r.jsx(o,{children:"Date"})})}),r.jsx(i,{name:"dateMinValue",children:r.jsx(e,{minValue:B(P()),children:r.jsx(o,{children:"Future date"})})}),r.jsx(g,{children:r.jsx(n,{type:"submit",children:"Submit"})})]})})}},m={},s={render:()=>{const t=h();return r.jsxs(f,{form:t,onSubmit:async()=>await j(2e3),children:[r.jsx(x,{name:"text",children:r.jsx(e,{children:r.jsx(o,{children:"Text"})})}),r.jsx("div",{style:{marginBottom:"2200px"}}),r.jsx(n,{onPress:()=>t.setError("text",{type:"required",message:"oh no"},{shouldFocus:!0}),children:"err through form"}),r.jsx(n,{onPress:()=>t.setFocus("text"),children:"focus through form"}),r.jsx(n,{type:"submit",children:"Submit"})]})}};var a,p,c;m.parameters={...m.parameters,docs:{...(a=m.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(c=(p=m.parameters)==null?void 0:p.docs)==null?void 0:c.source}}};var u,d,l;s.parameters={...s.parameters,docs:{...(u=s.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  render: () => {
+    const form = useForm();
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"text"}>
+          <DatePicker>
+            <Label>Text</Label>
+          </DatePicker>
+        </Field>
+        <div style={{
+        marginBottom: "2200px"
+      }} />
+        <Button onPress={() => form.setError("text", {
+        type: "required",
+        message: "oh no"
+      }, {
+        shouldFocus: true
+      })}>
+          err through form
+        </Button>
+        <Button onPress={() => form.setFocus("text")}>
+          focus through form
+        </Button>
+        <Button type="submit">Submit</Button>
+      </Form>;
+  }
+}`,...(l=(d=s.parameters)==null?void 0:d.docs)==null?void 0:l.source}}};const Nr=["Default","WithFocusAndError"];export{m as Default,s as WithFocusAndError,Nr as __namedExportsOrder,Kr as default};
