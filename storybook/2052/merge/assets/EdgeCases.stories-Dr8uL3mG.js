@@ -1,0 +1,18 @@
+import c from"./Default.stories-DnhMzGUe.js";import{F as d}from"./FileCard-q2DOqoJs.js";import{d as a}from"./dummyText-CX_I_Wpl.js";import"./iframe-DTheBFqg.js";import"./index-Cun1SEai.js";import"./MenuItem-qQ2bxnPY.js";import"./Action-XVrtYdEu.js";import"./context-D5Eh6Kjh.js";import"./useStatic-KScOH6sT.js";import"./browser-BqPz5wcV.js";import"./getActionGroupSlot-BTW6ZZ6S.js";import"./dynamic-DYsVCHyX.js";import"./flowComponent-gCUS5Qd-.js";import"./index-ulNAr9WE.js";import"./clsx-B-dksMZM.js";import"./index-C24gQbls.js";import"./ContextMenuSection-DVfZqLHJ.js";import"./Dialog-DwHrBIEx.js";import"./Button-B9sfb4m-.js";import"./utils-CIVb4-pA.js";import"./ProgressBar-Dr6zks-A.js";import"./Label-DaxiHPCi.js";import"./Hidden-BUnkE8VR.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-DE7AINdt.js";import"./context-BBJsvWP1.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-DWQVem_V.js";import"./useFocus-gFMm1SVx.js";import"./useFocusRing-Bw6jYcrF.js";import"./useFocusable-CIkWBa0n.js";import"./RSPContexts-DdYP_yiK.js";import"./OverlayArrow-Bio3H0xn.js";import"./useControlledState-CxM5G25q.js";import"./Collection-BJPKgIab.js";import"./CollectionBuilder-CQSVhr8L.js";import"./SelectionIndicator-CjHN0yDY.js";import"./Separator-D87Ko5QM.js";import"./Text-C48huDBb.js";import"./SelectionManager-uhDgeTSM.js";import"./useEvent-BjpDtAMc.js";import"./useCollator-2o_2J_me.js";import"./FocusScope-CHz78Q3h.js";import"./useLocalizedStringFormatter-CvDaoHpN.js";import"./VisuallyHidden-D3PBi60E.js";import"./Popover-BFP7d86q.js";import"./useOverlayController-CV2OMrve.js";import"./OverlayContextProvider-D45bIP_5.js";import"./ClearPropsContextView-CxFwQ4wb.js";import"./ClearPropsContext-NW1-nYLP.js";import"./IconWarning-CXTS1Zmo.js";import"./Switch-CvPH0ntY.js";import"./useFieldComponent-mBN-j8SF.js";import"./react-children-utilities-g2QZgYrG.js";import"./Label.module-CUYTf9Jc.js";import"./useMakeFocusable-DG-Ql63t.js";import"./useToggleState-SFl-JBqp.js";import"./useFormReset-C6eFdCIy.js";import"./ContextMenuTrigger-CGbXqcoa.js";import"./OverlayTrigger-CpKaALyE.js";import"./ControlledNotification-Bs-S7xry.js";import"./Label-DS5MocSE.js";import"./ProgressBar-DCbACdmL.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-DULDCQbl.js";import"./Text-DVaBUvZL.js";import"./EmulatedBoldText-P0d28SeQ.js";import"./Button-Bmq0qjWo.js";import"./LoadingSpinner-CLX8R9JK.js";import"./Avatar-D39nLpxw.js";import"./AlertIcon-DdQMaMt0.js";import"./Image-DUo70NW1.js";import"./Link-KWZ2RBVk.js";import"./ButtonView-De92G280.js";import"./ContextMenuTriggerView-CGYwx10c.js";const{action:s}=__STORYBOOK_MODULE_ACTIONS__,Ko={...c,title:"Upload/FileCard/Edge Cases",component:d},o={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")}}},r={args:{name:a.long,sizeInBytes:47500,onDelete:()=>{s("onDelete")},href:"#"}};var t,m,i;o.parameters={...o.parameters,docs:{...(t=o.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...(i=(m=o.parameters)==null?void 0:m.docs)==null?void 0:i.source}}};var p,e,n;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    },
+    href: "#"
+  }
+}`,...(n=(e=r.parameters)==null?void 0:e.docs)==null?void 0:n.source}}};const Mo=["LongName","LongNameAndLink"];export{o as LongName,r as LongNameAndLink,Mo as __namedExportsOrder,Ko as default};

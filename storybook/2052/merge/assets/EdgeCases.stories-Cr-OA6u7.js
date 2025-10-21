@@ -1,0 +1,19 @@
+import{j as r}from"./iframe-DTheBFqg.js";import{C as g,M as e}from"./MenuItem-qQ2bxnPY.js";import{C as c}from"./ContextMenuTrigger-CGbXqcoa.js";import"./ContextMenuSection-DVfZqLHJ.js";import{B as l}from"./Button-Bmq0qjWo.js";import M from"./Default.stories-R7iUpj9l.js";import{d as p}from"./dummyText-CX_I_Wpl.js";import"./index-Cun1SEai.js";import"./Action-XVrtYdEu.js";import"./context-D5Eh6Kjh.js";import"./useStatic-KScOH6sT.js";import"./browser-BqPz5wcV.js";import"./getActionGroupSlot-BTW6ZZ6S.js";import"./dynamic-DYsVCHyX.js";import"./flowComponent-gCUS5Qd-.js";import"./index-ulNAr9WE.js";import"./clsx-B-dksMZM.js";import"./index-C24gQbls.js";import"./Popover-BFP7d86q.js";import"./useOverlayController-CV2OMrve.js";import"./OverlayContextProvider-D45bIP_5.js";import"./Dialog-DwHrBIEx.js";import"./Button-B9sfb4m-.js";import"./utils-CIVb4-pA.js";import"./ProgressBar-Dr6zks-A.js";import"./Label-DaxiHPCi.js";import"./Hidden-BUnkE8VR.js";import"./filterDOMProps-CghfNOdR.js";import"./useLabel-DE7AINdt.js";import"./context-BBJsvWP1.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./usePress-DWQVem_V.js";import"./useFocus-gFMm1SVx.js";import"./useFocusRing-Bw6jYcrF.js";import"./useFocusable-CIkWBa0n.js";import"./RSPContexts-DdYP_yiK.js";import"./OverlayArrow-Bio3H0xn.js";import"./useControlledState-CxM5G25q.js";import"./Collection-BJPKgIab.js";import"./CollectionBuilder-CQSVhr8L.js";import"./SelectionIndicator-CjHN0yDY.js";import"./Separator-D87Ko5QM.js";import"./Text-C48huDBb.js";import"./SelectionManager-uhDgeTSM.js";import"./useEvent-BjpDtAMc.js";import"./useCollator-2o_2J_me.js";import"./FocusScope-CHz78Q3h.js";import"./useLocalizedStringFormatter-CvDaoHpN.js";import"./VisuallyHidden-D3PBi60E.js";import"./ClearPropsContextView-CxFwQ4wb.js";import"./ClearPropsContext-NW1-nYLP.js";import"./IconWarning-CXTS1Zmo.js";import"./Switch-CvPH0ntY.js";import"./useFieldComponent-mBN-j8SF.js";import"./react-children-utilities-g2QZgYrG.js";import"./Label.module-CUYTf9Jc.js";import"./useMakeFocusable-DG-Ql63t.js";import"./useToggleState-SFl-JBqp.js";import"./useFormReset-C6eFdCIy.js";import"./OverlayTrigger-CpKaALyE.js";import"./ControlledNotification-Bs-S7xry.js";import"./Text-DVaBUvZL.js";import"./EmulatedBoldText-P0d28SeQ.js";import"./LoadingSpinner-CLX8R9JK.js";import"./Separator-CoxPpRvG.js";import"./Heading-B00i_-bg.js";import"./Heading-CTEcNSu5.js";import"./Avatar-D39nLpxw.js";import"./AlertIcon-DdQMaMt0.js";import"./Initials-DAJG17ET.js";const $r={...M,title:"Actions/ContextMenu/Edge Cases"},t={args:{width:400},render:m=>r.jsxs(c,{children:[r.jsx(l,{children:"Trigger"}),r.jsxs(g,{...m,children:[r.jsx(e,{children:p.medium}),r.jsx(e,{children:p.medium})]})]})},o={render:m=>r.jsxs(c,{children:[r.jsx(l,{children:"Trigger"}),r.jsx(g,{...m,children:Array(20).fill("").map((C,i)=>r.jsxs(e,{children:["Item ",i+1]},i))})]})};var n,s,u;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    width: 400
+  },
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        <MenuItem>{dummyText.medium}</MenuItem>
+        <MenuItem>{dummyText.medium}</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(u=(s=t.parameters)==null?void 0:s.docs)==null?void 0:u.source}}};var a,d,x;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        {Array(20).fill("").map((value, index) => <MenuItem key={index}>Item {index + 1}</MenuItem>)}
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...(x=(d=o.parameters)==null?void 0:d.docs)==null?void 0:x.source}}};const br=["LongTexts","LongList"];export{o as LongList,t as LongTexts,br as __namedExportsOrder,$r as default};
