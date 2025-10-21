@@ -1,1 +1,0 @@
-import{r as a}from"./iframe-CuPb25cv.js";const u=(r,t)=>{a.useEffect(()=>{const e=r.current;if(!(e&&e instanceof HTMLElement))return;const s=()=>t==null?void 0:t();e.addEventListener("focus",s);const n=e.hasAttribute("tabIndex");return n||e.setAttribute("tabIndex","-1"),()=>{e.removeEventListener("focus",s),n||e.removeAttribute("tabIndex")}},[r.current,t])};export{u};

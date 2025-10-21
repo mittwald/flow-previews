@@ -1,0 +1,45 @@
+import{j as e}from"./iframe-CBVsO-nV.js";import{L as o}from"./LabeledValue-CgI3l0wp.js";import{L as t}from"./Label-nyljzuzS.js";import{C as k}from"./Content-D1CA9KQC.js";import{C as l}from"./CopyButton-BcjeaEgI.js";import{B as I}from"./Button-CsBApO8I.js";import{I as P}from"./InlineCode-kdaxCDS8.js";import{L as M}from"./Link-CXp1Cv70.js";import{C as R,a as D}from"./ContextualHelpTrigger-BAh6GFGL.js";import{H as E}from"./Heading-CaqOKZxe.js";import{T as d}from"./Text-4FHUoZpl.js";import"./index-Cun1SEai.js";import"./clsx-B-dksMZM.js";import"./flowComponent-DToNFNtJ.js";import"./index-7tOde82V.js";import"./index-CObDYv0S.js";import"./Label.module-CUYTf9Jc.js";import"./useLocalizedStringFormatter-BV-H-cPE.js";import"./context-DPyuhdQa.js";import"./Label-Bbbf1klh.js";import"./utils-BP7SriO_.js";import"./Hidden-CLTlUYi-.js";import"./IconWarning-BYVfnYfe.js";import"./Tooltip-xg6PcfMV.js";import"./ClearPropsContextView-QpnEsTY7.js";import"./ClearPropsContext-5iY_SzG7.js";import"./OverlayArrow-D5IM8mFd.js";import"./useFocus-DaXdFBHM.js";import"./ProgressBar-I-zazMLu.js";import"./filterDOMProps-CghfNOdR.js";import"./NumberFormatter-DNR9MAW-.js";import"./useControlledState-CX82Bv9G.js";import"./useFocusable-BZqSTg_W.js";import"./useFocusRing-CMejcKZt.js";import"./react-children-utilities-Da5w6g_X.js";import"./Action-D49cMU0u.js";import"./context-BHCJLPq_.js";import"./useStatic-B-RdiA9k.js";import"./browser-C8nzMZsV.js";import"./getActionGroupSlot-Dv-xsI8W.js";import"./dynamic-B9g8bFyj.js";import"./LoadingSpinner-B8NSHT58.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./Button-4bPWs-y1.js";import"./usePress-tISAzguc.js";import"./Popover-BoMfAEAN.js";import"./useOverlayController-bzn2dAFT.js";import"./OverlayContextProvider-Cs-mhJj1.js";import"./Dialog-CSsaqFoB.js";import"./RSPContexts-DsHkjJhu.js";import"./Collection-D1Yf9Sy6.js";import"./CollectionBuilder-Dw4MtH9U.js";import"./SelectionIndicator-DFyYkHVA.js";import"./Separator-Cet5gXTt.js";import"./Text-GjNUVhom.js";import"./SelectionManager-BHGqi2o_.js";import"./useEvent-51-loX5F.js";import"./useCollator-CcT-BTV3.js";import"./FocusScope-B4rhd8wm.js";import"./VisuallyHidden-OgSsWZyt.js";import"./OverlayTrigger-BJ_N81ja.js";import"./ControlledNotification-BO8wBLSg.js";import"./Heading-Dr3JxnqR.js";import"./EmulatedBoldText-oVXJv8rD.js";const Ke={title:"Content/LabeledValue",component:o,parameters:{controls:{exclude:["className"]}},render:r=>e.jsxs(o,{...r,children:[e.jsx(t,{children:"Project"}),e.jsx(k,{children:"My proSpace"})]})},n={},a={render:r=>e.jsxs(o,{...r,children:[e.jsx(t,{children:"Project"}),e.jsx(k,{children:"My proSpace"}),e.jsx(l,{text:"My proSpace"})]})},i={render:r=>e.jsxs(o,{...r,children:[e.jsx(t,{children:"IP address"}),e.jsx(P,{children:"127.0.0.1"}),e.jsx(l,{text:"127.0.0.1"})]})},s={render:r=>e.jsxs(o,{...r,children:[e.jsx(t,{children:"Domain"}),e.jsx(M,{children:"https://mittwald.de"}),e.jsx(l,{text:"https://mittwald.de"})]})},p={render:r=>e.jsxs(o,{...r,children:[e.jsx(t,{children:"Support pin"}),e.jsx(I,{variant:"soft",color:"secondary",children:"Generate"})]})},m={render:r=>e.jsxs(o,{children:[e.jsxs(t,{children:["Role",e.jsxs(R,{children:[e.jsx(I,{}),e.jsxs(D,{...r,children:[e.jsx(E,{children:"Rights & roles"}),e.jsx(d,{children:"Each user profile is assigned a role in mStudio for each project and/or organization. This allows you to work in a completely new and modern way."}),e.jsx(M,{children:"Learn more"})]})]})]}),e.jsx(d,{children:"Admin"})]})};var c,u,x;n.parameters={...n.parameters,docs:{...(c=n.parameters)==null?void 0:c.docs,source:{originalSource:"{}",...(x=(u=n.parameters)==null?void 0:u.docs)==null?void 0:x.source}}};var h,L,j;a.parameters={...a.parameters,docs:{...(h=a.parameters)==null?void 0:h.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>Project</Label>
+      <Content>My proSpace</Content>
+      <CopyButton text="My proSpace" />
+    </LabeledValue>
+}`,...(j=(L=a.parameters)==null?void 0:L.docs)==null?void 0:j.source}}};var C,b,g;i.parameters={...i.parameters,docs:{...(C=i.parameters)==null?void 0:C.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>IP address</Label>
+      <InlineCode>127.0.0.1</InlineCode>
+      <CopyButton text="127.0.0.1" />
+    </LabeledValue>
+}`,...(g=(b=i.parameters)==null?void 0:b.docs)==null?void 0:g.source}}};var f,y,S;s.parameters={...s.parameters,docs:{...(f=s.parameters)==null?void 0:f.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>Domain</Label>
+      <Link>https://mittwald.de</Link>
+      <CopyButton text="https://mittwald.de" />
+    </LabeledValue>
+}`,...(S=(y=s.parameters)==null?void 0:y.docs)==null?void 0:S.source}}};var B,w,H;p.parameters={...p.parameters,docs:{...(B=p.parameters)==null?void 0:B.docs,source:{originalSource:`{
+  render: props => <LabeledValue {...props}>
+      <Label>Support pin</Label>
+      <Button variant="soft" color="secondary">
+        Generate
+      </Button>
+    </LabeledValue>
+}`,...(H=(w=p.parameters)==null?void 0:w.docs)==null?void 0:H.source}}};var V,T,W;m.parameters={...m.parameters,docs:{...(V=m.parameters)==null?void 0:V.docs,source:{originalSource:`{
+  render: props => <LabeledValue>
+      <Label>
+        Role
+        <ContextualHelpTrigger>
+          <Button />
+          <ContextualHelp {...props}>
+            <Heading>Rights & roles</Heading>
+            <Text>
+              Each user profile is assigned a role in mStudio for each project
+              and/or organization. This allows you to work in a completely new
+              and modern way.
+            </Text>
+            <Link>Learn more</Link>
+          </ContextualHelp>
+        </ContextualHelpTrigger>
+      </Label>
+      <Text>Admin</Text>
+    </LabeledValue>
+}`,...(W=(T=m.parameters)==null?void 0:T.docs)==null?void 0:W.source}}};const Qe=["Default","WithCopyButton","WithInlineCode","WithLink","WithButton","WithContextualHelp"];export{n as Default,p as WithButton,m as WithContextualHelp,a as WithCopyButton,i as WithInlineCode,s as WithLink,Qe as __namedExportsOrder,Ke as default};
