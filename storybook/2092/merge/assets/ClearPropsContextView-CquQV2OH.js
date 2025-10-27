@@ -1,1 +1,0 @@
-import{r as o,j as s}from"./iframe-DCa_XPw0.js";import{C as n}from"./ClearPropsContext-D7TWL38i.js";import{v as a}from"./flowComponent-CAToH-fj.js";const e=o.memo(t=>{const r=o.useContext(a).ClearPropsContext??n;return s.jsx(r,{...t})});e.displayName="ClearPropsContextView";e.__docgenInfo={description:"",methods:[],displayName:"ClearPropsContextView"};export{e as C};
