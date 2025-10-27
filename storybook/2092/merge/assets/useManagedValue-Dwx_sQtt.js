@@ -1,0 +1,1 @@
+import{r as f}from"./iframe-DCa_XPw0.js";const i=(e,o=e.onChange,n={value:"value",defaultValue:"defaultValue"})=>{const a=e[n.value],t=e[n.defaultValue],l=typeof a<"u",s=typeof t<"u",[r,d]=f.useState(s?t:a);return{value:l?a:r,handleOnChange:u=>{o?.(u),l||d(()=>u)}}};export{i as u};
