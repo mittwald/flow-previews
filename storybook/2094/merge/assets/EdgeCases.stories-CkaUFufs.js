@@ -1,0 +1,30 @@
+import{j as t}from"./iframe-GtWYOLNc.js";import{S as e}from"./Section-PDyMtoME.js";import{H as m}from"./Heading-D17rAsKb.js";import{T as p}from"./Text-Bh_VtmGj.js";import{S as n}from"./Switch-B0GEED2g.js";import a from"./Default.stories-BfuM8AXi.js";import{d}from"./dummyText-CX_I_Wpl.js";import{H as s}from"./Header-CQczokJA.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./flowComponent-BhbvfIbA.js";import"./index-DroEwyNc.js";import"./index-Do7K3gX4.js";import"./ContextMenuSection-BqJoKa5n.js";import"./Action-DgPdZSGQ.js";import"./context-B79p2l6c.js";import"./useStatic-BUau0uD4.js";import"./browser-Dfdmz1Vs.js";import"./getActionGroupSlot-DVt_1gUF.js";import"./dynamic-D_-LYO4W.js";import"./Dialog-E17SkaPF.js";import"./Button-DAFfpCNE.js";import"./utils-DD5Sc9KY.js";import"./ProgressBar-CdTHAJ2Y.js";import"./Label-CQFAMqNH.js";import"./Hidden-BU9Lcw6n.js";import"./filterDOMProps-i7L6S0l1.js";import"./useLabel-DTE1dj4A.js";import"./context-D40YBGtd.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-B3Z_0YqL.js";import"./useFocus-DFp-sRZK.js";import"./useFocusRing-DOaM9YXN.js";import"./useFocusable-jI0DLtpW.js";import"./RSPContexts-prl6X50T.js";import"./OverlayArrow-DIM14olf.js";import"./useControlledState-DlI3gMwx.js";import"./Collection-Ce3y52jr.js";import"./CollectionBuilder-Dp0_4f88.js";import"./SelectionIndicator-PIsyHCAq.js";import"./Separator-BLTRkzm5.js";import"./Text-CjcFKgn5.js";import"./SelectionManager-BxJ0cmnl.js";import"./useEvent-9aIM_XKO.js";import"./useCollator-CosXWie8.js";import"./FocusScope-CmjH0BfW.js";import"./useLocalizedStringFormatter-DE7ldODK.js";import"./VisuallyHidden-CMXGnTyG.js";import"./Heading-D0R31Oqj.js";import"./EmulatedBoldText-CB08elGP.js";import"./IconWarning-D3qu7dXh.js";import"./useFieldComponent-CFSDwBJf.js";import"./react-children-utilities-BE-u8eGk.js";import"./ClearPropsContext-DAA0VQnf.js";import"./Label.module-CUYTf9Jc.js";import"./useMakeFocusable-6t1tYcWi.js";import"./useToggleState-YV7abEAU.js";import"./useFormReset-C8pOBnDM.js";import"./TextField-moGYV2J3.js";import"./TextFieldBase-Ctzb06j_.js";import"./FieldDescription-H7Ygmbn3.js";import"./TextField-DX8eTu1K.js";import"./Form-CKR5JFnD.js";import"./Group-CA7dPhnC.js";import"./Input-BPP_cYwL.js";import"./useTextField-CjuQjVvL.js";import"./useFormValidation-BcoBpGbt.js";import"./ReactAriaControlledValueFix-BuCvRdUH.js";import"./Label-rRCJof1T.js";import"./Link-CfCeYdU8.js";import"./AlertBadge-DbSfEwpb.js";import"./AlertIcon-Bj1ASDHT.js";import"./Button-DAMH2RQe.js";import"./LoadingSpinner-BgxzSWV-.js";import"./Modal-DbQbAvCK.js";import"./OverlayTrigger-C3VeFBdc.js";import"./ControlledNotification-YDt7-Pno.js";import"./OverlayContextProvider-C3tl0ORG.js";import"./DialogTriggerView-DBksM5sq.js";import"./Overlay-De15SCG_.js";import"./useOverlayController-Cm_PeV9X.js";import"./ClearPropsContextView-C2nQoxxe.js";import"./ButtonView-DrjhB8gO.js";import"./ContextualHelpTrigger-CQaiI0b-.js";import"./Popover-BloSQfLN.js";import"./ContextMenuTrigger-DS8mWOZA.js";import"./MenuItem-DRICh8aJ.js";import"./FileField-BZJ3Ipwv.js";import"./Form-CJDsExi9.js";import"./isPromise-APPd_fLV-8tYzn7uh.js";import"./Content-CMvc03iH.js";import"./ActionGroup-CUP01UMb.js";const Qt={...a,title:"Structure/Section/Edge Cases"},r={render:i=>t.jsxs(e,{...i,children:[t.jsxs(s,{children:[t.jsx(m,{children:d.medium}),t.jsx(n,{children:"Subscribed"})]}),t.jsx(p,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]})},o={render:i=>t.jsxs(e,{...i,children:[t.jsxs(s,{children:[t.jsx(m,{children:"Newsletter Subscription"}),t.jsx(n,{children:"Subscribed"})]}),t.jsx(p,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]}),parameters:{viewport:{defaultViewport:"mobile1"}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>{dummyText.medium}</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>
+}`,...r.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>Newsletter Subscription</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...o.parameters?.docs?.source}}};const Xt=["WithLongHeading","SmallSpace"];export{o as SmallSpace,r as WithLongHeading,Xt as __namedExportsOrder,Qt as default};
