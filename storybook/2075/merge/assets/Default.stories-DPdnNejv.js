@@ -1,0 +1,15 @@
+import{j as m}from"./iframe-fd4MG1i8.js";import{I as a}from"./InlineCode-CQFg5MSQ.js";import{T as p}from"./Text-Dcd0JdvI.js";import{S as e}from"./Section-BCuosQzF.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./flowComponent-CuscKuFt.js";import"./index-CeLeQ-qQ.js";import"./index-DLSCOdFN.js";import"./browser-Dh_0Zrut.js";import"./EmulatedBoldText-BOq1lZio.js";import"./Text-Ct_tO_6D.js";import"./utils-Cwcb_ph1.js";import"./ContextMenuSection-Blc2hqiU.js";import"./Action-b6bvpWZ7.js";import"./context-BDEE0OGh.js";import"./useStatic-Dbv9nI-W.js";import"./getActionGroupSlot-CrxcE-Hj.js";import"./dynamic-BVBQ4rgw.js";import"./Dialog-CY6RGe7i.js";import"./Button-kSnC9Ww4.js";import"./ProgressBar-ClXxD8qd.js";import"./Label-Cas_0aCA.js";import"./Hidden-DL9_D-g9.js";import"./filterDOMProps-i7L6S0l1.js";import"./useLabel-DjhpIeNr.js";import"./context-Dbob8nST.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-P37V2JO8.js";import"./useFocus-BWTUKGe5.js";import"./useFocusRing-LifWKPgp.js";import"./useFocusable-9_bYGa78.js";import"./RSPContexts-GsdtxIJ1.js";import"./OverlayArrow-CL_DkMYI.js";import"./useControlledState-oGGPnlEt.js";import"./Collection-Di6dMgr3.js";import"./CollectionBuilder-BBm98ofW.js";import"./SelectionIndicator-CThd_G6x.js";import"./Separator-BBkfumaa.js";import"./SelectionManager--Q9mVMbg.js";import"./useEvent-5AoaQB1j.js";import"./useCollator-DNAEXkDs.js";import"./FocusScope-29AKamG2.js";import"./useLocalizedStringFormatter-CKY9Jmr8.js";import"./VisuallyHidden-CO0qVHJy.js";const rr={title:"Content/InlineCode",component:a,render:r=>m.jsx(e,{children:m.jsxs(p,{color:r.color==="dark"||r.color==="light"?r.color:void 0,children:["Enter ",m.jsx(a,{...r,children:"yarn start"})," to start your app."]})})},o={},t={args:{color:"dark"},globals:{backgrounds:"light"}},i={args:{color:"light"},globals:{backgrounds:"dark"}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "dark"
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...t.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "light"
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...i.parameters?.docs?.source}}};const or=["Default","Dark","Light"];export{t as Dark,o as Default,i as Light,or as __namedExportsOrder,rr as default};
