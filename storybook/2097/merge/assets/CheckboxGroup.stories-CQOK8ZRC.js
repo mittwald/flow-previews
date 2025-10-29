@@ -1,0 +1,66 @@
+import{j as e,r as j}from"./iframe-9LT5pwxo.js";import{a as u,u as h,F as d,t as f}from"./Form-CeOANQlL.js";import{L as i}from"./Label-Cy0HO6mF.js";import{B as p}from"./Button-DgX4Ha9j.js";import{S as v}from"./Section-BblLzrvZ.js";import{A as C}from"./ActionGroup-DkE81dC5.js";import{s as x}from"./Action-CxBB9EbS.js";import{C as n}from"./CheckboxGroup-O1NGz2MH.js";import{C as r}from"./Checkbox-Be2pXHyn.js";import{F as b}from"./FieldDescription-BLZvXXGp.js";import{F as O}from"./useFieldComponent-FBKhS2uw.js";import"./index-nuYtCEEu.js";import"./flowComponent-CmrMiIfZ.js";import"./index-CJEFfs1t.js";import"./clsx-B-dksMZM.js";import"./index-B4OxUaac.js";import"./useLocalizedStringFormatter-Ay0utv6w.js";import"./context-CZZdPtMN.js";import"./browser-Be7wxfSs.js";import"./isPromise-APPd_fLV-8tYzn7uh.js";import"./Label.module-CUYTf9Jc.js";import"./Label-B9A8CQ6N.js";import"./utils-C12iYS2x.js";import"./Hidden-Dc5yMvqI.js";import"./IconWarning-BGmK8I3p.js";import"./Text-FZjxGLxv.js";import"./EmulatedBoldText-z8AdBhol.js";import"./Text-cT0V7Crl.js";import"./LoadingSpinner-7jpPXpdG.js";import"./LiveAnnouncer-Cy654hVN.js";import"./Button-BRQOtLOr.js";import"./ProgressBar-DUkmnmeC.js";import"./filterDOMProps-i7L6S0l1.js";import"./useLabel-D0_ysNiP.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-CYkWbbQS.js";import"./useFocus-CGIGFm0L.js";import"./useFocusRing-BpS4vJuf.js";import"./useFocusable-6Pd0pdJi.js";import"./ContextMenuSection-BA7OrQRH.js";import"./Dialog-CLeuoHpB.js";import"./RSPContexts-D4jozd1E.js";import"./OverlayArrow-CBGQsLGC.js";import"./useControlledState-B0dx1ah2.js";import"./Collection-e6qlJrU1.js";import"./CollectionBuilder-Bz8h8tJk.js";import"./SelectionIndicator-CcfS7mad.js";import"./Separator-DiqHC5hw.js";import"./SelectionManager-B4R1-nwv.js";import"./useEvent-CmmFmHFu.js";import"./useCollator-D0xJkZLY.js";import"./FocusScope-ahtwD87J.js";import"./VisuallyHidden-kbtTP9xl.js";import"./dynamic-Dp02ioFc.js";import"./getActionGroupSlot-BSebOatG.js";import"./useStatic-C20s3RtG.js";import"./context-CNHQEL1v.js";import"./ColumnLayout-D148nTfF.js";import"./useMakeFocusable-3ac7XBnQ.js";import"./Form-PBwv22gS.js";import"./useFormValidation-gXwoIgM4.js";import"./useToggleState-OPCkTuuM.js";import"./useFormReset-DsyYy3rG.js";import"./react-children-utilities-CGBnGU1K.js";import"./ClearPropsContext-BgV1DGsr.js";const{action:k}=__STORYBOOK_MODULE_ACTIONS__,F=k("submit"),qe={title:"Integrations/React Hook Form/CheckboxGroup",component:u,render:()=>{const s=async t=>{await x(1500),F(t)},o=h({defaultValues:{interests:[],interestsDefaultValue:["foo"],interestsRequired:[],interestsMaxValue:[]}}),a=f();return e.jsx(d,{form:o,onSubmit:s,children:e.jsxs(v,{children:[e.jsx(a,{name:"interests",children:e.jsxs(n,{children:[e.jsx(i,{children:"Interests"}),e.jsx(r,{value:"foo",children:"Foo"}),e.jsx(r,{value:"bar",children:"Bar"}),e.jsx(r,{value:"baz",children:"Baz"})]})}),e.jsx(a,{name:"interestsDefaultValue",children:e.jsxs(n,{children:[e.jsx(i,{children:"Interests"}),e.jsx(r,{value:"foo",children:"Foo"}),e.jsx(r,{value:"bar",children:"Bar"}),e.jsx(r,{value:"baz",children:"Baz"})]})}),e.jsx(a,{name:"interestsRequired",rules:{validate:{min:t=>Array.isArray(t)&&t.length>0?!0:"Check at least 1 item"}},children:e.jsxs(n,{children:[e.jsx(i,{children:"Interests"}),e.jsx(r,{value:"foo",children:"Foo"}),e.jsx(r,{value:"bar",children:"Bar"}),e.jsx(r,{value:"baz",children:"Baz"}),e.jsx(b,{children:"Check at least 1 item"})]})}),e.jsx(a,{name:"interestsMaxValue",rules:{validate:{max:t=>Array.isArray(t)&&t.length<3?!0:"Check max 2 items"}},children:e.jsxs(n,{children:[e.jsx(i,{children:"Interests"}),e.jsx(r,{value:"foo",children:"Foo"}),e.jsx(r,{value:"bar",children:"Bar"}),e.jsx(r,{value:"baz",children:"Baz"}),e.jsx(b,{children:"Check max 2 items"})]})}),e.jsx(C,{children:e.jsx(p,{type:"submit",children:"Submit"})})]})})}},l={},m={render:s=>{const o=h();return j.useEffect(()=>{o.setError("field",{type:"required",message:"ErrorFromForm"})},[]),e.jsxs(d,{form:o,onSubmit:async()=>await x(2e3),children:[e.jsx(u,{name:"field",children:e.jsxs(n,{l:[1,1,1],m:[1,1],...s,children:[e.jsx(i,{children:"Options"}),e.jsx(r,{value:"1",children:"Option 1"}),e.jsx(r,{value:"2",children:"Option 2"}),e.jsx(r,{value:"3",children:"Option 3"}),e.jsx(r,{value:"4",children:"Option 4"}),e.jsx(r,{value:"5",children:"Option 5"}),e.jsx(r,{value:"6",children:"Option 6"})]})}),e.jsxs(n,{l:[1,1,1],m:[1,1],isInvalid:!0,...s,children:[e.jsx(i,{children:"Options"}),e.jsx(r,{value:"1",children:"Option 1"}),e.jsx(r,{value:"2",children:"Option 2"}),e.jsx(r,{value:"3",children:"Option 3"}),e.jsx(r,{value:"4",children:"Option 4"}),e.jsx(r,{value:"5",children:"Option 5"}),e.jsx(r,{value:"6",children:"Option 6"}),e.jsx(O,{children:"ErrorFromOuterFieldError!"})]})]})}},c={render:s=>{const o=h();return e.jsxs(d,{form:o,onSubmit:async()=>await x(2e3),children:[e.jsx(u,{name:"field",children:e.jsxs(n,{l:[1,1,1],m:[1,1],...s,children:[e.jsx(i,{children:"Options"}),e.jsx(r,{value:"1",children:"Option 1"}),e.jsx(r,{value:"2",children:"Option 2"}),e.jsx(r,{value:"3",children:"Option 3"}),e.jsx(r,{value:"4",children:"Option 4"}),e.jsx(r,{value:"5",children:"Option 5"}),e.jsx(r,{value:"6",children:"Option 6"})]})}),e.jsx("div",{style:{marginBottom:"2200px"}}),e.jsx(p,{onPress:()=>o.setError("field",{type:"required",message:"oh no"},{shouldFocus:!0}),children:"err through form"}),e.jsx(p,{onPress:()=>o.setFocus("field"),children:"focus through form"}),e.jsx(p,{type:"submit",children:"Submit"})]})}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:"{}",...l.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm();
+    useEffect(() => {
+      form.setError("field", {
+        type: "required",
+        message: "ErrorFromForm"
+      });
+    }, []);
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <CheckboxGroup l={[1, 1, 1]} m={[1, 1]} {...props}>
+            <Label>Options</Label>
+            <Checkbox value="1">Option 1</Checkbox>
+            <Checkbox value="2">Option 2</Checkbox>
+            <Checkbox value="3">Option 3</Checkbox>
+            <Checkbox value="4">Option 4</Checkbox>
+            <Checkbox value="5">Option 5</Checkbox>
+            <Checkbox value="6">Option 6</Checkbox>
+          </CheckboxGroup>
+        </Field>
+        <CheckboxGroup l={[1, 1, 1]} m={[1, 1]} isInvalid {...props}>
+          <Label>Options</Label>
+          <Checkbox value="1">Option 1</Checkbox>
+          <Checkbox value="2">Option 2</Checkbox>
+          <Checkbox value="3">Option 3</Checkbox>
+          <Checkbox value="4">Option 4</Checkbox>
+          <Checkbox value="5">Option 5</Checkbox>
+          <Checkbox value="6">Option 6</Checkbox>
+          <FieldError>ErrorFromOuterFieldError!</FieldError>
+        </CheckboxGroup>
+      </Form>;
+  }
+}`,...m.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm();
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <CheckboxGroup l={[1, 1, 1]} m={[1, 1]} {...props}>
+            <Label>Options</Label>
+            <Checkbox value="1">Option 1</Checkbox>
+            <Checkbox value="2">Option 2</Checkbox>
+            <Checkbox value="3">Option 3</Checkbox>
+            <Checkbox value="4">Option 4</Checkbox>
+            <Checkbox value="5">Option 5</Checkbox>
+            <Checkbox value="6">Option 6</Checkbox>
+          </CheckboxGroup>
+        </Field>
+        <div style={{
+        marginBottom: "2200px"
+      }} />
+        <Button onPress={() => form.setError("field", {
+        type: "required",
+        message: "oh no"
+      }, {
+        shouldFocus: true
+      })}>
+          err through form
+        </Button>
+        <Button onPress={() => form.setFocus("field")}>
+          focus through form
+        </Button>
+        <Button type="submit">Submit</Button>
+      </Form>;
+  }
+}`,...c.parameters?.docs?.source}}};const De=["Default","WithFieldError","WithFocus"];export{l as Default,m as WithFieldError,c as WithFocus,De as __namedExportsOrder,qe as default};
