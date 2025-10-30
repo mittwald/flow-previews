@@ -1,0 +1,10 @@
+import{j as r}from"./iframe-iStLwuZ7.js";import{P as e}from"./PopoverTrigger-ByXAc-Gw.js";import{P as m}from"./Popover-t8MFWx16.js";import{B as i}from"./Button-DeYIfmY1.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import n from"./Default.stories-BrmPi4Ur.js";import"./index-nuYtCEEu.js";import"./OverlayTrigger-3eg2WHd6.js";import"./Dialog-WSuFRoqu.js";import"./Button-Cm_HfJV4.js";import"./utils-En5R44lx.js";import"./index-BbqvJdms.js";import"./clsx-B-dksMZM.js";import"./index-DcihAMJC.js";import"./ProgressBar-BI2riqcs.js";import"./Hidden-Dy-IvjOH.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-abCQqTkG.js";import"./useFocusRing-LOcsQEvn.js";import"./useFocusable-BrL0nAob.js";import"./RSPContexts-LTaLIYp5.js";import"./OverlayArrow-SEOPpry_.js";import"./useControlledState-BI2V3xrC.js";import"./Collection-BuxUMZwe.js";import"./CollectionBuilder-CuL3Q7YH.js";import"./SelectionIndicator-BKv19ZSu.js";import"./Separator-CHkxKTJO.js";import"./browser-D_N9MqU0.js";import"./useLocalizedStringFormatter-nySSu_zi.js";import"./ControlledNotification-DvN-R_5x.js";import"./flowComponent-BgccJZsB.js";import"./context-BkQICaTP.js";import"./useStatic-TN_NP4Rc.js";import"./ClearPropsContextView-8CvEVPvl.js";import"./IconWarning-DFqNAy-A.js";import"./Text-Bm93Qc7O.js";import"./EmulatedBoldText-Bxo0dRe8.js";import"./LoadingSpinner-Bbl45bGl.js";const N={...n,title:"Overlays/Popover/Edge Cases",component:m},o={render:p=>r.jsxs(e,{children:[r.jsx(i,{children:"Trigger popover"}),r.jsxs(m,{...p,placement:"bottom right",children:[t.long,t.long,t.long]})]})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <PopoverTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </PopoverTrigger>
+}`,...o.parameters?.docs?.source}}};const Q=["LongContent"];export{o as LongContent,Q as __namedExportsOrder,N as default};
