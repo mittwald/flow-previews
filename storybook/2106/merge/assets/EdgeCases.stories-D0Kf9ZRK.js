@@ -1,0 +1,10 @@
+import{j as r}from"./iframe-UywY67Bv.js";import{P as e}from"./PopoverTrigger-BnwqDM04.js";import{P as m}from"./Popover-D1J4MggM.js";import{B as i}from"./Button-Gbk6h-JG.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import n from"./Default.stories-DCR4KlBX.js";import"./index-nuYtCEEu.js";import"./OverlayTrigger-CDX30Jbz.js";import"./Dialog-QZmtNN3w.js";import"./Button-Dm7HkgNO.js";import"./utils-Q3LyW17A.js";import"./index-BgsjFh65.js";import"./clsx-B-dksMZM.js";import"./index-BZZbJWsv.js";import"./ProgressBar-BT1yEvUw.js";import"./Hidden-DHTrACZy.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-DOa8wsuE.js";import"./useFocusRing-CEJ8z4sH.js";import"./useFocusable-D_AejfVj.js";import"./RSPContexts-DKA2ogYJ.js";import"./OverlayArrow-B1W-06M-.js";import"./useControlledState-YHruiK90.js";import"./Collection-JD_tC5W8.js";import"./CollectionBuilder-DCs1Xm6c.js";import"./SelectionIndicator-XKCl6mR6.js";import"./Separator-hCT8I1RM.js";import"./browser-89HKgK6A.js";import"./useLocalizedStringFormatter-DQTCanVK.js";import"./ControlledNotification-D50j9sIR.js";import"./flowComponent-Dm-blvsZ.js";import"./context-BigokEM3.js";import"./useStatic-CXquBJ6C.js";import"./ClearPropsContextView-Dm11ykOR.js";import"./IconWarning-DwFhTB3p.js";import"./Text-ACfuEtxv.js";import"./EmulatedBoldText-IS2YzD6-.js";import"./LoadingSpinner-DB5NhDK9.js";const N={...n,title:"Overlays/Popover/Edge Cases",component:m},o={render:p=>r.jsxs(e,{children:[r.jsx(i,{children:"Trigger popover"}),r.jsxs(m,{...p,placement:"bottom right",children:[t.long,t.long,t.long]})]})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <PopoverTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </PopoverTrigger>
+}`,...o.parameters?.docs?.source}}};const Q=["LongContent"];export{o as LongContent,Q as __namedExportsOrder,N as default};
