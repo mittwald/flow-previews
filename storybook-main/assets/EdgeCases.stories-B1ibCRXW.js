@@ -1,0 +1,30 @@
+import{j as t}from"./iframe-B0zV29Ol.js";import{S as e}from"./Section-c6k8H6l6.js";import{H as m}from"./Heading-DWho-b1a.js";import{T as p}from"./Text-DNMpJh06.js";import{S as n}from"./Modal-CjWjucPV.js";import a from"./Default.stories-BgR4jRy0.js";import{d}from"./dummyText-CX_I_Wpl.js";import{H as s}from"./Header-95pkJ2a4.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./flowComponent-BsAK2ls3.js";import"./index-BYMF1jLH.js";import"./index-Bap8DgrM.js";import"./Action-D4O6uaws.js";import"./context-UMFNSY2K.js";import"./useStatic-CBy74o7G.js";import"./browser-D-MgOzku.js";import"./utils-rMLWZEZ9.js";import"./getActionGroupSlot-CT-ODnzp.js";import"./dynamic-BDcWjd3V.js";import"./Dialog-CW1wDwL9.js";import"./Button-B7c7aZAn.js";import"./ProgressBar-BR-tdA5k.js";import"./Hidden-CLtGdy91.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CJ74nGTM.js";import"./useFocusRing-BkkYWklx.js";import"./useFocusable-CfhrO7WS.js";import"./RSPContexts-C-9bKQ2R.js";import"./OverlayArrow-CvdWoYZq.js";import"./useControlledState-BMTFuSH8.js";import"./Collection-xKdqQ5gP.js";import"./CollectionBuilder-CGg5wqK9.js";import"./SelectionIndicator-BwpruQVu.js";import"./Separator-DZUrDISg.js";import"./useLocalizedStringFormatter-DAIqrt-k.js";import"./EmulatedBoldText-Z1g7CMab.js";import"./Popover-D1TtYLmJ.js";import"./OverlayTrigger-Bi2UH0iH.js";import"./ControlledNotification-DjEB_H58.js";import"./ClearPropsContextView-DoK20Ig-.js";import"./LoadingSpinner-91ddITMV.js";import"./IconWarning-DElUfIyP.js";import"./Button-DMc7qjuD.js";import"./LayoutCard-BpoFrQi6.js";import"./Accordion-BzC4nNU-.js";import"./ActionGroup-x0yzCgdG.js";import"./Alert-CYBL3WAx.js";import"./AlertIcon-C4QVJ3jz.js";import"./AlertBadge-NbeQvqGG.js";import"./Align-CqKWkhSS.js";import"./TableFooterRow-CC_ko3N8.js";import"./SkeletonText-D9EW_GgS.js";import"./Avatar-YRFl0AXp.js";import"./AvatarStack-21HFF-yb.js";import"./Badge-VD94JE7p.js";import"./BigNumber-CHXNC1Jz.js";import"./Breadcrumb-DOEz6B-8.js";import"./Link-CXiCVjqZ.js";import"./Legend-Cipm40qu.js";import"./FileCardList-DqUU9P5F.js";import"./Image-CIQLgEEc.js";import"./CodeBlock-DWiDUE3v.js";import"./CopyButton-CXPEUJji.js";import"./Tooltip-C70bKdpZ.js";import"./react-children-utilities-D2PRRlI6.js";import"./Color-DgZP7MPp.js";import"./Content-ByGcGhCL.js";import"./Label-CO7dcuDN.js";import"./ContextualHelpTrigger-BH-AywGu.js";import"./CounterBadge-83Oosp8g.js";import"./DonutChart-Bg_cE2a6.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-D7GonCXS.js";import"./Initials-BdpPEY0M.js";import"./InlineCode-CO--Wx6Z.js";import"./LabeledValue-B75o_32R.js";import"./PopoverTrigger-CF0yGiLp.js";import"./Markdown-Bd7-dk-r.js";import"./Separator-BLAV0fah.js";import"./Message-DmO3EG3E.js";import"./MessageSeparator-CIFoWUWf.js";import"./NavigationGroup-6FYJowsC.js";import"./Notification-Bao42zCB.js";import"./NotificationProvider-CzLBmS1d.js";import"./ProgressBar-D-Sdoekq.js";import"./Rating-CraoL8Qg.js";import"./Skeleton-CpnSw1eA.js";import"./Form-C77AFJS3.js";const Jt={...a,title:"Structure/Section/Edge Cases"},r={render:i=>t.jsxs(e,{...i,children:[t.jsxs(s,{children:[t.jsx(m,{children:d.medium}),t.jsx(n,{children:"Subscribed"})]}),t.jsx(p,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]})},o={render:i=>t.jsxs(e,{...i,children:[t.jsxs(s,{children:[t.jsx(m,{children:"Newsletter Subscription"}),t.jsx(n,{children:"Subscribed"})]}),t.jsx(p,{children:"Upcoming releases, new features and tips about your hosting - we bring the most important information to inbox. Subscribe to our newsletter and stay up to date."})]}),parameters:{viewport:{defaultViewport:"mobile1"}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>{dummyText.medium}</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>
+}`,...r.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <Section {...props}>
+      <Header>
+        <Heading>Newsletter Subscription</Heading>
+        <Switch>Subscribed</Switch>
+      </Header>
+      <Text>
+        Upcoming releases, new features and tips about your hosting - we bring
+        the most important information to inbox. Subscribe to our newsletter and
+        stay up to date.
+      </Text>
+    </Section>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...o.parameters?.docs?.source}}};const Kt=["WithLongHeading","SmallSpace"];export{o as SmallSpace,r as WithLongHeading,Kt as __namedExportsOrder,Jt as default};
