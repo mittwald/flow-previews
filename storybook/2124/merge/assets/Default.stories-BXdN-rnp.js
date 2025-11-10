@@ -1,0 +1,32 @@
+import{j as r}from"./iframe-CVnOevS7.js";import{L as d}from"./Label-CAmF3EV2.js";import{ah as i,ai as l,p as u,F as T}from"./Modal-QfU2S1Ru.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./flowComponent-ozwQ3SWo.js";import"./index-BwqpXzO7.js";import"./index-Cr689PiB.js";import"./useLocalizedStringFormatter-BS7r61NG.js";import"./context-B1NGcly_.js";import"./ProgressBar-BnC0gGn_.js";import"./utils-CGDhhS2B.js";import"./Hidden-B8qaVAs1.js";import"./filterDOMProps-i7L6S0l1.js";import"./dynamic-DEpoJ_Zh.js";import"./Popover-DBExu7Vo.js";import"./context-CfRoeqvW.js";import"./useStatic-CGYI-bhE.js";import"./OverlayTrigger-BkfO43HH.js";import"./Dialog-WTjaYKjI.js";import"./Button-DX-sXAbn.js";import"./useFocusRing-DhtM2K-5.js";import"./useFocusable-D2dO-wlH.js";import"./RSPContexts-DjbnK2VB.js";import"./OverlayArrow-76JnWsm4.js";import"./useControlledState-DEBy32LM.js";import"./Collection-Cksyx-Vf.js";import"./CollectionBuilder-CYwEwQob.js";import"./SelectionIndicator-DnhwtZbe.js";import"./Separator-IYcFdJAY.js";import"./browser-DLVk8Qjw.js";import"./ControlledNotification-GhQOL8__.js";import"./ClearPropsContextView-DFZ0V7Jx.js";import"./LoadingSpinner-CSIBpLRI.js";import"./IconWarning-B_svJUl9.js";import"./Button-Cf7B0HY9.js";import"./Text-Bxez-FPO.js";import"./EmulatedBoldText-FqR_2DOA.js";import"./LayoutCard-CRc28-ot.js";import"./Accordion-L3zPfCh8.js";import"./Action-CUQVeG4t.js";import"./getActionGroupSlot-CQ6F0YI_.js";import"./ActionGroup-B3X5o9oq.js";import"./Alert-C0tO03bG.js";import"./AlertIcon-DHgwBo_e.js";import"./AlertBadge-BnMe9rDd.js";import"./Align-BLxH_lnh.js";import"./TableFooterRow-C5f7VRCm.js";import"./SkeletonText-Ba9BdoYu.js";import"./Avatar-D3cwiEC5.js";import"./AvatarStack-C8hks35D.js";import"./Badge-ByDbUbxC.js";import"./BigNumber-q4yIW4xK.js";import"./Breadcrumb-DftlKfTG.js";import"./Link-ChTVftws.js";import"./Heading-DfGW7LfL.js";import"./Legend-CYdy4Ftw.js";import"./FileCardList-DxLgTIjd.js";import"./Image-B5CmC758.js";import"./CodeBlock-BdFqEOfx.js";import"./CopyButton-B4NCpX0w.js";import"./Tooltip-Dzxj1hFf.js";import"./react-children-utilities-TDhYNC0Q.js";import"./Color-Ds-Zu7tK.js";import"./Content-BmyMaCIf.js";import"./Section-bMj7sGFO.js";import"./ContextualHelpTrigger-tU_W7v1d.js";import"./CounterBadge-DTIKZj10.js";import"./DonutChart-DPPXtNJb.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-CmJ3l5DD.js";import"./Header-SbiS3SyG.js";import"./Initials-CMa8SWiA.js";import"./InlineCode-Bt59bwJI.js";import"./LabeledValue-DKq90b9W.js";import"./PopoverTrigger-kkn5I6qo.js";import"./Markdown-Bx_g-Nsi.js";import"./Separator-BzOj-Dtn.js";import"./Message-BI6CPN5H.js";import"./MessageSeparator-BDDP4jc7.js";import"./NavigationGroup-C6HKSd84.js";import"./Notification-BehsA8rM.js";import"./NotificationProvider-C7mDNPzU.js";import"./ProgressBar-Cz8XcWEU.js";import"./Rating-BhL8l3pQ.js";import"./Skeleton-w_dx-zb1.js";const{action:h}=__STORYBOOK_MODULE_ACTIONS__,Hr={title:"Form Controls/TimeField",component:i,render:e=>r.jsx(i,{onChange:h("onChange"),...e,children:r.jsx(d,{children:"Time"})})},o={},t={args:{isDisabled:!0}},m={args:{isRequired:!0}},p={render:e=>r.jsxs(i,{...e,children:[r.jsx(d,{children:"Time"}),r.jsx(u,{children:"Enter a time"})]})},a={render:e=>r.jsx(i,{...e,defaultValue:new l(11,45),children:r.jsx(d,{children:"Time"})})},s={render:e=>r.jsxs(i,{...e,isInvalid:!0,isRequired:!0,children:[r.jsx(d,{children:"Time"}),r.jsx(T,{children:"Time is required"})]})},n={args:{granularity:"hour"}},c={args:{minValue:new l(8,0),maxValue:new l(16,0)}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...t.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    isRequired: true
+  }
+}`,...m.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <TimeField {...props}>
+      <Label>Time</Label>
+      <FieldDescription>Enter a time</FieldDescription>
+    </TimeField>
+}`,...p.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <TimeField {...props} defaultValue={new Time(11, 45)}>
+      <Label>Time</Label>
+    </TimeField>
+}`,...a.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => <TimeField {...props} isInvalid isRequired>
+      <Label>Time</Label>
+      <FieldError>Time is required</FieldError>
+    </TimeField>
+}`,...s.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {
+    granularity: "hour"
+  }
+}`,...n.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  args: {
+    minValue: new Time(8, 0),
+    maxValue: new Time(16, 0)
+  }
+}`,...c.parameters?.docs?.source}}};const Jr=["Default","Disabled","Required","WithFieldDescription","WithDefaultValue","WithFieldError","Granularity","MinMaxValue"];export{o as Default,t as Disabled,n as Granularity,c as MinMaxValue,m as Required,a as WithDefaultValue,p as WithFieldDescription,s as WithFieldError,Jr as __namedExportsOrder,Hr as default};
