@@ -1,0 +1,27 @@
+import{j as p}from"./iframe-sw6YBGs2.js";import{o as n}from"./Modal-DxgoLEUd.js";import{C as c}from"./Content-B9ARa_I0.js";import{T as d}from"./Text-BcvoGUvL.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./dynamic-DI3ra1Po.js";import"./flowComponent-9kUQeyVn.js";import"./index-CQ8O5V0p.js";import"./index-DXtHeKIw.js";import"./Popover-CTuN8o_O.js";import"./context-D0JPrgtB.js";import"./useStatic-3-oc9s-0.js";import"./OverlayTrigger-C_lKypBz.js";import"./Dialog-vQ1BmT5h.js";import"./Button-C9KiGU0p.js";import"./utils-DUnEZ_OM.js";import"./ProgressBar-LVLLuOf0.js";import"./Hidden-CsbjM4Ab.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-C55dwVSC.js";import"./useFocusRing-CuXwNFI9.js";import"./useFocusable-D0OMOiNw.js";import"./RSPContexts-DsElqAB8.js";import"./OverlayArrow-BmDyVYWZ.js";import"./useControlledState-PLdRfTwy.js";import"./Collection-DRfKzRSF.js";import"./CollectionBuilder-CLa01cON.js";import"./SelectionIndicator-BR2LstrO.js";import"./Separator-DJH-J0YQ.js";import"./browser-CM4mIXp1.js";import"./useLocalizedStringFormatter-D1DdJ7gx.js";import"./ControlledNotification-BkuRpHzl.js";import"./ClearPropsContextView-DJhzMu7H.js";import"./LoadingSpinner-Bc_cKoW-.js";import"./IconWarning-Mo4x9W3y.js";import"./Button-C3vsBXq_.js";import"./LayoutCard-Cde2ypQu.js";import"./Accordion-BjIhC8Tw.js";import"./Action-_btOP2lG.js";import"./getActionGroupSlot-xCaZiuyA.js";import"./ActionGroup-BXh7v2Sj.js";import"./Alert-BrKf053k.js";import"./AlertIcon-DOBK5Qiy.js";import"./AlertBadge-Da7lIov6.js";import"./Align-Dz3OnvDk.js";import"./TableFooterRow-D8f9k0PV.js";import"./SkeletonText-CEL6wZBd.js";import"./Avatar-Kdd9ynB9.js";import"./AvatarStack-D0wFHkKp.js";import"./Badge-BabXZ_Zc.js";import"./BigNumber-DI_V9sbr.js";import"./Breadcrumb-DhhKvw_9.js";import"./Link-CMSh3a4Z.js";import"./Heading-BjeBhvap.js";import"./Legend-VgLIiYH1.js";import"./FileCardList-i5G6_w3p.js";import"./Image-sZiUBJ99.js";import"./CodeBlock-BNcfhLIz.js";import"./CopyButton-lHl1l64h.js";import"./Tooltip-DVn6jUem.js";import"./react-children-utilities-kN0pvQuw.js";import"./Color-CTvY4oH2.js";import"./Section-l8vn1XNi.js";import"./Label-CmtT7DCN.js";import"./ContextualHelpTrigger-DwcqWH2n.js";import"./CounterBadge-Bs1DA-RH.js";import"./DonutChart-Behnkh0T.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-CkwoWD1S.js";import"./Header-BuQdBlmy.js";import"./Initials-eZxDYNMo.js";import"./InlineCode-Dk1HCl3v.js";import"./LabeledValue-vT0Jzwlv.js";import"./PopoverTrigger-DmY7SQcC.js";import"./Markdown-DKYCkIEk.js";import"./Separator-Dex5_wmj.js";import"./Message-CtaJAHUw.js";import"./MessageSeparator-2Ri2MJ87.js";import"./NavigationGroup-Bm3sI2jt.js";import"./Notification-CjFKT80j.js";import"./NotificationProvider-LaKC0ems.js";import"./ProgressBar-DTrtZgpj.js";import"./Rating-DaBt_gtM.js";import"./Skeleton-B7reKJec.js";import"./EmulatedBoldText-2hgsjV1R.js";const{action:u}=__STORYBOOK_MODULE_ACTIONS__,Gr={title:"Form Controls/CheckboxButton",component:n,args:{onChange:u("onChange")},parameters:{controls:{exclude:["onChange"]}},render:a=>p.jsx(n,{...a,children:"Consent to terms and conditions"})},r={},t={args:{isDisabled:!0}},o={args:{isReadOnly:!0}},e={args:{isIndeterminate:!0}},i={args:{isDisabled:!0,isSelected:!0}},s={render:a=>p.jsxs(n,{...a,children:[p.jsx(d,{children:"Terms and Conditions"}),p.jsx(c,{children:"Consent to terms and conditions"})]})},m={args:{isInvalid:!0}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"{}",...r.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...o.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isIndeterminate: true
+  }
+}`,...e.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true,
+    isSelected: true
+  }
+}`,...i.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxButton {...props}>
+      <Text>Terms and Conditions</Text>
+      <Content>Consent to terms and conditions</Content>
+    </CheckboxButton>
+}`,...s.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    isInvalid: true
+  }
+}`,...m.parameters?.docs?.source}}};const Hr=["Default","Disabled","ReadOnly","Indeterminate","DisabledSelected","WithContent","Invalid"];export{r as Default,t as Disabled,i as DisabledSelected,e as Indeterminate,m as Invalid,o as ReadOnly,s as WithContent,Hr as __namedExportsOrder,Gr as default};
