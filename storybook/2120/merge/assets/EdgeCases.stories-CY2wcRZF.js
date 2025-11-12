@@ -1,0 +1,10 @@
+import{j as r}from"./iframe-Ye-9ROja.js";import{P as e}from"./PopoverTrigger-BdQu_M_u.js";import{P as m}from"./Popover-01hMVctL.js";import{B as i}from"./Button-CSXrQkPS.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import n from"./Default.stories-BJG33O6c.js";import"./index-nuYtCEEu.js";import"./OverlayTrigger-7A3ebmst.js";import"./Dialog-DBZH8ijj.js";import"./Button-COBj9UNQ.js";import"./utils-CF6YsxS1.js";import"./index-BD2FLLtY.js";import"./clsx-B-dksMZM.js";import"./index-MGNRFzGq.js";import"./ProgressBar-Dc-dQlrj.js";import"./Hidden-CYSIeRK5.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-BMOJ7e9i.js";import"./useFocusRing-CJrPyvnd.js";import"./useFocusable-CkKnxemF.js";import"./RSPContexts-CFmCNefB.js";import"./OverlayArrow-D0NjRXEq.js";import"./useControlledState-DL7WEOig.js";import"./Collection-iSYWZ0WM.js";import"./CollectionBuilder-CD94NaG6.js";import"./SelectionIndicator--h8__Bgl.js";import"./Separator-BZhvxbZo.js";import"./browser-BcPcK0wn.js";import"./useLocalizedStringFormatter-8EdZld9N.js";import"./ControlledNotification-D1ICvP0t.js";import"./flowComponent-DVMSJKid.js";import"./context-CZJE5_Px.js";import"./useStatic-BBGAeEE_.js";import"./ClearPropsContextView-P5ekssIx.js";import"./IconWarning-C5ScV98r.js";import"./Text-Bsxj-TZS.js";import"./EmulatedBoldText-Bx43jLQW.js";import"./LoadingSpinner-BKm3aKU7.js";const N={...n,title:"Overlays/Popover/Edge Cases",component:m},o={render:p=>r.jsxs(e,{children:[r.jsx(i,{children:"Trigger popover"}),r.jsxs(m,{...p,placement:"bottom right",children:[t.long,t.long,t.long]})]})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <PopoverTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </PopoverTrigger>
+}`,...o.parameters?.docs?.source}}};const Q=["LongContent"];export{o as LongContent,Q as __namedExportsOrder,N as default};
