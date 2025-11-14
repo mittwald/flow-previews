@@ -1,0 +1,18 @@
+import{j as r,R as a}from"./iframe-C60aMdie.js";import{ap as i,aq as c,u as l}from"./Modal-BRLjWmcI.js";import{B as n}from"./Button-jX--b59C.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./dynamic-CVq1BkmJ.js";import"./flowComponent-jCG2SJhp.js";import"./index-my9L9zM2.js";import"./index-CLR1PkMI.js";import"./context-DSrUG3BE.js";import"./Button-CvbHAn2i.js";import"./utils-BQFwVYY5.js";import"./ProgressBar-B_mDm1JC.js";import"./Hidden-BZIUhw-w.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CbOMBxRf.js";import"./useFocusRing-DC3IjPh5.js";import"./useFocusable-Dew49z7P.js";import"./RSPContexts-DTGtZjZs.js";import"./Collection-BnGKbvLc.js";import"./CollectionBuilder-CwoEUOyQ.js";import"./SelectionIndicator-DueQdBHH.js";import"./Separator-y5zzyFFC.js";import"./browser-CNA-G9XW.js";import"./useLocalizedStringFormatter-CwhdRj3j.js";import"./useStatic-vNm-dgAB.js";import"./FileCardList-CCCPEiGj.js";import"./IconWarning-B5fkZC-l.js";import"./Avatar-B7kisHtJ.js";import"./AlertIcon-C7zTMkoz.js";import"./Image-CXRwncHw.js";import"./Text-SUPQTMUT.js";import"./EmulatedBoldText-gDNBGAzw.js";import"./Link-lNOdoot_.js";import"./ControlledNotification-DflLvVYg.js";import"./LoadingSpinner-EerxDvmb.js";import"./LayoutCard-BHGne7SD.js";import"./Accordion-CKOAUBtf.js";import"./Section-BTXSJ-5X.js";import"./getActionGroupSlot-CdLyQOZc.js";import"./ActionGroup-pA_bsRMT.js";import"./Alert-BJKw0QeS.js";import"./AlertBadge-CnHLq6IR.js";import"./Align-BpStHQnP.js";import"./AvatarStack-TfH6cSvv.js";import"./BigNumber-CCd4dY5q.js";import"./Breadcrumb-DsZIUq31.js";import"./Heading-DAaBZvd2.js";import"./Legend-C-QoQfEn.js";import"./Color-DYvyagNb.js";import"./TableFooterRow-Byf_2RJW.js";import"./SkeletonText-DqQ9EdbR.js";import"./Content-CEAhgMHe.js";import"./Label-CzVOnNLd.js";import"./CounterBadge-BSi8dS51.js";import"./DonutChart-DE-zhDub.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-BTGMNUbe.js";import"./Header-CACiotaV.js";import"./Initials-CCakY2tg.js";import"./InlineCode-Cct-b4qD.js";import"./Separator-BSnGWgyT.js";import"./MessageSeparator-BdlWKUzt.js";import"./NavigationGroup-Bvrr1zmO.js";import"./Notification-CjMVwQai.js";import"./NotificationProvider-xKOj-JZj.js";import"./ProgressBar-BQfUYYSR.js";import"./Rating-CqYV9FLO.js";import"./Skeleton-CYpMvI04.js";const yr={title:"Overlays/Popover",component:i,render:p=>r.jsxs(c,{children:[r.jsx(n,{children:"Trigger popover"}),r.jsx(i,{...p,placement:"bottom right",children:"I am a popover."})]})},o={},t={args:{width:800}},e={render:p=>{const m=l("Popover"),s=a.useRef(null);return r.jsxs(r.Fragment,{children:[r.jsx(n,{ref:s,onPress:m.open,children:"Trigger popover"}),r.jsx(i,{triggerRef:s,...p,controller:m,children:"I am a popover."})]})}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    width: 800
+  }
+}`,...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const controller = useOverlayController("Popover");
+    const triggerRef = React.useRef(null);
+    return <>
+        <Button ref={triggerRef} onPress={controller.open}>
+          Trigger popover
+        </Button>
+        <Popover triggerRef={triggerRef} {...props} controller={controller}>
+          I am a popover.
+        </Popover>
+      </>;
+  }
+}`,...e.parameters?.docs?.source}}};const Ir=["Default","CustomWidth","WithController"];export{t as CustomWidth,o as Default,e as WithController,Ir as __namedExportsOrder,yr as default};
