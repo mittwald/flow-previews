@@ -1,1 +1,0 @@
-import{j as m}from"./iframe-DNdCOOr1.js";import{f as p}from"./PropsContextProvider-BQ7eQhTD.js";const l=p("Content",t=>{const{children:e,elementType:o="div",ref:n,...r}=t,s=o;return m.jsx(s,{ref:n,...r,children:e})},{type:"layout"});export{l as C};
