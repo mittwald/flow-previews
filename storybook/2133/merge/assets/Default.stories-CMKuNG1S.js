@@ -1,0 +1,20 @@
+import{j as r}from"./iframe-tJv_x5rY.js";import{au as a}from"./Modal-C5nUCLYg.js";import{L as s}from"./Label-RjTzOsfv.js";import"./index-nuYtCEEu.js";import"./clsx-B-dksMZM.js";import"./dynamic-D0IhEVDX.js";import"./flowComponent-BVSszHbm.js";import"./index-CMtXtWIZ.js";import"./index-zslH_nwp.js";import"./context-B6V5mJe_.js";import"./Button-DANMsRvu.js";import"./utils-CzbxkoY8.js";import"./ProgressBar-DMZ3QrgP.js";import"./Hidden-CHKvPT1V.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-DzrJfCbv.js";import"./useFocusRing-Dd-6aCTP.js";import"./useFocusable-Cd_sv4rm.js";import"./RSPContexts-B20KOh4s.js";import"./Collection-avSZv3ZD.js";import"./CollectionBuilder-SdndXulF.js";import"./SelectionIndicator-tJZm1Uu-.js";import"./Separator-PZWkpAPz.js";import"./browser-TdwBVE6G.js";import"./useLocalizedStringFormatter-CiAHydpr.js";import"./useStatic-ChHmkVJf.js";import"./FileCardList-xvc84fPF.js";import"./IconWarning-3nJf9pka.js";import"./Avatar-DCjhmqbI.js";import"./AlertIcon-BmIRgy9X.js";import"./Image-BsEx4Gyw.js";import"./Text-Dguu0ahS.js";import"./EmulatedBoldText-BtPGtFYn.js";import"./Link-CNQmH85M.js";import"./Button-BFrhyxcx.js";import"./LoadingSpinner-Bcrzivl8.js";import"./ControlledNotification-Bf-cHYr4.js";import"./LayoutCard-FaDrJ9hh.js";import"./Accordion-BkjCzJbI.js";import"./Section-C3zFkOR2.js";import"./getActionGroupSlot-Bx9-2150.js";import"./ActionGroup-ofmp5p0b.js";import"./Alert-BSKDhqn2.js";import"./AlertBadge-DwpbJvbe.js";import"./Align-CwffRYKZ.js";import"./AvatarStack-Dk_NcqSD.js";import"./BigNumber-CVotIBh9.js";import"./Breadcrumb-CqycGyzj.js";import"./Heading-DBV7hltH.js";import"./Legend-DwZKxd2C.js";import"./Color-DCrxZZxn.js";import"./TableFooterRow-CTXom9Ef.js";import"./SkeletonText-D85nAxtU.js";import"./Content-B6i-pyoJ.js";import"./CounterBadge-C7SQltDy.js";import"./DonutChart-BF3qOkbv.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-D5HLqNns.js";import"./Header-DsWh8L6x.js";import"./Initials-WnEx4zz5.js";import"./InlineCode-B62lvli0.js";import"./Separator-CYyKLl0S.js";import"./MessageSeparator-DELmev1y.js";import"./NavigationGroup-DtKUP1MG.js";import"./Notification-kUETDS4p.js";import"./NotificationProvider-Cl16zYR0.js";import"./ProgressBar-4Q8djMZo.js";import"./Rating-BBipw1Rp.js";import"./Skeleton-DtEBxlD8.js";const Dr={title:"Form Controls/Slider",component:a,render:t=>r.jsx(a,{...t,children:r.jsx(s,{children:"Amount"})}),parameters:{controls:{exclude:["tunnelId","render","showInitialMarker"]}},args:{defaultValue:20}},o={},e={args:{isReadOnly:!0}},i={render:t=>r.jsx(a,{...t,formatOptions:{style:"unit",unit:"gigabyte"},minValue:20,maxValue:2e3,defaultValue:200,step:20,children:r.jsx(s,{children:"Storage"})})},m={args:{isDisabled:!0}},p={render:t=>r.jsx(a,{...t,showInitialMarker:!0,children:r.jsx(s,{children:"Amount"})})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...e.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} minValue={20} maxValue={2000} defaultValue={200} step={20}>
+      <Label>Storage</Label>
+    </Slider>
+}`,...i.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...m.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} showInitialMarker>
+      <Label>Amount</Label>
+    </Slider>
+}`,...p.parameters?.docs?.source}}};const Ir=["Default","ReadOnly","WithUnit","Disabled","WithInitialMarker"];export{o as Default,m as Disabled,e as ReadOnly,p as WithInitialMarker,i as WithUnit,Ir as __namedExportsOrder,Dr as default};
