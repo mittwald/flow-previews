@@ -1,0 +1,108 @@
+import{j as e}from"./iframe-pZiTyeCe.js";import{C as s}from"./FileCardList-CvkPGy21.js";import{T as r}from"./Modal-BNWk3nM6.js";import{L as n}from"./Label-Bq8cCkbx.js";import{A as i}from"./Alert-Cy4CnGLM.js";import{H as l}from"./Heading-Bf30zfAP.js";import{S as x}from"./Section-DMGyew6W.js";import{T as j}from"./Text-BJ5OGBwu.js";import{I as h}from"./Image-BDSNKL5x.js";import{d as u}from"./dummyText-CX_I_Wpl.js";import"./index-nuYtCEEu.js";import"./IconWarning-DP7Cql9d.js";import"./clsx-B-dksMZM.js";import"./flowComponent-RbA6ktt2.js";import"./index-CECtKB63.js";import"./index-5w2LD9ey.js";import"./Avatar-28QHBiJA.js";import"./AlertIcon-BgFDbno9.js";import"./useLocalizedStringFormatter-D7qk7Uno.js";import"./context-CZnL3ok6.js";import"./Link-DwSr3nzc.js";import"./utils-DLNdnmti.js";import"./filterDOMProps-i7L6S0l1.js";import"./useFocusRing-C0k47PYu.js";import"./useFocusable-BUWes4as.js";import"./Button-C3Yaasdf.js";import"./LoadingSpinner-CtehKW-p.js";import"./Button-oVsIJRaP.js";import"./ProgressBar-DUC-K2Ya.js";import"./Hidden-B2yPOVbh.js";import"./context-CQ20wrAw.js";import"./RSPContexts-U_yzxMR5.js";import"./Collection-aJCyzdhX.js";import"./CollectionBuilder-CcVz4A8R.js";import"./SelectionIndicator-6fhscOQO.js";import"./Separator-YouxGU0I.js";import"./browser-BsEa2SY6.js";import"./useStatic-CgWkj8lf.js";import"./ControlledNotification-DOsia725.js";import"./dynamic-kx5B2hFn.js";import"./LayoutCard-BwA4FEKt.js";import"./Accordion-Dl5VlGwV.js";import"./ActionGroup-B37LObZH.js";import"./getActionGroupSlot-0C1vq_w_.js";import"./AlertBadge-CVrWVY-b.js";import"./Align-r0lwyQhH.js";import"./AvatarStack-Cbu4yl0s.js";import"./BigNumber-mDDEeEsg.js";import"./Breadcrumb-CDViVy_M.js";import"./Legend-CwSdijCm.js";import"./Color-DvAn_R7b.js";import"./TableFooterRow-CzICUB9D.js";import"./SkeletonText-C-ydvLZR.js";import"./Content-gnlwq7We.js";import"./CounterBadge-CSRpIA9_.js";import"./DonutChart-BLGzoFBa.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-f1piE0b5.js";import"./Header-DeQ2PPHG.js";import"./Initials-BCJAZPXj.js";import"./InlineCode-DyEQE0gj.js";import"./Separator-D1pVlz0K.js";import"./MessageSeparator-CK-bXqSq.js";import"./NavigationGroup-Bi7YdcqL.js";import"./Notification-DG8G0-jK.js";import"./NotificationProvider-BbthnAYF.js";import"./ProgressBar-C2sbZ2Wx.js";import"./Rating-ADLOBIR8.js";import"./Skeleton-DKhYDlyl.js";import"./EmulatedBoldText-DxtYD21w.js";const De={title:"Structure/ColumnLayout",component:s,parameters:{controls:{exclude:["s","m","l","className"]}},render:t=>e.jsxs(x,{children:[e.jsx(i,{children:e.jsx(l,{children:"s: [1] (default), m: [1, 1] (default), l: [1, 1, 1] (default)"})}),e.jsxs(s,{...t,children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]})]})},o={},a={render:t=>e.jsxs(x,{children:[e.jsx(i,{children:e.jsx(l,{children:"s: [1] (default), m: [2, 1], l: [2, 1] (inherited)"})}),e.jsxs(s,{...t,m:[2,1],children:[e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]})]})},m={render:t=>e.jsxs(x,{children:[e.jsx(i,{children:e.jsx(l,{children:"s: [2, 1], m: [3, 2, 1], l: [4, 3, 2, 1]"})}),e.jsxs(s,{...t,s:[2,1],m:[3,2,1],l:[4,3,2,1],children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsx(r,{children:e.jsx(n,{children:"Street"})})]})]})},d={render:t=>e.jsxs(x,{children:[e.jsx(i,{children:e.jsx(l,{children:'Gap size: "s"'})}),e.jsxs(s,{...t,gap:"s",children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]}),e.jsx(i,{children:e.jsx(l,{children:'Gap size: "m"'})}),e.jsxs(s,{...t,gap:"m",children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]}),e.jsx(i,{children:e.jsx(l,{children:'Gap size: "l"'})}),e.jsxs(s,{...t,gap:"l",children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]})]})},c={render:t=>e.jsxs(s,{...t,l:[1,1],children:[e.jsx(r,{children:e.jsx(n,{children:"First name"})}),e.jsx(r,{children:e.jsx(n,{children:"Last name"})}),e.jsxs(s,{children:[e.jsx(r,{children:e.jsx(n,{children:"Street"})}),e.jsx(r,{children:e.jsx(n,{children:"House number"})})]})]})},p={render:t=>e.jsxs(s,{...t,s:[1,null],m:[2,1],l:[3,1],children:[e.jsx(j,{children:u.long}),e.jsx(h,{src:u.imageSrc,alt:""})]})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Alert>
+        <Heading>s: [1] (default), m: [2, 1], l: [2, 1] (inherited)</Heading>
+      </Alert>
+      <ColumnLayout {...props} m={[2, 1]}>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+        <TextField>
+          <Label>House number</Label>
+        </TextField>
+      </ColumnLayout>
+    </Section>
+}`,...a.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Alert>
+        <Heading>s: [2, 1], m: [3, 2, 1], l: [4, 3, 2, 1]</Heading>
+      </Alert>
+      <ColumnLayout {...props} s={[2, 1]} m={[3, 2, 1]} l={[4, 3, 2, 1]}>
+        <TextField>
+          <Label>First name</Label>
+        </TextField>
+        <TextField>
+          <Label>Last name</Label>
+        </TextField>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+      </ColumnLayout>
+    </Section>
+}`,...m.parameters?.docs?.source}}};d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Alert>
+        <Heading>Gap size: "s"</Heading>
+      </Alert>
+      <ColumnLayout {...props} gap="s">
+        <TextField>
+          <Label>First name</Label>
+        </TextField>
+        <TextField>
+          <Label>Last name</Label>
+        </TextField>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+        <TextField>
+          <Label>House number</Label>
+        </TextField>
+      </ColumnLayout>
+      <Alert>
+        <Heading>Gap size: "m"</Heading>
+      </Alert>
+      <ColumnLayout {...props} gap="m">
+        <TextField>
+          <Label>First name</Label>
+        </TextField>
+        <TextField>
+          <Label>Last name</Label>
+        </TextField>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+        <TextField>
+          <Label>House number</Label>
+        </TextField>
+      </ColumnLayout>
+      <Alert>
+        <Heading>Gap size: "l"</Heading>
+      </Alert>
+      <ColumnLayout {...props} gap="l">
+        <TextField>
+          <Label>First name</Label>
+        </TextField>
+        <TextField>
+          <Label>Last name</Label>
+        </TextField>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+        <TextField>
+          <Label>House number</Label>
+        </TextField>
+      </ColumnLayout>
+    </Section>
+}`,...d.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  render: props => <ColumnLayout {...props} l={[1, 1]}>
+      <TextField>
+        <Label>First name</Label>
+      </TextField>
+      <TextField>
+        <Label>Last name</Label>
+      </TextField>
+      <ColumnLayout>
+        <TextField>
+          <Label>Street</Label>
+        </TextField>
+        <TextField>
+          <Label>House number</Label>
+        </TextField>
+      </ColumnLayout>
+    </ColumnLayout>
+}`,...c.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <ColumnLayout {...props} s={[1, null]} m={[2, 1]} l={[3, 1]}>
+      <Text>{dummyText.long}</Text>
+      <Image src={dummyText.imageSrc} alt="" />
+    </ColumnLayout>
+}`,...p.parameters?.docs?.source}}};const Ee=["Default","CustomValueM","AllCustomValues","Gaps","Nested","HiddenColumns"];export{m as AllCustomValues,a as CustomValueM,o as Default,d as Gaps,p as HiddenColumns,c as Nested,Ee as __namedExportsOrder,De as default};
