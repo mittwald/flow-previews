@@ -1,0 +1,15 @@
+import{j as r}from"./iframe-Dswl8YqW.js";import{L as e}from"./Link-2_MM-8En.js";import{B as t}from"./Breadcrumb-CnsXUeFp.js";import"./index-nuYtCEEu.js";import"./flowComponent-DO1FM96o.js";import"./index-BTqTpX_p.js";import"./clsx-B-dksMZM.js";import"./index-DoB2isID.js";import"./IconWarning-Dt5PaZc0.js";import"./useLocalizedStringFormatter-5OU1qxVX.js";import"./context-DC5A8m43.js";import"./utils-7BbO5OC0.js";import"./filterDOMProps-i7L6S0l1.js";import"./useFocusRing-D1ZNAk-m.js";import"./useFocusable-0yY0J0Je.js";import"./Collection-B4F75Snj.js";import"./CollectionBuilder-DGx6CCpB.js";import"./Hidden-BdIsYl6c.js";const y={title:"Navigation/Breadcrumb",component:t,render:i=>r.jsxs(t,{...i,children:[r.jsx(e,{href:"#",children:"Project"}),r.jsx(e,{href:"#",children:"Apps"}),r.jsx(e,{href:"#",children:"App"})]}),argTypes:{color:{control:"inline-radio",options:["primary","dark","light"]}}},o={},a={args:{color:"dark"},globals:{backgrounds:"light"}},s={args:{color:"light"},globals:{backgrounds:"dark"}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "dark"
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...a.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "light"
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...s.parameters?.docs?.source}}};const A=["Default","Dark","Light"];export{a as Dark,o as Default,s as Light,A as __namedExportsOrder,y as default};
