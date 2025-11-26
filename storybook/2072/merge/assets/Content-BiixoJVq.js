@@ -1,0 +1,1 @@
+import{j as m}from"./iframe-CzXG2_T8.js";import{f as i}from"./PropsContextProvider-CBC4MB9g.js";const l=i("Content",e=>{const{children:t,elementType:n="div",ref:o,...r}=e,s=n;return m.jsx(s,{ref:o,...r,children:t})});l.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Content"};export{l as C};
