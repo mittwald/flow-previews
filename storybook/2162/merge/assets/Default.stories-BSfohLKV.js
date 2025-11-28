@@ -1,0 +1,40 @@
+import{j as r}from"./iframe-6pmDYBey.js";import{w as t,s as e,t as d,g as u}from"./TimeField-DUzJzX0v.js";import{L as i}from"./Label-BogZLDOy.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-Bcab5p0Y.js";import"./mergeRefs-KX5b3W0M.js";import"./index-D7Awe5Nv.js";import"./clsx-B-dksMZM.js";import"./Accordion-Buaowi87.js";import"./dynamic-PozyV8BB.js";import"./Button-Bz4oJBBk.js";import"./IconWarning-D2rzgsKD.js";import"./Text-DCl4bIjP.js";import"./browser-Curoa5u0.js";import"./utils-CclRT-8x.js";import"./EmulatedBoldText-CBUClY1I.js";import"./LoadingSpinner-D_0Hr43y.js";import"./Button-Bf_N8W1N.js";import"./ProgressBar-DSMryv5h.js";import"./Hidden-DGWIRGX2.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-D-9qd8rr.js";import"./useFocusRing-CIK_JYa4.js";import"./useFocusable-k6dtakHQ.js";import"./useLocalizedStringFormatter-Cc63-Qc3.js";import"./Section-Byh4aHn5.js";import"./context-CTAsMywl.js";import"./RSPContexts-BHIIqogi.js";import"./Collection-BzIHwVQs.js";import"./CollectionBuilder-s3gBlVxZ.js";import"./SelectionIndicator-BUH0wchX.js";import"./Separator-C2Ax_jJi.js";import"./useStatic-Bv4Ps5t5.js";import"./ActionGroup-8lne9rS6.js";import"./Alert-ZPf2dT69.js";import"./AlertIcon-mseo8G9-.js";import"./AlertBadge-DrOGK01L.js";import"./Align-Sifn-_cY.js";import"./Popover-Dd0-1EJu.js";import"./OverlayTrigger-DSzgE-rS.js";import"./TableFooterRow-BRY3iv1g.js";import"./SkeletonText-BkaviKx9.js";import"./Avatar-COqmIfCf.js";import"./AvatarStack-Cs-Y5kji.js";import"./Badge-B7ODamfh.js";import"./BigNumber-couKEJe3.js";import"./Breadcrumb-WdUL6sK0.js";import"./Link-CJ38LeDn.js";import"./Heading-6phWYNIK.js";import"./Legend-B78FuCBX.js";import"./FileCardList-CHBLnU9n.js";import"./Image-Dcyti7CF.js";import"./Color-BRGYsDjI.js";import"./Content-CuYBsCwt.js";import"./ContextualHelpTrigger-vqI_wpNC.js";import"./CounterBadge-DyAdtC5E.js";import"./DonutChart-DZLxrNmm.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-BknOPFCn.js";import"./Header-DUij04U4.js";import"./Initials-DRBi35hY.js";import"./InlineCode-DxO_Ztsz.js";import"./PopoverTrigger-BKP_QpSy.js";import"./Separator-C65il62N.js";import"./Message-A68FCta2.js";import"./MessageSeparator-YwFb4hEt.js";import"./NavigationGroup-BryWzwah.js";import"./Notification-QlklNnDw.js";import"./NotificationProvider-DiOqRdCr.js";import"./ProgressBar-bXP38px7.js";import"./Rating-DQiv0-CI.js";import"./Skeleton-BwBlZATo.js";const{action:h}=__STORYBOOK_MODULE_ACTIONS__,Pr={title:"Form Controls/CheckboxGroup",component:t,args:{onChange:h("onChange")},parameters:{controls:{exclude:["onChange"]}},render:o=>r.jsxs(t,{...o,children:[r.jsx(i,{children:"Permissions"}),r.jsx(e,{value:"read",children:"Read"}),r.jsx(e,{value:"write",children:"Write"})]})},s={},a={args:{isDisabled:!0}},p={args:{isReadOnly:!0}},n={render:o=>r.jsxs(t,{...o,children:[r.jsx(i,{children:"Permissions"}),r.jsx(e,{value:"read",isDisabled:!0,children:"Read"}),r.jsx(e,{value:"write",children:"Write"})]})},c={render:o=>r.jsxs(t,{...o,children:[r.jsx(i,{children:"Permissions"}),r.jsx(d,{value:"read",children:"Read"}),r.jsx(d,{value:"write",children:"Write"})]})},m={render:o=>r.jsxs(t,{...o,isInvalid:!0,isRequired:!0,children:[r.jsx(i,{children:"Permissions"}),r.jsx(e,{value:"read",children:"Read"}),r.jsx(e,{value:"write",children:"Write"}),r.jsx(u,{children:"Select at least one to continue"})]})},l={render:o=>r.jsxs(t,{l:[1,1,1],m:[1,1],...o,children:[r.jsx(i,{children:"Options"}),r.jsx(e,{value:"1",children:"Option 1"}),r.jsx(e,{value:"2",children:"Option 2"}),r.jsx(e,{value:"3",children:"Option 3"}),r.jsx(e,{value:"4",children:"Option 4"}),r.jsx(e,{value:"5",children:"Option 5"}),r.jsx(e,{value:"6",children:"Option 6"})]})};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:"{}",...s.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...a.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...p.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxGroup {...props}>
+      <Label>Permissions</Label>
+      <Checkbox value="read" isDisabled>
+        Read
+      </Checkbox>
+      <Checkbox value="write">Write</Checkbox>
+    </CheckboxGroup>
+}`,...n.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxGroup {...props}>
+      <Label>Permissions</Label>
+      <CheckboxButton value="read">Read</CheckboxButton>
+      <CheckboxButton value="write">Write</CheckboxButton>
+    </CheckboxGroup>
+}`,...c.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxGroup {...props} isInvalid isRequired>
+      <Label>Permissions</Label>
+      <Checkbox value="read">Read</Checkbox>
+      <Checkbox value="write">Write</Checkbox>
+      <FieldError>Select at least one to continue</FieldError>
+    </CheckboxGroup>
+}`,...m.parameters?.docs?.source}}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxGroup l={[1, 1, 1]} m={[1, 1]} {...props}>
+      <Label>Options</Label>
+      <Checkbox value="1">Option 1</Checkbox>
+      <Checkbox value="2">Option 2</Checkbox>
+      <Checkbox value="3">Option 3</Checkbox>
+      <Checkbox value="4">Option 4</Checkbox>
+      <Checkbox value="5">Option 5</Checkbox>
+      <Checkbox value="6">Option 6</Checkbox>
+    </CheckboxGroup>
+}`,...l.parameters?.docs?.source}}};const fr=["Default","CheckboxGroupDisabled","ReadOnly","CheckboxDisabled","CheckboxButtons","WithFieldError","ColumnLayout"];export{c as CheckboxButtons,n as CheckboxDisabled,a as CheckboxGroupDisabled,l as ColumnLayout,s as Default,p as ReadOnly,m as WithFieldError,fr as __namedExportsOrder,Pr as default};
