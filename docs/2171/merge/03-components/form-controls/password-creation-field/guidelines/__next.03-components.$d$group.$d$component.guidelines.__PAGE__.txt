@@ -1,0 +1,331 @@
+1:"$Sreact.fragment"
+2:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"LayoutCard"]
+3:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"ColumnLayout"]
+4:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Section"]
+5:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Heading"]
+6:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Link"]
+7:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"IconExternalLink"]
+8:I[47509,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+d:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Flex"]
+e:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tabs"]
+f:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tab"]
+10:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"TabTitle"]
+15:I[5092,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[543,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+9:T555,import { useForm } from "react-hook-form";
+import {
+  Form,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/03-components/actions/action/examples/lib";
+import {
+  Button,
+  Label,
+  Section,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+import {
+  generatePasswordCreationFieldValidation,
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+
+export default () => {
+  const customPolicy = Policy.fromDeclaration({
+    minComplexity: 3,
+    rules: [
+      {
+        ruleType: RuleType.length,
+        min: 8,
+        max: 12,
+      },
+    ],
+  });
+
+  const form = useForm<{ password: string }>({
+    defaultValues: {
+      password: "",
+    },
+  });
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="password"
+          rules={{
+            required: true,
+            validate:
+              generatePasswordCreationFieldValidation(
+                customPolicy,
+              ),
+          }}
+        >
+          <PasswordCreationField
+            validationPolicy={customPolicy}
+          >
+            <Label>Passwort</Label>
+          </PasswordCreationField>
+        </Field>
+        <Button type="submit">Speichern</Button>
+      </Form>
+    </Section>
+  );
+};
+a:T554,import {
+  Label,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+
+import {
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+import { useState } from "react";
+
+export default () => {
+  const [password, setPassword] = useState("");
+
+  return (
+    <PasswordCreationField
+      validationPolicy={Policy.fromDeclaration({
+        minComplexity: 3,
+        rules: [
+          {
+            ruleType: RuleType.length,
+            min: 8,
+            max: 12,
+          },
+          {
+            ruleType: RuleType.regex,
+            pattern: "^[0-9]",
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.hibp,
+          },
+          {
+            identifier: "special",
+            ruleType: RuleType.charPool,
+            charPools: ["special"],
+            min: 1,
+            max: 2,
+          },
+          {
+            identifier: "numbers",
+            ruleType: RuleType.charPool,
+            charPools: ["numbers"],
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.blocklist,
+            blocklist: ["foo", "bar"],
+            substringMatch: true,
+          },
+        ],
+      })}
+      value={password}
+      onChange={setPassword}
+    >
+      <Label>Password</Label>
+    </PasswordCreationField>
+  );
+};
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"PasswordCreationField"}],"Das PasswordCreationField unterstützt den User dabei, sichere Passwörter zu erstellen. Über eine visuelle Komplexitätsanzeige wird es dem User erleichtert, unsichere Passwörter zu erkennen und zu meiden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/PasswordCreationField","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"PasswordCreationField","description":"Das PasswordCreationField unterstützt den User dabei, sichere Passwörter zu erstellen. Über eine visuelle Komplexitätsanzeige wird es dem User erleichtert, unsichere Passwörter zu erkennen und zu meiden."},"scope":{}},"examples":{"buttons":"import {\n  Button,\n  Label,\n  PasswordCreationField,\n  IconSshKey,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n      <Button>\n        <IconSshKey />\n      </Button>\n    </PasswordCreationField>\n  );\n};\n","copyButton":"import {\n  CopyButton,\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <PasswordCreationField>\n      <Label>Password</Label>\n      <CopyButton />\n    </PasswordCreationField>\n  );\n};\n","default":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\n\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n    </PasswordCreationField>\n  );\n};\n","disabled":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\n<PasswordCreationField isDisabled>\n  <Label>Password</Label>\n</PasswordCreationField>;\n","form":"$9","rules":"$a"},"slugs":["form-controls","password-creation-field"],"filename":"form-controls/password-creation-field/index.mdx","anchors":[]}}]]}]}],"$Lb"],null,"$Lc"]}],"loading":null,"isPartial":false}
+11:Tb0f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das PasswordCreationField ist eine Component zur Unterstützung bei der\nErstellung sicherer Passwörter. Es bietet eine visuelle Anzeige der\nPasswortkomplexität und erleichtert es Usern, unsichere Passwörter zu erkennen\nund zu vermeiden. Standardmäßig werden vordefinierte Passwortregeln angewendet,\nalternativ können eigene Richtlinien konfiguriert werden. Für die Eingabe\nbestehender Passwörter sollte hingegen ein reguläres\n", _jsx(_components.a, {
+        href: "/03-components/form-controls/text-field/overview",
+        children: "TextField"
+      }), " mit dem Type ", _jsx(_components.code, {
+        children: "password"
+      }), "\nverwendet werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines PasswordCreationFields darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "standardisierte Richtlinien genutzt werden, sofern keine spezifischen\nAnforderungen bestehen."
+      }), "\n", _jsx(_components.li, {
+        children: "selbst formulierte Richtlinien klar und eindeutig für die User verständlich\nsind."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende ein PasswordCreationField, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Usern bei der sicheren Erstellung neuer Passwörter zu unterstützen."
+      }), "\n", _jsx(_components.li, {
+        children: "visuelles Feedback zur Stärke und Gültigkeit eines Passworts bereitzustellen."
+      }), "\n", _jsx(_components.li, {
+        children: "die Generierung sicherer Passwörter innerhalb definierter Richtlinien\nanzubieten."
+      }), "\n", _jsx(_components.li, {
+        children: "Passwortanforderungen transparent und nachvollziehbar zu kommunizieren."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+12:T555,import { useForm } from "react-hook-form";
+import {
+  Form,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/03-components/actions/action/examples/lib";
+import {
+  Button,
+  Label,
+  Section,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+import {
+  generatePasswordCreationFieldValidation,
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+
+export default () => {
+  const customPolicy = Policy.fromDeclaration({
+    minComplexity: 3,
+    rules: [
+      {
+        ruleType: RuleType.length,
+        min: 8,
+        max: 12,
+      },
+    ],
+  });
+
+  const form = useForm<{ password: string }>({
+    defaultValues: {
+      password: "",
+    },
+  });
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="password"
+          rules={{
+            required: true,
+            validate:
+              generatePasswordCreationFieldValidation(
+                customPolicy,
+              ),
+          }}
+        >
+          <PasswordCreationField
+            validationPolicy={customPolicy}
+          >
+            <Label>Passwort</Label>
+          </PasswordCreationField>
+        </Field>
+        <Button type="submit">Speichern</Button>
+      </Form>
+    </Section>
+  );
+};
+13:T554,import {
+  Label,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+
+import {
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+import { useState } from "react";
+
+export default () => {
+  const [password, setPassword] = useState("");
+
+  return (
+    <PasswordCreationField
+      validationPolicy={Policy.fromDeclaration({
+        minComplexity: 3,
+        rules: [
+          {
+            ruleType: RuleType.length,
+            min: 8,
+            max: 12,
+          },
+          {
+            ruleType: RuleType.regex,
+            pattern: "^[0-9]",
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.hibp,
+          },
+          {
+            identifier: "special",
+            ruleType: RuleType.charPool,
+            charPools: ["special"],
+            min: 1,
+            max: 2,
+          },
+          {
+            identifier: "numbers",
+            ruleType: RuleType.charPool,
+            charPools: ["numbers"],
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.blocklist,
+            blocklist: ["foo", "bar"],
+            substringMatch: true,
+          },
+        ],
+      })}
+      value={password}
+      onChange={setPassword}
+    >
+      <Label>Password</Label>
+    </PasswordCreationField>
+  );
+};
+b:["$","$Ld",null,{"columnGap":"m","className":"layout_tabsContainer__B1ngZ","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$","$L2",null,{"className":"layout_tabs__w0F_E","children":["$","$Le",null,{"selectedKey":"guidelines","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/form-controls/password-creation-field/overview","children":"Overview"}],false]}],["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/form-controls/password-creation-field/develop","children":"Develop"}],false]}],["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/form-controls/password-creation-field/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout_mainContent__ssvon","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"buttons":"import {\n  Button,\n  Label,\n  PasswordCreationField,\n  IconSshKey,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n      <Button>\n        <IconSshKey />\n      </Button>\n    </PasswordCreationField>\n  );\n};\n","copyButton":"import {\n  CopyButton,\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <PasswordCreationField>\n      <Label>Password</Label>\n      <CopyButton />\n    </PasswordCreationField>\n  );\n};\n","default":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\n\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n    </PasswordCreationField>\n  );\n};\n","disabled":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\n<PasswordCreationField isDisabled>\n  <Label>Password</Label>\n</PasswordCreationField>;\n","form":"$12","rules":"$13"},"slugs":["form-controls","password-creation-field"],"filename":"form-controls/password-creation-field/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$L14"]}]
+c:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+14:["$","$L18",null,{"currentPath":"/03-components/form-controls/password-creation-field/guidelines","anchors":"$b:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+17:null

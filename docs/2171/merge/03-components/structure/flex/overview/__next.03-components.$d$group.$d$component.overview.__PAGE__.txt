@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"LayoutCard"]
+3:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"ColumnLayout"]
+4:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Section"]
+5:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Heading"]
+6:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Link"]
+7:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"IconExternalLink"]
+8:I[47509,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"default"]
+9:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Flex"]
+d:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Tabs"]
+e:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"Tab"]
+f:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"TabTitle"]
+13:I[543,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","733","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/overview/page-088fcc58dffe8624.js"],"default"]
+14:I[5092,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Flex"}],"Flex ordnet Components innerhalb eines Flex-Containers an. Sie ermöglicht eine flexible, CSS-Flexbox-basierte Ausrichtung und Verteilung von Inhalten.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Flex","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    bgColor: \"dark\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Flex","description":"Flex ordnet Components innerhalb eines Flex-Containers an. Sie ermöglicht eine flexible, CSS-Flexbox-basierte Ausrichtung und Verteilung von Inhalten."},"scope":{}},"examples":{"default":"import {\n  LayoutCard,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" justify=\"center\">\n  <LayoutCard />\n  <LayoutCard />\n  <LayoutCard />\n</Flex>;\n","layoutCard":"import {\n  Button,\n  Flex,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard style={{ minHeight: 300 }}>\n  <Text>\n    Labore, similique. Earum, quas in. At dolorem corrupti\n    blanditiis nulla deserunt laborum! Corrupti delectus\n    aspernatur nihil nulla obcaecati ipsam porro sequi rem?\n    Quam.\n  </Text>\n  <Flex align=\"end\" grow>\n    <Button color=\"accent\">Install</Button>\n  </Flex>\n</LayoutCard>;\n","listItem":"import {\n  Avatar,\n  Content,\n  Flex,\n  Heading,\n  IconExtension,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  const List = typedList<{ text: string }>();\n\n  return (\n    <List.List\n      defaultViewMode=\"tiles\"\n      aria-label=\"Extensions\"\n    >\n      <List.StaticData\n        data={[\n          { text: \"Meine Extension\" },\n          {\n            text: \"Meine andere Extension mit einen deutlich längeren Namen\",\n          },\n        ]}\n      />\n      <List.Item\n        showTiles\n        showList={false}\n        textValue={(i) => i.text}\n      >\n        {(i) => (\n          <List.ItemView>\n            <Avatar>\n              <IconExtension />\n            </Avatar>\n            <Heading>{i.text}</Heading>\n\n            <Content>\n              <Flex justify=\"end\" align=\"end\" grow>\n                <Text>Kostenlos</Text>\n              </Flex>\n            </Content>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n"},"slugs":["structure","flex"],"filename":"structure/flex/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$La","$Lb"]}]],null,"$Lc"]}],"loading":null,"isPartial":false}
+10:Tcbf,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {Alert, Content, Heading, LiveCodeEditor} = _components;
+  if (!Alert) _missingMdxReference("Alert", true);
+  if (!Content) _missingMdxReference("Content", true);
+  if (!Heading) _missingMdxReference("Heading", true);
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(Alert, {
+      children: [_jsx(Heading, {
+        children: "Individuelles Layout mit Flex"
+      }), _jsx(Content, {
+        children: _jsx(_components.p, {
+          children: "Der Einsatz von Flex führt zu individuellen Layouts, die vom Designsystem\nabweichen. Das kann den Wartungsaufwand erhöhen und für User zu ungewohnten\nInteraktionen führen. Nutze Flex daher nur für gezielte, kleine\nLayout-Anpassungen und überlege sorgfältig, ob der Einsatz wirklich\nnotwendig ist."
+        })
+      })]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Schließe die Components, die in einem Flex-Container dargestellt werden sollen,\nmit ", _jsx(_components.code, {
+        children: "<Flex />"
+      }), " ein."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      bgColor: "dark"
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Anwendungsbeispiele"
+    }), "\n", _jsx(_components.h2, {
+      children: "ListItem"
+    }), "\n", _jsxs(_components.p, {
+      children: ["In diesem Beispiel nutzen wir ", _jsx(_components.code, {
+        children: "<Flex />"
+      }), " innerhalb einer\n", _jsx(_components.a, {
+        href: "/03-components/structure/list/overview",
+        children: "List"
+      }), ". Das ermöglicht es uns, gezielt\nden Content des ListItems zu platzieren – in diesem Fall den zweiten Text in der\nrechten unteren Ecke."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "listItem",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "LayoutCard"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Hier benutzen wir ", _jsx(_components.code, {
+        children: "<Flex />"
+      }), " innerhalb einer\n", _jsx(_components.a, {
+        href: "/03-components/structure/layout-card/overview",
+        children: "LayoutCard"
+      }), ". Dadurch können wir\nden Button gezielt unten anordnen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "layoutCard",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+a:["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$","$L2",null,{"className":"layout_tabs__w0F_E","children":["$","$Ld",null,{"selectedKey":"overview","children":[["$","$Le",null,{"id":"overview","children":[["$","$Lf",null,{"href":"/03-components/structure/flex/overview","children":"Overview"}],["$","div",null,{"className":"layout_mainContent__ssvon","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  LayoutCard,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" justify=\"center\">\n  <LayoutCard />\n  <LayoutCard />\n  <LayoutCard />\n</Flex>;\n","layoutCard":"import {\n  Button,\n  Flex,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard style={{ minHeight: 300 }}>\n  <Text>\n    Labore, similique. Earum, quas in. At dolorem corrupti\n    blanditiis nulla deserunt laborum! Corrupti delectus\n    aspernatur nihil nulla obcaecati ipsam porro sequi rem?\n    Quam.\n  </Text>\n  <Flex align=\"end\" grow>\n    <Button color=\"accent\">Install</Button>\n  </Flex>\n</LayoutCard>;\n","listItem":"import {\n  Avatar,\n  Content,\n  Flex,\n  Heading,\n  IconExtension,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  const List = typedList<{ text: string }>();\n\n  return (\n    <List.List\n      defaultViewMode=\"tiles\"\n      aria-label=\"Extensions\"\n    >\n      <List.StaticData\n        data={[\n          { text: \"Meine Extension\" },\n          {\n            text: \"Meine andere Extension mit einen deutlich längeren Namen\",\n          },\n        ]}\n      />\n      <List.Item\n        showTiles\n        showList={false}\n        textValue={(i) => i.text}\n      >\n        {(i) => (\n          <List.ItemView>\n            <Avatar>\n              <IconExtension />\n            </Avatar>\n            <Heading>{i.text}</Heading>\n\n            <Content>\n              <Flex justify=\"end\" align=\"end\" grow>\n                <Text>Kostenlos</Text>\n              </Flex>\n            </Content>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n"},"slugs":["structure","flex"],"filename":"structure/flex/overview.mdx","anchors":["Playground","Anwendungsbeispiele"]}}]}]]}],"$L11","$L12"]}]}]}]
+b:["$","$L13",null,{"currentPath":"/03-components/structure/flex/overview","anchors":["Playground","Anwendungsbeispiele"],"title":"Overview"}]
+c:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+11:["$","$Le",null,{"id":"develop","children":[["$","$Lf",null,{"href":"/03-components/structure/flex/develop","children":"Develop"}],false]}]
+12:["$","$Le",null,{"id":"guidelines","children":[["$","$Lf",null,{"href":"/03-components/structure/flex/guidelines","children":"Guidelines"}],false]}]
+16:null

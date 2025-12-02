@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[5092,[],"ViewportBoundary"]
+4:I[5092,[],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[42661,[],"IconMark"]
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Accordion"}],["$","link","1",{"rel":"icon","href":"/flow-previews/docs/2171/merge/favicon.ico?3aade0d1beb611f5","type":"image/x-icon","sizes":"32x32"}],["$","$L7","2",{}]]

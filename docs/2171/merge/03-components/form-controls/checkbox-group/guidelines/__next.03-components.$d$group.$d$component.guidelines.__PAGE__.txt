@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"LayoutCard"]
+3:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"ColumnLayout"]
+4:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Section"]
+5:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Heading"]
+6:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Link"]
+7:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"IconExternalLink"]
+8:I[47509,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+b:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Flex"]
+c:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tabs"]
+d:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tab"]
+e:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"TabTitle"]
+11:I[5092,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[543,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"CheckboxGroup"}],"Die CheckboxGroup fasst mehrere Checkboxen oder CheckboxButtons logisch in einer Gruppierung zusammen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/CheckboxGroup","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"CheckboxGroup","description":"Die CheckboxGroup fasst mehrere Checkboxen oder CheckboxButtons logisch in einer Gruppierung zusammen."},"scope":{}},"examples":{"buttons":"import {\n  CheckboxButton,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <CheckboxButton value=\"read\">Lesen</CheckboxButton>\n  <CheckboxButton value=\"write\">Schreiben</CheckboxButton>\n</CheckboxGroup>;\n","contextualHelp":"import {\n  Button,\n  Checkbox,\n  CheckboxGroup,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>\n    Berechtigungen\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n</CheckboxGroup>;\n","customColumns":"import {\n  CheckboxButton,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup l={[1, 1]} m={[1]}>\n  <Label>Berechtigungen</Label>\n  <CheckboxButton value=\"read\">Lesen</CheckboxButton>\n  <CheckboxButton value=\"write\">Schreiben</CheckboxButton>\n</CheckboxGroup>;\n","default":"import {\n  Checkbox,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n</CheckboxGroup>;\n","fieldDescription":"import {\n  Checkbox,\n  CheckboxGroup,\n  FieldDescription,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n  <FieldDescription>Weitere Informationen</FieldDescription>\n</CheckboxGroup>;\n","form":"import {\n  Button,\n  Checkbox,\n  CheckboxGroup,\n  Label,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ permissions: string[] }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"permissions\"\n          rules={{\n            required:\n              \"Bitte wähle mindestens eine Berechtigung aus\",\n          }}\n        >\n          <CheckboxGroup>\n            <Label>Berechtigungen</Label>\n            <Checkbox value=\"read\">Lesen</Checkbox>\n            <Checkbox value=\"write\">Schreiben</Checkbox>\n          </CheckboxGroup>\n        </Field>\n        <Button type=\"submit\">Speichern</Button>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","checkbox-group"],"filename":"form-controls/checkbox-group/index.mdx","anchors":[]}}]]}]}],"$L9"],null,"$La"]}],"loading":null,"isPartial":false}
+f:T1024,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Plain} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer CheckboxGroup darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "das Label die Gruppierung logisch und prägnant beschreibt."
+      }), "\n", _jsxs(_components.li, {
+        children: ["die Reihenfolge der ", _jsx(_components.a, {
+          href: "/03-components/form-controls/checkbox/overview",
+          children: "Checkboxen"
+        }), " bzw.\n", _jsx(_components.a, {
+          href: "/03-components/form-controls/checkbox-button/overview",
+          children: "CheckboxButtons"
+        }), " sinnvoll\ngewählt ist – zum Beispiel nach Relevanz, alphabetisch oder thematisch\ngruppiert."]
+      }), "\n", _jsx(_components.li, {
+        children: "die Anzahl der Auswahlmöglichkeiten überschaubar bleibt. Zu viele Optionen\nführen schnell zu Überforderung."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende eine CheckboxGroup, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "mehrere Checkboxen oder CheckboxButtons sinnvoll zu strukturieren."
+      }), "\n", _jsx(_components.li, {
+        children: "dem User eine Mehrfachauswahl anzubieten."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "CheckboxGroup vs. RadioGroup"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit einer CheckboxGroup oder mit einer\n", _jsx(_components.a, {
+        href: "/03-components/form-controls/radio-group/overview",
+        children: "RadioGroup"
+      }), " erhalten User\nverschiedene Auswahlmöglichkeiten. Um die beiden besser unterscheiden zu können,\nhier ein paar hilfreiche Anhaltspunkte."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende eine CheckboxGroup, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "eine Mehrfachauswahl darzustellen."
+          }), "\n", _jsxs(_components.li, {
+            children: [_jsx(_components.a, {
+              href: "/03-components/form-controls/checkbox/overview",
+              children: "Checkboxen"
+            }), " oder ", _jsx(_components.a, {
+              href: "/03-components/form-controls/checkbox-button/overview",
+              children: "CheckboxButtons"
+            }), " sinnvoll zu strukturieren."]
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende eine RadioGroup, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "eine Einfachauswahl darzustellen."
+          }), "\n", _jsx(_components.li, {
+            children: "Radios oder RadioButtons sinnvoll zu strukturieren."
+          }), "\n"]
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Lb",null,{"columnGap":"m","className":"layout_tabsContainer__B1ngZ","children":[["$","$Lb",null,{"direction":"column","rowGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$","$L2",null,{"className":"layout_tabs__w0F_E","children":["$","$Lc",null,{"selectedKey":"guidelines","children":[["$","$Ld",null,{"id":"overview","children":[["$","$Le",null,{"href":"/03-components/form-controls/checkbox-group/overview","children":"Overview"}],false]}],["$","$Ld",null,{"id":"develop","children":[["$","$Le",null,{"href":"/03-components/form-controls/checkbox-group/develop","children":"Develop"}],false]}],["$","$Ld",null,{"id":"guidelines","children":[["$","$Le",null,{"href":"/03-components/form-controls/checkbox-group/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout_mainContent__ssvon","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$f","frontmatter":{},"scope":{}},"examples":{"buttons":"import {\n  CheckboxButton,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <CheckboxButton value=\"read\">Lesen</CheckboxButton>\n  <CheckboxButton value=\"write\">Schreiben</CheckboxButton>\n</CheckboxGroup>;\n","contextualHelp":"import {\n  Button,\n  Checkbox,\n  CheckboxGroup,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>\n    Berechtigungen\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n</CheckboxGroup>;\n","customColumns":"import {\n  CheckboxButton,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup l={[1, 1]} m={[1]}>\n  <Label>Berechtigungen</Label>\n  <CheckboxButton value=\"read\">Lesen</CheckboxButton>\n  <CheckboxButton value=\"write\">Schreiben</CheckboxButton>\n</CheckboxGroup>;\n","default":"import {\n  Checkbox,\n  CheckboxGroup,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n</CheckboxGroup>;\n","fieldDescription":"import {\n  Checkbox,\n  CheckboxGroup,\n  FieldDescription,\n  Label,\n} from \"@mittwald/flow-react-components\";\n\n<CheckboxGroup>\n  <Label>Berechtigungen</Label>\n  <Checkbox value=\"read\">Lesen</Checkbox>\n  <Checkbox value=\"write\">Schreiben</Checkbox>\n  <FieldDescription>Weitere Informationen</FieldDescription>\n</CheckboxGroup>;\n","form":"import {\n  Button,\n  Checkbox,\n  CheckboxGroup,\n  Label,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ permissions: string[] }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"permissions\"\n          rules={{\n            required:\n              \"Bitte wähle mindestens eine Berechtigung aus\",\n          }}\n        >\n          <CheckboxGroup>\n            <Label>Berechtigungen</Label>\n            <Checkbox value=\"read\">Lesen</Checkbox>\n            <Checkbox value=\"write\">Schreiben</Checkbox>\n          </CheckboxGroup>\n        </Field>\n        <Button type=\"submit\">Speichern</Button>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","checkbox-group"],"filename":"form-controls/checkbox-group/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$L10"]}]
+a:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+10:["$","$L14",null,{"currentPath":"/03-components/form-controls/checkbox-group/guidelines","anchors":"$9:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+13:null

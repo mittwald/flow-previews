@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"LayoutCard"]
+3:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"ColumnLayout"]
+4:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Section"]
+5:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Heading"]
+6:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Link"]
+7:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"IconExternalLink"]
+8:I[47509,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+9:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Flex"]
+a:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tabs"]
+b:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"Tab"]
+c:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"TabTitle"]
+11:I[543,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","357","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/guidelines/page-088fcc58dffe8624.js"],"default"]
+12:I[5092,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"CheckboxButton"}],"Ein CheckboxButton ist eine optisch auffälligere Variante der Checkbox. Sie dient ebenfalls dazu, Optionen auszuwählen oder abzuwählen und wird häufig innerhalb der CheckboxGroup verwendet.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/CheckboxButton","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"CheckboxButton","description":"Ein CheckboxButton ist eine optisch auffälligere Variante der Checkbox. Sie dient ebenfalls dazu, Optionen auszuwählen oder abzuwählen und wird häufig innerhalb der CheckboxGroup verwendet."},"scope":{}},"examples":{"default":"import { CheckboxButton } from \"@mittwald/flow-react-components\";\n\n<CheckboxButton>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</CheckboxButton>;\n","form":"import {\n  Button,\n  CheckboxButton,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ acceptTerms: boolean }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"acceptTerms\"\n          rules={{ required: true }}\n        >\n          <CheckboxButton>\n            Ich stimme den AGBs zu und bestätige, dass ich\n            die Datenschutzhinweise zur Kenntnis genommen\n            habe.\n          </CheckboxButton>\n        </Field>\n        <Button type=\"submit\">Speichern</Button>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","checkbox-button"],"filename":"form-controls/checkbox-button/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout_tabsContainer__B1ngZ","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$","$L2",null,{"className":"layout_tabs__w0F_E","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/form-controls/checkbox-button/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/form-controls/checkbox-button/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/form-controls/checkbox-button/guidelines","children":"Guidelines"}],"$Ld"]}]]}]}]}],"$Le"]}]],null,"$Lf"]}],"loading":null,"isPartial":false}
+10:T1218,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Plain} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein CheckboxButton funktioniert in der Handhabung nahezu identisch wie eine\n", _jsx(_components.a, {
+        href: "/03-components/form-controls/checkbox/overview",
+        children: "Checkbox"
+      }), ". Der Unterschied liegt im\nErscheinungsbild. Je nach Gestaltung der Benutzeroberfläche oder je nach\nAnwendungsfall sollte individuell entschieden werden, welche der beiden\nComponents sinnvoller ist."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines CheckboxButtons darauf, dass..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "sie immer eine Beschriftung hat."
+      }), "\n", _jsx(_components.li, {
+        children: "die Beschriftung kurz und eindeutig ist. Sie sollte stets mit einem\nGroßbuchstaben beginnen."
+      }), "\n", _jsx(_components.li, {
+        children: "die Beschriftung in der Regel ohne Punkt endet – es sei denn, sie ist ein\nvollständiger Satz."
+      }), "\n", _jsx(_components.li, {
+        children: "der initiale Zustand (ausgewählt/nicht ausgewählt) nachvollziehbar und\nsinnvoll gewählt ist."
+      }), "\n", _jsx(_components.li, {
+        children: "das An- und Abhaken eines CheckboxButtons keinen anderen CheckboxButton\nverändert."
+      }), "\n", _jsxs(_components.li, {
+        children: ["bei mehreren CheckboxBUttons die Reihenfolge logisch und nachvollziehbar ist\n(siehe ", _jsx(_components.a, {
+          href: "/03-components/form-controls/checkbox-group/overview",
+          children: "CheckboxGroup"
+        }), ")."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen CheckboxButton, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "dem User die Auswahl einer oder mehrerer Optionen zu ermöglichen."
+      }), "\n", _jsx(_components.li, {
+        children: "einzelne Zustimmungen (z. B. AGBs) vom User einzuholen."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "CheckboxButton vs. Switch"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit den Components CheckboxButton und\n", _jsx(_components.a, {
+        href: "/03-components/form-controls/switch/overview",
+        children: "Switch"
+      }), " können Optionen\naktiviert/ausgewählt werden. Um die Unterschiede klarer zu machen, hier einige\nhilfreiche Anhaltspunkte."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende einen CheckboxButton, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "dem User eine Auswahloption zur Bestätigung zu geben."
+          }), "\n", _jsx(_components.li, {
+            children: "Auswahlmöglichkeiten in einem Formular anzubieten, die gespeichert werden müssen."
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende einen Switch, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "eine Funktion direkt zu aktivieren oder zu deaktivieren."
+          }), "\n", _jsx(_components.li, {
+            children: "eine Einstellung sofort zu ändern, ohne sie separat speichern zu müssen."
+          }), "\n"]
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+d:["$","div",null,{"className":"layout_mainContent__ssvon","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"default":"import { CheckboxButton } from \"@mittwald/flow-react-components\";\n\n<CheckboxButton>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</CheckboxButton>;\n","form":"import {\n  Button,\n  CheckboxButton,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ acceptTerms: boolean }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"acceptTerms\"\n          rules={{ required: true }}\n        >\n          <CheckboxButton>\n            Ich stimme den AGBs zu und bestätige, dass ich\n            die Datenschutzhinweise zur Kenntnis genommen\n            habe.\n          </CheckboxButton>\n        </Field>\n        <Button type=\"submit\">Speichern</Button>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","checkbox-button"],"filename":"form-controls/checkbox-button/guidelines.mdx","anchors":["Grundlagen"]}}]}]
+e:["$","$L11",null,{"currentPath":"/03-components/form-controls/checkbox-button/guidelines","anchors":"$d:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+f:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

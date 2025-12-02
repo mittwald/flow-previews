@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+2:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"LayoutCard"]
+3:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"ColumnLayout"]
+4:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Section"]
+5:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Heading"]
+6:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Link"]
+7:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"IconExternalLink"]
+8:I[47509,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"default"]
+d:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Flex"]
+e:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Tabs"]
+f:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"Tab"]
+10:I[73954,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"TabTitle"]
+16:I[5092,[],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:I[543,["275","static/chunks/56e56dd1-2b3b640fc69bf5db.js","7","static/chunks/7913f1fe-be32d673d865970a.js","348","static/chunks/b601c95a-afeea1cd0b026446.js","449","static/chunks/7d67aa13-19297b6ad185bded.js","52","static/chunks/0f9dcbb3-9be8cdda167d3502.js","315","static/chunks/bdba24f1-bbc8cb398d5e31a8.js","458","static/chunks/b9482325-09d94e1457c94efe.js","277","static/chunks/277-9c885356be0b84e4.js","29","static/chunks/29-95667530f3a67cf8.js","260","static/chunks/260-43e891971359a5fd.js","954","static/chunks/954-8db78e27f8cba76f.js","509","static/chunks/509-c203ca71e5e6db34.js","651","static/chunks/app/03-components/%5Bgroup%5D/%5Bcomponent%5D/develop/page-088fcc58dffe8624.js"],"default"]
+9:T418,import {
+  Align,
+  Avatar,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Header,
+  Initials,
+  MenuItem,
+  Message,
+  Text,
+  Markdown,
+} from "@mittwald/flow-react-components";
+
+<Message>
+  <Header>
+    <ContextMenuTrigger>
+      <Button />
+      <ContextMenu>
+        <MenuItem>Bearbeiten</MenuItem>
+        <MenuItem>Löschen</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+    <Align>
+      <Avatar>
+        <Initials>Max Mustermann</Initials>
+      </Avatar>
+      <Text>
+        <b>Max Mustermann</b>
+        Organisationsinhaber
+      </Text>
+    </Align>
+    <Text>01.09.2024, 12:45</Text>
+  </Header>
+
+  <Content>
+    <Markdown>
+      Lorem ipsum dolor sit amet, consetetur **sadipscing
+      elitr**, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed *diam
+      voluptua*. At vero eos et accusam et justo duo dolores
+      et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum ***dolor sit amet***.
+    </Markdown>
+  </Content>
+</Message>;
+a:T406,import {
+  Align,
+  Avatar,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Header,
+  Initials,
+  MenuItem,
+  Message,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Message type="sender">
+  <Header>
+    <ContextMenuTrigger>
+      <Button />
+      <ContextMenu>
+        <MenuItem>Bearbeiten</MenuItem>
+        <MenuItem>Löschen</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+    <Align>
+      <Avatar>
+        <Initials>Max Mustermann</Initials>
+      </Avatar>
+      <Text>
+        <b>Max Mustermann</b>
+        Organisationsinhaber
+      </Text>
+    </Align>
+    <Text>01.09.2024, 12:45</Text>
+  </Header>
+
+  <Content>
+    <Text>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores
+      et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum dolor sit amet.
+    </Text>
+  </Content>
+</Message>;
+0:{"buildId":"0Cz81lofwMUuNDbA9QlF5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Message"}],"Eine Message stellt Nachrichten mit Autor-Informationen, Datum und Aktionen übersichtlich dar.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Message","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Message","description":"Eine Message stellt Nachrichten mit Autor-Informationen, Datum und Aktionen übersichtlich dar."},"scope":{}},"examples":{"default":"import {\n  Align,\n  Avatar,\n  Button,\n  Content,\n  ContextMenu,\n  ContextMenuTrigger,\n  Header,\n  Initials,\n  MenuItem,\n  Message,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Message>\n  <Header>\n    <ContextMenuTrigger>\n      <Button />\n      <ContextMenu>\n        <MenuItem>Bearbeiten</MenuItem>\n        <MenuItem>Löschen</MenuItem>\n      </ContextMenu>\n    </ContextMenuTrigger>\n    <Align>\n      <Avatar>\n        <Initials>Max Mustermann</Initials>\n      </Avatar>\n      <Text>\n        <b>Max Mustermann</b>\n        Organisationsinhaber\n      </Text>\n    </Align>\n    <Text>01.09.2024, 12:45</Text>\n  </Header>\n\n  <Content>\n    <Text>\n      Lorem ipsum dolor sit amet, consetetur sadipscing\n      elitr, sed diam nonumy eirmod tempor invidunt ut\n      labore et dolore magna aliquyam erat, sed diam\n      voluptua. At vero eos et accusam et justo duo dolores\n      et ea rebum. Stet clita kasd gubergren, no sea\n      takimata sanctus est Lorem ipsum dolor sit amet.\n    </Text>\n  </Content>\n</Message>;\n","markdown":"$9","sender":"$a"},"slugs":["chat","message"],"filename":"chat/message/index.mdx","anchors":[]}}]]}]}],"$Lb"],null,"$Lc"]}],"loading":null,"isPartial":false}
+11:T40f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    h1: "h1",
+    ..._provideComponents(),
+    ...props.components
+  }, {PropertiesTables} = _components;
+  if (!PropertiesTables) _missingMdxReference("PropertiesTables", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Properties"
+    }), "\n", _jsx(PropertiesTables, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+12:T418,import {
+  Align,
+  Avatar,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Header,
+  Initials,
+  MenuItem,
+  Message,
+  Text,
+  Markdown,
+} from "@mittwald/flow-react-components";
+
+<Message>
+  <Header>
+    <ContextMenuTrigger>
+      <Button />
+      <ContextMenu>
+        <MenuItem>Bearbeiten</MenuItem>
+        <MenuItem>Löschen</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+    <Align>
+      <Avatar>
+        <Initials>Max Mustermann</Initials>
+      </Avatar>
+      <Text>
+        <b>Max Mustermann</b>
+        Organisationsinhaber
+      </Text>
+    </Align>
+    <Text>01.09.2024, 12:45</Text>
+  </Header>
+
+  <Content>
+    <Markdown>
+      Lorem ipsum dolor sit amet, consetetur **sadipscing
+      elitr**, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed *diam
+      voluptua*. At vero eos et accusam et justo duo dolores
+      et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum ***dolor sit amet***.
+    </Markdown>
+  </Content>
+</Message>;
+13:T406,import {
+  Align,
+  Avatar,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Header,
+  Initials,
+  MenuItem,
+  Message,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Message type="sender">
+  <Header>
+    <ContextMenuTrigger>
+      <Button />
+      <ContextMenu>
+        <MenuItem>Bearbeiten</MenuItem>
+        <MenuItem>Löschen</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+    <Align>
+      <Avatar>
+        <Initials>Max Mustermann</Initials>
+      </Avatar>
+      <Text>
+        <b>Max Mustermann</b>
+        Organisationsinhaber
+      </Text>
+    </Align>
+    <Text>01.09.2024, 12:45</Text>
+  </Header>
+
+  <Content>
+    <Text>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores
+      et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum dolor sit amet.
+    </Text>
+  </Content>
+</Message>;
+b:["$","$Ld",null,{"columnGap":"m","className":"layout_tabsContainer__B1ngZ","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout_tabsContainer__B1ngZ","children":["$","$L2",null,{"className":"layout_tabs__w0F_E","children":["$","$Le",null,{"selectedKey":"develop","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/chat/message/overview","children":"Overview"}],false]}],["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/chat/message/develop","children":"Develop"}],["$","div",null,{"className":"layout_mainContent__ssvon","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  Align,\n  Avatar,\n  Button,\n  Content,\n  ContextMenu,\n  ContextMenuTrigger,\n  Header,\n  Initials,\n  MenuItem,\n  Message,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Message>\n  <Header>\n    <ContextMenuTrigger>\n      <Button />\n      <ContextMenu>\n        <MenuItem>Bearbeiten</MenuItem>\n        <MenuItem>Löschen</MenuItem>\n      </ContextMenu>\n    </ContextMenuTrigger>\n    <Align>\n      <Avatar>\n        <Initials>Max Mustermann</Initials>\n      </Avatar>\n      <Text>\n        <b>Max Mustermann</b>\n        Organisationsinhaber\n      </Text>\n    </Align>\n    <Text>01.09.2024, 12:45</Text>\n  </Header>\n\n  <Content>\n    <Text>\n      Lorem ipsum dolor sit amet, consetetur sadipscing\n      elitr, sed diam nonumy eirmod tempor invidunt ut\n      labore et dolore magna aliquyam erat, sed diam\n      voluptua. At vero eos et accusam et justo duo dolores\n      et ea rebum. Stet clita kasd gubergren, no sea\n      takimata sanctus est Lorem ipsum dolor sit amet.\n    </Text>\n  </Content>\n</Message>;\n","markdown":"$12","sender":"$13"},"slugs":["chat","message"],"filename":"chat/message/develop.mdx","anchors":["Properties"]}}]}]]}],"$L14"]}]}]}],"$L15"]}]
+c:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+14:["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/chat/message/guidelines","children":"Guidelines"}],false]}]
+15:["$","$L19",null,{"currentPath":"/03-components/chat/message/develop","anchors":"$b:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:props:mdxFile:anchors","title":"Develop"}]
+18:null
