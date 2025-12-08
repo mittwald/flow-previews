@@ -1,0 +1,403 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"default"]
+d:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Flex"]
+e:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Tabs"]
+f:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"Tab"]
+10:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"TabTitle"]
+13:I[124952,["/flow-previews/docs/2165/merge/_next/static/chunks/98f97f4ff58011e4.js","/flow-previews/docs/2165/merge/_next/static/chunks/8ea50e9e950168dc.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[142373,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js"],"default"]
+0:{"buildId":"LITfGTSLqXdoAaJsKsDCs","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Button"}],"Mit einem Button können User Aktionen ausführen. Je nach Bedarf kann ein Button – mit Text und/oder mit einem Icon – in verschiedenen Größen und Typen gewählt werden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Button","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Button","description":"Mit einem Button können User Aktionen ausführen. Je nach Bedarf kann ein Button – mit Text und/oder mit einem Icon – in verschiedenen Größen und Typen gewählt werden."},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  Label,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <TextField>\n    <Label>Weiterleitungsziel</Label>\n  </TextField>\n  <Button>Hinzufügen</Button>\n</Align>;\n","colors":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"primary\">Fortfahren/Aktion</Button>\n  <Button color=\"secondary\">Abbrechen/Zurück</Button>\n  <Button color=\"accent\">Erstellen/Speichern</Button>\n  <Button color=\"danger\">Löschen/Kündigen</Button>\n</Row>;\n","dark":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"dark\">Dark</Button>\n  <Button variant=\"soft\" color=\"dark\">\n    Dark\n  </Button>\n  <Button variant=\"plain\" color=\"dark\">\n    Dark\n  </Button>\n  <Button variant=\"outline\" color=\"dark\">\n    Dark\n  </Button>\n</Row>;\n","default":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button\n  onPress={() => {\n    alert(\"Button gedrückt\");\n  }}\n>\n  Button\n</Button>;\n","hierarchy-order-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button variant=\"soft\" color=\"secondary\">\n    Pausieren\n  </Button>\n  <Button color=\"secondary\">Stoppen</Button>\n  <Button>Starten</Button>\n</Row>;\n","hierarchy-order-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"secondary\">Stoppen</Button>\n  <Button variant=\"soft\" color=\"secondary\">\n    Pausieren\n  </Button>\n  <Button>Starten</Button>\n</Row>;\n","hierarchy-soft-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button variant=\"soft\" color=\"secondary\">\n    Zurück\n  </Button>\n  <Button>Weiter</Button>\n</Row>;\n","hierarchy-solid-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"secondary\">\n    Speichern & weitere anlegen\n  </Button>\n  <Button color=\"accent\">Anlegen</Button>\n</Row>;\n","icon-clarity-do":"import {\n  Button,\n  IconFilter,\n  IconSorting,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <TextField value=\"Suche\" aria-label=\"Suche\" />\n  <Button variant=\"plain\" aria-label=\"Sortierung\">\n    <IconSorting />\n  </Button>\n  <Button variant=\"plain\" aria-label=\"Filter\">\n    <IconFilter />\n  </Button>\n  <Button variant=\"outline\" aria-label=\"Filter\">\n    <IconFilter />\n  </Button>\n</Row>;\n","icon-clarity-dont":"import {\n  Button,\n  Icon,\n  TextField,\n} from \"@mittwald/flow-react-components\";\nimport { IconCat, IconDog } from \"@tabler/icons-react\";\n\n<Row>\n  <TextField value=\"Suche\" aria-label=\"Suche\" />\n  <Button variant=\"plain\" aria-label=\"Katze\">\n    <Icon>\n      <IconCat />\n    </Icon>\n  </Button>\n  <Button variant=\"plain\" aria-label=\"Hund\">\n    <Icon>\n      <IconDog />\n    </Icon>\n  </Button>\n  <Button variant=\"outline\" aria-label=\"Hund\">\n    <Icon>\n      <IconDog />\n    </Icon>\n  </Button>\n</Row>;\n","icon-context-menu-do":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  Icon,\n  IconChevronDown,\n  IconEmail,\n  MenuItem,\n  Text,\n} from \"@mittwald/flow-react-components\";\nimport { IconAt } from \"@tabler/icons-react\";\n\n<ContextMenuTrigger>\n  <Button color=\"accent\">\n    <Text>E-Mail-Addresse anlegen</Text>\n    <IconChevronDown />\n  </Button>\n  <ContextMenu aria-label=\"E-Mail-Addresse anlegen\">\n    <MenuItem id=\"1\">\n      <Icon>\n        <IconAt />\n      </Icon>\n      <Text>Weiterleitungsaddresse</Text>\n    </MenuItem>\n    <MenuItem id=\"2\">\n      <IconEmail />\n      <Text>E-Mail-Adresse</Text>\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","icon":"import {\n  Button,\n  IconHome,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\" aria-label=\"Home\">\n    <IconHome />\n  </Button>\n  <Button aria-label=\"Home\">\n    <IconHome />\n  </Button>\n</Row>;\n","iconText":"import {\n  Button,\n  IconChevronDown,\n  IconClose,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\">\n    <Text>E-Mail hinzufügen</Text>\n    <IconChevronDown />\n  </Button>\n  <Button>\n    <Text>E-Mail hinzufügen</Text>\n    <IconChevronDown />\n  </Button>\n  <Button size=\"s\">\n    <Text>Filter</Text>\n    <IconClose />\n  </Button>\n  <Button>\n    <Text>Filter</Text>\n    <IconClose />\n  </Button>\n</Row>;\n","light":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"light\">Light</Button>\n  <Button variant=\"soft\" color=\"light\">\n    Light\n  </Button>\n  <Button variant=\"plain\" color=\"light\">\n    Light\n  </Button>\n  <Button variant=\"outline\" color=\"light\">\n    Light\n  </Button>\n</Row>;\n","mobile-width-group-do":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Projekt anlegen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <TextField>\n      <Label>Projekt Name</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button>Weiter</Button>\n    <Button variant=\"soft\" color=\"secondary\">\n      Abbrechen\n    </Button>\n  </ActionGroup>\n</StaticModal>;\n","mobile-width-standard-do":"import {\n  Button,\n  HeaderNavigation,\n  Heading,\n  IconMenu,\n  IconSearch,\n  IconSupport,\n  LayoutCard,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section style={{ height: \"100%\" }}>\n  <HeaderNavigation\n    aria-label=\"Header Navigation\"\n    color=\"light\"\n    style={{ alignSelf: \"flex-end\" }}\n  >\n    <Button>\n      <IconSearch />\n    </Button>\n    <Button>\n      <IconSupport />\n    </Button>\n    <Button>\n      <IconMenu />\n    </Button>\n  </HeaderNavigation>\n  <Button color=\"accent\">Projekt anlegen</Button>\n  <LayoutCard style={{ width: \"100%\", flexGrow: \"1\" }}>\n    <Heading>Projekte</Heading>\n    <Text>...</Text>\n  </LayoutCard>\n</Section>;\n","sizes-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button>Weiter</Button>\n  <Button size=\"s\">Weiter</Button>\n  <Button size=\"s\">Weiter</Button>\n</Row>;\n","sizes":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\">Small</Button>\n  <Button>Medium</Button>\n</Row>;\n","states":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button isDisabled>Fortfahren/Aktion</Button>\n  <Button isPending>Fortfahren/Aktion</Button>\n  <Button isSucceeded>Fortfahren/Aktion</Button>\n  <Button isFailed>Fortfahren/Aktion</Button>\n</Row>;\n","text-clarity-do":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>\n      Möchtest du die Bestellung wirklich verlassen?\n    </Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Text>\n      Bist du sicher, dass du die Bestellung wirklich\n      verlassen möchtest? Deine eingegebenen Daten werden\n      nicht gespeichert.\n    </Text>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button color=\"secondary\" variant=\"soft\">\n      Bestellung fortsetzen\n    </Button>\n    <Button color=\"danger\">Bestellung verlassen</Button>\n  </ActionGroup>\n</StaticModal>;\n","text-clarity-dont":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>\n      Möchtest du die Bestellung wirklich verlassen?\n    </Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Text>\n      Bist du sicher, dass du die Bestellung wirklich\n      verlassen möchtest? Deine eingegebenen Daten werden\n      nicht gespeichert.\n    </Text>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button color=\"secondary\" variant=\"soft\">\n      Abbrechen\n    </Button>\n    <Button color=\"danger\">Verlassen</Button>\n  </ActionGroup>\n</StaticModal>;\n","text-length-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button color=\"accent\">Projekt anpassen</Button>;\n","text-length-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button color=\"accent\">\n  Projekt und\n  <br />\n  Tarif anpassen\n</Button>;\n","variants":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button>Solid</Button>\n  <Button variant=\"soft\">Soft</Button>\n  <Button variant=\"plain\">Plain</Button>\n  <Button variant=\"outline\">Outline</Button>\n</Row>;\n"},"slugs":["actions","button"],"filename":"actions/button/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+11:T48d0,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {Do, DoAndDont, Dont, Plain} = _components;
+  if (!Do) _missingMdxReference("Do", true);
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Dont) _missingMdxReference("Dont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit einem Button können Aktionen ausgeführt werden. Entweder wird die Aktion\ndirekt im Content-Bereich durchgeführt oder innerhalb eines\n", _jsx(_components.a, {
+        href: "/03-components/overlays/modal/overview",
+        children: "Modal"
+      }), ", ohne dass die Seite verlassen werden\nmuss. Ein Button hat eine hohe Sichtbarkeit und sollte daher nicht zu übermäßig\neingesetzt werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines Buttons darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "er für den User leicht zu finden und zu bedienen ist."
+      }), "\n", _jsx(_components.li, {
+        children: "die richtige Art von Button für die auszuführende Aktion gewählt wurde."
+      }), "\n", _jsx(_components.li, {
+        children: "er sparsam und gezielt verwendet wird, um eine gute Sichtbarkeit zu erhalten."
+      }), "\n", _jsx(_components.li, {
+        children: "der Text oder das Icon die Aktion klar und verständlich vermitteln."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen Button, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Aktionen wie Speichern und Zurücksetzen in Formularen anzuzeigen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["ein ", _jsx(_components.a, {
+          href: "/03-components/overlays/modal/overview",
+          children: "Modal"
+        }), " zu öffnen."]
+      }), "\n", _jsx(_components.li, {
+        children: "einen Erstellungsprozess zu starten oder auszuführen."
+      }), "\n", _jsx(_components.li, {
+        children: "Aktionen in einem Modal anzubieten."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Button vs. Link"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Buttons und ", _jsx(_components.a, {
+        href: "/03-components/navigation/link/overview",
+        children: "Links"
+      }), " werden häufig verwechselt.\nUm die beiden besser unterscheiden zu können, hier ein paar hilfreiche\nAnhaltspunkte."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende Buttons, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "eine Aktion auszuführen oder ein Event zu starten, ohne die Seite zu verlassen."
+          }), "\n", _jsx(_components.li, {
+            children: "Formulare zu speichern oder zurückzusetzen."
+          }), "\n", _jsxs(_components.li, {
+            children: ["in einem ", _jsx(_components.a, {
+              href: "/03-components/overlays/modal/overview",
+              children: "Modal"
+            }), " Aktionen auszuwählen."]
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende Links, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "zu einer anderen Seite zu navigieren."
+          }), "\n", _jsx(_components.li, {
+            children: "zu einem Anker zu auf der Seite zu scrollen."
+          }), "\n", _jsx(_components.li, {
+            children: "eine externe Seite zu öffnen."
+          }), "\n", _jsx(_components.li, {
+            children: "einen Download zu starten."
+          }), "\n"]
+        })
+      })]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Anwendung"
+    }), "\n", _jsx(_components.h2, {
+      children: "Position"
+    }), "\n", _jsx(_components.p, {
+      children: "Bei der Positionierung des Buttons sind folgende Punkte zu beachten:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Ein Button sollte gut sichtbar platziert werden, damit er vom User leicht\ngefunden wird."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Ein Button kann im Action-Bereich einer\n", _jsx(_components.a, {
+          href: "/03-components/structure/section/overview",
+          children: "Section"
+        }), " platziert werden, wenn er sich\nunmittelbar auf den Inhalt der Section bezieht."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Gruppiere Buttons derselben Variant und Color, um eine klare Struktur zu\nschaffen. Nutze dazu eine ", _jsx(_components.a, {
+          href: "/03-components/actions/action-group/overview",
+          children: "ActionGroup"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "Ein Button sollte immer ausreichend Kontrast zum Hintergrund (min. 3:1)\nbesitzen. Besonders auf farbigen Hintergründen empfiehlt es sich, dazu die\nColors Light oder Dark zu verwenden."
+      }), "\n", _jsx(_components.li, {
+        children: "Setze Buttons sparsam ein. Als Faustregel gilt, nicht mehr als zwei bis drei\nButtons nebeneinander zu platzieren."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Hierarchie"
+    }), "\n", _jsx(_components.p, {
+      children: "Die verschiedenen Button-Variants folgen einer klaren Hierarchie:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Verwende die Solid-Variant in den Colors Primary, Accent oder Danger für ", _jsx(_components.strong, {
+          children: "die\nwichtigsten Aktionen"
+        }), ". In der Regel sollte es pro Ansicht nur eine\nHauptaktion geben."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Für ", _jsx(_components.strong, {
+          children: "fast gleichwertige Nebenaktionen"
+        }), " eignet sich die Solid-Variante in der\nFarbe Secondary."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Die Soft-Variante passt gut für ", _jsx(_components.strong, {
+          children: "weniger wichtige Nebenaktionen"
+        }), ", wie z. B.\n„Schließen“ oder „Zurück“."]
+      }), "\n", _jsx(_components.li, {
+        children: "Die Outline-Variante kann ebenfalls für Nebenaktionen genutzt werden, wird\njedoch selten verwendet."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Für ", _jsx(_components.strong, {
+          children: "unauffälligere Aktionen"
+        }), ", die weniger Aufmerksamkeit erfordern, eignet\nsich die Plain-Variante."]
+      }), "\n", _jsx(_components.li, {
+        children: "Versuche, Buttons derselben Variant bzw. Color zu gruppieren."
+      }), "\n"]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "hierarchy-solid-do",
+        children: _jsx(_components.p, {
+          children: "Verwende zwei Solid-Button nebeneinander, wenn beide wichtige Aktionen\nenthalten."
+        })
+      }), _jsx(Do, {
+        example: "hierarchy-soft-do",
+        children: _jsx(_components.p, {
+          children: "Verwende die Soft-Variant, um Nebenaktionen weniger wichtig erscheinen zu\nlassen."
+        })
+      })]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "hierarchy-order-do",
+        children: _jsx(_components.p, {
+          children: "Versuche, ähnliche Buttons zu gruppieren. Zum Beispiel so, dass Buttons in\nder Solid-Variant nebeneinander stehen."
+        })
+      }), _jsx(Dont, {
+        example: "hierarchy-order-dont",
+        children: _jsx(_components.p, {
+          children: "Ignoriere nicht die Hierarchie der Buttons, die sie zueinander haben."
+        })
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Sizes"
+    }), "\n", _jsx(_components.p, {
+      children: "Buttons sind in den Sizes Medium und Small erhältlich. Die Höhe wird vom Inhalt\ndes Buttons bestimmt."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Medium"
+        }), " ist die Standardgröße und wird in den meisten Fällen verwendet."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Small"
+        }), " wird seltener verwendet und ist für Buttons gedacht, die\nplatzsparender sein sollten."]
+      }), "\n"]
+    }), "\n", _jsx(Dont, {
+      example: "sizes-dont",
+      children: _jsx(_components.p, {
+        children: "Verwende nie Buttons in den Sizes Medium und Small direkt nebeneinander."
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Feedback"
+    }), "\n", _jsx(_components.p, {
+      children: "Zeige dem User immer an, dass der Klick auf den Button eine Aktion auslöst:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Ein ", _jsx(_components.a, {
+          href: "/03-components/overlays/modal/overview",
+          children: "Modal"
+        }), " öffnet sich."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Ein Spinner, Häkchen oder ein Kreuz wird angezeigt, um zu signalisieren, dass\nein Prozess läuft, erfolgreich war oder fehlgeschlagen ist. Für die Steuerung\nwird die ", _jsx(_components.a, {
+          href: "/03-components/actions/action/overview",
+          children: "Action-Component"
+        }), " verwendet."]
+      }), "\n", _jsx(_components.li, {
+        children: "Mit den unterschiedlichen States eines Buttons, die Interaktivität vermitteln."
+      }), "\n"]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Writing guidelines"
+    }), "\n", _jsx(_components.h2, {
+      children: "Text"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte beim Verfassen des Textes besonders auf:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Der Button sollte maximal zwei Wörter als Beschreibung beinhalten."
+      }), "\n", _jsx(_components.li, {
+        children: "Die Aktion, die sich hinter dem Button verbirgt, sollte klar aus dem Text\nhervorgehen."
+      }), "\n", _jsx(_components.li, {
+        children: "Der Text im Button sollte nie mehrzeilig sein und auch auf kleinen\nBildschirmgrößen funktionieren. Zu langer Text wird automatisch auspunktiert."
+      }), "\n", _jsx(_components.li, {
+        children: "Das erste Wort im Button beginnt immer mit einem Großbuchstaben. Vermeide es,\nden Button ausschließlich in Großbuchstaben zu beschreiben."
+      }), "\n"]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "text-length-do",
+        children: "Beschreibe die Aktion kurz und prägnant."
+      }), _jsx(Dont, {
+        example: "text-length-dont",
+        children: _jsx(_components.p, {
+          children: "Werde nicht mehrzeilig und verwende nicht zu viele Wörter."
+        })
+      })]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "text-clarity-do",
+        zoom: 0.7,
+        bgColor: "dark",
+        children: _jsx(_components.p, {
+          children: "Beschreibe exakt und kurz, welche Aktion sich hinter den Buttons verbergen."
+        })
+      }), _jsx(Dont, {
+        example: "text-clarity-dont",
+        zoom: 0.7,
+        bgColor: "dark",
+        children: _jsx(_components.p, {
+          children: "Verwirre den User nicht mit mehrdeutigen Begriffen."
+        })
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Icon"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Achte bei der Auswahl des Icons besonders darauf, dass die\n", _jsx(_components.a, {
+        href: "/03-components/content/icon/overview",
+        children: "Icon-Component"
+      }), " verwendet und ein universell\nverständliches Icon gewählt wird."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "icon-clarity-do",
+        children: _jsx(_components.p, {
+          children: "Verwende Icons, die die Funktion hinter dem Icon visuell verdeutlichen."
+        })
+      }), _jsx(Dont, {
+        example: "icon-clarity-dont",
+        children: _jsx(_components.p, {
+          children: "Verwende keine Icons die nur gut aussehen, aber keine Funktion\nwiderspiegeln."
+        })
+      })]
+    }), "\n", _jsx(_components.h3, {
+      children: "Text mit Icon"
+    }), "\n", _jsx(_components.p, {
+      children: "Bei einer Kombination von Text und Icon muss das Icon dem User einen Mehrwert\nbieten. Es darf keinem rein dekorativen Zweck dienen und sollte dem User\nstattdessen helfen, die Funktion des Buttons zu verstehen."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Das Icon darf keinen rein dekorativen Zweck erfüllen."
+      }), "\n", _jsx(_components.li, {
+        children: "Das Icon sollte dem User verdeutlichen, welche Funktion oder Aktion sich\nhinter dem Button verbirgt. Dies kann z. B. der Fall sein, wenn ein\nChevron-Icon den User darauf hinweist, dass der Button ein Dropdown öffnet."
+      }), "\n"]
+    }), "\n", _jsx(Do, {
+      example: "icon-context-menu-do",
+      children: _jsx(_components.p, {
+        children: "Das Chevron-Icon zeigt an, dass ein Dropdown sich nach einem Klick öffnet."
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Behavior"
+    }), "\n", _jsx(_components.h2, {
+      children: "Responsive Layout"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Buttons behalten auch auf schmaleren Bildschirmen ihre Breite, es sei denn, sie\nbefinden sich in der ", _jsx(_components.a, {
+        href: "/03-components/overlays/modal/overview",
+        children: "Modal"
+      }), "-Navigation. Dort\nfüllen sie die volle Breite des Contents an, wenn die Bildschirmbreite kleiner\nals 400 px ist."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "mobile-width-group-do",
+        mobile: true,
+        heading: "Mobile Text- und Icon-Buttons",
+        children: _jsx(_components.p, {
+          children: "Buttons behalten in den meisten Fällen auch bei schmaleren Bildschirmbreiten\ndie gewählte Größe. Die Position der Buttons kann sich jedoch der Breite\nanpassen."
+        })
+      }), _jsx(Do, {
+        example: "mobile-width-standard-do",
+        mobile: true,
+        bgColor: "dark",
+        heading: "Mobile Modal-Buttons",
+        children: _jsx(_components.p, {
+          children: "Um auch mobil eine schnelle Navigation durch ein Modal zu ermöglichen,\nfüllen die Buttons im unteren Bereich des Modals die gesamte Breite des\nContents aus."
+        })
+      })]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+      children: "Accessibility"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte beim Button darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["ein ", _jsx(_components.a, {
+          href: "/03-components/overlays/tooltip/overview",
+          children: "Tooltip"
+        }), " das Icon beschreibt, wenn das\nIcon selbst nicht verständlich genug ist"]
+      }), "\n", _jsx(_components.li, {
+        children: "man den Button auch per Tastatur erreichen kann."
+      }), "\n", _jsx(_components.li, {
+        children: "der Screenreader den Button als Button erkennt."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Icon"
+    }), "\n", _jsx(_components.p, {
+      children: "Bei einem reinen Icon-Button müssen folgende Dinge beachtet werden:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Das Icon erhält in diesem Fall automatisch das Attribut ", _jsx(_components.strong, {
+          children: "aria-hidden=true"
+        }), "."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Verwende ein ", _jsx(_components.strong, {
+          children: "aria-label"
+        }), ", um die Aktion des Buttons zu beschreiben."]
+      }), "\n", _jsx(_components.li, {
+        children: "Achte außerdem darauf, einen Tooltip anzuzeigen, der die Aktion beschreibt."
+      }), "\n"]
+    }), "\n", _jsx(_components.h3, {
+      children: "Color"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei den Colors Light und Dark auf einen genügenden Kontrast zum\nHintergrund. Es wird empfohlen, eine Color in Light zu verwenden, wenn der HSL\nLightness-Wert des Hintergrunds weniger als 50 ist. Die Color Dark wird für\nHintergründe empfohlen, die einen HSL Lightness-Wert von größer als 50 haben."
+    }), "\n", _jsx(_components.p, {
+      children: "Für beide Colors gilt: Je weiter der HSL Lightness-Wert von 50 entfernt ist,\ndesto besser ist der Kontrast."
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        example: "light",
+        bgColor: "dark",
+        children: _jsx(_components.p, {
+          children: "Die Color Light kommt besonders gut auf sehr dunklen Hintergründen zur\nGeltung. Verwende sie auf Hintergründen mit einem HSL Lightness-Wert von\nweniger als 50."
+        })
+      }), _jsx(Do, {
+        example: "dark",
+        bgColor: "light",
+        children: _jsx(_components.p, {
+          children: "Color Dark kommt besonders gut auf sehr hellen Hintergründen zur Geltung. Verwende sie auf Hintergründen mit einem\nHSL Lightness-Wert von über 50."
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Ld",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Le",null,{"selectedKey":"guidelines","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/actions/button/overview","children":"Overview"}],false]}],["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/actions/button/develop","children":"Develop"}],false]}],["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/actions/button/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  Label,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <TextField>\n    <Label>Weiterleitungsziel</Label>\n  </TextField>\n  <Button>Hinzufügen</Button>\n</Align>;\n","colors":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"primary\">Fortfahren/Aktion</Button>\n  <Button color=\"secondary\">Abbrechen/Zurück</Button>\n  <Button color=\"accent\">Erstellen/Speichern</Button>\n  <Button color=\"danger\">Löschen/Kündigen</Button>\n</Row>;\n","dark":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"dark\">Dark</Button>\n  <Button variant=\"soft\" color=\"dark\">\n    Dark\n  </Button>\n  <Button variant=\"plain\" color=\"dark\">\n    Dark\n  </Button>\n  <Button variant=\"outline\" color=\"dark\">\n    Dark\n  </Button>\n</Row>;\n","default":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button\n  onPress={() => {\n    alert(\"Button gedrückt\");\n  }}\n>\n  Button\n</Button>;\n","hierarchy-order-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button variant=\"soft\" color=\"secondary\">\n    Pausieren\n  </Button>\n  <Button color=\"secondary\">Stoppen</Button>\n  <Button>Starten</Button>\n</Row>;\n","hierarchy-order-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"secondary\">Stoppen</Button>\n  <Button variant=\"soft\" color=\"secondary\">\n    Pausieren\n  </Button>\n  <Button>Starten</Button>\n</Row>;\n","hierarchy-soft-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button variant=\"soft\" color=\"secondary\">\n    Zurück\n  </Button>\n  <Button>Weiter</Button>\n</Row>;\n","hierarchy-solid-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"secondary\">\n    Speichern & weitere anlegen\n  </Button>\n  <Button color=\"accent\">Anlegen</Button>\n</Row>;\n","icon-clarity-do":"import {\n  Button,\n  IconFilter,\n  IconSorting,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <TextField value=\"Suche\" aria-label=\"Suche\" />\n  <Button variant=\"plain\" aria-label=\"Sortierung\">\n    <IconSorting />\n  </Button>\n  <Button variant=\"plain\" aria-label=\"Filter\">\n    <IconFilter />\n  </Button>\n  <Button variant=\"outline\" aria-label=\"Filter\">\n    <IconFilter />\n  </Button>\n</Row>;\n","icon-clarity-dont":"import {\n  Button,\n  Icon,\n  TextField,\n} from \"@mittwald/flow-react-components\";\nimport { IconCat, IconDog } from \"@tabler/icons-react\";\n\n<Row>\n  <TextField value=\"Suche\" aria-label=\"Suche\" />\n  <Button variant=\"plain\" aria-label=\"Katze\">\n    <Icon>\n      <IconCat />\n    </Icon>\n  </Button>\n  <Button variant=\"plain\" aria-label=\"Hund\">\n    <Icon>\n      <IconDog />\n    </Icon>\n  </Button>\n  <Button variant=\"outline\" aria-label=\"Hund\">\n    <Icon>\n      <IconDog />\n    </Icon>\n  </Button>\n</Row>;\n","icon-context-menu-do":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  Icon,\n  IconChevronDown,\n  IconEmail,\n  MenuItem,\n  Text,\n} from \"@mittwald/flow-react-components\";\nimport { IconAt } from \"@tabler/icons-react\";\n\n<ContextMenuTrigger>\n  <Button color=\"accent\">\n    <Text>E-Mail-Addresse anlegen</Text>\n    <IconChevronDown />\n  </Button>\n  <ContextMenu aria-label=\"E-Mail-Addresse anlegen\">\n    <MenuItem id=\"1\">\n      <Icon>\n        <IconAt />\n      </Icon>\n      <Text>Weiterleitungsaddresse</Text>\n    </MenuItem>\n    <MenuItem id=\"2\">\n      <IconEmail />\n      <Text>E-Mail-Adresse</Text>\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","icon":"import {\n  Button,\n  IconHome,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\" aria-label=\"Home\">\n    <IconHome />\n  </Button>\n  <Button aria-label=\"Home\">\n    <IconHome />\n  </Button>\n</Row>;\n","iconText":"import {\n  Button,\n  IconChevronDown,\n  IconClose,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\">\n    <Text>E-Mail hinzufügen</Text>\n    <IconChevronDown />\n  </Button>\n  <Button>\n    <Text>E-Mail hinzufügen</Text>\n    <IconChevronDown />\n  </Button>\n  <Button size=\"s\">\n    <Text>Filter</Text>\n    <IconClose />\n  </Button>\n  <Button>\n    <Text>Filter</Text>\n    <IconClose />\n  </Button>\n</Row>;\n","light":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button color=\"light\">Light</Button>\n  <Button variant=\"soft\" color=\"light\">\n    Light\n  </Button>\n  <Button variant=\"plain\" color=\"light\">\n    Light\n  </Button>\n  <Button variant=\"outline\" color=\"light\">\n    Light\n  </Button>\n</Row>;\n","mobile-width-group-do":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Projekt anlegen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <TextField>\n      <Label>Projekt Name</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button>Weiter</Button>\n    <Button variant=\"soft\" color=\"secondary\">\n      Abbrechen\n    </Button>\n  </ActionGroup>\n</StaticModal>;\n","mobile-width-standard-do":"import {\n  Button,\n  HeaderNavigation,\n  Heading,\n  IconMenu,\n  IconSearch,\n  IconSupport,\n  LayoutCard,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section style={{ height: \"100%\" }}>\n  <HeaderNavigation\n    aria-label=\"Header Navigation\"\n    color=\"light\"\n    style={{ alignSelf: \"flex-end\" }}\n  >\n    <Button>\n      <IconSearch />\n    </Button>\n    <Button>\n      <IconSupport />\n    </Button>\n    <Button>\n      <IconMenu />\n    </Button>\n  </HeaderNavigation>\n  <Button color=\"accent\">Projekt anlegen</Button>\n  <LayoutCard style={{ width: \"100%\", flexGrow: \"1\" }}>\n    <Heading>Projekte</Heading>\n    <Text>...</Text>\n  </LayoutCard>\n</Section>;\n","sizes-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button>Weiter</Button>\n  <Button size=\"s\">Weiter</Button>\n  <Button size=\"s\">Weiter</Button>\n</Row>;\n","sizes":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button size=\"s\">Small</Button>\n  <Button>Medium</Button>\n</Row>;\n","states":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button isDisabled>Fortfahren/Aktion</Button>\n  <Button isPending>Fortfahren/Aktion</Button>\n  <Button isSucceeded>Fortfahren/Aktion</Button>\n  <Button isFailed>Fortfahren/Aktion</Button>\n</Row>;\n","text-clarity-do":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>\n      Möchtest du die Bestellung wirklich verlassen?\n    </Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Text>\n      Bist du sicher, dass du die Bestellung wirklich\n      verlassen möchtest? Deine eingegebenen Daten werden\n      nicht gespeichert.\n    </Text>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button color=\"secondary\" variant=\"soft\">\n      Bestellung fortsetzen\n    </Button>\n    <Button color=\"danger\">Bestellung verlassen</Button>\n  </ActionGroup>\n</StaticModal>;\n","text-clarity-dont":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>\n      Möchtest du die Bestellung wirklich verlassen?\n    </Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Text>\n      Bist du sicher, dass du die Bestellung wirklich\n      verlassen möchtest? Deine eingegebenen Daten werden\n      nicht gespeichert.\n    </Text>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Button color=\"secondary\" variant=\"soft\">\n      Abbrechen\n    </Button>\n    <Button color=\"danger\">Verlassen</Button>\n  </ActionGroup>\n</StaticModal>;\n","text-length-do":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button color=\"accent\">Projekt anpassen</Button>;\n","text-length-dont":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Button color=\"accent\">\n  Projekt und\n  <br />\n  Tarif anpassen\n</Button>;\n","variants":"import { Button } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <Button>Solid</Button>\n  <Button variant=\"soft\">Soft</Button>\n  <Button variant=\"plain\">Plain</Button>\n  <Button variant=\"outline\">Outline</Button>\n</Row>;\n"},"slugs":["actions","button"],"filename":"actions/button/guidelines.mdx","anchors":["Grundlagen","Anwendung","Writing guidelines","Behavior"]}}]}]]}]]}]}]}],"$L12"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/878e6a47489c3180.js","async":true}]
+b:["$","script","script-1",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/64c002baab30bf6a.js","async":true}]
+c:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+12:["$","$L16",null,{"currentPath":"/03-components/actions/button/guidelines","anchors":"$9:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+15:null
