@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js"],"default"]
+2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/5f4e620272fcebf1.js","/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js"],"default"]
 b:I[124952,["/flow-previews/docs/2165/merge/_next/static/chunks/98f97f4ff58011e4.js","/flow-previews/docs/2165/merge/_next/static/chunks/8ea50e9e950168dc.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
 7:T542,"use strict";
@@ -38,7 +38,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-8:T58b5,"use strict";
+8:T599d,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -288,9 +288,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h3, {
       children: "Listenseite"
     }), "\n", _jsxs(_components.p, {
-      children: ["Eine Liste gilt als einzelne Section. Der ", _jsx(_components.code, {
+      children: ["Eine Listenseite enthält in der Regel eine einzelne Section. Der ", _jsx(_components.code, {
         children: "sectionsCount"
-      }), " beträgt daher 1. Der Count der Liste wird zuerst geladen, damit die gesamte Liste im Fehlerfall in die ErrorView wechseln kann."]
+      }), " beträgt hier daher 1. Der Count der Liste wird zuerst geladen, damit die gesamte Liste im Fehlerfall in die ErrorView wechseln kann."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const CronjobsPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 1 }}>\n    {() => {\n      const { projectId } = usePathParams(\"projectId\");\n      const projectGhost = ProjectGhost.ofId(projectId);\n      const cronjobCount = projectGhost.cronjobs.getTotalCount().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={projectGhost} />\n          <WithBoundaries.Section>\n            {backupCount === 0 ? <CronjobIllustratedMessage project={projectGhost} /> : <CronjobList project={projectGhost} />}\n          </WithBoundaries.Section>\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
@@ -300,7 +300,7 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Der ", _jsx(_components.code, {
         children: "sectionsCount"
-      }), " sollte der erwarteten Anzahl an Sections entsprechen. So bleibt das Layout während des Ladevorgangs stabil. Das Hauptelement der Seite wir zuerst geladen, damit im Fehlerfall für die gesamte Seite eine ErrorView anngezeigt werden kann."]
+      }), " sollte der erwarteten Anzahl an Sections entsprechen. So bleibt das Layout während des Ladevorgangs stabil. Das Hauptelement der Seite wir zuerst geladen, damit im Fehlerfall für die gesamte Seite eine ErrorView angezeigt werden kann."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const CronjobPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 2 }}>\n    {() => {\n      const { cronjobId } = usePathParams(\"cronjobId\");\n      const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={cronjob.project} />\n          <GeneralSection cronjob={cronjob} />\n          <IntervalSection cronjob={cronjob} />\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
@@ -316,11 +316,15 @@ function _createMdxContent(props) {
         children: "export const CronjobTabs: FC = () => (\n  <LayoutCard>\n    <Tabs>\n      <Tab>\n        <TabTitle>Allgemein</TabTitle>\n        <WithBoundaries.SectionsFragment suspenseFallbackProps={{ sectionsCount: 3 }}>\n          {() => {\n            const { cronjobId } = usePathParams(\"cronjobId\");\n            const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n            return (\n              <>\n                <ProjectDeactivatedAlert project={cronjob.project} />\n                <GeneralSection cronjob={cronjob} />\n                <IntervalSection cronjob={cronjob} />\n              </>\n            );\n          }}\n        </WithBoundaries.SectionsFragment>\n      </Tab>\n    </Tabs>\n  </LayoutCard>\n);\n"
       })
     }), "\n", _jsx(_components.h2, {
-      children: "Inhalte von Forms in Modals (WithBoundaries.Modal)"
+      children: "Modals (WithBoundaries.Modal)"
     }), "\n", _jsxs(_components.p, {
-      children: ["Eine teilweise geladene oder fehlerhafte Form untergräbt das Vertrauen der User\nund kann zu unvollständigen oder inkonsistenten Daten führen. Daher sollte eine\nForm immer mithilfe von ", _jsx(_components.code, {
+      children: ["Für Modals sollte immer in ein ", _jsx(_components.code, {
         children: "WithBoundaries.Modal"
-      }), " geschützt werden. Sobald\ninnerhalb der Form ein Fehler aufftritt, fällt das automatisch das ganze Modal\nin eine ErrorView, auch wenn es darin noch Boundaries gibt."]
+      }), " verwendet werden. Dies verhindert auch das Nachladen von Daten innerhalb des Modals, bevor das Modal geöffnet wurde."]
+    }), "\n", _jsx(_components.h3, {
+      children: "Inhalte von Forms in Modals"
+    }), "\n", _jsx(_components.p, {
+      children: "Eine teilweise geladene oder fehlerhafte Form untergräbt das Vertrauen der User\nund kann zu unvollständigen oder inkonsistenten Daten führen. Sobald\ninnerhalb der Form ein Fehler aufftritt, fällt das automatisch das ganze Modal\nin eine ErrorView, auch wenn es darin noch Boundaries gibt."
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "interface Props {\n  cronjob:CronjobProxy;\n  controller?: OverlayController;\n}\n\nexport const RenameCronjobModal: FC<Props> = (props) => (\n  <WithBoundaries.Modal controller={props.controller}>\n    {() => {\n      const { cronjobProxy } = asProxyProps(props, [\"cronjob\"]);\n      const controller = useOverlayController(\"Modal\");\n      const form = useForm();\n      const handleOnSubmit = async () => {\n        ...\n        controller.close();\n      };\n\n      return (\n        <Form form={form} onSubmit={handleOnSubmit}>\n          ...\n        </Form>\n      );\n    }}\n  </WithBoundaries.Modal>\n);\n"
@@ -419,7 +423,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"x1r-Y4YNHO4yyJ3CO1bTq","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/2c2cf232670022b3.js","async":true}]
+0:{"buildId":"pnRaaVrU9eOZKSwGxyLKo","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/1d53b012826d84b2.js","async":true}]
 a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
 d:null
