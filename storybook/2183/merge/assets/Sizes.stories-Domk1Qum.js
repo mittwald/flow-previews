@@ -1,0 +1,17 @@
+import a from"./Default.stories-DKVjosS2.js";import"./iframe-BIOR2-hs.js";import"./preload-helper-PPVm8Dsz.js";import"./Avatar-BUQx2CI1.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-RMvdN3RZ.js";import"./mergeRefs-U5WlywcK.js";import"./index-k9AOzptS.js";import"./AlertIcon-BvUo9Etu.js";import"./IconWarning-DZ71cvXF.js";import"./remote-CjhnXpnY.js";import"./useLocalizedStringFormatter-BKbYN9ME.js";import"./context-BLOg-x3I.js";import"./Initials-D4NqoMu-.js";import"./Image-DwW9X8dg.js";import"./dummyText-CX_I_Wpl.js";const X={...a,title:"Content/Avatar/Sizes"},r={args:{size:"xs"}},e={args:{size:"s"}},s={args:{size:"m"}},o={args:{size:"l"}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  args: {
+    size: "xs"
+  }
+}`,...r.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    size: "s"
+  }
+}`,...e.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    size: "m"
+  }
+}`,...s.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    size: "l"
+  }
+}`,...o.parameters?.docs?.source}}};const _=["SizeXS","SizeS","SizeM","SizeL"];export{o as SizeL,s as SizeM,e as SizeS,r as SizeXS,_ as __namedExportsOrder,X as default};
