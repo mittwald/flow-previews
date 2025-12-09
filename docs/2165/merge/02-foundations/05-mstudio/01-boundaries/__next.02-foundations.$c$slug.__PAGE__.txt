@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js"],"default"]
+2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/74ce7ac749fdff47.js","/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js"],"default"]
 b:I[124952,["/flow-previews/docs/2165/merge/_next/static/chunks/98f97f4ff58011e4.js","/flow-previews/docs/2165/merge/_next/static/chunks/8ea50e9e950168dc.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
 7:T542,"use strict";
@@ -38,7 +38,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-8:T5ae7,"use strict";
+8:T5980,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -191,7 +191,7 @@ function _createMdxContent(props) {
           }), _jsx(_components.td, {
             children: "Menu Items mit Skeleton"
           }), _jsx(_components.td, {
-            children: "Menu Item mit Fehlertext"
+            children: "Menu Items mit Skeleton"
           })]
         }), _jsxs(_components.tr, {
           children: [_jsx(_components.td, {
@@ -217,7 +217,7 @@ function _createMdxContent(props) {
           }), _jsx(_components.td, {
             children: "Text"
           }), _jsx(_components.td, {
-            children: "Fehlertext"
+            children: "Einzeiliges Skeleton"
           }), _jsx(_components.td, {
             children: "Einzeiliges Skeleton"
           })]
@@ -231,7 +231,7 @@ function _createMdxContent(props) {
           }), _jsx(_components.td, {
             children: "Fragment"
           }), _jsx(_components.td, {
-            children: "Fehlertext"
+            children: "Einzeiliges Skeleton"
           }), _jsx(_components.td, {
             children: "Einzeiliges Skeleton"
           })]
@@ -245,7 +245,7 @@ function _createMdxContent(props) {
           }), _jsx(_components.td, {
             children: "Link"
           }), _jsx(_components.td, {
-            children: "Fehlertext"
+            children: "Einzeiliges Skeleton"
           }), _jsx(_components.td, {
             children: "Einzeiliges Skeleton"
           })]
@@ -259,7 +259,7 @@ function _createMdxContent(props) {
           }), _jsx(_components.td, {
             children: "Avatar"
           }), _jsx(_components.td, {
-            children: "Leerer Avatar"
+            children: "Leerer Skeleton"
           }), _jsx(_components.td, {
             children: "Avatar Skeleton"
           })]
@@ -284,15 +284,7 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Sind Funktionen oder Informationen einer LayoutCard essenziell für die Nutzung\nder Seite, sollte die gesamte LayoutCard mit ", _jsx(_components.code, {
         children: "WithBoundaries.LayoutCard"
-      }), "\numschlossen sein."]
-    }), "\n", _jsx(_components.p, {
-      children: "[Beispiel LayoutCard]"
-    }), "\n", _jsx(_components.h2, {
-      children: "Inhalte eines Tabs (WithBoundaries.SectionsFragment)"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Manchmal sind Inhalte einer Seite auf mehrere Tabs verteilt, sodass es sich\nlohnen kann einen Tab seperat zu schützen. Nutze dafür\n", _jsx(_components.code, {
-        children: "WithBoundaries.SectionsFragment"
-      }), " und gebe eine Anzahl der geladenen Sections\nals SectionsCount mit um entsprechende LoadingView zu steuern. Wird in dem Tab\neine Liste geladen, sollte sie mit dem SectionsCount 1 geladen werden."]
+      }), "\numschlossen sein. Dieser sollte die Anzahl der geladenen Sections als\nSectionsCount mitgegeben werden, um die LoadingView entsprechend anzuzeigen."]
     }), "\n", _jsx(_components.h3, {
       children: "Listenseite"
     }), "\n", _jsxs(_components.ul, {
@@ -312,15 +304,13 @@ function _createMdxContent(props) {
         children: "export const CronjobsPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 1 }}>\n    {() => {\n      const { projectId } = usePathParams(\"projectId\");\n      const projectGhost = ProjectGhost.ofId(projectId);\n      const cronjobCount = projectGhost.cronjobs.getTotalCount().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={projectGhost} />\n          <WithBoundaries.Section>\n            {backupCount === 0 ? <CronjobIllustratedMessage project={projectGhost} /> : <CronjobList project={projectGhost} />}\n          </WithBoundaries.Section>\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
       })
     }), "\n", _jsx(_components.h3, {
-      children: "Detailseite / Tab"
+      children: "Detailseite"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
         children: ["\n", _jsxs(_components.p, {
           children: [_jsx(_components.code, {
             children: "WithBoundaries.LayoutCard"
-          }), " / ", _jsx(_components.code, {
-            children: "WithBoundaries.SectionsFragment"
-          }), " mit\nSectionCount, je nach Anzahl der auf jeden Fall geladenen Sections"]
+          }), " mit SectionCount, je nach Anzahl der Sections"]
         }), "\n"]
       }), "\n", _jsxs(_components.li, {
         children: ["\n", _jsx(_components.p, {
@@ -329,8 +319,14 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
-        children: "export const CronjobPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 3 }}>\n    {() => {\n      const { cronjobId } = usePathParams(\"cronjobId\");\n      const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={cronjob.project} />\n          <GeneralSection cronjob={cronjob} />\n          <IntervalSection cronjob={cronjob} />\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
+        children: "export const CronjobPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 2 }}>\n    {() => {\n      const { cronjobId } = usePathParams(\"cronjobId\");\n      const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={cronjob.project} />\n          <GeneralSection cronjob={cronjob} />\n          <IntervalSection cronjob={cronjob} />\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
       })
+    }), "\n", _jsx(_components.h3, {
+      children: "Tab (WithBoundaries.SectionsFragment)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Manchmal sind Inhalte einer Seite auf mehrere Tabs verteilt, sodass es sich\nlohnen kann einen Tab seperat zu schützen. Nutze dafür\n", _jsx(_components.code, {
+        children: "WithBoundaries.SectionsFragment"
+      }), "."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const CronjobTabs: FC = () => (\n  <LayoutCard>\n    <Tabs>\n      <Tab>\n        <TabTitle>Allgemein</TabTitle>\n        <WithBoundaries.SectionsFragment suspenseFallbackProps={{ sectionsCount: 3 }}>\n          {() => {\n            const { cronjobId } = usePathParams(\"cronjobId\");\n            const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n            return (\n              <>\n                <ProjectDeactivatedAlert project={cronjob.project} />\n                <GeneralSection cronjob={cronjob} />\n                <IntervalSection cronjob={cronjob} />\n              </>\n            );\n          }}\n        </WithBoundaries.SectionsFragment>\n      </Tab>\n    </Tabs>\n  </LayoutCard>\n);\n"
@@ -353,7 +349,7 @@ function _createMdxContent(props) {
       }), ". So\nbleiben Fehler auf einen kleinen Bereich beschränkt, ohne die gesamte Seite zu\ngefährden."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
-        children: "export const GeneralSection: FC<Props> = (props) => (\n  <WithBoundaries.Section>\n    {() => {\n      const { cronjobGhost } = asGhostProps(props);\n      const cronjob = cronjobGhost.getCommon().use();\n      const t = useTCronjob();\n\n      return (\n        <>\n          <Heading>{t(\"cronjob\")}</Heading>\n          ...\n        </>\n      );\n    }}\n  </WithBoundaries.Section>\n);\n"
+        children: "export const AppInstallationSection: FC<Props> = (props) => (\n  <WithBoundaries.Section>\n    {() => {\n      const { cronjobGhost } = asGhostProps(props);\n      const appInstallation = cronjobGhost.getCommon().linkedAppInstallation.getCommon().use();\n      const t = useTCronjob();\n\n      return (\n        <>...</>\n      );\n    }}\n  </WithBoundaries.Section>\n);\n"
       })
     }), "\n", _jsxs(_components.p, {
       children: [_jsx(_components.strong, {
@@ -390,12 +386,6 @@ function _createMdxContent(props) {
         children: "<ModelLink model={cronjob}>\n  <ModelTitle model={cronjob} />\n</ModelLink>\n\n<ModelLabeledValue model={cronjob}/>\n"
       })
     }), "\n", _jsx(_components.h3, {
-      children: "ContextMenu"
-    }), "\n", _jsx(_components.pre, {
-      children: _jsx(_components.code, {
-        children: "export const ActionsContextMenu: FC<Props> = (props) => {\n  const { cronjobProxy } = asProxyProps(props);\n  const deleteModalController = useOverlayController(\"Modal\");\n\n  return (\n    <>\n      <WithBoundaries.ContextMenu placement=\"bottom end\">\n        {() => {\n          const cronjob = cronjobProxy.getCommon().use();\n          return <DeleteMenuItem onAction={() => deleteModalController.open()} />;\n        }}\n      </WithBoundaries.ContextMenu>\n\n      <DeleteCronjobModal\n        controller={deleteModalController}\n        cronjob={cronjobProxy}\n      />\n    </>\n  );\n};\n"
-      })
-    }), "\n", _jsx(_components.h3, {
       children: "Alerts / Badges"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
@@ -413,6 +403,12 @@ function _createMdxContent(props) {
       children: _jsx(_components.code, {
         children: "export const AppInstallationSelectField: FC<Props> = (props) => {\n  const { name, label, projectGhost } = asGhostProps(props, [\"project\"]);\n\n  return (\n    <WithBoundaries.FieldFragment suspenseFallbackProps={{ label }}>\n      {() => {\n        const appInstallations = projectGhost.appInstallations.execute().use().items;\n\n        return (\n          <Field name={name}>\n            <Select isDisabled={appInstallations.length === 0}>\n              <Label>{label}</Label>\n              {sortedAppInstallations.map((i) => (\n                <Option key={i.id} value={i.id}>\n                  {i.description}\n                </Option>\n              ))}\n            </Select>\n          </Field>\n        );\n      }}\n    </WithBoundaries.FieldFragment>\n  );\n};\n"
       })
+    }), "\n", _jsx(_components.h3, {
+      children: "ContextMenu"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const ActionsContextMenu: FC<Props> = (props) => {\n  const { cronjobProxy } = asProxyProps(props);\n  const deleteModalController = useOverlayController(\"Modal\");\n\n  return (\n    <>\n      <WithBoundaries.ContextMenu placement=\"bottom end\">\n        {() => {\n          const cronjob = cronjobProxy.getCommon().use();\n          return <DeleteMenuItem onAction={() => deleteModalController.open()} />;\n        }}\n      </WithBoundaries.ContextMenu>\n\n      <DeleteCronjobModal\n        controller={deleteModalController}\n        cronjob={cronjobProxy}\n      />\n    </>\n  );\n};\n"
+      })
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Weitere Empfehlungen"
     }), "\n", _jsxs(_components.p, {
@@ -420,8 +416,6 @@ function _createMdxContent(props) {
         href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
         children: "Writing for Errors"
       }), "\nweitere Orientierung. So entsteht ein stabiles und nachvollziehbares Verhalten,\ndas sowohl die Entwicklung als auch die Nutzung der Anwendung unterstützt."]
-    }), "\n", _jsx(_components.pre, {
-      children: _jsx(_components.code, {})
     })]
   });
 }
@@ -443,7 +437,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"CRWU-1mYOa49cjcDjWBDF","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/5e014aa10e4e461d.js","async":true}]
+0:{"buildId":"p2OBU8wVs7C3FINHWpzJ6","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-mstudio","01-boundaries"],"filename":"05-mstudio/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/042f29ddd7389d87.js","async":true}]
 a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
 d:null
