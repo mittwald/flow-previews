@@ -1,0 +1,11 @@
+import{j as r}from"./iframe-DN0fTWGV.js";import{C as p,a as i}from"./ContextualHelpTrigger-CRucrJit.js";import{B as s}from"./Button-uApu6GnY.js";import{T as m}from"./Text-CLTzTYkM.js";import{A as n}from"./Align-DuJPe5gd.js";import{a}from"./MessageSeparator-B3ufFzYX.js";import"./preload-helper-PPVm8Dsz.js";import"./Popover-oDqr7Nfr.js";import"./clsx-B-dksMZM.js";import"./context-DUBN3HgP.js";import"./Button-BqbeFKAl.js";import"./utils-KHZtdcQs.js";import"./mergeRefs-aFji3K89.js";import"./index-C-NDeTtD.js";import"./ProgressBar-CMyS42Dg.js";import"./Hidden-CpMgfJZp.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-_fNSffOv.js";import"./useFocusRing-Bi-c5lNH.js";import"./useFocusable-DvSUTL0j.js";import"./RSPContexts-CXdzH5Rq.js";import"./Collection-DPICVRVL.js";import"./CollectionBuilder-7GVzVquf.js";import"./SelectionIndicator-ChEaB0zR.js";import"./Separator-CbRW2pX1.js";import"./browser-BG2zS4gf.js";import"./useLocalizedStringFormatter-yteDxoWO.js";import"./PropsContextProvider-B4BWOGik.js";import"./useStatic-DA5kar0v.js";import"./OverlayTrigger-BxicfPZ1.js";import"./IconWarning-Cuf61xud.js";import"./LoadingSpinner-CRqVu2d-.js";import"./EmulatedBoldText-CdlTcGoA.js";import"./dynamic-Bg-k1EYj.js";import"./Separator-2AMI3M16.js";import"./Content-Dl1qh6D4.js";const P={title:"Chat/MessageSeparator",component:a,render:o=>r.jsx(a,{...o,children:"Conversation created"})},t={},e={render:o=>r.jsx(a,{...o,children:r.jsxs(n,{children:[r.jsx(m,{children:"Conversation created"}),r.jsxs(p,{children:[r.jsx(s,{}),r.jsx(i,{children:"Conversation created by John Doe"})]})]})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  render: props => <MessageSeparator {...props}>
+      <Align>
+        <Text>Conversation created</Text>
+        <ContextualHelpTrigger>
+          <Button />
+          <ContextualHelp>Conversation created by John Doe</ContextualHelp>
+        </ContextualHelpTrigger>
+      </Align>
+    </MessageSeparator>
+}`,...e.parameters?.docs?.source}}};const Q=["Default","WithContextualHelp"];export{t as Default,e as WithContextualHelp,Q as __namedExportsOrder,P as default};
