@@ -1,0 +1,20 @@
+import{j as r}from"./iframe-B4mFuudk.js";import{aq as a}from"./TimeField-DjPbBOUL.js";import{L as s}from"./Label-J-Qj-TlD.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-C4qYIeXY.js";import"./mergeRefs-CRoU7Hf_.js";import"./index-BF6bNSpW.js";import"./clsx-B-dksMZM.js";import"./Accordion-CQ4jhonX.js";import"./dynamic-d3DzbtXD.js";import"./Button-D2oQPT9j.js";import"./IconWarning-BO1YoHSl.js";import"./remote-CQQC7IgA.js";import"./Text-DWXiWYJa.js";import"./browser-CSkgXx8X.js";import"./utils-DO9siV10.js";import"./EmulatedBoldText-ekl0jVcs.js";import"./LoadingSpinner-CkjsGIz-.js";import"./Button-D_IfTLYp.js";import"./ProgressBar-B9w8hpj9.js";import"./Hidden-DEoNA7g6.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-woxbYNKN.js";import"./useFocusRing-Dzyc8_rZ.js";import"./useFocusable-CR7CXVdU.js";import"./useLocalizedStringFormatter-CJ3DiWc4.js";import"./Section-B901pmSP.js";import"./context-BaYvtgUx.js";import"./RSPContexts-D4gsSVcd.js";import"./Collection-CRJOH9N4.js";import"./CollectionBuilder-BrBYWzEj.js";import"./SelectionIndicator-Cqxoh0Vk.js";import"./Separator-B1GSGo-v.js";import"./useStatic-BNYxoolq.js";import"./ActionGroup-Dj0mL2jT.js";import"./Alert-BB7E6FS3.js";import"./AlertIcon-C2Iuu0oW.js";import"./AlertBadge-wyAf4fmW.js";import"./Align-tZTYN3_b.js";import"./Popover-EGtBkPGT.js";import"./OverlayTrigger-CxsOgof7.js";import"./TableFooterRow-CF-vtEUL.js";import"./SkeletonText-DYF2L0Gp.js";import"./Avatar-DprwA7VB.js";import"./AvatarStack-DFjdUU0I.js";import"./Badge-DdfeDcq0.js";import"./BigNumber-COKiSbmh.js";import"./Breadcrumb-UixRFNtG.js";import"./Link-dZEW6xbR.js";import"./Heading-x5KcgVW6.js";import"./Legend-D4fqLvje.js";import"./FileCardList-C5pL1TS8.js";import"./Image-C9RETtXb.js";import"./Color-Cnkc4JS2.js";import"./Content-DOFb4Tg_.js";import"./ContextualHelpTrigger-BgOAUkgy.js";import"./CounterBadge-BmaHzZVn.js";import"./DonutChart-fIzr5YTw.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-BPYu5cLC.js";import"./Header-CWN3vvSw.js";import"./Initials-CasgJWHt.js";import"./InlineCode-CBZ_IXgo.js";import"./PopoverTrigger-DfcR0Zu9.js";import"./Separator-BY2NZtun.js";import"./Message-B0duh_V_.js";import"./MessageSeparator-D92QLxsc.js";import"./NavigationGroup-uDY_S4HN.js";import"./Notification-DAh0wl5H.js";import"./NotificationProvider-CUaHGM3W.js";import"./ProgressBar-DQXT7cgB.js";import"./Rating-IIMHkWv7.js";import"./Skeleton-CXrytUBj.js";const Mr={title:"Form Controls/Slider",component:a,render:t=>r.jsx(a,{...t,children:r.jsx(s,{children:"Amount"})}),parameters:{controls:{exclude:["tunnelId","render","showInitialMarker"]}},args:{defaultValue:20}},o={},e={args:{isReadOnly:!0}},i={render:t=>r.jsx(a,{...t,formatOptions:{style:"unit",unit:"gigabyte"},minValue:20,maxValue:2e3,defaultValue:200,step:20,children:r.jsx(s,{children:"Storage"})})},m={args:{isDisabled:!0}},p={render:t=>r.jsx(a,{...t,showInitialMarker:!0,children:r.jsx(s,{children:"Amount"})})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...e.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} minValue={20} maxValue={2000} defaultValue={200} step={20}>
+      <Label>Storage</Label>
+    </Slider>
+}`,...i.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...m.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} showInitialMarker>
+      <Label>Amount</Label>
+    </Slider>
+}`,...p.parameters?.docs?.source}}};const Rr=["Default","ReadOnly","WithUnit","Disabled","WithInitialMarker"];export{o as Default,m as Disabled,e as ReadOnly,p as WithInitialMarker,i as WithUnit,Rr as __namedExportsOrder,Mr as default};
