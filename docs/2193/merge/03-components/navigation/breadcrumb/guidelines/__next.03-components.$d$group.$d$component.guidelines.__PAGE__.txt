@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"default"]
+9:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"TabTitle"]
+12:I[142373,["/flow-previews/docs/2193/merge/_next/static/chunks/ada34de2515afdb3.js","/flow-previews/docs/2193/merge/_next/static/chunks/c325ff923f934bcb.js","/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js"],"default"]
+13:I[561303,["/flow-previews/docs/2193/merge/_next/static/chunks/afd2f99e182001ee.js","/flow-previews/docs/2193/merge/_next/static/chunks/0e84b72fa090cc7e.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+d:Tb3f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer Breadcrumb darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "sie im oberen linken Bereich des Content-Bereichs positioniert ist."
+      }), "\n", _jsx(_components.li, {
+        children: "ein sinnvoller Startpunkt gewählt wird. Bei Produktseiten bietet sich\nbeispielsweise die Landingpage als Startpunkt an. Im mStudio beginnt die\nBreadcrumb z. B. auf Projekt-, Server- oder Organisationsebene."
+      }), "\n", _jsx(_components.li, {
+        children: "sie eine lineare Hierarchie abbildet (z. B. „Projekt > Apps > App“)."
+      }), "\n", _jsx(_components.li, {
+        children: "die Anzahl der angezeigten Hierarchieebenen überschaubar bleibt. Als Richtwert\nsind maximal 5 Ebenen erlaubt."
+      }), "\n", _jsxs(_components.li, {
+        children: ["auf kleineren Benutzeroberflächen die Breadcrumb die aktuelle Position nicht\nanzeigt, um Platz zu sparen. Stattdessen wird die aktuelle Seite durch den\nTitel (", _jsx(_components.a, {
+          href: "/03-components/content/heading/overview",
+          children: "H1"
+        }), ") kommuniziert."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende eine Breadcrumb, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "dem User die aktuelle Position innerhalb der Navigationshierarchie sichtbar zu\nmachen."
+      }), "\n", _jsx(_components.li, {
+        children: "eine Möglichkeit zu bieten, leicht zu vorherigen Seiten der\nNavigationsstruktur zurückzukehren."
+      }), "\n", _jsx(_components.li, {
+        children: "eine ergänzende, schnelle Navigationsoption zusätzlich zur Hauptnavigation\nbereitzustellen."
+      }), "\n", _jsx(_components.li, {
+        children: "Usern bei Seiten mit einer komplexen Seitenhierarchie Orientierung zu geben."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"8iQDQQOmoIF_cm3XbxKv_","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Breadcrumb"}],"Eine Breadcrumb ist ein Navigationselement, das Usern Orientierung bietet, indem es die aktuelle Position sowie die übergeordneten Navigationsebenen anzeigt.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Breadcrumb","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Breadcrumb","description":"Eine Breadcrumb ist ein Navigationselement, das Usern Orientierung bietet, indem es die aktuelle Position sowie die übergeordneten Navigationsebenen anzeigt."},"scope":{}},"examples":{"dark":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb color=\"dark\">\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n","default":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb>\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n","light":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb color=\"light\">\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n"},"slugs":["navigation","breadcrumb"],"filename":"navigation/breadcrumb/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/navigation/breadcrumb/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/navigation/breadcrumb/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/navigation/breadcrumb/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"dark":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb color=\"dark\">\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n","default":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb>\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n","light":"import {\n  Breadcrumb,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<Breadcrumb color=\"light\">\n  <Link href=\"#\">Projekte</Link>\n  <Link href=\"#\">Apps</Link>\n  <Link href=\"#\">Meine App</Link>\n</Breadcrumb>;\n"},"slugs":["navigation","breadcrumb"],"filename":"navigation/breadcrumb/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$Le"]}]],["$Lf","$L10"],"$L11"]}],"loading":null,"isPartial":false}
+e:["$","$L12",null,{"currentPath":"/03-components/navigation/breadcrumb/guidelines","anchors":["Grundlagen"],"title":"Guidelines"}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2193/merge/_next/static/chunks/c8e1d15699c558c5.js","async":true}]
+10:["$","script","script-1",{"src":"/flow-previews/docs/2193/merge/_next/static/chunks/9284309a3c58536f.js","async":true}]
+11:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
