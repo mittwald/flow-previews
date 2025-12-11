@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js"],"default"]
+2:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2165/merge/_next/static/chunks/b2b0a0eaaed5e855.js","/flow-previews/docs/2165/merge/_next/static/chunks/8305cd8915d663ca.js","/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js"],"default"]
 b:I[124952,["/flow-previews/docs/2165/merge/_next/static/chunks/98f97f4ff58011e4.js","/flow-previews/docs/2165/merge/_next/static/chunks/8ea50e9e950168dc.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
 7:T542,"use strict";
@@ -38,7 +38,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-8:T59a5,"use strict";
+8:T599f,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -300,7 +300,7 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Der ", _jsx(_components.code, {
         children: "sectionsCount"
-      }), " sollte der erwarteten Anzahl an Sections entsprechen. So\nbleibt das Layout während des Ladevorgangs stabil. Das Hauptelement der Seite\nwir zuerst geladen, damit im Fehlerfall für die gesamte Seite eine ErrorView\nangezeigt werden kann."]
+      }), " sollte der erwarteten Anzahl an Sections entsprechen. So\nbleibt das Layout während des Ladevorgangs stabil. Das Hauptelement der Seite\nwird zuerst geladen, damit im Fehlerfall für die gesamte Seite eine ErrorView\nangezeigt werden kann."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const CronjobPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 2 }}>\n    {() => {\n      const { cronjobId } = usePathParams(\"cronjobId\");\n      const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={cronjob.project} />\n          <GeneralSection cronjob={cronjob} />\n          <IntervalSection cronjob={cronjob} />\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
@@ -318,9 +318,9 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h2, {
       children: "Modals (WithBoundaries.Modal)"
     }), "\n", _jsxs(_components.p, {
-      children: ["Für Modals sollte immer in ein ", _jsx(_components.code, {
+      children: ["Für Modals sollte immer ein ", _jsx(_components.code, {
         children: "WithBoundaries.Modal"
-      }), " verwendet werden. Dies\nverhindert auch das Nachladen von Daten innerhalb des Modals, bevor das Modal\ngeöffnet wurde."]
+      }), " verwendet werden. Dies\nverhindert auch das Nachladen von Daten innerhalb des Modals, bevor das Modal\ngeöffnet wird."]
     }), "\n", _jsx(_components.h3, {
       children: "Inhalte von Forms in Modals"
     }), "\n", _jsx(_components.p, {
@@ -352,15 +352,15 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h2, {
       children: "Inhalte eines Diagramms (WIP)"
     }), "\n", _jsxs(_components.p, {
-      children: ["Diagramme beziehen in der Regel viele Daten aus externen Service und sind daher\nfehleranfällig. Sie sollten immer separat von einer Boundary umschlossen werden.\nDiagramm-Komponenten wie das ", _jsx(_components.code, {
+      children: ["Diagramme beziehen in der Regel viele Daten aus externen Services und sind daher\nfehleranfällig. Sie sollten immer separat von einer Boundary umschlossen werden.\nDiagramm-Komponenten wie das ", _jsx(_components.code, {
         children: "CartesianChart"
-      }), " besitzen eine eigene Error-View.\nIst das nicht der Fall, sollte mindestens die Section des Diagramms mit einer\nBoundary abgesichert werden."]
+      }), " besitzen eine eigene ErrorView.\nIst das nicht der Fall, sollte mindestens die Section des Diagramms mit einer\nBoundary abgesichert werden."]
     }), "\n", _jsx(_components.p, {
       children: "[Code-Beispiele??]"
     }), "\n", _jsx(_components.h2, {
       children: "Inhalte einzelner kleinerer Elemente"
     }), "\n", _jsx(_components.p, {
-      children: "Kleine Elemente wie Texte, Links, Badges, Actions oder ContextMenus werden oft\ndynamisch geladen, da sie das Nutzungserlebnis der Seite lediglich ergänzen.\nDiese sollten daher seperat geschützt werden, um nicht die gesamte Seite zu\nblockieren. Diese Elemente besitzen oft keine eigene ErrorView und erscheinen im\nFehlerfall nicht oder verbleiben in ihrem Ladezustand."
+      children: "Kleine Elemente wie Texte, Links, Badges, Actions oder ContextMenus werden oft\ndynamisch geladen, da sie das Nutzungserlebnis der Seite lediglich ergänzen.\nDiese sollten daher separat geschützt werden, um nicht die gesamte Seite zu\nblockieren. Diese Elemente besitzen oft keine eigene ErrorView und erscheinen im\nFehlerfall nicht oder verbleiben in ihrem Ladezustand."
     }), "\n", _jsx(_components.h3, {
       children: "Texte (WithBoundaries.Text)"
     }), "\n", _jsx(_components.pre, {
@@ -378,13 +378,13 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Alerts und Badges ergänzen eine Seite oft nur um kleine Hinweise oder\nStatusinformationen. Sie werden in ein ", _jsx(_components.code, {
         children: "WithBoundaries.Fragment"
-      }), " verpackt. So\nbleiben sie geschützt, ohne eine eigene Loading View auszulösen."]
+      }), " verpackt. So\nbleiben sie geschützt, ohne eine eigene LoadingView auszulösen."]
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const CustomerBankruptAlert: FC<Props> = (props) => (\n  <WithBoundaries.Fragment>\n    {() => {\n      const { customerProxy, asBadge } = asProxyProps(props, [\"customer\"]);\n      const isBankrupt = customerProxy.getDetailed().isBankrupt().use();\n\n      if (!isBankrupt) {\n        return null;\n      }\n\n      if (asBadge) {\n        return <AlertBadge>...</AlertBadge>\n      }\n\n      return <Alert>...</Alert>;\n    }}\n  </WithBoundaries.Fragment>\n);\n"
       })
     }), "\n", _jsx(_components.h3, {
-      children: "Field (WithBoundaries.FieldFragement)"
+      children: "Field (WithBoundaries.FieldFragment)"
     }), "\n", _jsx(_components.pre, {
       children: _jsx(_components.code, {
         children: "export const AppInstallationSelectField: FC<Props> = (props) => {\n  const { name, label, projectGhost } = asGhostProps(props, [\"project\"]);\n\n  return (\n    <WithBoundaries.FieldFragment suspenseFallbackProps={{ label }}>\n      {() => {\n        const appInstallations = projectGhost.appInstallations.execute().use().items;\n\n        return (\n          <Field name={name}>\n            <Select isDisabled={appInstallations.length === 0}>\n              <Label>{label}</Label>\n              {sortedAppInstallations.map((i) => (\n                <Option key={i.id} value={i.id}>\n                  {i.description}\n                </Option>\n              ))}\n            </Select>\n          </Field>\n        );\n      }}\n    </WithBoundaries.FieldFragment>\n  );\n};\n"
@@ -398,7 +398,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Weitere Empfehlungen"
     }), "\n", _jsxs(_components.p, {
-      children: ["Ein durchdachtes Loading und Error-Boundary Konzept endet nicht bei der\ntechnischen Umsetzung. Fehler sollten zuverlässig erfasst und an Monitoring\nSysteme, Sentry oder Datadog weitergegeben werden, damit Probleme früh sichtbar\nwerden. Manuelle und automatisierte Tests helfen dabei, die eigenen Fallbacks\nregelmäßig zu überprüfen und sicherzustellen, dass sie in allen relevanten\nSituationen greifen. Ebenso wichtig ist eine klare und konsistente Formulierung\nder Fehlermeldungen, damit User verstehen, was passiert und wie sie weitermachen\nkönnen. Für konkrete Hinweise zur sprachlichen Ausgestaltung bietet die\nGuideline\n", _jsx(_components.a, {
+      children: ["Ein durchdachtes Loading und ErrorBoundary Konzept endet nicht bei der\ntechnischen Umsetzung. Fehler sollten zuverlässig erfasst und an\nMonitoring-Systeme, Sentry oder Datadog weitergegeben werden, damit Probleme\nfrüh sichtbar werden. Manuelle und automatisierte Tests helfen dabei, die\neigenen Fallbacks regelmäßig zu überprüfen und sicherzustellen, dass sie in\nallen relevanten Situationen greifen. Ebenso wichtig ist eine klare und\nkonsistente Formulierung der Fehlermeldungen, damit User verstehen, was passiert\nund wie sie weitermachen können. Für konkrete Hinweise zur sprachlichen\nAusgestaltung bietet die Guideline\n", _jsx(_components.a, {
         href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
         children: "Fehlermeldungen"
       }), "\nweitere Orientierung. So entsteht ein stabiles und nachvollziehbares Verhalten,\ndas sowohl die Entwicklung als auch die Nutzung der Anwendung unterstützt."]
@@ -423,7 +423,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"nC3z3lMmTDoY5soKD65Ud","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/18bcbe3f23adb247.js","async":true}]
+0:{"buildId":"dabSzRpBHTRuxPNXaYP3t","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2165/merge/_next/static/chunks/4197062e062aac46.js","async":true}]
 a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
 d:null
