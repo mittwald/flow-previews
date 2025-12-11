@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[561303,["/flow-previews/docs/2193/merge/_next/static/chunks/afd2f99e182001ee.js","/flow-previews/docs/2193/merge/_next/static/chunks/0e84b72fa090cc7e.js"],"ViewportBoundary"]
-4:I[561303,["/flow-previews/docs/2193/merge/_next/static/chunks/afd2f99e182001ee.js","/flow-previews/docs/2193/merge/_next/static/chunks/0e84b72fa090cc7e.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[631729,["/flow-previews/docs/2193/merge/_next/static/chunks/afd2f99e182001ee.js","/flow-previews/docs/2193/merge/_next/static/chunks/0e84b72fa090cc7e.js"],"IconMark"]
-0:{"buildId":"8iQDQQOmoIF_cm3XbxKv_","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Tooltip"}],["$","link","1",{"rel":"icon","href":"/flow-previews/docs/2193/merge/favicon.ico?favicon.ff134f16.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L7","2",{}]]
