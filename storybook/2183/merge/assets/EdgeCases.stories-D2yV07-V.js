@@ -1,0 +1,19 @@
+import{j as r}from"./iframe-b3Ga2wpf.js";import{e as n,f as i}from"./TimeField-CtNImo6o.js";import{c as s}from"./FileCardList-Cu-7JGuA.js";import"./Section-DpTqM0_J.js";import{B as u}from"./Button-B9AKUFf2.js";import a from"./Default.stories-BUi4iIgF.js";import{d as p}from"./dummyText-CX_I_Wpl.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-D77bvxtu.js";import"./mergeRefs-Bi5mFM62.js";import"./index-EgQfkxQH.js";import"./clsx-B-dksMZM.js";import"./Accordion-DJRFgKSV.js";import"./dynamic-D7f7XAFP.js";import"./IconWarning-C84U4k_5.js";import"./remote-DrytLFaS.js";import"./ActionGroup-C8Oe2XUd.js";import"./Alert-BFE5O_K9.js";import"./AlertIcon-BoIjIGQk.js";import"./useLocalizedStringFormatter-Dw2puoxj.js";import"./context-D39ROL5s.js";import"./AlertBadge-Dc59NCSn.js";import"./Text-DIbSGP69.js";import"./browser-C0SY9BaM.js";import"./utils-DpwAoq2B.js";import"./EmulatedBoldText-BWSYK2_K.js";import"./Align-DkScujGZ.js";import"./Popover-C3t-XhdJ.js";import"./context-DvKCdNAh.js";import"./Button-Dn9RG0lS.js";import"./ProgressBar-CqHSuyvS.js";import"./Hidden-D7Ffx1fO.js";import"./filterDOMProps-i7L6S0l1.js";import"./useFocusRing-DyTaHyNc.js";import"./useFocusable-CNSeA0E2.js";import"./RSPContexts-CzK-yBpk.js";import"./Collection-staaIP_8.js";import"./CollectionBuilder-DkVC1udd.js";import"./SelectionIndicator-H6x9m8Fd.js";import"./Separator-CC7MupLF.js";import"./useStatic-DjEoLORA.js";import"./OverlayTrigger-9eU9gIuc.js";import"./TableFooterRow-CtVIdWAI.js";import"./SkeletonText-6MyMR-o8.js";import"./Avatar-DRdoqq5g.js";import"./AvatarStack-Bm59_WJp.js";import"./Badge-CmiaY70P.js";import"./BigNumber-jt1NPm7F.js";import"./Breadcrumb-BZ7G-TEM.js";import"./Link-fVLJAih1.js";import"./Heading-BGN7eCNA.js";import"./Legend-BeSc5K-M.js";import"./Color-q6pWurkX.js";import"./Content-CZqLB91a.js";import"./Label-BM4rj9TZ.js";import"./ContextualHelpTrigger-B4h5NCtb.js";import"./CounterBadge-Dnci99L1.js";import"./DonutChart-D0dIo1ZK.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-Dp1INIeU.js";import"./Header-HXXe6hHp.js";import"./Image-pfb7qnpC.js";import"./Initials-BTQbHA9Y.js";import"./InlineCode-BynVVMmO.js";import"./PopoverTrigger-aR-yTA7m.js";import"./LoadingSpinner-C8TYwtnu.js";import"./Separator-C1t0NjGv.js";import"./Message-CJlFlLd8.js";import"./MessageSeparator-Dfvdn_tJ.js";import"./NavigationGroup-gO8yiDJt.js";import"./Notification-Biyx_ImO.js";import"./NotificationProvider-CZZ8UITu.js";import"./ProgressBar-DU1jY53e.js";import"./Rating-C6_n-TNa.js";import"./Skeleton-DwbvfRV4.js";const Or={...a,title:"Actions/ContextMenu/Edge Cases"},t={args:{width:400},render:m=>r.jsxs(s,{children:[r.jsx(u,{children:"Trigger"}),r.jsxs(n,{...m,children:[r.jsx(i,{children:p.medium}),r.jsx(i,{children:p.medium})]})]})},o={render:m=>r.jsxs(s,{children:[r.jsx(u,{children:"Trigger"}),r.jsx(n,{...m,children:Array(20).fill("").map((d,e)=>r.jsxs(i,{children:["Item ",e+1]},e))})]})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    width: 400
+  },
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        <MenuItem>{dummyText.medium}</MenuItem>
+        <MenuItem>{dummyText.medium}</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        {Array(20).fill("").map((value, index) => <MenuItem key={index}>Item {index + 1}</MenuItem>)}
+      </ContextMenu>
+    </ContextMenuTrigger>
+}`,...o.parameters?.docs?.source}}};const Rr=["LongTexts","LongList"];export{o as LongList,t as LongTexts,Rr as __namedExportsOrder,Or as default};
