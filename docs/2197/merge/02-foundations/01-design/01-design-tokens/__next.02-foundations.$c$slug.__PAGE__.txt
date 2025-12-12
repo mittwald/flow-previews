@@ -1,0 +1,292 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"default"]
+a:I[13337,["/flow-previews/docs/2197/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2197/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+7:T361f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {Info} = _components;
+  if (!Info) _missingMdxReference("Info", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Was sind Design Tokens?"
+    }), "\n", _jsx(_components.p, {
+      children: "Ein Design Token (kurz: Token) besteht aus 2 Teilen: Name und Wert. Der Name\neines Tokens folgt einem klaren und verständlichen Benennungsschema. Der Wert\nkann alles beinhalten, was zum Erstellen eines Designs notwendig ist: Eine Farbe\nin RGB, eine Schriftart, eine Animations-Geschwindigkeit oder einen anderen\nToken."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Vorteile"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Verringerter Wartungsaufwand:"
+          }), " Tokens können aufeinander basieren und die\nEigenschaften eines anderen Tokens erben. Dadurch wirken sich Änderungen an\neinem Token-Wert automatisch auf alle Stellen aus, an denen er verwendet oder\nreferenziert wird. Das spart Zeit und reduziert Fehler."]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Verbesserte Zusammenarbeit:"
+          }), " Design und Development nutzen mit Tokens eine\ngemeinsame Sprache. Dadurch lassen sich Designentscheidungen leicht\nverständlich ausdrücken und ebenso einfach im Code implementieren."]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Einheitliches Design:"
+          }), " Farben, Schriften, Größen und mehr werden überall\neinheitlich verwendet."]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Wiederverwendbarkeit:"
+          }), " Tokens lassen sich problemlos in mehreren Projekten\nund Frontends gleichzeitig verwenden."]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Benennung von Tokens"
+    }), "\n", _jsx(_components.p, {
+      children: "Unsere Tokens sind leicht verständlich und nachvollziehbar benannt, um komplexe\nInformationen konsistent und selbsterklärend zu vermitteln."
+    }), "\n", _jsx(_components.h2, {
+      children: "Schema"
+    }), "\n", _jsx(_components.p, {
+      children: "Jeder Token-Name folgt einem dreistufigen Benennungsschema: Context, Common Unit\nund Clarification. Dieses Schema beginnt mit einer allgemeinen Einordnung und\nwird von Stufe zu Stufe immer detaillierter."
+    }), "\n", _jsx(Info, {
+      example: "schema",
+      heading: "Token-Benennungsschema"
+    }), "\n", _jsx(_components.h3, {
+      children: "Context"
+    }), "\n", _jsx(_components.p, {
+      children: "Der Context stellt den allgemeinsten Zusammenhang dar, auf den ein Token sich\nbeziehen kann."
+    }), "\n", _jsx(_components.h3, {
+      children: "Common Unit"
+    }), "\n", _jsx(_components.p, {
+      children: "Die Common Unit ordnet den Token in eine spezifische Kategorie innerhalb des\nContext ein."
+    }), "\n", _jsx(_components.h3, {
+      children: "Clarification"
+    }), "\n", _jsx(_components.p, {
+      children: "Die Clarification ist die präziseste Ebene, die den Token klar definiert und\nabgrenzt."
+    }), "\n", _jsx(_components.h2, {
+      children: "Beispiele"
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.strong, {
+        children: "hosting-blue-800"
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der Token ", _jsx(_components.code, {
+        children: "hosting-blue-800"
+      }), " definiert eine spezifische\n", _jsx(_components.a, {
+        href: "/02-foundations/01-design/02-colors",
+        children: "Color"
+      }), ". Der Name der Farbe ", _jsx(_components.code, {
+        children: "hosting-blue"
+      }), "\ngibt den ", _jsx(_components.strong, {
+        children: "Context"
+      }), " an. Die Zahl ", _jsx(_components.code, {
+        children: "800"
+      }), " ist die ", _jsx(_components.strong, {
+        children: "Clarification"
+      }), ", die die\nAbstufung der Farbe definiert und auf den genauen Farbwert ", _jsx(_components.code, {
+        children: "#0054F5"
+      }), " im\nDesignsystem verweist."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.strong, {
+        children: "primary-solid-background-color-default"
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: ["Dieser Token definiert die primäre Hintergrundfarbe einer „Solid“-Variante.\n", _jsx(_components.code, {
+        children: "primary"
+      }), " gibt als Context an, dass es sich um eine primäre Farbe handelt. Die\nCommon Unit ", _jsx(_components.code, {
+        children: "solid-background-color"
+      }), " verdeutlicht, dass die Farbe als\nHintergrundfarbe in der „Solid“-Variante verwendet wird. Die ", _jsx(_components.strong, {
+        children: "Clarification"
+      }), "\n", _jsx(_components.code, {
+        children: "default"
+      }), " gibt an, dass der Token für den Default-State verwendet wird."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.strong, {
+        children: "alert-info-outline-border-color-default"
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: ["Dieser Token definiert eine Designentscheidung für eine spezifische Component,\nin diesem Fall einen ", _jsx(_components.a, {
+        href: "/03-components/status/alert/overview",
+        children: "Alert"
+      }), ". ", _jsx(_components.code, {
+        children: "alert"
+      }), " liefert den\n", _jsx(_components.strong, {
+        children: "Context"
+      }), " und stellt klar, dass der Token nur für diese Komponente verwendet\nwird. ", _jsx(_components.code, {
+        children: "info-outline-border-color"
+      }), " als ", _jsx(_components.strong, {
+        children: "Common Unit"
+      }), " kategorisiert den Token\nweiter ein: Er wird für die Border-Color eines Alerts in der „Info“- und\n„Outline“-Variante verwendet. ", _jsx(_components.code, {
+        children: "default"
+      }), " gibt als ", _jsx(_components.strong, {
+        children: "Clarification"
+      }), " an, dass der\nToken für den Default-State genutzt wird."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Token-Arten und Struktur"
+    }), "\n", _jsx(_components.p, {
+      children: "Im Benennungsschema haben wir bereits Tokens mit unterschiedlicher Komplexität\nbetrachtet. In diesem Abschnitt erklären wir die Konzepte, die den verschiedenen\nToken-Arten und deren Struktur zugrunde liegen."
+    }), "\n", _jsx(_components.h2, {
+      children: "Global Token"
+    }), "\n", _jsx(_components.p, {
+      children: "Diese Tokens bilden die Grundlage des gesamten Designsystems. Sie definieren\ngrundlegende Eigenschaften wie Farben, Schriftarten und Abstände, die überall im\nSystem verwendet werden können. Global Tokens sollten nur eingesetzt werden,\nwenn der Verwendung kein tieferes Konzept zugrunde liegt. Ein gutes Beispiel\ndafür sind Farben, die einen rein dekorativen Zweck erfüllen. Diese müssen nicht\nweiter definiert oder in eine Kategorie eingeordnet werden, da sie einen rein\noptischen Nutzen erfüllen und keiner tieferen Idee folgen."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "Token-Name"
+          }), _jsx(_components.th, {
+            children: "Wert"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "hosting-blue--800"
+          }), _jsx(_components.td, {
+            children: "#0054F5"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "size--s"
+          }), _jsx(_components.td, {
+            children: "8px"
+          })]
+        })]
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Alias Token"
+    }), "\n", _jsx(_components.p, {
+      children: "Alias Tokens referenzieren andere Tokens und weisen ihnen eine spezifischere\nBedeutung zu. Sie helfen dabei, allgemeine Werte in spezifischen Kontexten\neinzusetzen. Ein Alias Token konkretisiert z. B. bei einer Color, in welchem\nZusammenhang (Primary, Accent, Danger, ...) sie genutzt werden soll. Sie\nbeziehen sich immer auf einen Global Token und dürfen keine hard coded Werte\nbesitzen."
+    }), "\n", _jsx(_components.p, {
+      children: "Wir nutzen diese Ebene vor allem für die Definition von Tokens, die sich keiner\nbestimmten Variante (Solid, Soft, Outlined, Plain) zuordnen lassen, aber in eine\ngemeinsame Kategorie zusammengefasst werden können."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "Token-Name"
+          }), _jsx(_components.th, {
+            children: "Wert"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "primary--color--default"
+          }), _jsx(_components.td, {
+            children: "hosting-blue--800"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "border-width--400"
+          }), _jsx(_components.td, {
+            children: "size--s"
+          })]
+        })]
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Alias Token 2"
+    }), "\n", _jsx(_components.p, {
+      children: "Tokens dieser Ebene besitzen einen noch höheren Detailgrad. Sie werden oft einer\nspezifischen Variante zugeordnet und fügen weitere Details hinzu, die über den\nersten Alias Token hinausgehen. Dabei achten wir auch darauf, die Token so zu\ndefinieren, dass sie innerhalb der Variante gut harmonieren. So legen wir z. B.\nbei einer bestimmten Variante die Farben so fest, dass die Content-Farbe optisch\nzur Hintergrundfarbe passt und barrierefrei lesbar ist."
+    }), "\n", _jsx(_components.p, {
+      children: "Ein Alias Token 2 darf keine hard coded Werte besitzen, sich aber sowohl auf\nAlias als auch Global Token beziehen."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "Token-Name"
+          }), _jsx(_components.th, {
+            children: "Wert"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "primary-solid-background-color--default"
+          }), _jsx(_components.td, {
+            children: "primary--color--default"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "info-outline-border-color--default"
+          }), _jsx(_components.td, {
+            children: "info-color--default"
+          })]
+        })]
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Component Specific Token"
+    }), "\n", _jsx(_components.p, {
+      children: "Diese Tokens sind speziell auf einzelne Komponenten zugeschnitten. Sie\nvermitteln einzigartige Designentscheidungen, die ausschließlich für eine\nbestimmte Component relevant sind. Sie enthalten den höchsten Detailgrad der\nToken-Struktur und sind somit das Gegenteil eines Global Tokens."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "Token-Name"
+          }), _jsx(_components.th, {
+            children: "Wert"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "button--primary-solid-background-color--default"
+          }), _jsx(_components.td, {
+            children: "primary-solid-background-color--default"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "alert--info-outline-border-color--default"
+          }), _jsx(_components.td, {
+            children: "info-outline-border-color--default"
+          })]
+        })]
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"NMesTHZB2CRYQmJWouSUb","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Design Tokens"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Design Tokens übersetzen grundlegende Designentscheidungen wie Farben, Abstände\\nund mehr in eine einheitliche Sprache. Entwickler und Designer nutzen diese\\nSprache, um ein konsistentes, skalierbares und wiederverwendbares Design in der\\ngesamten Benutzeroberfläche sicherzustellen.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Design Tokens"},"scope":{}},"examples":{"schema":"import {\n  Badge,\n  ColumnLayout,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout m={[1, 1, 1]}>\n  <Text>\n    <Badge color=\"teal\">Context</Badge>\n    Einordnung <br />\n    <small>z. B. Farbe, Component</small>\n  </Text>\n  <Text>\n    <Badge color=\"orange\">Common Unit</Badge>\n    Kategorie <br />\n    <small>z. B. Variante, Sizing, Styling</small>\n  </Text>\n  <Text>\n    <Badge color=\"lilac\">Clarification</Badge>\n    Spezifizierung <br />\n    <small>z. B. Farbwert, State</small>\n  </Text>\n</ColumnLayout>;\n"},"slugs":["01-design","01-design-tokens"],"filename":"01-design/01-design-tokens/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{},"scope":{}},"examples":{"schema":"import {\n  Badge,\n  ColumnLayout,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout m={[1, 1, 1]}>\n  <Text>\n    <Badge color=\"teal\">Context</Badge>\n    Einordnung <br />\n    <small>z. B. Farbe, Component</small>\n  </Text>\n  <Text>\n    <Badge color=\"orange\">Common Unit</Badge>\n    Kategorie <br />\n    <small>z. B. Variante, Sizing, Styling</small>\n  </Text>\n  <Text>\n    <Badge color=\"lilac\">Clarification</Badge>\n    Spezifizierung <br />\n    <small>z. B. Farbwert, State</small>\n  </Text>\n</ColumnLayout>;\n"},"slugs":["01-design","01-design-tokens"],"filename":"01-design/01-design-tokens/overview.mdx","anchors":["Was sind Design Tokens?","Vorteile","Benennung von Tokens","Token-Arten und Struktur"]}}]}]],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+8:["$","script","script-0",{"src":"/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

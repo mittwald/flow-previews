@@ -1,0 +1,468 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"default"]
+f:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Flex"]
+10:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Tabs"]
+11:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"Tab"]
+12:I[39682,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"TabTitle"]
+17:I[13337,["/flow-previews/docs/2197/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2197/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2197/merge/_next/static/chunks/c37a26c7fb6b26a0.js","/flow-previews/docs/2197/merge/_next/static/chunks/39827cae968730ff.js","/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js"],"default"]
+9:T486,import {
+  AlertBadge,
+  Button,
+  ColumnLayout,
+  Content,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>
+      Mein Projekt
+      <AlertBadge status="danger">
+        Fehlende Vertragspartnerdaten
+      </AlertBadge>
+    </Heading>
+    <Button
+      variant="soft"
+      color="secondary"
+      aria-label="Weitere Aktionen anzeigen"
+    >
+      <IconContextMenu />
+    </Button>
+    <Button variant="soft" color="secondary">
+      Datenbank migrieren
+    </Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+a:T504,import {
+  Button,
+  ColumnLayout,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  MenuItem,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>Mein Projekt</Heading>
+
+    <ContextMenuTrigger>
+      <Button
+        variant="soft"
+        color="secondary"
+        aria-label="Weitere Aktionen anzeigen"
+      >
+        <IconContextMenu />
+      </Button>
+      <ContextMenu aria-label="Weitere Aktionen">
+        <MenuItem>Datenbank migrieren</MenuItem>
+        <MenuItem>Volume migrieren</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+
+    <Button color="danger">Deaktivieren</Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+0:{"buildId":"NMesTHZB2CRYQmJWouSUb","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Section"}],"Eine Section erhöht die Übersichtlichkeit, indem sie den Content in vertikale Teilbereiche mit festen Abständen gliedert. Zwischen mehreren Sections wird automatisch ein Separator eingefügt, um die Bereiche optisch zu trennen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Section","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Section","description":"Eine Section erhöht die Übersichtlichkeit, indem sie den Content in vertikale Teilbereiche mit festen Abständen gliedert. Zwischen mehreren Sections wird automatisch ein Separator eingefügt, um die Bereiche optisch zu trennen."},"scope":{}},"examples":{"alert-badge-dont":"$9","alert-badge":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","context-menu":"$a","default":"import {\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","hierarchy-do":"import {\n  Heading,\n  IconStar,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>\n    <IconStar />\n    Erste Schritte\n  </Heading>\n  <Text>\n    Im Onboarding erklären wir dir alles Wichtige – etwa die\n    Organisationsstrukturen deines Hostings, das Rechte- und\n    Rollensystem oder auch den Zugang über SSH.\n  </Text>\n  <Link href=\"#\">Starten</Link>\n</Section>;\n","link":"import {\n  Header,\n  Heading,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Link href=\"#\">Zur Anmeldung</Link>\n  </Header>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","long-heading":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein sehr langes Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","multiple":"import {\n  Button,\n  Header,\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<>\n  <Section>\n    <Header>\n      <Heading>Datenbanken</Heading>\n      <Button>Datenbank verknüpfen</Button>\n    </Header>\n    <Text>\n      Eine Datenbank, die mit einer App verknüpft ist, kann\n      nicht gelöscht werden. Die App nutzt immer die\n      verknüpfte Datenbank.\n    </Text>\n  </Section>\n  <Section>\n    <Heading>Cronjobs</Heading>\n    <Text>\n      Ein Cronjob ist immer fest einer App zugeordnet, du\n      kannst ihn unter dem Menüpunkt Cronjobs bearbeiten und\n      löschen.\n    </Text>\n  </Section>\n</>;\n","sub-heading":"import {\n  Heading,\n  InlineCode,\n  Label,\n  LabeledValue,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>DNS Verwaltung</Heading>\n  <Text>\n    Da du externe Nameserver nutzt, empfehlen wir dir\n    folgende Records bei deinem Provider einzutragen.\n  </Text>\n  <Heading level={3}>A-Record</Heading>\n  <LabeledValue>\n    <Label>IPv4-Adresse</Label>\n    <InlineCode>12.123.123.12</InlineCode>\n  </LabeledValue>\n</Section>;\n","switch":"import {\n  Header,\n  Heading,\n  Section,\n  Switch,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Autoresponder</Heading>\n    <Switch>Aktivieren</Switch>\n  </Header>\n  <Text>\n    Lasse den Autoresponder für dich arbeiten. Er kann\n    automatisch auf eingehende E-Mails antworten.\n  </Text>\n</Section>;\n"},"slugs":["structure","section"],"filename":"structure/section/index.mdx","anchors":[]}}]]}]}],"$Lb"],["$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+13:T29d6,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {Do, DoAndDont, Dont, Info} = _components;
+  if (!Do) _missingMdxReference("Do", true);
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Dont) _missingMdxReference("Dont", true);
+  if (!Info) _missingMdxReference("Info", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Sections sind ein häufiger Bestandteil komplexerer Components, die von dieser\nstrukturellen Eigenschaft profitieren. Außerdem bilden sie einen grundlegenden\nBaustein, um Oberflächen aufzubauen (siehe\n", _jsx(_components.a, {
+        href: "/02-foundations/05-ui-patterns/03-struktur",
+        children: "Content strukturieren"
+      }), ")."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer Section darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["sie eine kurze, aussagekräftige\n", _jsx(_components.a, {
+          href: "/03-components/content/heading/overview",
+          children: "Heading"
+        }), " erhält."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["bei Bedarf ein ", _jsx(_components.a, {
+          href: "/03-components/form-controls/switch/overview",
+          children: "Switch"
+        }), ", ein\n", _jsx(_components.a, {
+          href: "/03-components/navigations/link/overview",
+          children: "Link"
+        }), " oder bis zu zwei\n", _jsx(_components.a, {
+          href: "/03-components/actions/button/overview",
+          children: "Buttons"
+        }), " oben in die SectionAction\nintegriert werden können."]
+      }), "\n", _jsx(_components.li, {
+        children: "bei mehreren Sections die wichtigste ganz oben steht."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende eine Section, um..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Content in kleinere Teilbereiche zu gliedern und so die Übersichtlichkeit zu\nerhöhen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["einzelne Teilbereiche automatisch durch einen\n", _jsx(_components.a, {
+          href: "/03-components/structure/separator/overview",
+          children: "Separator"
+        }), " zu trennen, wenn\nmehrere Sections eingesetzt werden."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Elemente vertikal zu positionieren und die korrekten Abstände sicherzustellen.\nFür horizontale Positionierungen eignet sich ein\n", _jsx(_components.a, {
+          href: "/03-components/structure/column-layout/overview",
+          children: "ColumnLayout"
+        }), "."]
+      }), "\n"]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Anwendung"
+    }), "\n", _jsx(_components.h2, {
+      children: "Abstände"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Section sorgt automatisch für Abstände zwischen den darin platzierten\nElementen. Aufeinanderfolgende Sections werden zusätzlich durch einen\n", _jsx(_components.a, {
+        href: "/03-components/structure/separator/overview",
+        children: "Separator"
+      }), " getrennt. Dadurch\nentsteht eine klare visuelle Struktur und Hierarchie für den Content."]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Innerhalb einer Section mit einer\n", _jsx(_components.a, {
+        href: "/03-components/content/heading/overview",
+        children: "H2-Heading"
+      }), " kann durch weitere\nH3-Headings eine Sub-Heading-Struktur aufgebaut werden. Zwischen diesen\nSub-Inhalten erscheint kein Separator, sondern sie werden durch einen größeren\nAbstand optisch voneinander getrennt."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Position"
+    }), "\n", _jsx(_components.p, {
+      children: "Sections werden häufig im Content-Bereich verwendet und füllen dort die gesamte\nBreite aus. Wenn mehrere Sections untereinander verwendet werden, achte auf\nfolgende Punkte:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Die Section mit dem wichtigsten Inhalt sollte ganz oben stehen, insbesondere\nSections mit ", _jsx(_components.a, {
+          href: "/03-components/status/alert-badge/overview",
+          children: "AlertBadge"
+        }), ",\n", _jsx(_components.a, {
+          href: "/03-components/status/badge/overview",
+          children: "Badges"
+        }), " oder Actions (z. B.\n", _jsx(_components.a, {
+          href: "/03-components/actions/button/overview",
+          children: "Buttons"
+        }), ")."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Vermeide zu viele Sections, um den User nicht zu überladen. Überlege, ob der\nContent in solchen Fällen auf mehrere Seiten oder\n", _jsx(_components.a, {
+          href: "/03-components/navigation/tabs/overview",
+          children: "Tabs"
+        }), " verteilt werden sollte."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Hierarchie"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine Section beginnt immer mit einer\n", _jsx(_components.a, {
+        href: "/03-components/content/heading/overview",
+        children: "Heading"
+      }), ". Darauf folgt der eigentliche\nContent – also Informationen in Form von beispielsweise\n", _jsx(_components.a, {
+        href: "/03-components/content/labeled-value/overview",
+        children: "LabeledValues"
+      }), " oder einfachem\nText. Im unteren Bereich der Section bilden häufig\n", _jsx(_components.a, {
+        href: "/03-components/navigation/link/overview",
+        children: "Links"
+      }), " und\n", _jsx(_components.a, {
+        href: "/03-components/actions/button/overview",
+        children: "Buttons"
+      }), " den Abschluss. Im\nHeader-Bereich, in der sogenannten SectionAction, können prominentere Buttons\nund Links platziert werden."]
+    }), "\n", _jsx(Do, {
+      example: "hierarchy-do",
+      children: _jsx(_components.p, {
+        children: "Erzeuge eine klare und sinnvolle Struktur innerhalb der Section."
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Inhalt"
+    }), "\n", _jsx(_components.h2, {
+      children: "SectionAction und AlertBadge/Badge"
+    }), "\n", _jsx(_components.p, {
+      children: "Durch den SectionAction-Bereich im Header sowie den AlertBadge bzw. Badge lassen\nsich Informationen und Interaktionen kompakt darstellen. Achte bei der\nVerwendung dieser Elemente darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.a, {
+          href: "/03-components/status/alert-badge/overview",
+          children: "AlertBadge"
+        }), ",\n", _jsx(_components.a, {
+          href: "/03-components/status/badge/overview",
+          children: "Badges"
+        }), " und Actions sich immer\nunmittelbar auf die Section beziehen, der sie zugeordnet sind."]
+      }), "\n", _jsx(_components.li, {
+        children: "Die Hauptaktion der Section sich deutlich von anderen Aktionen abhebt. Dies\ngilt insbesondere, wenn 2 oder mehr Aktionen verwendet werden."
+      }), "\n"]
+    }), "\n", _jsx(Do, {
+      example: "alert-badge",
+      children: _jsx(_components.p, {
+        children: "Der AlertBadge bezieht sich auf den Status der Section, der er zugeordnet ist.\nDie Hauptaktion der Section ist deutlich hervorgehoben und dauerhaft sichtbar,\nobwohl es mehrere Actions gibt."
+      })
+    }), "\n", _jsx(Dont, {
+      example: "alert-badge-dont",
+      children: _jsx(_components.p, {
+        children: "Der AlertBadge sollte sich nicht auf Dinge beziehen, die außerhalb der Section\nliegen. Außerdem sollte die Hauptaktion immer sichtbar sein."
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Verhalten"
+    }), "\n", _jsx(_components.h2, {
+      children: "Responsive Layout"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Die Section passt sich der Breite des umgebenden Containers an."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Reicht die Breite der Section nicht aus, um alle Inhalte des Header-Bereichs\ndarzustellen, bricht der\n", _jsx(_components.a, {
+          href: "/03-components/form-controls/switch/overview",
+          children: "Switch"
+        }), " oder brechen die\n", _jsx(_components.a, {
+          href: "/03-components/actions/button/overview",
+          children: "Buttons"
+        }), " in die nächste Zeile um.\nDort ordnen sie sich weiterhin an der rechten Seite an."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Der ", _jsx(_components.a, {
+          href: "/03-components/status/alert-badge/overview",
+          children: "AlertBadge"
+        }), " bleibt immer auf\neiner Höhe mit dem Titel. Ist der Titel zu lang, wird er zweizeilig."]
+      }), "\n"]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Info, {
+        mobile: true,
+        heading: "Mobile",
+        example: "alert-badge",
+        children: _jsx(_components.p, {
+          children: "Wenn die Section nicht alle Inhalte horizontal darstellen kann, springen die\nActions in die nächste Zeile. Dort ordnen sie sich weiterhin rechts an."
+        })
+      }), _jsx(Info, {
+        mobile: true,
+        heading: "Textumbruch Heading",
+        example: "long-heading",
+        children: _jsx(_components.p, {
+          children: "AlertBadge bzw. Badge und Heading bleiben immer auf einer Höhe. Ist der Text\nzu lang, bricht er in die nächste Zeile um."
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+14:T486,import {
+  AlertBadge,
+  Button,
+  ColumnLayout,
+  Content,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>
+      Mein Projekt
+      <AlertBadge status="danger">
+        Fehlende Vertragspartnerdaten
+      </AlertBadge>
+    </Heading>
+    <Button
+      variant="soft"
+      color="secondary"
+      aria-label="Weitere Aktionen anzeigen"
+    >
+      <IconContextMenu />
+    </Button>
+    <Button variant="soft" color="secondary">
+      Datenbank migrieren
+    </Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+15:T504,import {
+  Button,
+  ColumnLayout,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  MenuItem,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>Mein Projekt</Heading>
+
+    <ContextMenuTrigger>
+      <Button
+        variant="soft"
+        color="secondary"
+        aria-label="Weitere Aktionen anzeigen"
+      >
+        <IconContextMenu />
+      </Button>
+      <ContextMenu aria-label="Weitere Aktionen">
+        <MenuItem>Datenbank migrieren</MenuItem>
+        <MenuItem>Volume migrieren</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+
+    <Button color="danger">Deaktivieren</Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+b:["$","$Lf",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lf",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L10",null,{"selectedKey":"guidelines","children":[["$","$L11",null,{"id":"overview","children":[["$","$L12",null,{"href":"/03-components/structure/section/overview","children":"Overview"}],false]}],["$","$L11",null,{"id":"develop","children":[["$","$L12",null,{"href":"/03-components/structure/section/develop","children":"Develop"}],false]}],["$","$L11",null,{"id":"guidelines","children":[["$","$L12",null,{"href":"/03-components/structure/section/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$13","frontmatter":{},"scope":{}},"examples":{"alert-badge-dont":"$14","alert-badge":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","context-menu":"$15","default":"import {\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","hierarchy-do":"import {\n  Heading,\n  IconStar,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>\n    <IconStar />\n    Erste Schritte\n  </Heading>\n  <Text>\n    Im Onboarding erklären wir dir alles Wichtige – etwa die\n    Organisationsstrukturen deines Hostings, das Rechte- und\n    Rollensystem oder auch den Zugang über SSH.\n  </Text>\n  <Link href=\"#\">Starten</Link>\n</Section>;\n","link":"import {\n  Header,\n  Heading,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Link href=\"#\">Zur Anmeldung</Link>\n  </Header>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","long-heading":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein sehr langes Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","multiple":"import {\n  Button,\n  Header,\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<>\n  <Section>\n    <Header>\n      <Heading>Datenbanken</Heading>\n      <Button>Datenbank verknüpfen</Button>\n    </Header>\n    <Text>\n      Eine Datenbank, die mit einer App verknüpft ist, kann\n      nicht gelöscht werden. Die App nutzt immer die\n      verknüpfte Datenbank.\n    </Text>\n  </Section>\n  <Section>\n    <Heading>Cronjobs</Heading>\n    <Text>\n      Ein Cronjob ist immer fest einer App zugeordnet, du\n      kannst ihn unter dem Menüpunkt Cronjobs bearbeiten und\n      löschen.\n    </Text>\n  </Section>\n</>;\n","sub-heading":"import {\n  Heading,\n  InlineCode,\n  Label,\n  LabeledValue,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>DNS Verwaltung</Heading>\n  <Text>\n    Da du externe Nameserver nutzt, empfehlen wir dir\n    folgende Records bei deinem Provider einzutragen.\n  </Text>\n  <Heading level={3}>A-Record</Heading>\n  <LabeledValue>\n    <Label>IPv4-Adresse</Label>\n    <InlineCode>12.123.123.12</InlineCode>\n  </LabeledValue>\n</Section>;\n","switch":"import {\n  Header,\n  Heading,\n  Section,\n  Switch,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Autoresponder</Heading>\n    <Switch>Aktivieren</Switch>\n  </Header>\n  <Text>\n    Lasse den Autoresponder für dich arbeiten. Er kann\n    automatisch auf eingehende E-Mails antworten.\n  </Text>\n</Section>;\n"},"slugs":["structure","section"],"filename":"structure/section/guidelines.mdx","anchors":["Grundlagen","Anwendung","Inhalt","Verhalten"]}}]}]]}]]}]}]}],"$L16"]}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2197/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+d:["$","script","script-1",{"src":"/flow-previews/docs/2197/merge/_next/static/chunks/810749fb5bd965e2.js","async":true}]
+e:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+16:["$","$L1a",null,{"currentPath":"/03-components/structure/section/guidelines","anchors":"$b:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+19:null
