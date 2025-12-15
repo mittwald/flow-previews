@@ -1,0 +1,11 @@
+import{j as r}from"./iframe-AfMfDnul.js";import{C as a,a as i}from"./ContextualHelpTrigger-BGD0J07C.js";import{B as s}from"./Button-Dz-J0BZY.js";import{T as m}from"./Text-XXGzm8bZ.js";import{A as n}from"./Align-DO08DH9M.js";import{a as p}from"./MessageSeparator-CqsC5kSU.js";import"./preload-helper-PPVm8Dsz.js";import"./Popover-CmYxShpW.js";import"./clsx-B-dksMZM.js";import"./context-WpTHPnjK.js";import"./Button-CnuzJqL8.js";import"./utils-wHWs8Mhj.js";import"./mergeRefs-hRGJQS5p.js";import"./index-Cse-H3Oz.js";import"./ProgressBar-BHyKVsx8.js";import"./Hidden-3-cgxJ5L.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-ESdZ7ZET.js";import"./useFocusRing-BCI7vGPi.js";import"./useFocusable-CBVaElx9.js";import"./RSPContexts-C5kaCkGg.js";import"./Collection-B07e3AhT.js";import"./CollectionBuilder-cwz4h6ef.js";import"./SelectionIndicator-DvSIX2eN.js";import"./Separator-Cu7L9zFQ.js";import"./browser-D3b8NrdU.js";import"./useLocalizedStringFormatter-ZYKyDhtN.js";import"./PropsContextProvider-D0YtrswE.js";import"./useStatic-oE3CUH2s.js";import"./OverlayTrigger-CzOjAy2I.js";import"./IconWarning-BHjxQDF5.js";import"./remote-BbVCA53p.js";import"./LoadingSpinner-C1jt85JD.js";import"./EmulatedBoldText-pgpRP3jm.js";import"./dynamic-B22nf4Sq.js";import"./Separator-DJ5CH4NB.js";import"./Content-B3NPYowa.js";const Q={title:"Chat/MessageSeparator",component:p,render:e=>r.jsx(p,{...e,children:"Conversation created"})},t={},o={render:e=>r.jsx(p,{...e,children:r.jsxs(n,{children:[r.jsx(m,{children:"Conversation created"}),r.jsxs(a,{children:[r.jsx(s,{}),r.jsx(i,{children:"Conversation created by John Doe"})]})]})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <MessageSeparator {...props}>
+      <Align>
+        <Text>Conversation created</Text>
+        <ContextualHelpTrigger>
+          <Button />
+          <ContextualHelp>Conversation created by John Doe</ContextualHelp>
+        </ContextualHelpTrigger>
+      </Align>
+    </MessageSeparator>
+}`,...o.parameters?.docs?.source}}};const U=["Default","WithContextualHelp"];export{t as Default,o as WithContextualHelp,U as __namedExportsOrder,Q as default};
