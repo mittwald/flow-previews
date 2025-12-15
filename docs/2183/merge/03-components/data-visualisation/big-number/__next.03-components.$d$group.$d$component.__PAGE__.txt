@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[136778,["/flow-previews/docs/2183/merge/_next/static/chunks/eeb02920ac9d27c4.js","/flow-previews/docs/2183/merge/_next/static/chunks/c8c63b17c18f4bdc.js"],"OutletBoundary"]
+3:I[205537,["/flow-previews/docs/2183/merge/_next/static/chunks/98d121bac75edce8.js","/flow-previews/docs/2183/merge/_next/static/chunks/a7f1f1e23f97b818.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"8fvgic_TwVXQA1Bpoip4R","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"WC8S-hbIp-f_xMPufgOVE","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/03-components/data-visualisation/big-number/overview;307;"}
