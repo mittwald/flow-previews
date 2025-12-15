@@ -1,0 +1,1 @@
+import{r as l}from"./iframe-CH_aTfEL.js";import"./TranslationProvider-CWofhASx.js";const c="___flowControlledRemoteValue___",C=t=>{const{value:e,onChange:n,defaultValue:u}=t,o=e===c?void 0:e,[s,a]=l.useState(o??u);return l.useLayoutEffect(()=>{o!==void 0&&a(o)},[e]),{...t,value:s,onChange:r=>{a(r),n?.(r)}}};export{C as u};
