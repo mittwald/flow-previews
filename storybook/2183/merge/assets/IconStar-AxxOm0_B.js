@@ -1,0 +1,1 @@
+import{j as o}from"./iframe-CN4G8qqm.js";import{b as t}from"./IconChevronDown-oGa76fM6.js";import{I as s}from"./IconStar-B7AVGbFj.js";const n=r=>o.jsx(t,{...r,children:o.jsx(s,{})});n.__docgenInfo={description:"",methods:[],displayName:"IconStar"};export{n as I};

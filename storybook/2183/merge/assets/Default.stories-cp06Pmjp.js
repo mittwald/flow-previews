@@ -1,0 +1,18 @@
+import{j as r}from"./iframe-CN4G8qqm.js";import{L as m}from"./LayoutCard-CKyMkRcv.js";import{T as c,a as e,b as p}from"./Tab-gWtqRNfM.js";import{S as a}from"./Section-BzFgBFFU.js";import{T as n}from"./Text-0Ubm83r2.js";import{d as s}from"./dummyText-CX_I_Wpl.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-4OAE62jj.js";import"./mergeRefs-B9PoHYFQ.js";import"./index-I0Qj-Cdl.js";import"./useRef-BiGavIyS.js";import"./Button-Bq80dFyw.js";import"./IconChevronDown-oGa76fM6.js";import"./remote-DWrodQTa.js";import"./IconX-BxRR1JIX.js";import"./IconCheck-DqC7rWu2.js";import"./LoadingSpinner-D2A4fUcq.js";import"./ariaLive-BjvyJtUO.js";import"./Button-DbVJWx45.js";import"./utils-DbmEdXKf.js";import"./ProgressBar-DMLVl3vw.js";import"./Hidden-BofwJMZa.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CcGGjrZQ.js";import"./useFocusRing-CERaDmlf.js";import"./useFocusable-BkpoXrB2.js";import"./useLocalizedStringFormatter-B9Hz40nN.js";import"./IconContextMenu-DuVh8EvD.js";import"./ContextMenuTriggerView-CxmCDgTX.js";import"./ContextMenuTrigger-Bk8Fmvds.js";import"./OverlayTrigger-D4cmnJfg.js";import"./OverlayContextProvider-HOHtpdM6.js";import"./context-CQHW5bQg.js";import"./RSPContexts-DE5X9chL.js";import"./Collection-CpgGjn50.js";import"./CollectionBuilder-RP78OhS8.js";import"./SelectionIndicator-D0PPGfWn.js";import"./Separator-BYdiAAyF.js";import"./browser-TeUtxSTm.js";import"./useStatic-CM9-VZa7.js";import"./ContextMenuView-g7fFC7yP.js";import"./MenuItem-Bs_2Ghnl.js";import"./Action-Cfr2BBp2.js";import"./getActionGroupSlot-DpgtZJxd.js";import"./dynamic-D9oGWwUs.js";import"./lib-90ocxLs-.js";import"./Popover-ro5fYKAY.js";import"./useOverlayController-CzXHiyE9.js";import"./IconCheckboxEmpty-DHcZCbzA.js";import"./IconRadioOn-Buauz5Nc.js";import"./Switch-B-HG7A5W.js";import"./IconCheck-6V3JMSVE.js";import"./IconClose-91D_EWrB.js";import"./useFieldComponent-TTf0ydYE.js";import"./Activity-BEbOvIp9.js";import"./TranslationProvider-D4PNRj4s.js";import"./index-SBtdq8jY.js";import"./luxon-CkcISRbr.js";import"./Label.module-lamhxTiw.js";import"./useToggleState-D7LYRA75.js";import"./useFormReset-CiTTEZ9A.js";import"./inertValue-BGShpTcm.js";import"./useHasTabbableChild-BSCmvrGA.js";import"./useSingleSelectListState-EdE5cPre.js";import"./useListState-Bb2mIgdJ.js";import"./ContextMenuSection-D61kPd_y.js";import"./EmulatedBoldText-moUjmeps.js";const vr={title:"Structure/Layout Card",component:m,argTypes:{elementType:{control:"inline-radio",options:["div","main"]}},args:{elementType:"div"},render:i=>r.jsx(m,{...i,children:"Layout Card is a structure element that can contain any content"})},t={},o={render:i=>r.jsx(m,{...i,children:r.jsxs(c,{children:[r.jsxs(e,{id:"general",children:[r.jsx(p,{children:"General"}),r.jsx(a,{children:r.jsx(n,{children:s.long})})]}),r.jsxs(e,{id:"storage",children:[r.jsx(p,{children:"Storage"}),r.jsx(a,{children:r.jsx(n,{children:s.long})})]})]})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <LayoutCard {...props}>
+      <Tabs>
+        <Tab id="general">
+          <TabTitle>General</TabTitle>
+          <Section>
+            <Text>{dummyText.long}</Text>
+          </Section>
+        </Tab>
+        <Tab id="storage">
+          <TabTitle>Storage</TabTitle>
+          <Section>
+            <Text>{dummyText.long}</Text>
+          </Section>
+        </Tab>
+      </Tabs>
+    </LayoutCard>
+}`,...o.parameters?.docs?.source}}};const Dr=["Default","WithTabs"];export{t as Default,o as WithTabs,Dr as __namedExportsOrder,vr as default};

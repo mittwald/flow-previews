@@ -1,0 +1,15 @@
+import{j as o}from"./iframe-CN4G8qqm.js";import n from"./Default.stories-DS2n3bW6.js";import{d as r}from"./dummyText-CX_I_Wpl.js";import{T as i}from"./Text-0Ubm83r2.js";import{C as s}from"./Content-CVWt400t.js";import{C as a}from"./ColumnLayout-B5b-pC9z.js";import{T as d}from"./TextField-BkgFRPwc.js";import{F as x}from"./TranslationProvider-D4PNRj4s.js";import{C as p}from"./CheckboxButton-DUSmxty1.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-4OAE62jj.js";import"./mergeRefs-B9PoHYFQ.js";import"./index-I0Qj-Cdl.js";import"./clsx-B-dksMZM.js";import"./browser-TeUtxSTm.js";import"./utils-DbmEdXKf.js";import"./EmulatedBoldText-moUjmeps.js";import"./useFieldComponent-TTf0ydYE.js";import"./Activity-BEbOvIp9.js";import"./IconChevronDown-oGa76fM6.js";import"./remote-DWrodQTa.js";import"./LoadingSpinner-D2A4fUcq.js";import"./OverlayContextProvider-HOHtpdM6.js";import"./context-CQHW5bQg.js";import"./Button-DbVJWx45.js";import"./ProgressBar-DMLVl3vw.js";import"./Hidden-BofwJMZa.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CcGGjrZQ.js";import"./useFocusRing-CERaDmlf.js";import"./useFocusable-BkpoXrB2.js";import"./RSPContexts-DE5X9chL.js";import"./Collection-CpgGjn50.js";import"./CollectionBuilder-RP78OhS8.js";import"./SelectionIndicator-D0PPGfWn.js";import"./Separator-BYdiAAyF.js";import"./useLocalizedStringFormatter-B9Hz40nN.js";import"./useStatic-CM9-VZa7.js";import"./ariaLive-BjvyJtUO.js";import"./useOverlayController-CzXHiyE9.js";import"./index-SBtdq8jY.js";import"./luxon-CkcISRbr.js";import"./Checkbox-DVtWS0sd.js";import"./IconCheckboxEmpty-DHcZCbzA.js";import"./FieldError-BYURGtTT.js";import"./Form-CGtio7r9.js";import"./useFormValidation-Dm9_Tt2c.js";import"./useToggleState-D7LYRA75.js";import"./useFormReset-CiTTEZ9A.js";import"./TextFieldBase-DVCL_uIk.js";import"./TextField-CYL1yyAr.js";import"./Group-CcXOZiUc.js";import"./Input-DrCQZ-OZ.js";import"./useTextField-BcSIXJQ5.js";import"./useControlledHostValueProps-D4EY9U9i.js";const uo={title:"Form Controls/CheckboxButton/Edge Cases",...n},t={render:e=>o.jsxs(p,{...e,children:[o.jsx(i,{children:r.long}),o.jsx(s,{children:r.long})]})},m={render:e=>o.jsxs(a,{children:[o.jsx(p,{...e,children:o.jsx(i,{children:r.short})}),o.jsx(d,{"aria-label":r.short,children:o.jsx(x,{children:r.short})})]})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxButton {...props}>
+      <Text>{dummyText.long}</Text>
+      <Content>{dummyText.long}</Content>
+    </CheckboxButton>
+}`,...t.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <ColumnLayout>
+      <CheckboxButton {...props}>
+        <Text>{dummyText.short}</Text>
+      </CheckboxButton>
+      <TextField aria-label={dummyText.short}>
+        <FieldDescription>{dummyText.short}</FieldDescription>
+      </TextField>
+    </ColumnLayout>
+}`,...m.parameters?.docs?.source}}};const ho=["LongTexts","InColumnLayout"];export{m as InColumnLayout,t as LongTexts,ho as __namedExportsOrder,uo as default};
