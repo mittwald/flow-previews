@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"default"]
+d:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Flex"]
+e:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Tabs"]
+f:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Tab"]
+10:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"TabTitle"]
+15:I[13337,["/flow-previews/docs/2142/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2142/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[142373,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"default"]
+0:{"buildId":"d0V3iIwNyG3HipILe7acu","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"DonutChart"}],"Das DonutChart dient zur übersichtlichen Darstellung proportionaler Daten in einem ringförmigen Diagramm. Es eignet sich besonders zur Visualisierung von Verteilungen, Anteilen oder Fortschritten.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/DonutChart","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"DonutChart","description":"Das DonutChart dient zur übersichtlichen Darstellung proportionaler Daten in einem ringförmigen Diagramm. Es eignet sich besonders zur Visualisierung von Verteilungen, Anteilen oder Fortschritten."},"scope":{}},"examples":{"children":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  value={300}\n  maxValue={600}\n  aria-label=\"Speicherplatz\"\n>\n  <b>300</b>\n  <small>GB</small>\n</DonutChart>;\n","decimal":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Performance\"\n  formatOptions={{ style: \"decimal\" }}\n  maxValue={200}\n  value={135}\n/>;\n","default":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart value={30} aria-label=\"Auslastung\" />;\n","segments":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Items\"\n  segments={[\n    { title: \"Item 1\", value: 28 },\n    { title: \"Item 2\", value: 24 },\n    { title: \"Item 3\", value: 20 },\n    { title: \"Item 4\", value: 10 },\n    { title: \"Item 5\", value: 12 },\n    { title: \"Item 6\", value: 6 },\n  ]}\n/>;\n","size":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart value={30} aria-label=\"Auslastung\" size=\"l\" />\n</Row>;\n","status":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart\n    value={30}\n    status=\"success\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart\n    value={80}\n    status=\"warning\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart\n    value={95}\n    status=\"danger\"\n    aria-label=\"Auslastung\"\n  />\n</Row>;\n","unit":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Speicherplatz\"\n  formatOptions={{ style: \"unit\", unit: \"gigabyte\" }}\n  maxValue={50}\n  value={12}\n/>;\n"},"slugs":["data-visualisation","donut-chart"],"filename":"data-visualisation/donut-chart/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+11:T12ec,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    strong: "strong",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<DonutChart />"
+      }), ", um ein DonutChart darzustellen."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit Unit"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Im default wird das DonutChart immer mit Prozentangabe angezeigt. Über das\nProperty ", _jsx(_components.code, {
+        children: "formatOptions"
+      }), " können aber auch andere Einheiten gewählt werden. (s.\n", _jsx(_components.a, {
+        href: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat",
+        children: "Intl.NumberFormat"
+      }), ")"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Gigabyte"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "unit",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Dezimalzahl"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "decimal",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Größen"
+    }), "\n", _jsx(_components.p, {
+      children: "Die Size des DonutCharts kann Medium oder Large sein. Medium ist dabei die\nStandardgröße."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "size",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit alternativem Text"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über die ", _jsx(_components.code, {
+        children: "children"
+      }), " kann der Text innerhalb des DonutCharts überschrieben werden"]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "children",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Status"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Je nach Anwendungsfall stehen vier Status-Farben zur Auswahl: ", _jsx(_components.strong, {
+        children: "Info"
+      }), ",\n", _jsx(_components.strong, {
+        children: "Success"
+      }), ", ", _jsx(_components.strong, {
+        children: "Warning"
+      }), " und ", _jsx(_components.strong, {
+        children: "Danger"
+      }), "."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "status",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Segmente"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Anzeige des DonutCharts kann über das ", _jsx(_components.code, {
+        children: "segments"
+      }), " Property um einzelne\nAbschnitte ergänzt werden. Der ", _jsx(_components.code, {
+        children: "value"
+      }), " ergibt sich in diesem Fall aus der Summe\nder Werte der einzelnen Segmente. Um die einzelnen Werte näher zu erläutern wird\nautomatisch die ", _jsx(_components.code, {
+        children: "Legend"
+      }), " Component angezeigt. Über das ", _jsx(_components.code, {
+        children: "showLegend"
+      }), " Property\nkann diese ein- und ausgeblendet werden. Die Position der Legende kann über das\nProperty ", _jsx(_components.code, {
+        children: "legendPosition"
+      }), " bestimmt werden."]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Farben der Segmente werden automatisch festgelegt, können aber über das\n", _jsx(_components.code, {
+        children: "color"
+      }), " Property überschrieben werden. Beim Überschreiben muss darauf geachtet\nwerden, dass nebeneinander liegende Farben weiterhin einen ausreichenden\nKontrast zueinander haben."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "segments",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Ld",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Le",null,{"selectedKey":"overview","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/data-visualisation/donut-chart/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"children":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  value={300}\n  maxValue={600}\n  aria-label=\"Speicherplatz\"\n>\n  <b>300</b>\n  <small>GB</small>\n</DonutChart>;\n","decimal":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Performance\"\n  formatOptions={{ style: \"decimal\" }}\n  maxValue={200}\n  value={135}\n/>;\n","default":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart value={30} aria-label=\"Auslastung\" />;\n","segments":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Items\"\n  segments={[\n    { title: \"Item 1\", value: 28 },\n    { title: \"Item 2\", value: 24 },\n    { title: \"Item 3\", value: 20 },\n    { title: \"Item 4\", value: 10 },\n    { title: \"Item 5\", value: 12 },\n    { title: \"Item 6\", value: 6 },\n  ]}\n/>;\n","size":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart value={30} aria-label=\"Auslastung\" size=\"l\" />\n</Row>;\n","status":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart\n    value={30}\n    status=\"success\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart\n    value={80}\n    status=\"warning\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart\n    value={95}\n    status=\"danger\"\n    aria-label=\"Auslastung\"\n  />\n</Row>;\n","unit":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Speicherplatz\"\n  formatOptions={{ style: \"unit\", unit: \"gigabyte\" }}\n  maxValue={50}\n  value={12}\n/>;\n"},"slugs":["data-visualisation","donut-chart"],"filename":"data-visualisation/donut-chart/overview.mdx","anchors":["Playground","Mit Unit","Größen","Mit alternativem Text","Status","Segmente"]}}]}]]}],"$L12","$L13"]}]}]}],"$L14"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+b:["$","script","script-1",{"src":"/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js","async":true}]
+c:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+12:["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/data-visualisation/donut-chart/develop","children":"Develop"}],false]}]
+13:["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/data-visualisation/donut-chart/guidelines","children":"Guidelines"}],false]}]
+14:["$","$L18",null,{"currentPath":"/03-components/data-visualisation/donut-chart/overview","anchors":"$9:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+17:null

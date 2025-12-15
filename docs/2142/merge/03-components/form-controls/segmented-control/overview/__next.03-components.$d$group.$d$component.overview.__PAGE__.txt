@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"default"]
+e:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"TabTitle"]
+17:I[13337,["/flow-previews/docs/2142/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2142/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2142/merge/_next/static/chunks/d1b58c0ae24bc272.js","/flow-previews/docs/2142/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js"],"default"]
+9:T43c,import {
+  ColumnLayout,
+  FieldDescription,
+  Label,
+  Section,
+  Segment,
+  SegmentedControl,
+  TextField,
+} from "@mittwald/flow-react-components";
+import { useState } from "react";
+
+export default () => {
+  const [showContent, setShowContent] =
+    useState<boolean>(false);
+
+  return (
+    <Section>
+      <SegmentedControl
+        defaultValue="lastschrift"
+        onChange={() => setShowContent(!showContent)}
+      >
+        <Label>Zahlungsart</Label>
+        <Segment value="lastschrift">Lastschrift</Segment>
+        <Segment value="Rechnung">Rechnung</Segment>
+        {showContent && (
+          <FieldDescription>
+            Wähle bitte eine Bankverbindung für die
+            Bezahlung mit SEPA-Lastschrift aus.
+          </FieldDescription>
+        )}
+      </SegmentedControl>
+      {showContent && (
+        <ColumnLayout>
+          <TextField isRequired>
+            <Label>Kontoinhaber</Label>
+          </TextField>
+          <TextField isRequired>
+            <Label>IBAN</Label>
+          </TextField>
+        </ColumnLayout>
+      )}
+    </Section>
+  );
+};
+0:{"buildId":"d0V3iIwNyG3HipILe7acu","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"SegmentedControl"}],"Ein SegmentedControl bietet dem User eine Einfachauswahl von 2 bis 5 kurzen Optionen. Je nach Einsatzzweck kann die Auswahl des Users den Inhalt unter dem Segmented Control verändern.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/SegmentedControl","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"SegmentedControl","description":"Ein SegmentedControl bietet dem User eine Einfachauswahl von 2 bis 5 kurzen Optionen. Je nach Einsatzzweck kann die Auswahl des Users den Inhalt unter dem Segmented Control verändern."},"scope":{}},"examples":{"changeContent":"$9","compact":"import {\n  ColumnLayout,\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout m={[1, 1]}>\n  <SegmentedControl\n    defaultValue=\"entwickler\"\n    containerBreakpointSize=\"xl\"\n  >\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n\n  <SegmentedControl\n    defaultValue=\"entwickler\"\n    containerBreakpointSize=\"xs\"\n  >\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n</ColumnLayout>;\n","contextualHelp":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Segment,\n  SegmentedControl,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"lastschrift\">\n  <Label>\n    Zahlungsart\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Segment value=\"lastschrift\">Lastschrift</Segment>\n  <Segment value=\"Rechnung\">Rechnung</Segment>\n</SegmentedControl>;\n","default":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"lastschrift\">\n  <Label>Zahlungsart</Label>\n  <Segment value=\"lastschrift\">Lastschrift</Segment>\n  <Segment value=\"Rechnung\">Rechnung</Segment>\n</SegmentedControl>;\n","fieldDescription":"import {\n  FieldDescription,\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"cloud\">\n  <Label>Speicherplatz</Label>\n  <Segment value=\"cloud\">Cloud</Segment>\n  <Segment value=\"lokal\">Lokal</Segment>\n  <FieldDescription>\n    Speicherplatz kann jederzeit geändert werden\n  </FieldDescription>\n</SegmentedControl>;\n","form":"import {\n  Label,\n  Section,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ payment: \"debit\" | \"invoice\" }>({\n    defaultValues: { payment: \"debit\" },\n  });\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"payment\"\n          rules={{\n            required: \"Bitte wähle eine Zahlungsart aus\",\n          }}\n        >\n          <SegmentedControl>\n            <Label>Zahlungsart</Label>\n            <Segment value=\"debit\">Lastschrift</Segment>\n            <Segment value=\"invoice\">Rechnung</Segment>\n          </SegmentedControl>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n","playground":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"ssh-key\">\n  <Label>Authentifizierungsart</Label>\n  <Segment value=\"ssh-key\">SSH-Key</Segment>\n  <Segment value=\"passwort\">Passwort</Segment>\n</SegmentedControl>;\n","states":"import {\n  Label,\n  Section,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <SegmentedControl defaultValue=\"dev\">\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"designer\">Designer</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n  <SegmentedControl defaultValue=\"dev\" isDisabled>\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"designer\">Designer</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n</Section>;\n","textDo":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"individuell\">\n  <Label>Einstellung</Label>\n  <Segment value=\"standard\">Standard</Segment>\n  <Segment value=\"individuell\">Individuell</Segment>\n</SegmentedControl>;\n","textDont":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"individuell\">\n  <Label>Wähle deine Einstellungsart aus:</Label>\n  <Segment value=\"standard\">Standard-Einstellungen</Segment>\n  <Segment value=\"individuell\">\n    Individuell einstellbare Einstellungen\n  </Segment>\n</SegmentedControl>;\n"},"slugs":["form-controls","segmented-control"],"filename":"form-controls/segmented-control/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:T1576,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<SegmentedControl />"
+      }), ", um ein SegmentedControl anzuzeigen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "playground"
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit Inhaltsänderung"
+    }), "\n", _jsx(_components.p, {
+      children: "Unterhalb des SegmentedControls kann sich der Inhalt je nach Bedarf ändern."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "changeContent",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit FieldDescription"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Innerhalb der ", _jsx(_components.code, {
+        children: "<SegmentedControl />"
+      }), " kann eine hilfreiche ", _jsx(_components.code, {
+        children: "<FieldDescription />"
+      }), "\neingebaut werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "fieldDescription",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "States"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine SegmentedControl hat 2 States: ", _jsx(_components.strong, {
+        children: "Default"
+      }), " und ", _jsx(_components.strong, {
+        children: "Disabled"
+      }), ". Die Optionen\nverfügen über die States ", _jsx(_components.strong, {
+        children: "Default"
+      }), ", ", _jsx(_components.strong, {
+        children: "Hover"
+      }), ", ", _jsx(_components.strong, {
+        children: "Pressed"
+      }), ", ", _jsx(_components.strong, {
+        children: "Disabled"
+      }), ",\n", _jsx(_components.strong, {
+        children: "Focused"
+      }), " und ", _jsx(_components.strong, {
+        children: "Selected"
+      }), "."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "states",
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Selected:"
+          }), " Wird eine Option vom User ausgewählt, so erhält er den Zustand\nSelected. Es kann immer nur eine Option diesen Status haben. Zu Beginn ist\nimmer die erste Option vorausgewählt."]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: [_jsx(_components.strong, {
+            children: "Disabled:"
+          }), " Einzelne Optionen oder die gesamte SegmentedControl können den\nState Disabled haben. Wenn die SegmentedControl den State Disabled erhält,\nerhalten automatisch auch alle Optionen ebenfalls diesen State, sodass sie vom\nUser nicht ausgewählt werden können."]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Container Breakpoint Size"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das SegmentedControl springt in eine kompakte Variante um, sobald der Container\nkleiner als der gesetzte Breakpoint ist. Im Default passiert das bei 550px, was\nder ", _jsx(_components.code, {
+        children: "containerBreakpointSize=\"m\""
+      }), " entspricht. Über diese Property kann die Größe\nmit Werten zwischen ", _jsx(_components.code, {
+        children: "xs"
+      }), " und ", _jsx(_components.code, {
+        children: "xl"
+      }), " überschrieben werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "compact",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "ContextualHelp"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Benutze die ", _jsx(_components.a, {
+        href: "/03-components/overlays/contextual-help/overview",
+        children: "ContextualHelp"
+      }), "\nKomponente, wenn du weitere Informationen bereitstellen möchtest, und diese zu\nlang für die FieldDescription sind."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "contextualHelp",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "React Hook Form"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "form",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T43c,import {
+  ColumnLayout,
+  FieldDescription,
+  Label,
+  Section,
+  Segment,
+  SegmentedControl,
+  TextField,
+} from "@mittwald/flow-react-components";
+import { useState } from "react";
+
+export default () => {
+  const [showContent, setShowContent] =
+    useState<boolean>(false);
+
+  return (
+    <Section>
+      <SegmentedControl
+        defaultValue="lastschrift"
+        onChange={() => setShowContent(!showContent)}
+      >
+        <Label>Zahlungsart</Label>
+        <Segment value="lastschrift">Lastschrift</Segment>
+        <Segment value="Rechnung">Rechnung</Segment>
+        {showContent && (
+          <FieldDescription>
+            Wähle bitte eine Bankverbindung für die
+            Bezahlung mit SEPA-Lastschrift aus.
+          </FieldDescription>
+        )}
+      </SegmentedControl>
+      {showContent && (
+        <ColumnLayout>
+          <TextField isRequired>
+            <Label>Kontoinhaber</Label>
+          </TextField>
+          <TextField isRequired>
+            <Label>IBAN</Label>
+          </TextField>
+        </ColumnLayout>
+      )}
+    </Section>
+  );
+};
+a:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"overview","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/form-controls/segmented-control/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"changeContent":"$13","compact":"import {\n  ColumnLayout,\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout m={[1, 1]}>\n  <SegmentedControl\n    defaultValue=\"entwickler\"\n    containerBreakpointSize=\"xl\"\n  >\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n\n  <SegmentedControl\n    defaultValue=\"entwickler\"\n    containerBreakpointSize=\"xs\"\n  >\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n</ColumnLayout>;\n","contextualHelp":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Segment,\n  SegmentedControl,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"lastschrift\">\n  <Label>\n    Zahlungsart\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Segment value=\"lastschrift\">Lastschrift</Segment>\n  <Segment value=\"Rechnung\">Rechnung</Segment>\n</SegmentedControl>;\n","default":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"lastschrift\">\n  <Label>Zahlungsart</Label>\n  <Segment value=\"lastschrift\">Lastschrift</Segment>\n  <Segment value=\"Rechnung\">Rechnung</Segment>\n</SegmentedControl>;\n","fieldDescription":"import {\n  FieldDescription,\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"cloud\">\n  <Label>Speicherplatz</Label>\n  <Segment value=\"cloud\">Cloud</Segment>\n  <Segment value=\"lokal\">Lokal</Segment>\n  <FieldDescription>\n    Speicherplatz kann jederzeit geändert werden\n  </FieldDescription>\n</SegmentedControl>;\n","form":"import {\n  Label,\n  Section,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ payment: \"debit\" | \"invoice\" }>({\n    defaultValues: { payment: \"debit\" },\n  });\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"payment\"\n          rules={{\n            required: \"Bitte wähle eine Zahlungsart aus\",\n          }}\n        >\n          <SegmentedControl>\n            <Label>Zahlungsart</Label>\n            <Segment value=\"debit\">Lastschrift</Segment>\n            <Segment value=\"invoice\">Rechnung</Segment>\n          </SegmentedControl>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n","playground":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"ssh-key\">\n  <Label>Authentifizierungsart</Label>\n  <Segment value=\"ssh-key\">SSH-Key</Segment>\n  <Segment value=\"passwort\">Passwort</Segment>\n</SegmentedControl>;\n","states":"import {\n  Label,\n  Section,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <SegmentedControl defaultValue=\"dev\">\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"designer\">Designer</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n  <SegmentedControl defaultValue=\"dev\" isDisabled>\n    <Label>Rolle</Label>\n    <Segment value=\"entwickler\">Entwickler</Segment>\n    <Segment value=\"designer\">Designer</Segment>\n    <Segment value=\"geschäftsführer\">\n      Geschäftsführer\n    </Segment>\n    <Segment value=\"andere\">Andere</Segment>\n  </SegmentedControl>\n</Section>;\n","textDo":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"individuell\">\n  <Label>Einstellung</Label>\n  <Segment value=\"standard\">Standard</Segment>\n  <Segment value=\"individuell\">Individuell</Segment>\n</SegmentedControl>;\n","textDont":"import {\n  Label,\n  Segment,\n  SegmentedControl,\n} from \"@mittwald/flow-react-components\";\n\n<SegmentedControl defaultValue=\"individuell\">\n  <Label>Wähle deine Einstellungsart aus:</Label>\n  <Segment value=\"standard\">Standard-Einstellungen</Segment>\n  <Segment value=\"individuell\">\n    Individuell einstellbare Einstellungen\n  </Segment>\n</SegmentedControl>;\n"},"slugs":["form-controls","segmented-control"],"filename":"form-controls/segmented-control/overview.mdx","anchors":["Playground","Mit Inhaltsänderung","Mit FieldDescription","States","Container Breakpoint Size","Kombiniere mit ..."]}}]}]]}],"$L14","$L15"]}]}]}],"$L16"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2142/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+c:["$","script","script-1",{"src":"/flow-previews/docs/2142/merge/_next/static/chunks/bc5fce70b63a811f.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+14:["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/form-controls/segmented-control/develop","children":"Develop"}],false]}]
+15:["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/form-controls/segmented-control/guidelines","children":"Guidelines"}],false]}]
+16:["$","$L1a",null,{"currentPath":"/03-components/form-controls/segmented-control/overview","anchors":"$a:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+19:null
