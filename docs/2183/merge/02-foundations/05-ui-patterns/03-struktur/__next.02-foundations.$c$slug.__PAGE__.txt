@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/b31234e05278da32.js","/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/b31234e05278da32.js","/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/b31234e05278da32.js","/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/b31234e05278da32.js","/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/b31234e05278da32.js","/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js"],"default"]
+2:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/49a7093ddf1be011.js","/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/49a7093ddf1be011.js","/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/49a7093ddf1be011.js","/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/49a7093ddf1be011.js","/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/49a7093ddf1be011.js","/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js"],"default"]
 e:I[205537,["/flow-previews/docs/2183/merge/_next/static/chunks/98d121bac75edce8.js","/flow-previews/docs/2183/merge/_next/static/chunks/a7f1f1e23f97b818.js"],"OutletBoundary"]
 f:"$Sreact.suspense"
 7:T4b3,"use strict";
@@ -269,7 +269,7 @@ export default () => {
     </Flex>
   );
 };
-0:{"buildId":"1rRmTYgsblsP2uxTU_YDk","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"detail-page":"$8"},"slugs":["05-ui-patterns","03-struktur"],"filename":"05-ui-patterns/03-struktur/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+0:{"buildId":"KoY8dp2n1vhgo_wAm4D2-","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"detail-page":"$8"},"slugs":["05-ui-patterns","03-struktur"],"filename":"05-ui-patterns/03-struktur/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
 c:T1896,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -617,6 +617,6 @@ export default () => {
   );
 };
 9:["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$c","frontmatter":{},"scope":{}},"examples":{"detail-page":"$d"},"slugs":["05-ui-patterns","03-struktur"],"filename":"05-ui-patterns/03-struktur/overview.mdx","anchors":["Code-Beispiel","ContentHeader","Content"]}}]}]
-a:["$","script","script-0",{"src":"/flow-previews/docs/2183/merge/_next/static/chunks/b47b32b289c586cf.js","async":true}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2183/merge/_next/static/chunks/cd89088bb9fb9144.js","async":true}]
 b:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
 10:null
