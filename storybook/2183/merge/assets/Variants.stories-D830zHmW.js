@@ -1,0 +1,16 @@
+import{j as o}from"./iframe-xTeLnFvu.js";import{A as n}from"./AlertBadge-AUnpa-ly.js";import p from"./Default.stories-C3CfJe2x.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./AlertIcon-DqbdA5zC.js";import"./IconApp-B1jeSMHX.js";import"./PropsContextProvider-B-9yYF9r.js";import"./mergeRefs-CL4-4jLa.js";import"./index-D8cXiV4r.js";import"./remote-DmruOiXe.js";import"./IconDanger-DpVgPae0.js";import"./IconInfo-C432apET.js";import"./IconCircleCheck-DTnVc5u6.js";import"./useLocalizedStringFormatter-CRzuFQ02.js";import"./context-7tIPXbfR.js";import"./Text-CX0dnSU4.js";import"./browser-RW8IAkpU.js";import"./utils-DAXmWa5w.js";import"./EmulatedBoldText-st1IlPV2.js";const O={...p,title:"Status/AlertBadge/Status"},e={},s={render:r=>o.jsx(n,{...r,children:"Success"}),args:{status:"success"}},a={render:r=>o.jsx(n,{...r,children:"Warning"}),args:{status:"warning"}},t={render:r=>o.jsx(n,{...r,children:"Danger"}),args:{status:"danger"}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => <AlertBadge {...props}>Success</AlertBadge>,
+  args: {
+    status: "success"
+  }
+}`,...s.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <AlertBadge {...props}>Warning</AlertBadge>,
+  args: {
+    status: "warning"
+  }
+}`,...a.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  render: props => <AlertBadge {...props}>Danger</AlertBadge>,
+  args: {
+    status: "danger"
+  }
+}`,...t.parameters?.docs?.source}}};const R=["Info","Success","Warning","Danger"];export{t as Danger,e as Info,s as Success,a as Warning,R as __namedExportsOrder,O as default};
