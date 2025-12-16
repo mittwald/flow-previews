@@ -1,1 +1,0 @@
-import{r as t,j as s}from"./iframe-m11uA8ph.js";import{B as r}from"./Button-Dypt8iw9.js";import{v as i}from"./flowComponent-BWpYHXve.js";const o=t.memo(e=>{const n=t.useContext(i).Button??r;return s.jsx(n,{...e})});o.displayName="ButtonView";o.__docgenInfo={description:"",methods:[],displayName:"ButtonView"};export{o as B};
