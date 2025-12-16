@@ -1,0 +1,1 @@
+import{j as e}from"./iframe-ZqGKWCd-.js";import{c,b as a}from"./IconChevronDown-DOkopHOS.js";const n=[["path",{d:"M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0",key:"svg-0"}],["path",{d:"M21 21l-6 -6",key:"svg-1"}]],s=c("outline","search","Search",n),t=o=>e.jsx(a,{...o,children:e.jsx(s,{})});t.__docgenInfo={description:"",methods:[],displayName:"IconSearch"};export{t as I};
