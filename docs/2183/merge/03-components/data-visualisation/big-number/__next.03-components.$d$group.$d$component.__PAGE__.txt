@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[205537,["/flow-previews/docs/2183/merge/_next/static/chunks/98d121bac75edce8.js","/flow-previews/docs/2183/merge/_next/static/chunks/a7f1f1e23f97b818.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"h_B0MObw6Ug2_1gRKM_g2","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"UkZER35gn6VOdk0UsmQwA","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/03-components/data-visualisation/big-number/overview;307;"}
