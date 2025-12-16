@@ -1,0 +1,13 @@
+import{j as i}from"./iframe-VGYf9uSR.js";import{S as a}from"./Switch-CJmBFZ0P.js";import{L as m}from"./Label--ix077tG.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./IconChevronDown-Dgoj3MhV.js";import"./PropsContextProvider-BJkjz94f.js";import"./mergeRefs-CoTJmqCf.js";import"./index-Bm_Mzlx6.js";import"./remote-B1HlY5fu.js";import"./IconCheck-BQl9Z3Cj.js";import"./IconCheck-onGhd-IB.js";import"./IconClose-C4Rk0te9.js";import"./IconX-lmZxwzvL.js";import"./useFieldComponent-DiUYLu0s.js";import"./Activity-CX_biUm5.js";import"./TranslationProvider-Ck575ucT.js";import"./OverlayContextProvider-Tja93TmG.js";import"./context-DPoGZDoo.js";import"./Button-DHkv2oj9.js";import"./utils-BB4afhje.js";import"./ProgressBar-Bb-cXNA8.js";import"./Hidden-apt2TR_r.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CKMs_ua8.js";import"./useFocusRing-BSBcwiCP.js";import"./useFocusable-CkZtY9Qx.js";import"./RSPContexts-D2Dnlu1I.js";import"./Collection-B44oh5ya.js";import"./CollectionBuilder-DsdXZBim.js";import"./SelectionIndicator-Byl_MQLN.js";import"./Separator-BZpKfwRn.js";import"./browser-BY7YAvyX.js";import"./useLocalizedStringFormatter-DhcIgiuG.js";import"./useStatic-DRLyxIeE.js";import"./LoadingSpinner-ChrQQ-Zb.js";import"./ariaLive-Cyrepnod.js";import"./Text-CGbJaU4z.js";import"./EmulatedBoldText-BBr3yRY7.js";import"./useOverlayController-BKXV4RSL.js";import"./index-SBtdq8jY.js";import"./luxon-CkcISRbr.js";import"./Label.module-lamhxTiw.js";import"./useToggleState-BaOAdKf3.js";import"./useFormReset-D2LFGRel.js";const{action:p}=__STORYBOOK_MODULE_ACTIONS__,rr={title:"Form Controls/Switch",component:a,args:{onChange:p("onChange"),labelPosition:"trailing"},parameters:{controls:{exclude:["onChange"]}},argTypes:{labelPosition:{control:"inline-radio",options:["trailing","leading"]}},render:s=>i.jsx(a,{...s,children:i.jsx(m,{children:"Autoresponder"})})},r={},o={args:{labelPosition:"leading"}},t={args:{isDisabled:!0}},e={args:{isReadOnly:!0}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"{}",...r.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    labelPosition: "leading"
+  }
+}`,...o.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...e.parameters?.docs?.source}}};const or=["Default","LabelLeading","Disabled","ReadOnly"];export{r as Default,t as Disabled,o as LabelLeading,e as ReadOnly,or as __namedExportsOrder,rr as default};
