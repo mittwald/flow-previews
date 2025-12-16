@@ -1,0 +1,10 @@
+import{j as r}from"./iframe-pNOm8Wja.js";import{P as m}from"./Popover-CQ-IHLDW.js";import{B as e}from"./Button-CgV_q1F1.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import{m as i,P as n}from"./Default.stories-DIyJQfjO.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./PropsContextProvider-BWF9EjWJ.js";import"./mergeRefs-v_WstrVO.js";import"./index-CfSUEUFJ.js";import"./OverlayContextProvider-DAyQWAs8.js";import"./context-Chylvkq0.js";import"./Button-D9P8PHTw.js";import"./utils-BknOSkFt.js";import"./ProgressBar-D3icCtAB.js";import"./Hidden-BfleQL3O.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CMdVhRJ1.js";import"./useFocusRing-Cca4ZdHO.js";import"./useFocusable-DOa46CdT.js";import"./RSPContexts-CPamdU7s.js";import"./Collection-DsfTdLuW.js";import"./CollectionBuilder-CKordMi2.js";import"./SelectionIndicator-DYQzBrWb.js";import"./Separator-ti_7fu_1.js";import"./browser-CBsMsG9c.js";import"./useLocalizedStringFormatter-CRfFxVeP.js";import"./useStatic-GeHsFKqm.js";import"./useOverlayController-DGsr_y1V.js";import"./IconApp-BiE0s1PO.js";import"./remote-DYOOxdg2.js";import"./IconX-CwELzZYK.js";import"./IconCheck-DoYeu8FX.js";import"./Text-_46BQ-Z5.js";import"./EmulatedBoldText-C8Hc8u3o.js";import"./LoadingSpinner-Db8dHYJY.js";import"./ariaLive-C7DipXM8.js";import"./OverlayTrigger-BL8LsTuM.js";import"./DialogTriggerView-DXb1zFzM.js";const Q={...i,title:"Overlays/Popover/Edge Cases",component:m},o={render:p=>r.jsxs(n,{children:[r.jsx(e,{children:"Trigger popover"}),r.jsxs(m,{...p,placement:"bottom right",children:[t.long,t.long,t.long]})]})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <PopoverTrigger>
+      <Button>Trigger popover</Button>
+      <Popover {...props} placement="bottom right">
+        {dummyText.long}
+        {dummyText.long}
+        {dummyText.long}
+      </Popover>
+    </PopoverTrigger>
+}`,...o.parameters?.docs?.source}}};const U=["LongContent"];export{o as LongContent,U as __namedExportsOrder,Q as default};

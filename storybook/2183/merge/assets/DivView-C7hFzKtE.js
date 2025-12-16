@@ -1,1 +1,0 @@
-import{r as o,j as s}from"./iframe-CgbY6Bes.js";import{D as r}from"./TranslationProvider-BcRRsHoV.js";import{v as m}from"./PropsContextProvider-CTdpdvjF.js";const e=o.memo(i=>{const t=o.useContext(m).Div??r;return s.jsx(t,{...i})});e.displayName="DivView";e.__docgenInfo={description:"",methods:[],displayName:"DivView"};export{e as D};

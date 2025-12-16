@@ -1,0 +1,13 @@
+import{j as i}from"./iframe-pNOm8Wja.js";import{S as a}from"./Switch-C0C6cs1i.js";import{L as m}from"./Label-DHID5D-l.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./IconApp-BiE0s1PO.js";import"./PropsContextProvider-BWF9EjWJ.js";import"./mergeRefs-v_WstrVO.js";import"./index-CfSUEUFJ.js";import"./remote-DYOOxdg2.js";import"./IconCheck-D0-lbTwy.js";import"./IconCheck-DoYeu8FX.js";import"./IconClose-2-gSc2c5.js";import"./IconX-CwELzZYK.js";import"./useFieldComponent-XMIDEUQz.js";import"./Activity-Br43_cfx.js";import"./TranslationProvider-vME1iId0.js";import"./OverlayContextProvider-DAyQWAs8.js";import"./context-Chylvkq0.js";import"./Button-D9P8PHTw.js";import"./utils-BknOSkFt.js";import"./ProgressBar-D3icCtAB.js";import"./Hidden-BfleQL3O.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CMdVhRJ1.js";import"./useFocusRing-Cca4ZdHO.js";import"./useFocusable-DOa46CdT.js";import"./RSPContexts-CPamdU7s.js";import"./Collection-DsfTdLuW.js";import"./CollectionBuilder-CKordMi2.js";import"./SelectionIndicator-DYQzBrWb.js";import"./Separator-ti_7fu_1.js";import"./browser-CBsMsG9c.js";import"./useLocalizedStringFormatter-CRfFxVeP.js";import"./useStatic-GeHsFKqm.js";import"./LoadingSpinner-Db8dHYJY.js";import"./ariaLive-C7DipXM8.js";import"./Text-_46BQ-Z5.js";import"./EmulatedBoldText-C8Hc8u3o.js";import"./useOverlayController-DGsr_y1V.js";import"./index-SBtdq8jY.js";import"./luxon-CkcISRbr.js";import"./Label.module-lamhxTiw.js";import"./useToggleState-BBMmoGIn.js";import"./useFormReset-Dc67hovh.js";const{action:p}=__STORYBOOK_MODULE_ACTIONS__,rr={title:"Form Controls/Switch",component:a,args:{onChange:p("onChange"),labelPosition:"trailing"},parameters:{controls:{exclude:["onChange"]}},argTypes:{labelPosition:{control:"inline-radio",options:["trailing","leading"]}},render:s=>i.jsx(a,{...s,children:i.jsx(m,{children:"Autoresponder"})})},r={},o={args:{labelPosition:"leading"}},t={args:{isDisabled:!0}},e={args:{isReadOnly:!0}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"{}",...r.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    labelPosition: "leading"
+  }
+}`,...o.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...e.parameters?.docs?.source}}};const or=["Default","LabelLeading","Disabled","ReadOnly"];export{r as Default,t as Disabled,o as LabelLeading,e as ReadOnly,or as __namedExportsOrder,rr as default};
