@@ -1,0 +1,6 @@
+import{j as e}from"./iframe-DnYi-t8H.js";import{c as l}from"./clsx-B-dksMZM.js";import{P as u}from"./flowComponent-BiRXm_7W.js";import{T as a}from"./Text-Bl1v2nei.js";import"./preload-helper-PPVm8Dsz.js";import"./index-6rd6RhLs.js";import"./index-B9w1U9jw.js";import"./browser-Cx51Q07l.js";import"./EmulatedBoldText-C_7kGQpM.js";import"./Text-CnHQzzWa.js";import"./utils-DErHybyt.js";const d="flow--big-number",x="flow--big-number--text",m={bigNumber:d,text:x},o=r=>{const{children:i,className:n}=r,c=l(m.bigNumber,n),p={Text:{className:m.text}};return e.jsx(u,{props:p,children:e.jsx("span",{className:c,children:i})})};o.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"BigNumber"};const C={title:"Data Visualisation/BigNumber",component:o,render:r=>e.jsx(o,{...r,children:"69%"})},t={},s={render:r=>e.jsxs(o,{...r,children:[e.jsx(a,{children:"69%"}),e.jsx(a,{children:"Performance"})]})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => <BigNumber {...props}>
+      <Text>69%</Text>
+      <Text>Performance</Text>
+    </BigNumber>
+}`,...s.parameters?.docs?.source}}};const D=["Default","WithSubtitle"];export{t as Default,s as WithSubtitle,D as __namedExportsOrder,C as default};
