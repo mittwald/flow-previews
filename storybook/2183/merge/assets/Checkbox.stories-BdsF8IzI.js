@@ -1,0 +1,45 @@
+import{j as r,r as x}from"./iframe-8dFSbqJz.js";import{u as p,F as c}from"./Form-e1P8auwJ.js";import{F as a,t as F}from"./Field-DuFgJCZC.js";import{B as d}from"./Button-Bp8IuIoY.js";import{S as j}from"./Section-Df_pVdm4.js";import{A as b}from"./ActionGroup-DXNvDjwv.js";import{s as u}from"./Action-1KJHzV_0.js";import{F as E}from"./FieldError-olPwxTHW.js";import{C as o}from"./Checkbox-DK2IlBWT.js";import{R as l}from"./ResetButton-DTl5ui00.js";import{S as f}from"./SubmitButton-Do5y9huz.js";import"./preload-helper-PPVm8Dsz.js";import"./browser-TJej2Zh2.js";import"./isPromise-APPd_fLV-8tYzn7uh.js";import"./dynamic-DrPvW6ki.js";import"./flowComponent-K_HgwY7e.js";import"./index-DdTsJ3wf.js";import"./clsx-B-dksMZM.js";import"./index-QKd42-im.js";import"./useLocalizedStringFormatter-YU3aOu6y.js";import"./context-81xqWZ8H.js";import"./IconChevronDown-BoB9X9Lx.js";import"./remote-D1_oWH-e.js";import"./IconX-Dl75Mnu2.js";import"./IconCheck-ClCsyRZ4.js";import"./Text-Bc5PmX1I.js";import"./EmulatedBoldText-C5iTwKQF.js";import"./Text-BVGarVrb.js";import"./utils-CatxVoKl.js";import"./LoadingSpinner-qRqEZFCl.js";import"./ariaLive-DqXsnKMw.js";import"./LiveAnnouncer-Cy654hVN.js";import"./Button-BKsEcO3C.js";import"./ProgressBar-D99M34jy.js";import"./Label-BbJ0t0io.js";import"./Hidden-YN9d6EVo.js";import"./filterDOMProps-i7L6S0l1.js";import"./useLabel-CKOrsKHI.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-BOmL6f1-.js";import"./useFocus-BOo9d3Bd.js";import"./useFocusRing-D1LOVY8w.js";import"./useFocusable-Bm2s2zNQ.js";import"./ContextMenuSection-qTgSQ3ow.js";import"./lib-90ocxLs-.js";import"./Dialog-BFHdNGes.js";import"./RSPContexts-CBm4dMuh.js";import"./OverlayArrow-CuoDJSSc.js";import"./useControlledState-DYZXiDwW.js";import"./Collection-qqIe35E-.js";import"./CollectionBuilder-CM8I1Is1.js";import"./SelectionIndicator-BcqL5ZP5.js";import"./Separator-zU8KIdJB.js";import"./SelectionManager-Cew3fhRb.js";import"./useEvent-gpwnJALn.js";import"./useCollator-B3xP_FE7.js";import"./FocusScope-KuXCUz--.js";import"./VisuallyHidden-PBFdwu-V.js";import"./getActionGroupSlot-5XNUJgam.js";import"./useStatic-BgApplVo.js";import"./context-Hd2oMXi6.js";import"./FieldError-CAnV5-By.js";import"./IconDanger-D2WM-UH7.js";import"./IconCheckboxEmpty-8XoNDCx0.js";import"./useFieldComponent-Ch2X8LGy.js";import"./Form-DGUlclkV.js";import"./useFormValidation-BLhEH38g.js";import"./useToggleState-B01Sawhi.js";import"./useFormReset-D0pwxFN1.js";import"./useRef-DBg2cYSp.js";const{action:S}=__STORYBOOK_MODULE_ACTIONS__,B=S("submit"),Vr={title:"Integrations/React Hook Form/Checkbox",component:a,render:()=>{const t=async h=>{await u(1500),B(h)},e=p({defaultValues:{acceptTerms:!1,acceptTermsDefaultValue:!0,acceptTermsRequired:!1}}),n=F();return r.jsx(c,{form:e,onSubmit:t,children:r.jsxs(j,{children:[r.jsx(n,{name:"acceptTerms",children:r.jsx(o,{children:"Accept terms"})}),r.jsx(n,{name:"acceptTermsDefaultValue",children:r.jsx(o,{children:"Accept terms"})}),r.jsx(n,{name:"acceptTermsRequired",rules:{required:!0},children:r.jsx(o,{children:"Accept terms"})}),r.jsxs(b,{children:[r.jsx(l,{children:"Reset"}),r.jsx(f,{children:"Submit"})]})]})})}},m={},s={render:t=>{const e=p();return x.useEffect(()=>{e.setError("field",{type:"required",message:"ErrorFromForm"})},[]),r.jsxs(c,{form:e,onSubmit:async()=>await u(2e3),children:[r.jsx(a,{name:"field",children:r.jsx(o,{...t,children:"Accept terms"})}),r.jsxs(o,{isInvalid:!0,children:["Accept terms",r.jsx(E,{children:"ErrorFromOuterFieldError!"})]})]})}},i={render:t=>{const e=p();return r.jsxs(c,{form:e,onSubmit:async()=>await u(2e3),children:[r.jsx(a,{name:"field",children:r.jsx(o,{...t,children:"Accept terms"})}),r.jsx("div",{style:{marginBottom:"2200px"}}),r.jsx(d,{onPress:()=>e.setError("field",{type:"required",message:"oh no"},{shouldFocus:!0}),children:"err through form"}),r.jsx(d,{onPress:()=>e.setFocus("field"),children:"focus through form"}),r.jsx(l,{children:"Reset"}),r.jsx(f,{children:"Submit"})]})}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:"{}",...m.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm();
+    useEffect(() => {
+      form.setError("field", {
+        type: "required",
+        message: "ErrorFromForm"
+      });
+    }, []);
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <Checkbox {...props}>Accept terms</Checkbox>
+        </Field>
+        <Checkbox isInvalid>
+          Accept terms
+          <FieldError>ErrorFromOuterFieldError!</FieldError>
+        </Checkbox>
+      </Form>;
+  }
+}`,...s.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm();
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <Checkbox {...props}>Accept terms</Checkbox>
+        </Field>
+        <div style={{
+        marginBottom: "2200px"
+      }} />
+        <Button onPress={() => form.setError("field", {
+        type: "required",
+        message: "oh no"
+      }, {
+        shouldFocus: true
+      })}>
+          err through form
+        </Button>
+        <Button onPress={() => form.setFocus("field")}>
+          focus through form
+        </Button>
+        <ResetButton>Reset</ResetButton>
+        <SubmitButton>Submit</SubmitButton>
+      </Form>;
+  }
+}`,...i.parameters?.docs?.source}}};const Gr=["Default","WithFieldError","WithFocus"];export{m as Default,s as WithFieldError,i as WithFocus,Gr as __namedExportsOrder,Vr as default};
