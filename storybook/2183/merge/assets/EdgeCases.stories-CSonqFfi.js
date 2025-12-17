@@ -1,6 +1,0 @@
-import{j as o}from"./iframe-CQakcPxy.js";import{L as i,I as m}from"./Link-CSac6kF4.js";import{d as e}from"./dummyText-CX_I_Wpl.js";import p from"./Default.stories-DgHYKsH6.js";import"./IconChevronDown-DRX1rHio.js";import"./preload-helper-PPVm8Dsz.js";import"./flowComponent-CGl7t6Dn.js";import"./index-p-QrdfBe.js";import"./clsx-B-dksMZM.js";import"./index-Cea8xGLH.js";import"./IconDownload-CkZaIBwl.js";import"./useLocalizedStringFormatter-BjsiUt0Q.js";import"./context-CTwP8X6y.js";import"./utils-kpK_hrRV.js";import"./filterDOMProps-i7L6S0l1.js";import"./usePress-CTHZkDu6.js";import"./useFocus-DdJNefAV.js";import"./useFocusRing-DLxPKRwM.js";import"./useFocusable-Da5l0bUG.js";import"./Text-BtxvTgzr.js";import"./browser-n5THB09p.js";import"./EmulatedBoldText-BugEiGRa.js";import"./Text-C-10tsQv.js";import"./remote-DEFV7i-V.js";const R={...p,title:"Navigation/Link/Edge Cases"},r={render:t=>o.jsxs(i,{...t,children:[e.long,o.jsx(m,{"aria-label":"external link"})]})};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
-  render: props => <Link {...props}>
-      {dummyText.long}
-      <IconExternalLink aria-label="external link" />
-    </Link>
-}`,...r.parameters?.docs?.source}}};const S=["LongText"];export{r as LongText,S as __namedExportsOrder,R as default};
