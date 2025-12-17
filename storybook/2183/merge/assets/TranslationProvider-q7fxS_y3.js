@@ -1,0 +1,1 @@
+import{j as n,r}from"./iframe-Eg8-wFCR.js";const s=r.createContext({}),c=()=>r.useContext(s),a=e=>{const{children:o,translations:t}=e;return n.jsx(s.Provider,{value:r.useMemo(()=>t,[t]),children:o})};a.__docgenInfo={description:"",methods:[],displayName:"TranslationProvider",props:{translations:{required:!0,tsType:{name:"Translations"},description:""}}};export{a as T,c as u};
