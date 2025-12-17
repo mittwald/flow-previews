@@ -1,1 +1,0 @@
-import{j as o}from"./iframe-D0TBPZEN.js";import{b as r}from"./IconChevronDown-Bbj4kj6E.js";import{I as e}from"./IconX-CN6PeFmZ.js";const n=s=>o.jsx(r,{...s,children:o.jsx(e,{})});n.__docgenInfo={description:"",methods:[],displayName:"IconClose"};export{n as I};
