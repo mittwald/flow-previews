@@ -1,0 +1,1 @@
+import{j as o}from"./iframe-D2Ryv2XM.js";import{c as e,a as r}from"./IconApp-D72ec8J0.js";const t=[["path",{d:"M6 15l6 -6l6 6",key:"svg-0"}]],c=e("outline","chevron-up","ChevronUp",t),s=n=>o.jsx(r,{...n,children:o.jsx(c,{})});s.__docgenInfo={description:"",methods:[],displayName:"IconChevronUp"};export{s as I};

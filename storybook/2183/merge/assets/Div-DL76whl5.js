@@ -1,1 +1,0 @@
-import{j as t}from"./iframe-UtMdsYXa.js";const o=s=>{const{children:e,...r}=s;return t.jsx("div",{...r,children:e})};o.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Div",composes:["PropsWithChildren","PropsWithClassName","RefAttributes"]};export{o as D};
