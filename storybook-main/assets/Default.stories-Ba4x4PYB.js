@@ -1,0 +1,20 @@
+import{j as r}from"./iframe-Dk60Gpin.js";import{as as a}from"./TimeField-4D5Nhq3P.js";import{L as s}from"./Label-DRmbs-HY.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-BdZs02Td.js";import"./mergeRefs-MJGqjKNq.js";import"./index-DJhA7Wui.js";import"./clsx-B-dksMZM.js";import"./Accordion--PiuPE_9.js";import"./dynamic-4gi8GiXC.js";import"./Button-BaFAPk6P.js";import"./IconWarning-BTcUjjec.js";import"./Text-BbMQM1DG.js";import"./browser-BvxtBXb9.js";import"./utils-Ch0ZZJ4D.js";import"./EmulatedBoldText-BXENtjIV.js";import"./LoadingSpinner-BDrvrciy.js";import"./Button-BnOkCogS.js";import"./ProgressBar-D9iry1uY.js";import"./Hidden-D3Wnlg7j.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-fp4w0YcD.js";import"./useFocusRing-BRWpt41V.js";import"./useFocusable-BjdDuCYq.js";import"./useLocalizedStringFormatter-Bc2xZT0_.js";import"./Section-CoeixnSJ.js";import"./context-BthpMtM5.js";import"./RSPContexts-CVMXvjX8.js";import"./Collection-BeF55kv5.js";import"./CollectionBuilder-B_txidaV.js";import"./SelectionIndicator-Dw3nAwCY.js";import"./Separator-CD2VJwjG.js";import"./useStatic-CwfWB48x.js";import"./ActionGroup-Dtx1HegN.js";import"./Alert-eguRclW1.js";import"./AlertIcon-BvG3TXg-.js";import"./AlertBadge-Ci3q7ONa.js";import"./Align-otZVcDBU.js";import"./Popover-DUzfCkJT.js";import"./OverlayTrigger-D41F-SKL.js";import"./TableFooterRow-ZiMRcLMp.js";import"./SkeletonText-BdDEip2O.js";import"./Avatar-uhIZWmRw.js";import"./AvatarStack-Ce0OtoHB.js";import"./Badge-Ci0_YhS-.js";import"./BigNumber-D_1n_f24.js";import"./Breadcrumb-DTmlwgi3.js";import"./Link-Bk7l3Hhl.js";import"./Heading-BClLfS9l.js";import"./Legend-lyiM8tnC.js";import"./FileCardList-z1TOLFrB.js";import"./Image-BFIYVrgb.js";import"./Color-CuKRh3Mj.js";import"./Content-qRe1c-jG.js";import"./ContextualHelpTrigger-3ee7SYMq.js";import"./CounterBadge-DvjVQF88.js";import"./DonutChart-DxQSNKcp.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-B1AdWPYh.js";import"./Header-C1g8Z3mN.js";import"./Initials-BwxHVFlG.js";import"./InlineCode-DeaiiFf1.js";import"./PopoverTrigger-aEhJpWUL.js";import"./Separator-DpLqTccG.js";import"./Message-DgNLVg8a.js";import"./MessageSeparator-CqkN_4jq.js";import"./NavigationGroup-BNi9xF1W.js";import"./Notification-BYPtdgjX.js";import"./NotificationProvider-DbUFBJzc.js";import"./ProgressBar-BAxPsWQD.js";import"./Rating-CiM8MErc.js";import"./Skeleton-DAWVrv5Y.js";const kr={title:"Form Controls/Slider",component:a,render:t=>r.jsx(a,{...t,children:r.jsx(s,{children:"Amount"})}),parameters:{controls:{exclude:["tunnelId","render","showInitialMarker"]}},args:{defaultValue:20}},o={},e={args:{isReadOnly:!0}},i={render:t=>r.jsx(a,{...t,formatOptions:{style:"unit",unit:"gigabyte"},minValue:20,maxValue:2e3,defaultValue:200,step:20,children:r.jsx(s,{children:"Storage"})})},m={args:{isDisabled:!0}},p={render:t=>r.jsx(a,{...t,showInitialMarker:!0,children:r.jsx(s,{children:"Amount"})})};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:"{}",...o.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...e.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} minValue={20} maxValue={2000} defaultValue={200} step={20}>
+      <Label>Storage</Label>
+    </Slider>
+}`,...i.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...m.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} showInitialMarker>
+      <Label>Amount</Label>
+    </Slider>
+}`,...p.parameters?.docs?.source}}};const Mr=["Default","ReadOnly","WithUnit","Disabled","WithInitialMarker"];export{o as Default,m as Disabled,e as ReadOnly,p as WithInitialMarker,i as WithUnit,Mr as __namedExportsOrder,kr as default};
