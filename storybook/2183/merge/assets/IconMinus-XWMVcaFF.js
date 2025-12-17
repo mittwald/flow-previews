@@ -1,0 +1,1 @@
+import{j as n}from"./iframe-D0TBPZEN.js";import{c as s,b as e}from"./IconChevronDown-Bbj4kj6E.js";const t=[["path",{d:"M5 12l14 0",key:"svg-0"}]],i=s("outline","minus","Minus",t),c=o=>n.jsx(e,{...o,children:n.jsx(i,{})});c.__docgenInfo={description:"",methods:[],displayName:"IconMinus"};export{c as I};

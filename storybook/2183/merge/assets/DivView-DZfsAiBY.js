@@ -1,1 +1,0 @@
-import{r as o,j as s}from"./iframe-BoCc-iJU.js";import{D as r}from"./Div-CwdEcy5K.js";import{v as m}from"./flowComponent-aIKmACWg.js";const e=o.memo(i=>{const t=o.useContext(m).Div??r;return s.jsx(t,{...i})});e.displayName="DivView";e.__docgenInfo={description:"",methods:[],displayName:"DivView"};export{e as D};
