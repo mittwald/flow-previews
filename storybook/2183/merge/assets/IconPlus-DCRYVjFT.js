@@ -1,0 +1,1 @@
+import{j as o}from"./iframe-BsZhBXal.js";import{c as e,a as n}from"./IconApp-DFfFI-8B.js";const t=[["path",{d:"M12 5l0 14",key:"svg-0"}],["path",{d:"M5 12l14 0",key:"svg-1"}]],c=e("outline","plus","Plus",t),a=s=>o.jsx(n,{...s,children:o.jsx(c,{})});a.__docgenInfo={description:"",methods:[],displayName:"IconPlus"};export{a as I};
