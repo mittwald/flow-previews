@@ -1,1 +1,0 @@
-import{r as l}from"./iframe-DlUIOFNy.js";const c="___flowControlledRemoteValue___",m=t=>{const{value:e,onChange:n,defaultValue:u}=t,o=e===c?void 0:e,[s,a]=l.useState(o??u);return l.useLayoutEffect(()=>{o!==void 0&&a(o)},[e]),{...t,value:s,onChange:r=>{a(r),n?.(r)}}};export{m as u};

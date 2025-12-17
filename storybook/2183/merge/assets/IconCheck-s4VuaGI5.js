@@ -1,0 +1,1 @@
+import{j as o}from"./iframe-CzrbZwQa.js";import{a as r}from"./IconApp-BPXZ8R19.js";import{I as s}from"./IconCheck-DAWvHQav.js";const c=e=>o.jsx(r,{...e,children:o.jsx(s,{})});c.__docgenInfo={description:"",methods:[],displayName:"IconCheck"};export{c as I};
