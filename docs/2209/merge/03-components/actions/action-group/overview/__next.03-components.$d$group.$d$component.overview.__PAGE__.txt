@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"default"]
+9:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"TabTitle"]
+14:I[142373,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js"],"default"]
+15:I[13337,["/flow-previews/docs/2209/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2209/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+d:T973,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<ActionGroup />"
+      }), ", um eine ActionGroup darzustellen."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Slots"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Actions werden von der ActionGroup automatisch in die Slots ", _jsx(_components.code, {
+        children: "primary"
+      }), ",\n", _jsx(_components.code, {
+        children: "secondary"
+      }), " und ", _jsx(_components.code, {
+        children: "abort"
+      }), " sortiert. So werden\n", _jsx(_components.a, {
+        href: "https://mittwald.github.io/flow/03-components/actions/button/overview",
+        children: "Buttons"
+      }), " mit der\nColor Primary (Standard), Accent und Danger automatisch dem Slot ", _jsx(_components.code, {
+        children: "primary"
+      }), "\nzugeordnet, der am Ende der ActionGroup positioniert ist."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "slots",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "Link"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "link",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"yuaHTueS5tWp5mIEpYdRn","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"ActionGroup"}],"Die ActionGroup dient dazu, zusammengehörige Actions sinnvoll zu gruppieren. Sie wird beispielsweise in Sections oder Modals verwendet.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/ActionGroup","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"ActionGroup","description":"Die ActionGroup dient dazu, zusammengehörige Actions sinnvoll zu gruppieren. Sie wird beispielsweise in Sections oder Modals verwendet."},"scope":{}},"examples":{"default":"import {\n  ActionGroup,\n  Button,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Button color=\"accent\">Organisation erstellen</Button>\n  <Button color=\"secondary\" variant=\"soft\">\n    Abbrechen\n  </Button>\n</ActionGroup>;\n","link":"import {\n  ActionGroup,\n  Button,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Link slot=\"abort\">Passwort vergessen?</Link>\n  <Button color=\"accent\">Anmelden</Button>\n</ActionGroup>;\n","slots":"import {\n  ActionGroup,\n  Button,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Button color=\"accent\">E-Mail-Addresse anlegen</Button>\n  <Button color=\"secondary\" variant=\"soft\" slot=\"secondary\">\n    Speichern und weitere anlegen\n  </Button>\n  <Button color=\"secondary\" variant=\"soft\">\n    Abbrechen\n  </Button>\n</ActionGroup>;\n"},"slugs":["actions","action-group"],"filename":"actions/action-group/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"overview","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/actions/action-group/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  ActionGroup,\n  Button,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Button color=\"accent\">Organisation erstellen</Button>\n  <Button color=\"secondary\" variant=\"soft\">\n    Abbrechen\n  </Button>\n</ActionGroup>;\n","link":"import {\n  ActionGroup,\n  Button,\n  Link,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Link slot=\"abort\">Passwort vergessen?</Link>\n  <Button color=\"accent\">Anmelden</Button>\n</ActionGroup>;\n","slots":"import {\n  ActionGroup,\n  Button,\n} from \"@mittwald/flow-react-components\";\n\n<ActionGroup>\n  <Button color=\"accent\">E-Mail-Addresse anlegen</Button>\n  <Button color=\"secondary\" variant=\"soft\" slot=\"secondary\">\n    Speichern und weitere anlegen\n  </Button>\n  <Button color=\"secondary\" variant=\"soft\">\n    Abbrechen\n  </Button>\n</ActionGroup>;\n"},"slugs":["actions","action-group"],"filename":"actions/action-group/overview.mdx","anchors":["Playground","Slots","Kombiniere mit ..."]}}]}]]}],"$Le","$Lf"]}]}]}],"$L10"]}]],["$L11","$L12"],"$L13"]}],"loading":null,"isPartial":false}
+e:["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/actions/action-group/develop","children":"Develop"}],false]}]
+f:["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/actions/action-group/guidelines","children":"Guidelines"}],false]}]
+10:["$","$L14",null,{"currentPath":"/03-components/actions/action-group/overview","anchors":["Playground","Slots","Kombiniere mit ..."],"title":"Overview"}]
+11:["$","script","script-0",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+12:["$","script","script-1",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/ca0d24b0bca850e7.js","async":true}]
+13:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null
