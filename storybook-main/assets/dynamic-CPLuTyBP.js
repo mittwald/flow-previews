@@ -1,0 +1,1 @@
+import{n as a}from"./PropsContextProvider-DHsq54k3.js";const n=o=>({[a]:o});export{n as d};
