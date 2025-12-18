@@ -1,0 +1,25 @@
+import{j as r}from"./iframe-Dk60Gpin.js";import{R as l,ap as p,I as n}from"./TimeField-4D5Nhq3P.js";import{d as i}from"./dummyText-CX_I_Wpl.js";import s from"./Default.stories-B3ko0wHM.js";import{T as u}from"./Text-BbMQM1DG.js";import{C as c}from"./Content-qRe1c-jG.js";import"./preload-helper-PPVm8Dsz.js";import"./PropsContextProvider-BdZs02Td.js";import"./mergeRefs-MJGqjKNq.js";import"./index-DJhA7Wui.js";import"./clsx-B-dksMZM.js";import"./Accordion--PiuPE_9.js";import"./dynamic-4gi8GiXC.js";import"./Button-BaFAPk6P.js";import"./IconWarning-BTcUjjec.js";import"./LoadingSpinner-BDrvrciy.js";import"./Button-BnOkCogS.js";import"./utils-Ch0ZZJ4D.js";import"./ProgressBar-D9iry1uY.js";import"./Hidden-D3Wnlg7j.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-fp4w0YcD.js";import"./useFocusRing-BRWpt41V.js";import"./useFocusable-BjdDuCYq.js";import"./useLocalizedStringFormatter-Bc2xZT0_.js";import"./Section-CoeixnSJ.js";import"./context-BthpMtM5.js";import"./RSPContexts-CVMXvjX8.js";import"./Collection-BeF55kv5.js";import"./CollectionBuilder-B_txidaV.js";import"./SelectionIndicator-Dw3nAwCY.js";import"./Separator-CD2VJwjG.js";import"./browser-BvxtBXb9.js";import"./useStatic-CwfWB48x.js";import"./ActionGroup-Dtx1HegN.js";import"./Alert-eguRclW1.js";import"./AlertIcon-BvG3TXg-.js";import"./AlertBadge-Ci3q7ONa.js";import"./Align-otZVcDBU.js";import"./Popover-DUzfCkJT.js";import"./OverlayTrigger-D41F-SKL.js";import"./TableFooterRow-ZiMRcLMp.js";import"./SkeletonText-BdDEip2O.js";import"./Avatar-uhIZWmRw.js";import"./AvatarStack-Ce0OtoHB.js";import"./Badge-Ci0_YhS-.js";import"./BigNumber-D_1n_f24.js";import"./Breadcrumb-DTmlwgi3.js";import"./Link-Bk7l3Hhl.js";import"./Heading-BClLfS9l.js";import"./Legend-lyiM8tnC.js";import"./FileCardList-z1TOLFrB.js";import"./Image-BFIYVrgb.js";import"./Color-CuKRh3Mj.js";import"./Label-DRmbs-HY.js";import"./ContextualHelpTrigger-3ee7SYMq.js";import"./CounterBadge-DvjVQF88.js";import"./DonutChart-DxQSNKcp.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-B1AdWPYh.js";import"./Header-C1g8Z3mN.js";import"./Initials-BwxHVFlG.js";import"./InlineCode-DeaiiFf1.js";import"./PopoverTrigger-aEhJpWUL.js";import"./Separator-DpLqTccG.js";import"./Message-DgNLVg8a.js";import"./MessageSeparator-CqkN_4jq.js";import"./NavigationGroup-BNi9xF1W.js";import"./Notification-BYPtdgjX.js";import"./NotificationProvider-DbUFBJzc.js";import"./ProgressBar-BAxPsWQD.js";import"./Rating-CiM8MErc.js";import"./Skeleton-DAWVrv5Y.js";import"./EmulatedBoldText-BXENtjIV.js";const kr={title:"Form Controls/RadioGroup/Edge Cases",...s},e={render:t=>r.jsxs(l,{...t,defaultValue:"a","aria-label":"Label",children:[r.jsxs(p,{value:"a",children:[i.long," "]}),r.jsxs(p,{value:"b",children:[i.long," "]}),r.jsx(p,{value:"c",children:i.long})]})},a={render:t=>r.jsx(l,{...t,defaultValue:"0","aria-label":"Label",l:[1,1,1,1],children:Array(6).fill("").map((d,o)=>r.jsxs(n,{value:o.toString(),children:[r.jsx(u,{children:i.medium}),r.jsx(c,{children:i.medium})]},o))})},m={render:t=>r.jsx(l,{...t,defaultValue:"0","aria-label":"Label",children:Array(3).fill("").map((d,o)=>r.jsxs(n,{value:o.toString(),children:["Option ",o+1]},o))}),parameters:{viewport:{defaultViewport:"mobile1"}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  render: props => <RadioGroup {...props} defaultValue="a" aria-label="Label">
+      <Radio value="a">{dummyText.long} </Radio>
+      <Radio value="b">{dummyText.long} </Radio>
+      <Radio value="c">{dummyText.long}</Radio>
+    </RadioGroup>
+}`,...e.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <RadioGroup {...props} defaultValue="0" aria-label="Label" l={[1, 1, 1, 1]}>
+      {Array(6).fill("").map((value, index) => <RadioButton value={index.toString()} key={index}>
+            <Text>{dummyText.medium}</Text>
+            <Content>{dummyText.medium}</Content>
+          </RadioButton>)}
+    </RadioGroup>
+}`,...a.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <RadioGroup {...props} defaultValue="0" aria-label="Label">
+      {Array(3).fill("").map((value, index) => <RadioButton value={index.toString()} key={index}>
+            Option {index + 1}
+          </RadioButton>)}
+    </RadioGroup>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...m.parameters?.docs?.source}}};const Mr=["LongTexts","MultipleRadioButtons","SmallSpace"];export{e as LongTexts,a as MultipleRadioButtons,m as SmallSpace,Mr as __namedExportsOrder,kr as default};
