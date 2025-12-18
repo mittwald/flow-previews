@@ -1,12 +1,298 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js"],"default"]
-a:I[13337,["/flow-previews/docs/2217/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2217/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-7:T2353,"use strict";
+2:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2217/merge/_next/static/chunks/513ece82cabb4582.js","/flow-previews/docs/2217/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js"],"default"]
+11:I[13337,["/flow-previews/docs/2217/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2217/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+7:Tc0a,import {
+  ActionGroup,
+  ColumnLayout,
+  FieldDescription,
+  Heading,
+  Label,
+  Section,
+  TextField,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    firstName: string;
+    lastName: string;
+    street: string;
+    houseNumber: string;
+    zip: string;
+    city: string;
+    phone?: string;
+  }>({
+    defaultValues: {
+      firstName: "",
+      lastName: "",
+      street: "",
+      houseNumber: "",
+      phone: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Name</Heading>
+        <ColumnLayout l={[1, 1]}>
+          <Field
+            name="firstName"
+            rules={{
+              required: "Bitte gib einen Vornamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Vorname</Label>
+            </TextField>
+          </Field>
+          <Field
+            name="lastName"
+            rules={{
+              required: "Bitte gib einen Nachnamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Nachname</Label>
+            </TextField>
+          </Field>
+        </ColumnLayout>
+        <Heading>Anschrift</Heading>
+        <ColumnLayout l={[1, 1]}>
+          <ColumnLayout m={[2, 1]} s={[2, 1]}>
+            <Field
+              name="street"
+              rules={{
+                required: "Bitte gib eine Straße ein",
+              }}
+            >
+              <TextField>
+                <Label>Straße</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="houseNumber"
+              rules={{
+                required: "Bitte gib eine Hausnr. ein",
+              }}
+            >
+              <TextField>
+                <Label>Hausnummer</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <ColumnLayout m={[2, 1]} s={[2, 1]}>
+            <Field
+              name="zip"
+              rules={{
+                required: "Bitte gib eine Postleitzahl ein",
+              }}
+            >
+              <TextField>
+                <Label>Postleitzahl</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="city"
+              rules={{
+                required: "Bitte gib einen Ort ein",
+              }}
+            >
+              <TextField>
+                <Label>Ort</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <Field name="phone">
+            <TextField>
+              <Label>Telefonnummer</Label>
+              <FieldDescription>
+                Format: +49 5772 293 100
+              </FieldDescription>
+            </TextField>
+          </Field>
+        </ColumnLayout>
+        <ActionGroup>
+          <SubmitButton>Speichern</SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+8:T897,import {
+  ActionGroup,
+  CheckboxButton,
+  ColumnLayout,
+  DatePicker,
+  Heading,
+  Section,
+  TextField,
+  Label,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm, useWatch } from "react-hook-form";
+import {
+  type CalendarDate,
+  getLocalTimeZone,
+  today,
+} from "@internationalized/date";
+
+export default () => {
+  const form = useForm<{
+    description: string;
+    withExpirationDate: boolean;
+    expirationDate: CalendarDate;
+  }>({
+    defaultValues: {
+      description: "",
+      withExpirationDate: false,
+    },
+  });
+
+  const Field = typedField(form);
+
+  const watchedWithExpirationDate = useWatch({
+    control: form.control,
+    name: "withExpirationDate",
+  });
+
+  const tomorrow = today(getLocalTimeZone()).add({
+    days: 1,
+  });
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>API-Token anlegen</Heading>
+        <Field
+          name="description"
+          rules={{
+            required: "Bitte gib eine Beschreibung ein",
+          }}
+        >
+          <TextField>
+            <Label>Beschreibung</Label>
+          </TextField>
+        </Field>
+        <ColumnLayout m={[1, 1]}>
+          <Field name="withExpirationDate">
+            <CheckboxButton>Mit Ablaufdatum</CheckboxButton>
+          </Field>
+
+          {watchedWithExpirationDate && (
+            <Field
+              name="expirationDate"
+              rules={{
+                required: "Bitte gib ein Ablaufdatum ein",
+                validate: {
+                  future: (d) =>
+                    d && d >= tomorrow
+                      ? true
+                      : "Das Ablaufdatum muss in der Zukunft liegen",
+                },
+              }}
+            >
+              <DatePicker
+                aria-label="Ablaufdatum"
+                minValue={tomorrow}
+              />
+            </Field>
+          )}
+        </ColumnLayout>
+        <ActionGroup>
+          <SubmitButton color="accent">
+            Anlegen
+          </SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+9:T52c,import {
+  ActionGroup,
+  Heading,
+  Label,
+  Section,
+  TextArea,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    publicKey: string;
+  }>({
+    defaultValues: {
+      publicKey: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Validierung</Heading>
+        <Field
+          name="publicKey"
+          rules={{
+            required: "Bitte gib einen SSH-Key ein",
+            validate: {
+              isValid: (key) =>
+                key.startsWith("rsa")
+                  ? true
+                  : "Der SSH-Key muss mit 'rsa' anfangen",
+            },
+            minLength: {
+              value: 10,
+              message:
+                "Der SSH-Key muss mindestens 10 Zeichen lang sein",
+            },
+          }}
+        >
+          <TextArea maxLength={8000} showCharacterCount>
+            <Label>SSH-Key</Label>
+          </TextArea>
+        </Field>
+
+        <ActionGroup>
+          <SubmitButton>Speichern</SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+0:{"buildId":"wqoE9vlAIybDyDKb32M4m","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Forms dienen zur Eingabe und Bearbeitung von Daten in einem System. Sie sollten klar, ruhig und vorhersehbar sein. Jede Eingabe muss verständlich erklärt sein. Fehler müssen eindeutig kommuniziert werden. Ziel ist es, die kognitive Last gering zu halten und Vertrauen in die Dateneingabe zu schaffen.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$7","progressive":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+d:T24d6,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -21,53 +307,56 @@ function _createMdxContent(props) {
     ul: "ul",
     ..._provideComponents(),
     ...props.components
-  };
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h1, {
       children: "Aufbau einer Form"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "form",
+      editorCollapsed: true
     }), "\n", _jsx(_components.p, {
-      children: "(Code-Beispiel)"
-    }), "\n", _jsx(_components.p, {
-      children: "Formularfelder sollten in einer vorhersehbaren und intuitiven Reihenfolge angeordnet sein.\nFür eine intuitive Bedienung:"
+      children: "Formularfelder sollten in einer vorhersehbaren und intuitiven Reihenfolge\nangeordnet sein. Für eine intuitive Bedienung:"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsx(_components.li, {
         children: "Ordne die Felder nach ihrer Wichtigkeit."
       }), "\n", _jsx(_components.li, {
         children: "Platziere zusammengehörige Felder nah beieinander."
       }), "\n", _jsx(_components.li, {
-        children: "Platziere nach Möglichkeit Eingabefelder mit Tastatureingabe nah beieinander, damit Mausnutzer nicht zwischen Klicken und Tippen wechseln müssen."
+        children: "Platziere nach Möglichkeit Eingabefelder mit Tastatureingabe nah beieinander,\ndamit Mausnutzer nicht zwischen Klicken und Tippen wechseln müssen."
       }), "\n"]
     }), "\n", _jsxs(_components.p, {
-      children: ["Zur Strukturierung von Formularen können Form Controls mithilfe von ", _jsx(_components.a, {
+      children: ["Zur Strukturierung von Formularen können Form Controls mithilfe von\n", _jsx(_components.a, {
         href: "/03-components/structure/section/overview",
         children: "Sections"
-      }), " gruppiert und mit ", _jsx(_components.a, {
+      }), " gruppiert und mit\n", _jsx(_components.a, {
         href: "/03-components/structure/column-layout/overview",
         children: "ColumnLayouts"
-      }), " in Spalten aufgeteilt werden. Forms werden im mStudio in der Regel in einem ", _jsx(_components.a, {
+      }), " in Spalten\naufgeteilt werden. Forms werden im mStudio in der Regel in einem\n", _jsx(_components.a, {
         href: "/03-components/overlays/modal/overview",
         children: "Modal"
-      }), " platziert. Weitere Informationen findest du im Pattern ", _jsx(_components.a, {
+      }), " platziert. Weitere Informationen\nfindest du im Pattern\n", _jsx(_components.a, {
         href: "/02-foundations/05-ui-patterns/02-anlegeprozess",
         children: "Anlegen und Bearbeiten"
       }), "."]
     }), "\n", _jsx(_components.h2, {
       children: "Progressively disclosed Form Controls"
     }), "\n", _jsx(_components.p, {
-      children: "In manchen Fällen können Form Controls schrittweise eingeblendet werden. Sie sind dabei visuell unter einem übergeordneten Controls verschachtelt. Ein gängiges Muster ist die Nutzung des \"aktivierten\" Zustands einer Checkbox oder RadioGroup. Dieser Zustand entscheidet, ob ein zugehöriges Form Control angezeigt wird."
-    }), "\n", _jsx(_components.p, {
-      children: "(CodeBeispiel Evtl. Ablaufdatum hinzufügen)"
+      children: "In manchen Fällen können Form Controls schrittweise eingeblendet werden. Sie\nsind dabei visuell unter einem übergeordneten Controls verschachtelt. Ein\ngängiges Muster ist die Nutzung des \"aktivierten\" Zustands einer Checkbox oder\nRadioGroup. Dieser Zustand entscheidet, ob ein zugehöriges Form Control\nangezeigt wird."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "progressive",
+      editorCollapsed: true
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Aufbau eines Form Controls"
     }), "\n", _jsx(_components.p, {
-      children: "Forms können verschiedene Elemente enthalten. Standardmäßig sind alle Angaben Pflichtfelder. Eine Ausnahme bilden Felder mit dem Zusatz „(optional)“ am Label oder der Heading."
+      children: "Forms können verschiedene Elemente enthalten. Standardmäßig sind alle Angaben\nPflichtfelder. Eine Ausnahme bilden Felder mit dem Zusatz „(optional)“ am Label\noder der Heading."
     }), "\n", _jsx(_components.h2, {
       children: "Label"
     }), "\n", _jsxs(_components.p, {
       children: ["Ein gutes ", _jsx(_components.a, {
         href: "/03-components/content/label/overview",
         children: "Label"
-      }), " vermittelt alle notwendigen Informationen klar und prägnant (max. 2 Wörter). Ist ein Form Control optional, füge den Zusatz „(optional)“ hinzu. Können die Eingabeanforderungen aus dem Kontext erschlossen werden, kann auf ein sichtbares Label verzichtet werden. In diesem Fall muss das Form Control über ", _jsx(_components.code, {
+      }), " vermittelt alle\nnotwendigen Informationen klar und prägnant (max. 2 Wörter). Ist ein Form\nControl optional, füge den Zusatz „(optional)“ hinzu. Können die\nEingabeanforderungen aus dem Kontext erschlossen werden, kann auf ein sichtbares\nLabel verzichtet werden. In diesem Fall muss das Form Control über\n", _jsx(_components.code, {
         children: "aria-labelledby"
       }), " verknüpft oder mit ", _jsx(_components.code, {
         children: "aria-label"
@@ -75,44 +364,44 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h2, {
       children: "Fields / Controls"
     }), "\n", _jsxs(_components.p, {
-      children: ["Das Design System bietet eine große Auswahl an wiederverwendbaren Form Contorls. Dazu gehören verschiedene Fields wie zum Beispiel ", _jsx(_components.a, {
+      children: ["Das Design System bietet eine große Auswahl an wiederverwendbaren Form Contorls.\nDazu gehören verschiedene Fields wie zum Beispiel\n", _jsx(_components.a, {
         href: "/03-components/form-controls/text-field/overview",
         children: "TextField"
-      }), ", ", _jsx(_components.a, {
+      }), ",\n", _jsx(_components.a, {
         href: "/03-components/form-controls/number-field/overview",
         children: "NumberField"
-      }), " oder ", _jsx(_components.a, {
+      }), " oder\n", _jsx(_components.a, {
         href: "/03-components/form-controls/password-creation-field/overview",
         children: "PasswordCreationField"
-      }), " sowie Controls wie ", _jsx(_components.a, {
+      }), "\nsowie Controls wie ", _jsx(_components.a, {
         href: "/03-components/form-controls/checkbox/overview",
         children: "Checkboxen"
-      }), ", ", _jsx(_components.a, {
+      }), ",\n", _jsx(_components.a, {
         href: "/03-components/form-controls/select/overview",
         children: "Selects"
-      }), " oder", _jsx(_components.a, {
+      }), "\noder", _jsx(_components.a, {
         href: "",
         children: "RadioGroups"
-      }), "/03-components/form-controls/radio-group/overview. Alle Components sind im Bereich Components unter dem Menüpunkt Form Controls zu finden."]
+      }), "/03-components/form-controls/radio-group/overview. Alle\nComponents sind im Bereich Components unter dem Menüpunkt Form Controls zu\nfinden."]
     }), "\n", _jsx(_components.h2, {
       children: "FieldDescription"
     }), "\n", _jsxs(_components.p, {
       children: ["Die ", _jsx(_components.code, {
         children: "<FieldDescription />"
-      }), " ist ein optionaler Hilfstext unterhalb des Form Controls. Sie liefert zusätzliche Informationen oder Anweisungen. Verwende sie sparsam. Sie kann Beispiele oder Hinweise zur Formatierung enthalten."]
+      }), " ist ein optionaler Hilfstext unterhalb des Form\nControls. Sie liefert zusätzliche Informationen oder Anweisungen. Verwende sie\nsparsam. Sie kann Beispiele oder Hinweise zur Formatierung enthalten."]
     }), "\n", _jsx(_components.h2, {
       children: "FieldError"
     }), "\n", _jsxs(_components.p, {
-      children: ["Ein ungültiges Field muss immer eine Fehlermeldung anzeigen. Diese erklärt, warum der Wert die Validierung nicht besteht. Nutze den ", _jsx(_components.code, {
+      children: ["Ein ungültiges Field muss immer eine Fehlermeldung anzeigen. Diese erklärt,\nwarum der Wert die Validierung nicht besteht. Nutze den ", _jsx(_components.code, {
         children: "<FieldError />"
-      }), " für diese Meldung. Beschreibe klar, warum die Eingabe ungültig ist, und hilf dem User bei der Korrektur. Hinweise zur Formulierung findest du in der Guideline zu ", _jsx(_components.a, {
+      }), " für\ndiese Meldung. Beschreibe klar, warum die Eingabe ungültig ist, und hilf dem\nUser bei der Korrektur. Hinweise zur Formulierung findest du in der Guideline zu\n", _jsx(_components.a, {
         href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
         children: "Fehlermeldungen"
       }), "."]
     }), "\n", _jsx(_components.h2, {
       children: "Placeholder"
     }), "\n", _jsx(_components.p, {
-      children: "Placeholder sind nicht barrierefrei. Sie dürfen keine Informationen enthalten, die für das korrekte Ausfüllen eines Fields notwendig sind. Placeholder verschwinden bei der Eingabe von Text. Zudem werden sie von Assistenztechnologien oft nicht zuverlässig erkannt und sind schwerer zu verarbeiten als eine FieldDescription.\nStatt eines Placeholders:"
+      children: "Placeholder sind nicht barrierefrei. Sie dürfen keine Informationen enthalten,\ndie für das korrekte Ausfüllen eines Fields notwendig sind. Placeholder\nverschwinden bei der Eingabe von Text. Zudem werden sie von\nAssistenztechnologien oft nicht zuverlässig erkannt und sind schwerer zu\nverarbeiten als eine FieldDescription. Statt eines Placeholders:"
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsx(_components.li, {
         children: "Nutze ein Label für essenzielle Informationen zu den Eingabeanforderungen."
@@ -120,26 +409,27 @@ function _createMdxContent(props) {
         children: "Nutze eine FieldDescription für Beispiele oder Formatierungshinweise."
       }), "\n"]
     }), "\n", _jsxs(_components.p, {
-      children: ["Eine Ausnahme ist das ", _jsx(_components.a, {
+      children: ["Eine Ausnahme ist das\n", _jsx(_components.a, {
         href: "/03-components/form-controls/search-field/overview",
         children: "SearchField"
-      }), ". Es besitzt ein zusätzliches visuelles Leading Icon, das die Suche kennzeichnet."]
+      }), ". Es besitzt\nein zusätzliches visuelles Leading Icon, das die Suche kennzeichnet."]
     }), "\n", _jsx(_components.p, {
       children: "—--"
     }), "\n", _jsx(_components.h1, {
       children: "Validation"
     }), "\n", _jsxs(_components.p, {
-      children: ["Standardmäßig erfolgt die Validierung erst beim Absenden des Forms. Zum Absenden wird der ", _jsx(_components.code, {
+      children: ["Standardmäßig erfolgt die Validierung erst beim Absenden des Forms. Zum Absenden\nwird der ", _jsx(_components.code, {
         children: "<SubmitButton/>"
-      }), " verwendet. So kann der User das Formular ohne Unterbrechung ausfüllen. Nutze die Components ", _jsx(_components.a, {
+      }), " verwendet. So kann der User das Formular ohne\nUnterbrechung ausfüllen. Nutze die Components\n", _jsx(_components.a, {
         href: "/03-components/form-controls/form-react-hook-form/overview",
         children: "Form (React Hook Form)"
-      }), " oder ", _jsx(_components.a, {
+      }), "\noder\n", _jsx(_components.a, {
         href: "/03-components/form-controls/field-react-hook-form/overview",
         children: "Field (React Hook Form)"
-      }), ", um die Form Controls von Flow nahtlos in das Formular-Management von React Hook Form zu integrieren."]
-    }), "\n", _jsx(_components.p, {
-      children: "(Code-Beispiel)"
+      }), ",\num die Form Controls von Flow nahtlos in das Formular-Management von React Hook\nForm zu integrieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "validation",
+      editorCollapsed: true
     }), "\n", _jsx(_components.p, {
       children: "Je nach Field stehen unterschiedliche Properties zur Verfügung, zum Beispiel:"
     }), "\n", _jsxs(_components.ul, {
@@ -176,7 +466,295 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-0:{"buildId":"i8RnGGa--pmc2ZKGAsm3T","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Forms dienen zur Eingabe und Bearbeitung von Daten in einem System. Sie sollten klar, ruhig und vorhersehbar sein. Jede Eingabe muss verständlich erklärt sein. Fehler müssen eindeutig kommuniziert werden. Ziel ist es, die kognitive Last gering zu halten und Vertrauen in die Dateneingabe zu schaffen.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Forms"},"scope":{}},"examples":{},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":["Aufbau einer Form","Aufbau eines Form Controls","Validation"]}}]}]],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
-8:["$","script","script-0",{"src":"/flow-previews/docs/2217/merge/_next/static/chunks/6546e5c19449698e.js","async":true}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+e:Tc0a,import {
+  ActionGroup,
+  ColumnLayout,
+  FieldDescription,
+  Heading,
+  Label,
+  Section,
+  TextField,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    firstName: string;
+    lastName: string;
+    street: string;
+    houseNumber: string;
+    zip: string;
+    city: string;
+    phone?: string;
+  }>({
+    defaultValues: {
+      firstName: "",
+      lastName: "",
+      street: "",
+      houseNumber: "",
+      phone: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Name</Heading>
+        <ColumnLayout l={[1, 1]}>
+          <Field
+            name="firstName"
+            rules={{
+              required: "Bitte gib einen Vornamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Vorname</Label>
+            </TextField>
+          </Field>
+          <Field
+            name="lastName"
+            rules={{
+              required: "Bitte gib einen Nachnamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Nachname</Label>
+            </TextField>
+          </Field>
+        </ColumnLayout>
+        <Heading>Anschrift</Heading>
+        <ColumnLayout l={[1, 1]}>
+          <ColumnLayout m={[2, 1]} s={[2, 1]}>
+            <Field
+              name="street"
+              rules={{
+                required: "Bitte gib eine Straße ein",
+              }}
+            >
+              <TextField>
+                <Label>Straße</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="houseNumber"
+              rules={{
+                required: "Bitte gib eine Hausnr. ein",
+              }}
+            >
+              <TextField>
+                <Label>Hausnummer</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <ColumnLayout m={[2, 1]} s={[2, 1]}>
+            <Field
+              name="zip"
+              rules={{
+                required: "Bitte gib eine Postleitzahl ein",
+              }}
+            >
+              <TextField>
+                <Label>Postleitzahl</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="city"
+              rules={{
+                required: "Bitte gib einen Ort ein",
+              }}
+            >
+              <TextField>
+                <Label>Ort</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <Field name="phone">
+            <TextField>
+              <Label>Telefonnummer</Label>
+              <FieldDescription>
+                Format: +49 5772 293 100
+              </FieldDescription>
+            </TextField>
+          </Field>
+        </ColumnLayout>
+        <ActionGroup>
+          <SubmitButton>Speichern</SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+f:T897,import {
+  ActionGroup,
+  CheckboxButton,
+  ColumnLayout,
+  DatePicker,
+  Heading,
+  Section,
+  TextField,
+  Label,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm, useWatch } from "react-hook-form";
+import {
+  type CalendarDate,
+  getLocalTimeZone,
+  today,
+} from "@internationalized/date";
+
+export default () => {
+  const form = useForm<{
+    description: string;
+    withExpirationDate: boolean;
+    expirationDate: CalendarDate;
+  }>({
+    defaultValues: {
+      description: "",
+      withExpirationDate: false,
+    },
+  });
+
+  const Field = typedField(form);
+
+  const watchedWithExpirationDate = useWatch({
+    control: form.control,
+    name: "withExpirationDate",
+  });
+
+  const tomorrow = today(getLocalTimeZone()).add({
+    days: 1,
+  });
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>API-Token anlegen</Heading>
+        <Field
+          name="description"
+          rules={{
+            required: "Bitte gib eine Beschreibung ein",
+          }}
+        >
+          <TextField>
+            <Label>Beschreibung</Label>
+          </TextField>
+        </Field>
+        <ColumnLayout m={[1, 1]}>
+          <Field name="withExpirationDate">
+            <CheckboxButton>Mit Ablaufdatum</CheckboxButton>
+          </Field>
+
+          {watchedWithExpirationDate && (
+            <Field
+              name="expirationDate"
+              rules={{
+                required: "Bitte gib ein Ablaufdatum ein",
+                validate: {
+                  future: (d) =>
+                    d && d >= tomorrow
+                      ? true
+                      : "Das Ablaufdatum muss in der Zukunft liegen",
+                },
+              }}
+            >
+              <DatePicker
+                aria-label="Ablaufdatum"
+                minValue={tomorrow}
+              />
+            </Field>
+          )}
+        </ColumnLayout>
+        <ActionGroup>
+          <SubmitButton color="accent">
+            Anlegen
+          </SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+10:T52c,import {
+  ActionGroup,
+  Heading,
+  Label,
+  Section,
+  TextArea,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    publicKey: string;
+  }>({
+    defaultValues: {
+      publicKey: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Validierung</Heading>
+        <Field
+          name="publicKey"
+          rules={{
+            required: "Bitte gib einen SSH-Key ein",
+            validate: {
+              isValid: (key) =>
+                key.startsWith("rsa")
+                  ? true
+                  : "Der SSH-Key muss mit 'rsa' anfangen",
+            },
+            minLength: {
+              value: 10,
+              message:
+                "Der SSH-Key muss mindestens 10 Zeichen lang sein",
+            },
+          }}
+        >
+          <TextArea maxLength={8000} showCharacterCount>
+            <Label>SSH-Key</Label>
+          </TextArea>
+        </Field>
+
+        <ActionGroup>
+          <SubmitButton>Speichern</SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+a:["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"form":"$e","progressive":"$f","validation":"$10"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":["Aufbau einer Form","Aufbau eines Form Controls","Validation"]}}]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2217/merge/_next/static/chunks/e7e66dfbe6e1898a.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
