@@ -1,4 +1,0 @@
-:HL["/flow-previews/docs/2214/merge/_next/static/chunks/23d6dde77530bf85.css","style"]
-:HL["/flow-previews/docs/2214/merge/_next/static/chunks/16c67d2c2e2d5e24.css","style"]
-:HL["/flow-previews/docs/2214/merge/_next/static/chunks/550f50c26ef088f7.css","style"]
-0:{"buildId":"1dxA91tfYUcukOlZ7fkGP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"01-get-started","paramType":null,"paramKey":"01-get-started","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"installation","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
