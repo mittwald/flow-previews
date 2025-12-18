@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"default"]
+9:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"TabTitle"]
+13:I[142373,["/flow-previews/docs/2212/merge/_next/static/chunks/2ba7ccd687bdaa87.js","/flow-previews/docs/2212/merge/_next/static/chunks/d4363d55e088fc86.js","/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js"],"default"]
+14:I[13337,["/flow-previews/docs/2212/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2212/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"buildId":"18jWLw_s_FEwt4dlMTE1C","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Flex"}],"Flex ordnet Components innerhalb eines Flex-Containers an. Sie ermöglicht eine flexible, CSS-Flexbox-basierte Ausrichtung und Verteilung von Inhalten.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Flex","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    bgColor: \"dark\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Flex","description":"Flex ordnet Components innerhalb eines Flex-Containers an. Sie ermöglicht eine flexible, CSS-Flexbox-basierte Ausrichtung und Verteilung von Inhalten."},"scope":{}},"examples":{"default":"import {\n  LayoutCard,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" justify=\"center\">\n  <LayoutCard />\n  <LayoutCard />\n  <LayoutCard />\n</Flex>;\n","layoutCard":"import {\n  Button,\n  Flex,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard style={{ minHeight: 300 }}>\n  <Text>\n    Labore, similique. Earum, quas in. At dolorem corrupti\n    blanditiis nulla deserunt laborum! Corrupti delectus\n    aspernatur nihil nulla obcaecati ipsam porro sequi rem?\n    Quam.\n  </Text>\n  <Flex align=\"end\" grow>\n    <Button color=\"accent\">Install</Button>\n  </Flex>\n</LayoutCard>;\n","listItem":"import {\n  Avatar,\n  Content,\n  Flex,\n  Heading,\n  IconExtension,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  const List = typedList<{ text: string }>();\n\n  return (\n    <List.List\n      defaultViewMode=\"tiles\"\n      aria-label=\"Extensions\"\n    >\n      <List.StaticData\n        data={[\n          { text: \"Meine Extension\" },\n          {\n            text: \"Meine andere Extension mit einen deutlich längeren Namen\",\n          },\n        ]}\n      />\n      <List.Item\n        showTiles\n        showList={false}\n        textValue={(i) => i.text}\n      >\n        {(i) => (\n          <List.ItemView>\n            <Avatar>\n              <IconExtension />\n            </Avatar>\n            <Heading>{i.text}</Heading>\n\n            <Content>\n              <Flex justify=\"end\" align=\"end\" grow>\n                <Text>Kostenlos</Text>\n              </Flex>\n            </Content>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n"},"slugs":["structure","flex"],"filename":"structure/flex/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$La","$Lb"]}]],["$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+12:Td36,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Plain} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.p, {
+      children: "Flex wurde eingeführt, um eine flexible Anordnung von Inhalten auf Basis der\nCSS-Flexbox zu ermöglichen. So bleibt unser Designsystem offen genug, um auch\nspezifische, schwer zu standardisierende Anforderungen und Layouts abzubilden."
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung von Flex darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["sie nicht für Layouts verwendet wird, die mit\n", _jsx(_components.a, {
+          href: "/03-components/structure/align/overview",
+          children: "Align"
+        }), " kombiniert werden können und\neinem festen UI-Pattern folgen."]
+      }), "\n", _jsx(_components.li, {
+        children: "sie gezielt für Sonderfälle genutzt wird – in den meisten Fällen bietet unser\nDesignsystem bereits eine passende Lösung."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Flex vs. Align"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Flex und ", _jsx(_components.a, {
+        href: "/03-components/structure/align/overview",
+        children: "Align"
+      }), " sind sich als\nLayout-Components sehr ähnlich. Um die beiden besser unterscheiden zu können,\nhier ein paar hilfreiche Anhaltspunkte."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende Flex, um ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "individuelle Layouts zu gestalten, die keinem festen UI Pattern folgen."
+          }), "\n", _jsx(_components.li, {
+            children: "bewusst vom Standard des Designsystems abzuweichen."
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende Align, um ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "vorab definierte Components miteinander zu kombinieren und automatisch anzuordnen."
+          }), "\n", _jsx(_components.li, {
+            children: "wiederkehrende UI Patterns konsistent umzusetzen."
+          }), "\n"]
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+a:["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"guidelines","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/structure/flex/overview","children":"Overview"}],false]}],["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/structure/flex/develop","children":"Develop"}],false]}],["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/structure/flex/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  LayoutCard,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" justify=\"center\">\n  <LayoutCard />\n  <LayoutCard />\n  <LayoutCard />\n</Flex>;\n","layoutCard":"import {\n  Button,\n  Flex,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard style={{ minHeight: 300 }}>\n  <Text>\n    Labore, similique. Earum, quas in. At dolorem corrupti\n    blanditiis nulla deserunt laborum! Corrupti delectus\n    aspernatur nihil nulla obcaecati ipsam porro sequi rem?\n    Quam.\n  </Text>\n  <Flex align=\"end\" grow>\n    <Button color=\"accent\">Install</Button>\n  </Flex>\n</LayoutCard>;\n","listItem":"import {\n  Avatar,\n  Content,\n  Flex,\n  Heading,\n  IconExtension,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  const List = typedList<{ text: string }>();\n\n  return (\n    <List.List\n      defaultViewMode=\"tiles\"\n      aria-label=\"Extensions\"\n    >\n      <List.StaticData\n        data={[\n          { text: \"Meine Extension\" },\n          {\n            text: \"Meine andere Extension mit einen deutlich längeren Namen\",\n          },\n        ]}\n      />\n      <List.Item\n        showTiles\n        showList={false}\n        textValue={(i) => i.text}\n      >\n        {(i) => (\n          <List.ItemView>\n            <Avatar>\n              <IconExtension />\n            </Avatar>\n            <Heading>{i.text}</Heading>\n\n            <Content>\n              <Flex justify=\"end\" align=\"end\" grow>\n                <Text>Kostenlos</Text>\n              </Flex>\n            </Content>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n"},"slugs":["structure","flex"],"filename":"structure/flex/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}]
+b:["$","$L13",null,{"currentPath":"/03-components/structure/flex/guidelines","anchors":"$a:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2212/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+d:["$","script","script-1",{"src":"/flow-previews/docs/2212/merge/_next/static/chunks/db2dcab9308579af.js","async":true}]
+e:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null
