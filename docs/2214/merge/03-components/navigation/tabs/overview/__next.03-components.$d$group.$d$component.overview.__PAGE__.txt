@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"default"]
+e:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"TabTitle"]
+17:I[13337,["/flow-previews/docs/2214/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2214/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2214/merge/_next/static/chunks/fcd3098703ccda64.js","/flow-previews/docs/2214/merge/_next/static/chunks/4e2865af190c0701.js","/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js"],"default"]
+9:T42c,import {
+  Header,
+  Heading,
+  Label,
+  LabeledValue,
+  Section,
+  Switch,
+  Tab,
+  Tabs,
+  TabTitle,
+  Text,
+  TextField,
+} from "@mittwald/flow-react-components";
+
+<Tabs>
+  <Tab>
+    <TabTitle>Allgemein</TabTitle>
+    <Section>
+      <Heading>Allgemein</Heading>
+      <TextField defaultValue="example@mittwald.de">
+        <Label>E-Mail-Adresse</Label>
+      </TextField>
+    </Section>
+  </Tab>
+  <Tab id="storage">
+    <TabTitle>Speicherplatz</TabTitle>
+    <Section>
+      <Heading>Speicherplatz</Heading>
+      <LabeledValue>
+        <Label>Verfügbarer Speicherplatz</Label>
+        <Text>2.4 GB</Text>
+      </LabeledValue>
+    </Section>
+  </Tab>
+  <Tab>
+    <TabTitle>Spamschutz</TabTitle>
+    <Section>
+      <Header>
+        <Heading>Spamschutz</Heading>
+        <Switch>Spamfilter</Switch>
+      </Header>
+      <Text>
+        Der Spamfilter schützt dich vor ungewollten E-Mails.
+        Niemand will Müll in seinem Postfach, daher
+        empfehlen wir den Spamschutz immer aktiviert zu
+        lassen.
+      </Text>
+    </Section>
+  </Tab>
+</Tabs>;
+0:{"buildId":"1dxA91tfYUcukOlZ7fkGP","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Tabs"}],"Tabs strukturieren verwandte Inhalte und ermöglichen einen schnellen Zugriff auf unterschiedliche Ansichten.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Tabs","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Tabs","description":"Tabs strukturieren verwandte Inhalte und ermöglichen einen schnellen Zugriff auf unterschiedliche Ansichten."},"scope":{}},"examples":{"collapsed":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs style={{ width: \"250px\" }}>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","content":"$9","default-selected":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs defaultSelectedKey=\"storage\">\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","default":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","status":"import {\n  Alert,\n  AlertIcon,\n  Heading,\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>\n      Speicherplatz\n      <AlertIcon status=\"danger\" />\n    </TabTitle>\n    <Alert status=\"danger\">\n      <Heading>Dein Speicherplatz ist voll</Heading>\n    </Alert>\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n"},"slugs":["navigation","tabs"],"filename":"navigation/tabs/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:Tb2a,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Tabs />"
+      }), ", um Tabs darzustellen. Jeder einzelne Tab wird mit ", _jsx(_components.code, {
+        children: "<Tab />"
+      }), " definiert und erhält seine Bezeichnung über ", _jsx(_components.code, {
+        children: "<TabTitle />"
+      }), "."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "content"
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kollabierte Ansicht"
+    }), "\n", _jsx(_components.p, {
+      children: "Wenn die verfügbare Breite nicht ausreicht, wechseln die Tabs automatisch in eine kollabierte Ansicht."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "collapsed",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit Status-Icon"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn der Inhalt eines Tabs eine wichtige Information oder Warnung enthält (z. B. in Form eines ", _jsx(_components.a, {
+        href: "/03-components/status/alert/overview",
+        children: "Alerts"
+      }), "), muss der entsprechende Tab ein Status-Icon erhalten."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "status",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mit vorausgewähltem Tab"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Standardmäßig sollte der erste Tab vorausgewählt sein. Falls ein anderer Tab initial aktiv sein soll, kann dies über ", _jsx(_components.code, {
+        children: "defaultSelectedKey"
+      }), " festgelegt werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "default-selected",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T42c,import {
+  Header,
+  Heading,
+  Label,
+  LabeledValue,
+  Section,
+  Switch,
+  Tab,
+  Tabs,
+  TabTitle,
+  Text,
+  TextField,
+} from "@mittwald/flow-react-components";
+
+<Tabs>
+  <Tab>
+    <TabTitle>Allgemein</TabTitle>
+    <Section>
+      <Heading>Allgemein</Heading>
+      <TextField defaultValue="example@mittwald.de">
+        <Label>E-Mail-Adresse</Label>
+      </TextField>
+    </Section>
+  </Tab>
+  <Tab id="storage">
+    <TabTitle>Speicherplatz</TabTitle>
+    <Section>
+      <Heading>Speicherplatz</Heading>
+      <LabeledValue>
+        <Label>Verfügbarer Speicherplatz</Label>
+        <Text>2.4 GB</Text>
+      </LabeledValue>
+    </Section>
+  </Tab>
+  <Tab>
+    <TabTitle>Spamschutz</TabTitle>
+    <Section>
+      <Header>
+        <Heading>Spamschutz</Heading>
+        <Switch>Spamfilter</Switch>
+      </Header>
+      <Text>
+        Der Spamfilter schützt dich vor ungewollten E-Mails.
+        Niemand will Müll in seinem Postfach, daher
+        empfehlen wir den Spamschutz immer aktiviert zu
+        lassen.
+      </Text>
+    </Section>
+  </Tab>
+</Tabs>;
+a:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"overview","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/navigation/tabs/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"collapsed":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs style={{ width: \"250px\" }}>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","content":"$13","default-selected":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs defaultSelectedKey=\"storage\">\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","default":"import {\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>Speicherplatz</TabTitle>\n    Speicherplatz Inhalt\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n","status":"import {\n  Alert,\n  AlertIcon,\n  Heading,\n  Tab,\n  Tabs,\n  TabTitle,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Allgemein</TabTitle>\n    Allgemeiner Inhalt\n  </Tab>\n  <Tab id=\"storage\">\n    <TabTitle>\n      Speicherplatz\n      <AlertIcon status=\"danger\" />\n    </TabTitle>\n    <Alert status=\"danger\">\n      <Heading>Dein Speicherplatz ist voll</Heading>\n    </Alert>\n  </Tab>\n  <Tab>\n    <TabTitle>Spamschutz</TabTitle>\n    Spamschutz Inhalt\n  </Tab>\n</Tabs>;\n"},"slugs":["navigation","tabs"],"filename":"navigation/tabs/overview.mdx","anchors":["Playground","Kollabierte Ansicht","Mit Status-Icon","Mit vorausgewähltem Tab"]}}]}]]}],"$L14","$L15"]}]}]}],"$L16"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2214/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
+c:["$","script","script-1",{"src":"/flow-previews/docs/2214/merge/_next/static/chunks/c8cba0f6cee681e8.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+14:["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/navigation/tabs/develop","children":"Develop"}],false]}]
+15:["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/navigation/tabs/guidelines","children":"Guidelines"}],false]}]
+16:["$","$L1a",null,{"currentPath":"/03-components/navigation/tabs/overview","anchors":"$a:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+19:null
