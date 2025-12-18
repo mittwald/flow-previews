@@ -1,0 +1,67 @@
+import{j as r}from"./iframe-CXtvBV5-.js";import{A as e}from"./ActionGroup-76WE-uDm.js";import{B as t}from"./Button-B1zeu3c2.js";import{A as u,s as h}from"./Section-Cfn-btcH.js";import{S as x}from"./TimeField-BLflHk5O.js";import{L as y}from"./Link-4Q0a9Nwo.js";import{u as f,F as j}from"./Form-BbT170GB.js";import{S}from"./ResetButton-BM9UVWDk.js";import"./preload-helper-PPVm8Dsz.js";import"./dynamic-d7RV2m3i.js";import"./PropsContextProvider-BygdkkPC.js";import"./mergeRefs-XVX53w-Z.js";import"./index-ChNj5jQF.js";import"./clsx-B-dksMZM.js";import"./IconWarning-BhkQzOu2.js";import"./Text-CMr19a6m.js";import"./browser-Du_NX0QX.js";import"./utils-qd2QOFm2.js";import"./EmulatedBoldText-BlfminYz.js";import"./LoadingSpinner-8mK8rEyJ.js";import"./Button-Czyxm9kV.js";import"./ProgressBar-BKXLtSPJ.js";import"./Hidden-CuDHI-By.js";import"./filterDOMProps-i7L6S0l1.js";import"./context-CAEu_mOG.js";import"./useFocusRing-B4KbP9xH.js";import"./useFocusable-Bz2ht442.js";import"./useLocalizedStringFormatter-CRhy_wW7.js";import"./context-BYM96aX5.js";import"./RSPContexts-CwFlS_g1.js";import"./Collection-Dzcp4a7b.js";import"./CollectionBuilder-D3qe7MnH.js";import"./SelectionIndicator-CtMNhqjQ.js";import"./Separator-B4Qn40UI.js";import"./useStatic-CaDi_bvV.js";import"./Accordion-0Pp4Qh68.js";import"./Alert-CqNDQYoG.js";import"./AlertIcon-CV1zk-Xj.js";import"./AlertBadge-uNDoePGd.js";import"./Align-BmR42nkq.js";import"./Popover-BDQF3mLq.js";import"./OverlayTrigger-EmUXyo3B.js";import"./TableFooterRow-BFXHFHbH.js";import"./SkeletonText-Bu_fUB4Q.js";import"./Avatar-B3QvG10-.js";import"./AvatarStack-Cap2B7L3.js";import"./Badge-CpmTQ8o9.js";import"./BigNumber-BjFcKf7O.js";import"./Breadcrumb-Dqt6p75N.js";import"./Heading-BrBtBi-y.js";import"./Legend-DjwS0-g4.js";import"./FileCardList-DumOlmwR.js";import"./Image-CUtbNuBW.js";import"./Color-BKfHjzKa.js";import"./Content-7cfCqjj6.js";import"./Label-BsNkG_q3.js";import"./ContextualHelpTrigger-BC8S8E_S.js";import"./CounterBadge-CtF233lE.js";import"./DonutChart-DXXMJftD.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./IllustratedMessage-BL-nBC4B.js";import"./Header-D_XWctB_.js";import"./Initials-CFarEfIW.js";import"./InlineCode-BqXOUe9b.js";import"./PopoverTrigger-CRfGGebp.js";import"./Separator-DLNm_QtB.js";import"./Message-BiZAGwK8.js";import"./MessageSeparator-CYDLlDnj.js";import"./NavigationGroup-2W6CdmgF.js";import"./Notification-Bvs2MP1B.js";import"./NotificationProvider-DS7rbb_m.js";import"./ProgressBar-C6BmRW-m.js";import"./Rating-vrPWheMU.js";import"./Skeleton-C1XPs7Yz.js";const qr={title:"Actions/ActionGroup",component:e,render:o=>r.jsxs(e,{...o,children:[r.jsx(u,{action:()=>h(1500),children:r.jsx(t,{color:"accent",children:"Create customer"})}),r.jsx(u,{children:r.jsx(t,{slot:"abort",variant:"soft",color:"secondary",children:"Abort"})})]})},n={},s={render:o=>r.jsxs(e,{...o,children:[r.jsx(t,{color:"danger",children:"Delete project"}),r.jsx(t,{slot:"abort",variant:"soft",color:"secondary",children:"Abort"})]})},a={render:o=>r.jsx(e,{...o,children:r.jsx(t,{children:"Ok"})})},i={render:o=>r.jsxs(e,{...o,children:[r.jsx(t,{slot:"primary",color:"accent",children:"Add email address"}),r.jsx(t,{slot:"secondary",variant:"soft",color:"secondary",children:"Save and add more"}),r.jsx(t,{slot:"abort",variant:"soft",color:"secondary",children:"Abort"})]})},c={render:o=>r.jsxs(e,{...o,children:[r.jsx(t,{slot:"primary",color:"accent",children:"Add email address"}),r.jsx(t,{slot:"secondary",variant:"soft",color:"secondary",children:"Save and add more"}),r.jsx(t,{slot:"secondary",variant:"soft",color:"secondary",children:"Save as new"}),r.jsx(t,{slot:"abort",variant:"soft",color:"secondary",children:"Abort"})]})},p={parameters:{viewport:{defaultViewport:"mobile1"}}},m={render:o=>r.jsxs(e,{...o,children:[r.jsx(t,{slot:"secondary",children:"Edit"}),r.jsx(x,{slot:"primary",children:"Activate"})]})},d={render:o=>r.jsxs(e,{...o,children:[r.jsx(y,{slot:"abort",children:"Forgot password?"}),r.jsx(t,{color:"accent",children:"Login"})]})},l={render:o=>{const A=f();return r.jsx(j,{form:A,onSubmit:async()=>await h(2e3),children:r.jsxs(e,{...o,children:[r.jsx(S,{color:"accent",children:"Submit"}),r.jsx(t,{color:"secondary",variant:"soft",children:"Abort"})]})})}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:"{}",...n.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Button color="danger">Delete project</Button>
+      <Button slot="abort" variant="soft" color="secondary">
+        Abort
+      </Button>
+    </ActionGroup>
+}`,...s.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Button>Ok</Button>
+    </ActionGroup>
+}`,...a.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Button slot="primary" color="accent">
+        Add email address
+      </Button>
+      <Button slot="secondary" variant="soft" color="secondary">
+        Save and add more
+      </Button>
+      <Button slot="abort" variant="soft" color="secondary">
+        Abort
+      </Button>
+    </ActionGroup>
+}`,...i.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Button slot="primary" color="accent">
+        Add email address
+      </Button>
+      <Button slot="secondary" variant="soft" color="secondary">
+        Save and add more
+      </Button>
+      <Button slot="secondary" variant="soft" color="secondary">
+        Save as new
+      </Button>
+      <Button slot="abort" variant="soft" color="secondary">
+        Abort
+      </Button>
+    </ActionGroup>
+}`,...c.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1"
+    }
+  }
+}`,...p.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Button slot="secondary">Edit</Button>
+      <Switch slot="primary">Activate</Switch>
+    </ActionGroup>
+}`,...m.parameters?.docs?.source}}};d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`{
+  render: props => <ActionGroup {...props}>
+      <Link slot="abort">Forgot password?</Link>
+      <Button color="accent">Login</Button>
+    </ActionGroup>
+}`,...d.parameters?.docs?.source}}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const form = useForm();
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <ActionGroup {...props}>
+          <SubmitButton color="accent">Submit</SubmitButton>
+          <Button color="secondary" variant="soft">
+            Abort
+          </Button>
+        </ActionGroup>
+      </Form>;
+  }
+}`,...l.parameters?.docs?.source}}};const zr=["Default","Danger","Info","WithSecondaryAction","WithExtraSecondaryAction","Mobile","WithSwitch","WithLink","WithReactHookForm"];export{s as Danger,n as Default,a as Info,p as Mobile,c as WithExtraSecondaryAction,d as WithLink,l as WithReactHookForm,i as WithSecondaryAction,m as WithSwitch,zr as __namedExportsOrder,qr as default};
