@@ -1,0 +1,4 @@
+:HL["/flow-previews/docs/2213/merge/_next/static/chunks/b78d80ac4511ca41.css","style"]
+:HL["/flow-previews/docs/2213/merge/_next/static/chunks/16c67d2c2e2d5e24.css","style"]
+:HL["/flow-previews/docs/2213/merge/_next/static/chunks/550f50c26ef088f7.css","style"]
+0:{"buildId":"EyNgDDDTjxDOy7V9f25_z","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"02-foundations","paramType":null,"paramKey":"02-foundations","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"04-internal/01-boundaries","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
