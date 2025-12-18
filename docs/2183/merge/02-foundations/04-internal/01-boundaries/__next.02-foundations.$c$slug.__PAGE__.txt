@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/2643bde7a372c231.js","/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/2643bde7a372c231.js","/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/2643bde7a372c231.js","/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/2643bde7a372c231.js","/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2183/merge/_next/static/chunks/413d5a9a534762bf.js","/flow-previews/docs/2183/merge/_next/static/chunks/2643bde7a372c231.js","/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js"],"default"]
-b:I[205537,["/flow-previews/docs/2183/merge/_next/static/chunks/98d121bac75edce8.js","/flow-previews/docs/2183/merge/_next/static/chunks/a7f1f1e23f97b818.js"],"OutletBoundary"]
+2:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/6ade9529daeae99e.js","/flow-previews/docs/2183/merge/_next/static/chunks/3314e94a94f1a137.js","/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/6ade9529daeae99e.js","/flow-previews/docs/2183/merge/_next/static/chunks/3314e94a94f1a137.js","/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/6ade9529daeae99e.js","/flow-previews/docs/2183/merge/_next/static/chunks/3314e94a94f1a137.js","/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2183/merge/_next/static/chunks/6ade9529daeae99e.js","/flow-previews/docs/2183/merge/_next/static/chunks/3314e94a94f1a137.js","/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2183/merge/_next/static/chunks/6ade9529daeae99e.js","/flow-previews/docs/2183/merge/_next/static/chunks/3314e94a94f1a137.js","/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js"],"default"]
+b:I[990002,["/flow-previews/docs/2183/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2183/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
 7:T542,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
@@ -38,7 +38,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-8:T599f,"use strict";
+8:T5c29,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -180,6 +180,20 @@ function _createMdxContent(props) {
         }), _jsxs(_components.tr, {
           children: [_jsx(_components.td, {
             children: _jsx(_components.code, {
+              children: "Modal"
+            })
+          }), _jsx(_components.td, {
+            children: "Ersetzt normale Modals"
+          }), _jsx(_components.td, {
+            children: "Modal"
+          }), _jsx(_components.td, {
+            children: "IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "LoadingView der Flow Component"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
               children: "ContextMenu"
             })
           }), _jsx(_components.td, {
@@ -194,16 +208,58 @@ function _createMdxContent(props) {
         }), _jsxs(_components.tr, {
           children: [_jsx(_components.td, {
             children: _jsx(_components.code, {
-              children: "Modal"
+              children: "ChartFragment"
             })
           }), _jsx(_components.td, {
-            children: "Ersetzt normale Modals"
+            children: "Für CartesianCharts"
           }), _jsx(_components.td, {
-            children: "Modal"
+            children: "Fragment"
           }), _jsx(_components.td, {
-            children: "IllustratedMessage"
+            children: "CartesianChart mit IllustratedMessage"
           }), _jsx(_components.td, {
-            children: "LoadingView der Flow Component"
+            children: "CartesianChart mit LoadingSpinner"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "FieldFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Form Fields mit nachgeladenen Inhalten"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "Nichts"
+          }), _jsx(_components.td, {
+            children: "Text Field"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Avatar"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Avatare"
+          }), _jsx(_components.td, {
+            children: "Avatar"
+          }), _jsx(_components.td, {
+            children: "Leerer Skeleton"
+          }), _jsx(_components.td, {
+            children: "Avatar Skeleton"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Link"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Links"
+          }), _jsx(_components.td, {
+            children: "Link"
+          }), _jsx(_components.td, {
+            children: "Einzeiliges Skeleton"
+          }), _jsx(_components.td, {
+            children: "Einzeiliges Skeleton"
           })]
         }), _jsxs(_components.tr, {
           children: [_jsx(_components.td, {
@@ -232,48 +288,6 @@ function _createMdxContent(props) {
             children: "Einzeiliges Skeleton"
           }), _jsx(_components.td, {
             children: "Einzeiliges Skeleton"
-          })]
-        }), _jsxs(_components.tr, {
-          children: [_jsx(_components.td, {
-            children: _jsx(_components.code, {
-              children: "Link"
-            })
-          }), _jsx(_components.td, {
-            children: "Für Links"
-          }), _jsx(_components.td, {
-            children: "Link"
-          }), _jsx(_components.td, {
-            children: "Einzeiliges Skeleton"
-          }), _jsx(_components.td, {
-            children: "Einzeiliges Skeleton"
-          })]
-        }), _jsxs(_components.tr, {
-          children: [_jsx(_components.td, {
-            children: _jsx(_components.code, {
-              children: "Avatar"
-            })
-          }), _jsx(_components.td, {
-            children: "Für Avatare"
-          }), _jsx(_components.td, {
-            children: "Avatar"
-          }), _jsx(_components.td, {
-            children: "Leerer Skeleton"
-          }), _jsx(_components.td, {
-            children: "Avatar Skeleton"
-          })]
-        }), _jsxs(_components.tr, {
-          children: [_jsx(_components.td, {
-            children: _jsx(_components.code, {
-              children: "FieldFragment"
-            })
-          }), _jsx(_components.td, {
-            children: "Für Form Fields mit nachgeladenen Inhalten"
-          }), _jsx(_components.td, {
-            children: "Fragment"
-          }), _jsx(_components.td, {
-            children: "Nichts"
-          }), _jsx(_components.td, {
-            children: "Text Field"
           })]
         })]
       })]
@@ -350,13 +364,17 @@ function _createMdxContent(props) {
         children: "export const AppInstallationSection: FC<Props> = (props) => (\n  <WithBoundaries.Fragment>\n    {() => {\n      const { cronjobGhost } = asGhostProps(props);\n      const cronjob = cronjobGhost.getCommon().use();\n      const t = useTCronjob();\n\n      if(!cronjob.linkedAppInstallation){\n        return null;\n      }\n\n      return (\n        <Section>...</Section>\n      );\n    }}\n  </WithBoundaries.Fragment>\n);\n"
       })
     }), "\n", _jsx(_components.h2, {
-      children: "Inhalte eines Diagramms (WIP)"
+      children: "Inhalte eines Diagramms (WithBoundaries.ChartFragment)"
     }), "\n", _jsxs(_components.p, {
-      children: ["Diagramme beziehen in der Regel viele Daten aus externen Services und sind daher\nfehleranfällig. Sie sollten immer separat von einer Boundary umschlossen werden.\nDiagramm-Komponenten wie das ", _jsx(_components.code, {
+      children: ["Diagramme beziehen in der Regel viele Daten aus externen Services und sind daher\nfehleranfällig. Sie sollten immer von einer Boundary umschlossen werden. Für das\n", _jsx(_components.code, {
         children: "CartesianChart"
-      }), " besitzen eine eigene ErrorView.\nIst das nicht der Fall, sollte mindestens die Section des Diagramms mit einer\nBoundary abgesichert werden."]
-    }), "\n", _jsx(_components.p, {
-      children: "[Code-Beispiele??]"
+      }), " gibt es hierfür das ", _jsx(_components.code, {
+        children: "WithBoundaries.ChartFragment"
+      }), "."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<WithBoundaries.ChartFragment>\n  <CartesianChart>...</CartesianChart>\n</WithBoundaries.ChartFragment>\n"
+      })
     }), "\n", _jsx(_components.h2, {
       children: "Inhalte einzelner kleinerer Elemente"
     }), "\n", _jsx(_components.p, {
@@ -423,7 +441,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"UsPt8xZDfvJEoln6uhi3s","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-9:["$","script","script-0",{"src":"/flow-previews/docs/2183/merge/_next/static/chunks/c4c08a277319b2aa.js","async":true}]
+0:{"buildId":"zL8awh_mKgtNNrcaZz8AG","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2183/merge/_next/static/chunks/01f14c86a04cade4.js","async":true}]
 a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
 d:null
