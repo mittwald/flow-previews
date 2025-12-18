@@ -1,1 +1,0 @@
-const n="flow--context-menu",e="flow--context-menu--section",o={contextMenu:n,section:e},s=t=>t==="navigation"?"none":t==="switch"?"multiple":t,c=t=>t==="single"||t==="multiple"?"control":t,u=t=>t==="multiple"||t==="switch"?void 0:"ContextMenu";export{c as a,u as b,s as g,o as s};
