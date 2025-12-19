@@ -1,19 +1,19 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Heading"]
-6:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Link"]
-7:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"IconExternalLink"]
-8:I[579932,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"default"]
-1d:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Flex"]
-1e:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Tabs"]
-1f:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"Tab"]
-20:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"TabTitle"]
-33:I[13337,["/flow-previews/docs/2209/merge/_next/static/chunks/c739eae1c76c9cd1.js","/flow-previews/docs/2209/merge/_next/static/chunks/357ee5dd50fa2d70.js"],"OutletBoundary"]
-34:"$Sreact.suspense"
-36:I[142373,["/flow-previews/docs/2209/merge/_next/static/chunks/99fa992ab1f0a1a1.js","/flow-previews/docs/2209/merge/_next/static/chunks/d0a463c6827d2e21.js","/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js"],"default"]
-9:Tbb6,import {
+2:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"default"]
+1e:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Flex"]
+1f:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Tabs"]
+20:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"Tab"]
+21:I[39682,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"TabTitle"]
+35:I[990002,["/flow-previews/docs/2209/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2209/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+36:"$Sreact.suspense"
+38:I[142373,["/flow-previews/docs/2209/merge/_next/static/chunks/1743097efccff510.js","/flow-previews/docs/2209/merge/_next/static/chunks/94723281ff413080.js","/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js"],"default"]
+9:Tbde,import {
   ActionGroup,
   AlertBadge,
   Avatar,
@@ -39,6 +39,7 @@ export default () => {
       batchSize={4}
       aria-label="Domains"
       defaultViewMode="list"
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <ActionGroup>
@@ -130,7 +131,7 @@ export default () => {
     </DomainList.List>
   );
 };
-a:T6b3,import {
+a:T6ec,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -150,7 +151,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="verified"
@@ -199,7 +204,7 @@ export default () => {
     </DomainList.List>
   );
 };
-b:T798,import {
+b:T7d1,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -219,7 +224,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="verified"
@@ -278,7 +287,7 @@ export default () => {
     </DomainList.List>
   );
 };
-c:T430,import {
+c:T458,import {
   ActionGroup,
   Avatar,
   Button,
@@ -300,6 +309,7 @@ export default () => {
       batchSize={2}
       hidePagination
       aria-label="Domains"
+      getItemId={(domain) => domain.id}
     >
       <List.StaticData data={domains} />
       <List.Item textValue={(domain) => domain.domain}>
@@ -326,7 +336,7 @@ export default () => {
     </List.List>
   );
 };
-d:Ta39,import {
+d:Ta61,import {
   Avatar,
   Checkbox,
   Heading,
@@ -375,6 +385,7 @@ export default () => {
       onAction={(domain) => {
         onSelected(domain, !isSelected(domain));
       }}
+      getItemId={(domain) => domain.id}
     >
       <List.StaticData data={domains} />
       <List.Item
@@ -539,7 +550,55 @@ export default () => {
     </List.List>
   );
 };
-10:Tcfd,import {
+10:T414,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  MenuItem,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content slot="top">Top Content</Content>
+            <Content slot="bottom">Bottom Content</Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+11:Td36,import {
   ActionGroup,
   AlertBadge,
   Avatar,
@@ -562,7 +621,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <ActionGroup>
         <Button
@@ -669,7 +732,7 @@ export default () => {
     </DomainList.List>
   );
 };
-11:T5a8,import {
+12:T5d0,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -693,6 +756,7 @@ export default () => {
       batchSize={4}
       aria-label="Domains"
       hidePagination
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
 
@@ -732,7 +796,7 @@ export default () => {
     </DomainList.List>
   );
 };
-12:T5d8,import { typedList } from "@mittwald/flow-react-components";
+13:T600,import { typedList } from "@mittwald/flow-react-components";
 import {
   type Domain,
   domains,
@@ -747,6 +811,7 @@ export default () => {
       defaultViewMode="table"
       aria-label="Domains"
       hidePagination
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <DomainList.Table>
@@ -785,7 +850,7 @@ export default () => {
     </DomainList.List>
   );
 };
-13:T5f0,import {
+14:T618,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -810,6 +875,7 @@ export default () => {
       aria-label="Domains"
       hidePagination
       defaultViewMode="tiles"
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <DomainList.Item
@@ -850,7 +916,7 @@ export default () => {
     </DomainList.List>
   );
 };
-14:T79a,import {
+15:T7d3,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -870,7 +936,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="type"
@@ -927,7 +997,7 @@ export default () => {
     </DomainList.List>
   );
 };
-15:T8b8,import {
+16:T8f1,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -947,7 +1017,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="type"
@@ -1012,7 +1086,7 @@ export default () => {
     </DomainList.List>
   );
 };
-16:T75a,import {
+17:T793,import {
   type Domain,
   domains,
 } from "@/content/03-components/structure/list/examples/domainApi";
@@ -1032,7 +1106,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Sorting
         property="hostname"
@@ -1091,7 +1169,7 @@ export default () => {
     </DomainList.List>
   );
 };
-17:T620,import {
+18:T659,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -1111,7 +1189,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Sorting
         property="domain"
@@ -1155,7 +1237,7 @@ export default () => {
     </DomainList.List>
   );
 };
-18:T415,import {
+19:T449,import {
   Flex,
   Heading,
   ListItemView,
@@ -1175,11 +1257,12 @@ export default () => {
       batchSize={2}
       hidePagination
       aria-label="Rechnungen"
+      getItemId={(invoice) => invoice.id}
     >
       <ListSummary position="bottom">
         <Flex justify="end">
           <Text>
-            <b>Gesamt: 37,00 €</b>
+            <strong>Gesamt: 37,00 €</strong>
           </Text>
         </Flex>
       </ListSummary>
@@ -1207,8 +1290,8 @@ export default () => {
     </InvoiceList.List>
   );
 };
-0:{"buildId":"Nc_GLJVuOoRik6IXGWeT9","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"List"}],"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/List","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"mode-list\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"List","description":"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$9","filterCategory":"$a","filterGeneralCategory":"$b","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$c","item-checkbox":"$d","item-column-layout-hidden":"$e","item-column-layout":"$f","item-content":"import {\n  Avatar,\n  Content,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        showTiles\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <Content slot=\"top\">Top Content</Content>\n            <Content slot=\"bottom\">Bottom Content</Content>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$10","mode-list":"$11","mode-table":"$12","mode-tile":"$13","namingDo":"$14","namingDont":"$15","sortingDo":"$16","sortingDont":"$17","summary":"$18"},"slugs":["structure","list"],"filename":"structure/list/index.mdx","anchors":[]}}]]}]}],"$L19"],["$L1a","$L1b"],"$L1c"]}],"loading":null,"isPartial":false}
-21:T522a,"use strict";
+0:{"buildId":"IihixMskLq_bDNcVounAE","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"List"}],"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/List","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"mode-list\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"List","description":"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$9","filterCategory":"$a","filterGeneralCategory":"$b","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$c","item-checkbox":"$d","item-column-layout-hidden":"$e","item-column-layout":"$f","item-content":"$10","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$11","mode-list":"$12","mode-table":"$13","mode-tile":"$14","namingDo":"$15","namingDont":"$16","sortingDo":"$17","sortingDont":"$18","summary":"$19"},"slugs":["structure","list"],"filename":"structure/list/index.mdx","anchors":[]}}]]}]}],"$L1a"],["$L1b","$L1c"],"$L1d"]}],"loading":null,"isPartial":false}
+22:T522a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1584,7 +1667,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-22:Tbb6,import {
+23:Tbde,import {
   ActionGroup,
   AlertBadge,
   Avatar,
@@ -1610,6 +1693,7 @@ export default () => {
       batchSize={4}
       aria-label="Domains"
       defaultViewMode="list"
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <ActionGroup>
@@ -1701,7 +1785,7 @@ export default () => {
     </DomainList.List>
   );
 };
-23:T6b3,import {
+24:T6ec,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -1721,7 +1805,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="verified"
@@ -1770,7 +1858,7 @@ export default () => {
     </DomainList.List>
   );
 };
-24:T798,import {
+25:T7d1,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -1790,7 +1878,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="verified"
@@ -1849,7 +1941,7 @@ export default () => {
     </DomainList.List>
   );
 };
-25:T430,import {
+26:T458,import {
   ActionGroup,
   Avatar,
   Button,
@@ -1871,6 +1963,7 @@ export default () => {
       batchSize={2}
       hidePagination
       aria-label="Domains"
+      getItemId={(domain) => domain.id}
     >
       <List.StaticData data={domains} />
       <List.Item textValue={(domain) => domain.domain}>
@@ -1897,7 +1990,7 @@ export default () => {
     </List.List>
   );
 };
-26:Ta39,import {
+27:Ta61,import {
   Avatar,
   Checkbox,
   Heading,
@@ -1946,6 +2039,7 @@ export default () => {
       onAction={(domain) => {
         onSelected(domain, !isSelected(domain));
       }}
+      getItemId={(domain) => domain.id}
     >
       <List.StaticData data={domains} />
       <List.Item
@@ -2004,7 +2098,7 @@ export default () => {
     </List.List>
   );
 };
-27:T4d5,import {
+28:T4d5,import {
   Avatar,
   Content,
   ContextMenu,
@@ -2060,7 +2154,7 @@ export default () => {
     </div>
   );
 };
-28:T430,import {
+29:T430,import {
   Avatar,
   Content,
   ContextMenu,
@@ -2110,7 +2204,55 @@ export default () => {
     </List.List>
   );
 };
-29:Tcfd,import {
+2a:T414,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  MenuItem,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content slot="top">Top Content</Content>
+            <Content slot="bottom">Bottom Content</Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+2b:Td36,import {
   ActionGroup,
   AlertBadge,
   Avatar,
@@ -2133,7 +2275,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={2} aria-label="Domains">
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <ActionGroup>
         <Button
@@ -2240,7 +2386,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2a:T5a8,import {
+2c:T5d0,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -2264,6 +2410,7 @@ export default () => {
       batchSize={4}
       aria-label="Domains"
       hidePagination
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
 
@@ -2303,7 +2450,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2b:T5d8,import { typedList } from "@mittwald/flow-react-components";
+2d:T600,import { typedList } from "@mittwald/flow-react-components";
 import {
   type Domain,
   domains,
@@ -2318,6 +2465,7 @@ export default () => {
       defaultViewMode="table"
       aria-label="Domains"
       hidePagination
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <DomainList.Table>
@@ -2356,7 +2504,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2c:T5f0,import {
+2e:T618,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -2381,6 +2529,7 @@ export default () => {
       aria-label="Domains"
       hidePagination
       defaultViewMode="tiles"
+      getItemId={(domain) => domain.id}
     >
       <DomainList.StaticData data={domains} />
       <DomainList.Item
@@ -2421,7 +2570,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2d:T79a,import {
+2f:T7d3,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -2441,7 +2590,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="type"
@@ -2498,7 +2651,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2e:T8b8,import {
+30:T8f1,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -2518,7 +2671,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Filter
         property="type"
@@ -2583,7 +2740,7 @@ export default () => {
     </DomainList.List>
   );
 };
-2f:T75a,import {
+31:T793,import {
   type Domain,
   domains,
 } from "@/content/03-components/structure/list/examples/domainApi";
@@ -2603,7 +2760,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Sorting
         property="hostname"
@@ -2662,7 +2823,7 @@ export default () => {
     </DomainList.List>
   );
 };
-30:T620,import {
+32:T659,import {
   AlertBadge,
   Avatar,
   ContextMenu,
@@ -2682,7 +2843,11 @@ export default () => {
   const DomainList = typedList<Domain>();
 
   return (
-    <DomainList.List batchSize={5} aria-label="Domains">
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
       <DomainList.StaticData data={domains} />
       <DomainList.Sorting
         property="domain"
@@ -2726,7 +2891,7 @@ export default () => {
     </DomainList.List>
   );
 };
-31:T415,import {
+33:T449,import {
   Flex,
   Heading,
   ListItemView,
@@ -2746,11 +2911,12 @@ export default () => {
       batchSize={2}
       hidePagination
       aria-label="Rechnungen"
+      getItemId={(invoice) => invoice.id}
     >
       <ListSummary position="bottom">
         <Flex justify="end">
           <Text>
-            <b>Gesamt: 37,00 €</b>
+            <strong>Gesamt: 37,00 €</strong>
           </Text>
         </Flex>
       </ListSummary>
@@ -2778,9 +2944,9 @@ export default () => {
     </InvoiceList.List>
   );
 };
-19:["$","$L1d",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L1d",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L1e",null,{"selectedKey":"guidelines","children":[["$","$L1f",null,{"id":"overview","children":[["$","$L20",null,{"href":"/03-components/structure/list/overview","children":"Overview"}],false]}],["$","$L1f",null,{"id":"develop","children":[["$","$L20",null,{"href":"/03-components/structure/list/develop","children":"Develop"}],false]}],["$","$L1f",null,{"id":"guidelines","children":[["$","$L20",null,{"href":"/03-components/structure/list/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$21","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$22","filterCategory":"$23","filterGeneralCategory":"$24","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$25","item-checkbox":"$26","item-column-layout-hidden":"$27","item-column-layout":"$28","item-content":"import {\n  Avatar,\n  Content,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        showTiles\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <Content slot=\"top\">Top Content</Content>\n            <Content slot=\"bottom\">Bottom Content</Content>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$29","mode-list":"$2a","mode-table":"$2b","mode-tile":"$2c","namingDo":"$2d","namingDont":"$2e","sortingDo":"$2f","sortingDont":"$30","summary":"$31"},"slugs":["structure","list"],"filename":"structure/list/guidelines.mdx","anchors":["Grundlagen","Anwendung","Inhalt","Writing guidelines","Behavior","Accessibility"]}}]}]]}]]}]}]}],"$L32"]}]
-1a:["$","script","script-0",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/312f8a9a3c9c35d1.js","async":true}]
-1b:["$","script","script-1",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/2fbb7d7210417be5.js","async":true}]
-1c:["$","$L33",null,{"children":["$","$34",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
-32:["$","$L36",null,{"currentPath":"/03-components/structure/list/guidelines","anchors":"$19:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
-35:null
+1a:["$","$L1e",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L1e",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L1f",null,{"selectedKey":"guidelines","children":[["$","$L20",null,{"id":"overview","children":[["$","$L21",null,{"href":"/03-components/structure/list/overview","children":"Overview"}],false]}],["$","$L20",null,{"id":"develop","children":[["$","$L21",null,{"href":"/03-components/structure/list/develop","children":"Develop"}],false]}],["$","$L20",null,{"id":"guidelines","children":[["$","$L21",null,{"href":"/03-components/structure/list/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$22","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$23","filterCategory":"$24","filterGeneralCategory":"$25","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$26","item-checkbox":"$27","item-column-layout-hidden":"$28","item-column-layout":"$29","item-content":"$2a","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$2b","mode-list":"$2c","mode-table":"$2d","mode-tile":"$2e","namingDo":"$2f","namingDont":"$30","sortingDo":"$31","sortingDont":"$32","summary":"$33"},"slugs":["structure","list"],"filename":"structure/list/guidelines.mdx","anchors":["Grundlagen","Anwendung","Inhalt","Writing guidelines","Behavior","Accessibility"]}}]}]]}]]}]}]}],"$L34"]}]
+1b:["$","script","script-0",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+1c:["$","script","script-1",{"src":"/flow-previews/docs/2209/merge/_next/static/chunks/ba8194736e20b103.js","async":true}]
+1d:["$","$L35",null,{"children":["$","$36",null,{"name":"Next.MetadataOutlet","children":"$@37"}]}]
+34:["$","$L38",null,{"currentPath":"/03-components/structure/list/guidelines","anchors":"$1a:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+37:null
