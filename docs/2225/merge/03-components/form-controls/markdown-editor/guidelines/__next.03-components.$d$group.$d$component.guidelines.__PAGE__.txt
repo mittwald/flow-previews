@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"default"]
+e:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"TabTitle"]
+15:I[990002,["/flow-previews/docs/2225/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2225/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[142373,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"default"]
+9:T7b6,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+  MarkdownEditor,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <MarkdownEditor aria-label="Nachricht" />
+  <Button color="accent">Senden</Button>
+</Chat>;
+0:{"buildId":"HQNMTjwYA4J3oQCrIYNl3","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"MarkdownEditor"}],"Der MarkdownEditor ist eine Komponente zur Erstellung und Formatierung von Textinhalten mithilfe von Markdown-Syntax. Er unterstützt User bei der schnellen und konsistenten Textformatierung und stellt eine Vorschauansicht zur Verfügung.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/MarkdownEditor","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"MarkdownEditor","description":"Der MarkdownEditor ist eine Komponente zur Erstellung und Formatierung von Textinhalten mithilfe von Markdown-Syntax. Er unterstützt User bei der schnellen und konsistenten Textformatierung und stellt eine Vorschauansicht zur Verfügung."},"scope":{}},"examples":{"allowResize":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  allowResize\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","autoResizeMaxRows":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  rows={1}\n  autoResizeMaxRows={5}\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","characterCount":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  showCharacterCount\n  maxLength={100}\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","chat":"$9","combinedResize":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  allowResize\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n  rows={1}\n  autoResizeMaxRows={5}\n/>;\n","default":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","disabled":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  isDisabled\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","form":"import {\n  Label,\n  MarkdownEditor,\n  Section,\n  ActionGroup,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Field,\n  Form,\n  SubmitButton,\n} from \"@mittwald/flow-react-components/react-hook-form\";\n\nexport default () => {\n  const form = useForm({\n    defaultValues: { message: \"\" },\n  });\n  return (\n    <Section>\n      <Form\n        form={form}\n        onSubmit={(v) => console.log(v.message)}\n      >\n        <Field\n          name=\"message\"\n          rules={{\n            required: \"Bitte gib eine Nachricht ein\",\n          }}\n        >\n          <MarkdownEditor placeholder=\"Schreibe eine Nachricht ...\">\n            <Label>Nachricht</Label>\n          </MarkdownEditor>\n        </Field>\n        <ActionGroup>\n          <SubmitButton color=\"accent\">Senden</SubmitButton>\n        </ActionGroup>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","markdown-editor"],"filename":"form-controls/markdown-editor/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:T921,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines MarkdownEditors darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["die Höhe über das Property ", _jsx(_components.code, {
+          children: "rows"
+        }), " so gewählt ist, dass sie der erwarteten\nTextmenge des Users entspricht."]
+      }), "\n", _jsx(_components.li, {
+        children: "falls notwendig eine sinnvolle Zeichenbegrenzung definiert ist."
+      }), "\n", _jsxs(_components.li, {
+        children: ["das ", _jsx(_components.a, {
+          href: "/03-components/content/label/overview",
+          children: "Label"
+        }), " prägnant und leicht verständlich\nist."]
+      }), "\n", _jsx(_components.li, {
+        children: "die FieldDescription genutzt wird, um Beispiele, Formatierungshinweise oder\nKontext bereitzustellen."
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.a, {
+          href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
+          children: "Fehlermeldungen"
+        }), "\nklar, hilfreich und lösungsorientiert formuliert sind."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen MarkdownEditor, um Usern die Möglichkeit zu geben, Texte wie\nDokumentationen, Kommentare oder Beschreibungen mithilfe von Markdown-Syntax zu\nformatieren."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+13:T7b6,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+  MarkdownEditor,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <MarkdownEditor aria-label="Nachricht" />
+  <Button color="accent">Senden</Button>
+</Chat>;
+a:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"guidelines","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/form-controls/markdown-editor/overview","children":"Overview"}],false]}],["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/form-controls/markdown-editor/develop","children":"Develop"}],false]}],["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/form-controls/markdown-editor/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"allowResize":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  allowResize\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","autoResizeMaxRows":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  rows={1}\n  autoResizeMaxRows={5}\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","characterCount":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  showCharacterCount\n  maxLength={100}\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","chat":"$13","combinedResize":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  allowResize\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n  rows={1}\n  autoResizeMaxRows={5}\n/>;\n","default":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","disabled":"import { MarkdownEditor } from \"@mittwald/flow-react-components\";\n\n<MarkdownEditor\n  isDisabled\n  aria-label=\"Nachricht\"\n  placeholder=\"Schreibe eine Nachricht ...\"\n/>;\n","form":"import {\n  Label,\n  MarkdownEditor,\n  Section,\n  ActionGroup,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Field,\n  Form,\n  SubmitButton,\n} from \"@mittwald/flow-react-components/react-hook-form\";\n\nexport default () => {\n  const form = useForm({\n    defaultValues: { message: \"\" },\n  });\n  return (\n    <Section>\n      <Form\n        form={form}\n        onSubmit={(v) => console.log(v.message)}\n      >\n        <Field\n          name=\"message\"\n          rules={{\n            required: \"Bitte gib eine Nachricht ein\",\n          }}\n        >\n          <MarkdownEditor placeholder=\"Schreibe eine Nachricht ...\">\n            <Label>Nachricht</Label>\n          </MarkdownEditor>\n        </Field>\n        <ActionGroup>\n          <SubmitButton color=\"accent\">Senden</SubmitButton>\n        </ActionGroup>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","markdown-editor"],"filename":"form-controls/markdown-editor/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$L14"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+c:["$","script","script-1",{"src":"/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js","async":true}]
+d:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+14:["$","$L18",null,{"currentPath":"/03-components/form-controls/markdown-editor/guidelines","anchors":"$a:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+17:null

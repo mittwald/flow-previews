@@ -1,0 +1,1187 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"default"]
+f:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Flex"]
+10:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Tabs"]
+11:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Tab"]
+12:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"TabTitle"]
+17:I[990002,["/flow-previews/docs/2225/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2225/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"default"]
+9:T17b4,import {
+  ColumnLayout,
+  IconAI,
+  IconAnalytics,
+  IconApp,
+  IconAutoresponder,
+  IconBackup,
+  IconCamera,
+  IconCertificate,
+  IconChangelog,
+  IconContainer,
+  IconContract,
+  IconContributor,
+  IconCronjob,
+  IconCustomer,
+  IconDashboard,
+  IconDatabase,
+  IconDate,
+  IconDeliveryBox,
+  IconDesktop,
+  IconDirectory,
+  IconDomain,
+  IconEmail,
+  IconExtension,
+  IconFile,
+  IconForwardAddress,
+  IconKnowledgeHint,
+  IconLeadFyndr,
+  IconMainUser,
+  IconMarketplace,
+  IconMember,
+  IconMittwald,
+  IconMobile,
+  IconMonitoring,
+  IconMove,
+  IconNumber,
+  IconOrder,
+  IconPassword,
+  IconPayment,
+  IconPicture,
+  IconProject,
+  IconRegistry,
+  IconSecurity,
+  IconServer,
+  IconSsh,
+  IconSshKey,
+  IconSshSftp,
+  IconStar,
+  IconStarFilled,
+  IconSubdomain,
+  IconSupport,
+  IconTerminate,
+  IconTicket,
+  IconTime,
+  IconUser,
+  IconVhost,
+  IconVolume,
+  IconPath,
+  Label,
+  LabeledValue,
+  IconDnsZone,
+  IconEmailArchive,
+  IconInvite,
+  IconDnsSubZone,
+} from "@mittwald/flow-react-components";
+
+<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>
+  <LabeledValue>
+    <Label>mittwald</Label>
+    <IconMittwald />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Star</Label>
+    <IconStar />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>StarFilled</Label>
+    <IconStarFilled />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>AI</Label>
+    <IconAI />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Project</Label>
+    <IconProject />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Server</Label>
+    <IconServer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Customer</Label>
+    <IconCustomer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Support</Label>
+    <IconSupport />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Email</Label>
+    <IconEmail />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DeliveryBox</Label>
+    <IconDeliveryBox />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>EmailArchive</Label>
+    <IconEmailArchive />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>App</Label>
+    <IconApp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Domain</Label>
+    <IconDomain />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Vhost</Label>
+    <IconVhost />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Subdomain</Label>
+    <IconSubdomain />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Domainpfad</Label>
+    <IconPath />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Certificate</Label>
+    <IconCertificate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DnsZone</Label>
+    <IconDnsZone />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DnsSubZone</Label>
+    <IconDnsSubZone />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Move</Label>
+    <IconMove />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Directory</Label>
+    <IconDirectory />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>File</Label>
+    <IconFile />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Database</Label>
+    <IconDatabase />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Changelog</Label>
+    <IconChangelog />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Extension</Label>
+    <IconExtension />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Order</Label>
+    <IconOrder />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Monitoring</Label>
+    <IconMonitoring />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Analytics</Label>
+    <IconAnalytics />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Ticket</Label>
+    <IconTicket />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Contributor</Label>
+    <IconContributor />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Payment</Label>
+    <IconPayment />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Contract</Label>
+    <IconContract />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Camera</Label>
+    <IconCamera />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Backup</Label>
+    <IconBackup />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Cronjob</Label>
+    <IconCronjob />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Member</Label>
+    <IconMember />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>User</Label>
+    <IconUser />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Marketplace</Label>
+    <IconMarketplace />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshSftp</Label>
+    <IconSshSftp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>LeadFyndr</Label>
+    <IconLeadFyndr />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Container</Label>
+    <IconContainer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Volume</Label>
+    <IconVolume />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Number</Label>
+    <IconNumber />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Time</Label>
+    <IconTime />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Date</Label>
+    <IconDate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Dashboard</Label>
+    <IconDashboard />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Terminate</Label>
+    <IconTerminate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Security</Label>
+    <IconSecurity />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshKey</Label>
+    <IconSshKey />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ForwardAddress</Label>
+    <IconForwardAddress />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Autoresponder</Label>
+    <IconAutoresponder />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Password</Label>
+    <IconPassword />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Desktop</Label>
+    <IconDesktop />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Mobile</Label>
+    <IconMobile />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Registry</Label>
+    <IconRegistry />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Picture</Label>
+    <IconPicture />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>MainUser</Label>
+    <IconMainUser />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Ssh</Label>
+    <IconSsh />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>KnowledgeHint</Label>
+    <IconKnowledgeHint />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Invite</Label>
+    <IconInvite />
+  </LabeledValue>
+</ColumnLayout>;
+a:T1251,import {
+  ColumnLayout,
+  IconAttachment,
+  IconBackLink,
+  IconCheck,
+  IconCheckboxChecked,
+  IconCheckboxEmpty,
+  IconCheckboxIndeterminate,
+  IconChevronDown,
+  IconChevronLeft,
+  IconChevronRight,
+  IconChevronUp,
+  IconClose,
+  IconCode,
+  IconContextMenu,
+  IconContextMenuVertical,
+  IconCopy,
+  IconDelete,
+  IconDownload,
+  IconEdit,
+  IconExternalLink,
+  IconFilter,
+  IconHide,
+  IconHome,
+  IconLink,
+  IconLogout,
+  IconMaximize,
+  IconMenu,
+  IconMinimize,
+  IconMinus,
+  IconNotification,
+  IconPause,
+  IconPlus,
+  IconRadioOff,
+  IconRadioOn,
+  IconRedo,
+  IconRefresh,
+  IconSave,
+  IconSearch,
+  IconSend,
+  IconSettings,
+  IconShare,
+  IconShow,
+  IconSorting,
+  IconStart,
+  IconUndo,
+  IconUpload,
+  IconView,
+  Label,
+  LabeledValue,
+} from "@mittwald/flow-react-components";
+
+<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>
+  <LabeledValue>
+    <Label>Home</Label>
+    <IconHome />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Notification</Label>
+    <IconNotification />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Logout</Label>
+    <IconLogout />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Search</Label>
+    <IconSearch />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Menu</Label>
+    <IconMenu />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>View</Label>
+    <IconView />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Filter</Label>
+    <IconFilter />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Sorting</Label>
+    <IconSorting />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ContextMenu</Label>
+    <IconContextMenu />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ContextMenuVertical</Label>
+    <IconContextMenuVertical />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Maximize</Label>
+    <IconMaximize />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Minimize</Label>
+    <IconMinimize />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Edit</Label>
+    <IconEdit />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Share</Label>
+    <IconShare />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Save</Label>
+    <IconSave />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Settings</Label>
+    <IconSettings />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Delete</Label>
+    <IconDelete />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Copy</Label>
+    <IconCopy />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Backlink</Label>
+    <IconBackLink />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ExternalLink</Label>
+    <IconExternalLink />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronDown</Label>
+    <IconChevronDown />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronLeft</Label>
+    <IconChevronLeft />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronRight</Label>
+    <IconChevronRight />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronUp</Label>
+    <IconChevronUp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Close</Label>
+    <IconClose />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Show</Label>
+    <IconShow />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Hide</Label>
+    <IconHide />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Plus</Label>
+    <IconPlus />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Minus</Label>
+    <IconMinus />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Code</Label>
+    <IconCode />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxChecked</Label>
+    <IconCheckboxChecked />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxEmpty</Label>
+    <IconCheckboxEmpty />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxIndeterminate</Label>
+    <IconCheckboxIndeterminate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>RadioOff</Label>
+    <IconRadioOff />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>RadioOn</Label>
+    <IconRadioOn />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Refresh</Label>
+    <IconRefresh />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Check</Label>
+    <IconCheck />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Download</Label>
+    <IconDownload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Redo</Label>
+    <IconRedo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Undo</Label>
+    <IconUndo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Upload</Label>
+    <IconUpload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Send</Label>
+    <IconSend />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Attachment</Label>
+    <IconAttachment />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Pause</Label>
+    <IconPause />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Start</Label>
+    <IconStart />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Link</Label>
+    <IconLink />
+  </LabeledValue>
+</ColumnLayout>;
+0:{"buildId":"HQNMTjwYA4J3oQCrIYNl3","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Icon"}],"Icons sind semantische Symbole, die Inhalte und Funktionen visualisieren und zur Verständlichkeit der Benutzeroberfläche beitragen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Icon","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Icon","description":"Icons sind semantische Symbole, die Inhalte und Funktionen visualisieren und zur Verständlichkeit der Benutzeroberfläche beitragen."},"scope":{}},"examples":{"align":"import {\n  Align,\n  IconDomain,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <IconDomain />\n  <Text>mail.agenturserver.de</Text>\n</Align>;\n","decorative":"$9","default":"import { IconHome } from \"@mittwald/flow-react-components\";\n\n<IconHome />;\n","functional":"$a","sizes":"import { IconHome } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","states":"import {\n  ColumnLayout,\n  IconDanger,\n  IconFailed,\n  IconInfo,\n  IconPending,\n  IconSucceeded,\n  IconSuccess,\n  IconWarning,\n  Label,\n  LabeledValue,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>\n  <LabeledValue>\n    <Label>Success</Label>\n    <IconSuccess />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Warning</Label>\n    <IconWarning />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Danger</Label>\n    <IconDanger />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Info</Label>\n    <IconInfo />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Pending</Label>\n    <IconPending />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Succeeded</Label>\n    <IconSucceeded />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Failed</Label>\n    <IconFailed />\n  </LabeledValue>\n</ColumnLayout>;\n","svg":"import { Icon } from \"@mittwald/flow-react-components\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import { Icon } from \"@mittwald/flow-react-components\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"},"slugs":["content","icon"],"filename":"content/icon/index.mdx","anchors":[]}}]]}]}],"$Lb"],["$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+13:Tbfd,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung von Icons darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "das ausgewählte Icon zum jeweiligen Element und Kontext passt. Die Bedeutungen\nvon Icons aus der Bibliothek sollten nicht verändert oder vertauscht werden."
+      }), "\n", _jsx(_components.li, {
+        children: "sie eine unterstützende Rolle einnehmen. Ein Decorative Icon sollte\nbeispielsweise immer im Zusammenhang mit dem Kontext stehen, da es sonst nicht\nverstanden wird."
+      }), "\n", _jsx(_components.li, {
+        children: "sie nicht zu viel eingesetzt werden, um kognitive Überforderung zu vermeiden."
+      }), "\n", _jsxs(_components.li, {
+        children: ["nach Möglichkeit ein Icon aus der Icon-Bibliothek (s. Overview) verwendet\nwird. Nur wenn kein passendes Icon vorhanden ist, sollte ein\n", _jsx(_components.a, {
+          href: "https://tabler.io/icons",
+          children: "Tabler Icon"
+        }), " oder ein eigenes Icon (SVG) genutzt\nwerden."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende Icons, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "visuelle Anker zu schaffen, die das Erfassen von Informationen erleichtern."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Interaktionen verständlicher zu machen. Beispiel: Im\n", _jsx(_components.a, {
+          href: "/03-components/form-controls/search-field/overview",
+          children: "SearchField"
+        }), " hilft das Lupen-Icon\ndabei, die Suchfunktion intuitiv zu erfassen."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Oberflächen zu gestalten. Die visuelle Wirkung von Icons zeigt sich z. B.\nbesonders in Components wie ", _jsx(_components.a, {
+          href: "/03-components/structure/accent-box/overview",
+          children: "AccentBox"
+        }), "\noder ", _jsx(_components.a, {
+          href: "/03-components/content/illustrated-message/overview",
+          children: "IllustratedMessage"
+        }), "."]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+14:T17b4,import {
+  ColumnLayout,
+  IconAI,
+  IconAnalytics,
+  IconApp,
+  IconAutoresponder,
+  IconBackup,
+  IconCamera,
+  IconCertificate,
+  IconChangelog,
+  IconContainer,
+  IconContract,
+  IconContributor,
+  IconCronjob,
+  IconCustomer,
+  IconDashboard,
+  IconDatabase,
+  IconDate,
+  IconDeliveryBox,
+  IconDesktop,
+  IconDirectory,
+  IconDomain,
+  IconEmail,
+  IconExtension,
+  IconFile,
+  IconForwardAddress,
+  IconKnowledgeHint,
+  IconLeadFyndr,
+  IconMainUser,
+  IconMarketplace,
+  IconMember,
+  IconMittwald,
+  IconMobile,
+  IconMonitoring,
+  IconMove,
+  IconNumber,
+  IconOrder,
+  IconPassword,
+  IconPayment,
+  IconPicture,
+  IconProject,
+  IconRegistry,
+  IconSecurity,
+  IconServer,
+  IconSsh,
+  IconSshKey,
+  IconSshSftp,
+  IconStar,
+  IconStarFilled,
+  IconSubdomain,
+  IconSupport,
+  IconTerminate,
+  IconTicket,
+  IconTime,
+  IconUser,
+  IconVhost,
+  IconVolume,
+  IconPath,
+  Label,
+  LabeledValue,
+  IconDnsZone,
+  IconEmailArchive,
+  IconInvite,
+  IconDnsSubZone,
+} from "@mittwald/flow-react-components";
+
+<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>
+  <LabeledValue>
+    <Label>mittwald</Label>
+    <IconMittwald />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Star</Label>
+    <IconStar />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>StarFilled</Label>
+    <IconStarFilled />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>AI</Label>
+    <IconAI />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Project</Label>
+    <IconProject />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Server</Label>
+    <IconServer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Customer</Label>
+    <IconCustomer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Support</Label>
+    <IconSupport />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Email</Label>
+    <IconEmail />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DeliveryBox</Label>
+    <IconDeliveryBox />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>EmailArchive</Label>
+    <IconEmailArchive />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>App</Label>
+    <IconApp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Domain</Label>
+    <IconDomain />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Vhost</Label>
+    <IconVhost />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Subdomain</Label>
+    <IconSubdomain />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Domainpfad</Label>
+    <IconPath />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Certificate</Label>
+    <IconCertificate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DnsZone</Label>
+    <IconDnsZone />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>DnsSubZone</Label>
+    <IconDnsSubZone />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Move</Label>
+    <IconMove />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Directory</Label>
+    <IconDirectory />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>File</Label>
+    <IconFile />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Database</Label>
+    <IconDatabase />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Changelog</Label>
+    <IconChangelog />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Extension</Label>
+    <IconExtension />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Order</Label>
+    <IconOrder />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Monitoring</Label>
+    <IconMonitoring />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Analytics</Label>
+    <IconAnalytics />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Ticket</Label>
+    <IconTicket />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Contributor</Label>
+    <IconContributor />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Payment</Label>
+    <IconPayment />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Contract</Label>
+    <IconContract />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Camera</Label>
+    <IconCamera />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Backup</Label>
+    <IconBackup />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Cronjob</Label>
+    <IconCronjob />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Member</Label>
+    <IconMember />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>User</Label>
+    <IconUser />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Marketplace</Label>
+    <IconMarketplace />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshSftp</Label>
+    <IconSshSftp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>LeadFyndr</Label>
+    <IconLeadFyndr />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Container</Label>
+    <IconContainer />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Volume</Label>
+    <IconVolume />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Number</Label>
+    <IconNumber />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Time</Label>
+    <IconTime />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Date</Label>
+    <IconDate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Dashboard</Label>
+    <IconDashboard />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Terminate</Label>
+    <IconTerminate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Security</Label>
+    <IconSecurity />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>SshKey</Label>
+    <IconSshKey />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ForwardAddress</Label>
+    <IconForwardAddress />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Autoresponder</Label>
+    <IconAutoresponder />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Password</Label>
+    <IconPassword />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Desktop</Label>
+    <IconDesktop />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Mobile</Label>
+    <IconMobile />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Registry</Label>
+    <IconRegistry />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Picture</Label>
+    <IconPicture />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>MainUser</Label>
+    <IconMainUser />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Ssh</Label>
+    <IconSsh />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>KnowledgeHint</Label>
+    <IconKnowledgeHint />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Invite</Label>
+    <IconInvite />
+  </LabeledValue>
+</ColumnLayout>;
+15:T1251,import {
+  ColumnLayout,
+  IconAttachment,
+  IconBackLink,
+  IconCheck,
+  IconCheckboxChecked,
+  IconCheckboxEmpty,
+  IconCheckboxIndeterminate,
+  IconChevronDown,
+  IconChevronLeft,
+  IconChevronRight,
+  IconChevronUp,
+  IconClose,
+  IconCode,
+  IconContextMenu,
+  IconContextMenuVertical,
+  IconCopy,
+  IconDelete,
+  IconDownload,
+  IconEdit,
+  IconExternalLink,
+  IconFilter,
+  IconHide,
+  IconHome,
+  IconLink,
+  IconLogout,
+  IconMaximize,
+  IconMenu,
+  IconMinimize,
+  IconMinus,
+  IconNotification,
+  IconPause,
+  IconPlus,
+  IconRadioOff,
+  IconRadioOn,
+  IconRedo,
+  IconRefresh,
+  IconSave,
+  IconSearch,
+  IconSend,
+  IconSettings,
+  IconShare,
+  IconShow,
+  IconSorting,
+  IconStart,
+  IconUndo,
+  IconUpload,
+  IconView,
+  Label,
+  LabeledValue,
+} from "@mittwald/flow-react-components";
+
+<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>
+  <LabeledValue>
+    <Label>Home</Label>
+    <IconHome />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Notification</Label>
+    <IconNotification />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Logout</Label>
+    <IconLogout />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Search</Label>
+    <IconSearch />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Menu</Label>
+    <IconMenu />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>View</Label>
+    <IconView />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Filter</Label>
+    <IconFilter />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Sorting</Label>
+    <IconSorting />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ContextMenu</Label>
+    <IconContextMenu />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ContextMenuVertical</Label>
+    <IconContextMenuVertical />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Maximize</Label>
+    <IconMaximize />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Minimize</Label>
+    <IconMinimize />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Edit</Label>
+    <IconEdit />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Share</Label>
+    <IconShare />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Save</Label>
+    <IconSave />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Settings</Label>
+    <IconSettings />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Delete</Label>
+    <IconDelete />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Copy</Label>
+    <IconCopy />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Backlink</Label>
+    <IconBackLink />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ExternalLink</Label>
+    <IconExternalLink />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronDown</Label>
+    <IconChevronDown />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronLeft</Label>
+    <IconChevronLeft />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronRight</Label>
+    <IconChevronRight />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>ChevronUp</Label>
+    <IconChevronUp />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Close</Label>
+    <IconClose />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Show</Label>
+    <IconShow />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Hide</Label>
+    <IconHide />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Plus</Label>
+    <IconPlus />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Minus</Label>
+    <IconMinus />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Code</Label>
+    <IconCode />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxChecked</Label>
+    <IconCheckboxChecked />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxEmpty</Label>
+    <IconCheckboxEmpty />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>CheckboxIndeterminate</Label>
+    <IconCheckboxIndeterminate />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>RadioOff</Label>
+    <IconRadioOff />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>RadioOn</Label>
+    <IconRadioOn />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Refresh</Label>
+    <IconRefresh />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Check</Label>
+    <IconCheck />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Download</Label>
+    <IconDownload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Redo</Label>
+    <IconRedo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Undo</Label>
+    <IconUndo />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Upload</Label>
+    <IconUpload />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Send</Label>
+    <IconSend />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Attachment</Label>
+    <IconAttachment />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Pause</Label>
+    <IconPause />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Start</Label>
+    <IconStart />
+  </LabeledValue>
+  <LabeledValue>
+    <Label>Link</Label>
+    <IconLink />
+  </LabeledValue>
+</ColumnLayout>;
+b:["$","$Lf",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lf",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L10",null,{"selectedKey":"guidelines","children":[["$","$L11",null,{"id":"overview","children":[["$","$L12",null,{"href":"/03-components/content/icon/overview","children":"Overview"}],false]}],["$","$L11",null,{"id":"develop","children":[["$","$L12",null,{"href":"/03-components/content/icon/develop","children":"Develop"}],false]}],["$","$L11",null,{"id":"guidelines","children":[["$","$L12",null,{"href":"/03-components/content/icon/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$13","frontmatter":{},"scope":{}},"examples":{"align":"import {\n  Align,\n  IconDomain,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <IconDomain />\n  <Text>mail.agenturserver.de</Text>\n</Align>;\n","decorative":"$14","default":"import { IconHome } from \"@mittwald/flow-react-components\";\n\n<IconHome />;\n","functional":"$15","sizes":"import { IconHome } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <IconHome size=\"s\" />\n  <IconHome size=\"m\" />\n  <IconHome size=\"l\" />\n</Row>;\n","states":"import {\n  ColumnLayout,\n  IconDanger,\n  IconFailed,\n  IconInfo,\n  IconPending,\n  IconSucceeded,\n  IconSuccess,\n  IconWarning,\n  Label,\n  LabeledValue,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout l={[1, 1, 1, 1, 1]} m={[1, 1, 1]} s={[1, 1]}>\n  <LabeledValue>\n    <Label>Success</Label>\n    <IconSuccess />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Warning</Label>\n    <IconWarning />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Danger</Label>\n    <IconDanger />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Info</Label>\n    <IconInfo />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Pending</Label>\n    <IconPending />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Succeeded</Label>\n    <IconSucceeded />\n  </LabeledValue>\n  <LabeledValue>\n    <Label>Failed</Label>\n    <IconFailed />\n  </LabeledValue>\n</ColumnLayout>;\n","svg":"import { Icon } from \"@mittwald/flow-react-components\";\n\n<Icon>\n  <svg\n    viewBox=\"0 0 100 100\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n  >\n    <circle cx=\"50\" cy=\"50\" r=\"50\" />\n  </svg>\n</Icon>;\n","tabler":"import { Icon } from \"@mittwald/flow-react-components\";\nimport { IconStar } from \"@tabler/icons-react\";\n\n<Icon>\n  <IconStar />\n</Icon>;\n"},"slugs":["content","icon"],"filename":"content/icon/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$L16"]}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2225/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+d:["$","script","script-1",{"src":"/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js","async":true}]
+e:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+16:["$","$L1a",null,{"currentPath":"/03-components/content/icon/guidelines","anchors":"$b:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+19:null

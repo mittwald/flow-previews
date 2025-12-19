@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2225/merge/_next/static/chunks/478452cce494a4e7.js","/flow-previews/docs/2225/merge/_next/static/chunks/85f776c0e1b5f608.js","/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js"],"default"]
+a:I[990002,["/flow-previews/docs/2225/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2225/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+7:T3106,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {Do, DoAndDont, Dont} = _components;
+  if (!Do) _missingMdxReference("Do", true);
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Dont) _missingMdxReference("Dont", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Wie wir sprechen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Technisch aber einfach verständlich"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir überzeugen mit Inhalten, nicht mit langen und verschachtelten Erklärungen.\nKurze Sätze, einfacher Satzbau – so bleiben wir jederzeit übersichtlich und\nverständlich."
+    }), "\n", _jsx(_components.h2, {
+      children: "Auf Augenhöhe"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir drücken uns technisch aber verständlich aus – genau mit der technischen\nTiefe, die dem User weiterhilft."
+    }), "\n", _jsx(_components.h2, {
+      children: "Aktiv"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir machen Technologie zugänglich. Das bietet keinen Raum für Passivität. Dafür\nkommunizieren wir aktiv und suchen proaktiv nach den besten Lösungen. So\ngenerieren wir das beste Nutzungserlebnis."
+    }), "\n", _jsx(_components.h2, {
+      children: "Konsistent"
+    }), "\n", _jsx(_components.p, {
+      children: "Kunde oder User? Buchen oder installieren? Ist alles geregelt. Deshalb quäle\ndich nicht mit solchen Fragen, sondern verwende die allgemeinen Schreibweisen\ndes Unternehmens. So generieren wir für unsere User immer und überall das\ngleiche Erlebnis."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Leitlinien"
+    }), "\n", _jsx(_components.h2, {
+      children: "Aktive Sprache"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir agieren aktiv. Das zeigen wir auch in unserer Sprache. Deshalb verzichten\nwir auf passive Satzkonstruktionen."
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        children: "Paula hat den Grill angeschmissen."
+      }), _jsx(Dont, {
+        children: "Der Grill wurde von Paula angeschmissen."
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Sie, Du oder Ihr"
+    }), "\n", _jsx(_components.p, {
+      children: "Respekt braucht kein „Sie“. Wir reden User genauso an, wie Kolleg*innen: mit\neinem freundlichen „Du“. Unsere User reden wir persönlich an, also im Singular.\nIn Mailings und Tickets werden Du, Dein, Deiner, usw. immer großgeschrieben."
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        children: "Du weißt, mittwald hat das beste Hosting für Agenturen."
+      }), _jsx(Dont, {
+        children: "Ihr wisst, mittwald hat das beste Hosting für Agenturen."
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Bindestrich: Wörter koppeln"
+    }), "\n", _jsx(_components.p, {
+      children: "Zweisprachige Wortkombinationen werden mit einem Bindestrich gekoppelt.\nEnglische Begriffe werden nicht gekoppelt, deutsche Kombinationen werden\nzusammengeschrieben."
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Do, {
+        children: "Ein Tarif-Upgrade kommt selten allein. Erst recht im Cloud Hosting."
+      }), _jsx(Dont, {
+        children: _jsx(_components.p, {
+          children: "Ein Tarif Upgrade allein macht noch keinen Sommer. Auch nicht im\nCloud-Hosting."
+        })
+      })]
+    }), "\n", _jsx(_components.p, {
+      children: "Egal ob mittwald Hosting oder mStudio Login – die Regel ist immer die gleiche:\nmittwald und Produktnamen werden niemals mit einem Bindestrich an ein anderes\nWort gekoppelt."
+    }), "\n", _jsx(_components.p, {
+      children: "Generell gilt: Im Zweifel für die Lesbarkeit. Macht die korrekte Schreibweise\nProbleme (sieht schlecht aus, Umbruch, usw.), missachten wir die Regeln. Das\nsollte aber nur die Ausnahme sein."
+    }), "\n", _jsx(_components.h2, {
+      children: "Gendern"
+    }), "\n", _jsx(_components.p, {
+      children: "mittwald lebt Gleichberechtigung. Um kurz und prägnant formulieren zu können,\ngendern wir jedoch nur dort, wo es Sinn macht, z. B. in Stellenanzeigen."
+    }), "\n", _jsx(_components.p, {
+      children: "An Orten mit wenig Platz, etwa im mStudio oder auf Social Media, verwenden wir\ndie meist verwendete Schreibweise."
+    }), "\n", _jsx(_components.h2, {
+      children: "KEIN! GRUND! ZU! SCHREIEN!!!"
+    }), "\n", _jsx(_components.p, {
+      children: "Was wir tun ist spannend genug. Da braucht es keine Versalien und\nAusrufezeichen. Wie immer gilt auch hier: Ausnahmen bestätigen die Regel. Danke\nfürs Lesen!"
+    }), "\n", _jsx(_components.h2, {
+      children: "Klare Gliederung"
+    }), "\n", _jsx(_components.p, {
+      children: "Dein Text sollte durch Absätze gegliedert sein. Im besten Fall sind diese nicht\nlänger als 5 Zeilen. Auch Nummerierungen oder Bulletpoints helfen den Lesern,\ndeinem Text besser zu folgen und Wichtiges schneller wahrzunehmen."
+    }), "\n", _jsx(_components.h2, {
+      children: "Kurze Sätze"
+    }), "\n", _jsx(_components.p, {
+      children: "Fass dich kurz. Um Technisches einfach zu formulieren, helfen kurze Sätze.\nFaustregel: Satzlänge maximal 1,5 Zeilen. 1 Subjekt pro Satz."
+    }), "\n", _jsx(_components.h2, {
+      children: "mittwald, mStudio und proSpace werden IMMER kleingeschrieben"
+    }), "\n", _jsx(_components.p, {
+      children: "... auch am Satzanfang."
+    }), "\n", _jsx(_components.h2, {
+      children: "Wichtige Aspekte hervorheben"
+    }), "\n", _jsx(_components.p, {
+      children: "Fette zentrale Begriffe, um Wichtiges in den Vordergrund zu stellen. Beschränke\ndich dabei auf einzelne Wörter. Ganze Sätze (oder gar Absätze) werden nicht\ngefettet."
+    }), "\n", _jsx(_components.h2, {
+      children: "Zahlen"
+    }), "\n", _jsx(_components.p, {
+      children: "Um die Lesbarkeit zu steigern, schreiben wir alle Zahlen als Ziffern, auch von 0\nbis 12."
+    }), "\n", _jsx(_components.h2, {
+      children: "Konsistente Begriffe für Entfernen, Löschen und Kündigen"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir wählen Begriffe, die sich logisch an der jeweiligen Aktion orientieren: "
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Was ", _jsx(_components.strong, {
+          children: "installiert"
+        }), " wird, kann ", _jsx(_components.strong, {
+          children: "deinstalliert"
+        }), " werden. "]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Was ", _jsx(_components.strong, {
+          children: "eingeladen"
+        }), " wird, kann ", _jsx(_components.strong, {
+          children: "ausgeladen"
+        }), " werden. "]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Was ", _jsx(_components.strong, {
+          children: "gebucht"
+        }), " wird, kann ", _jsx(_components.strong, {
+          children: "gekündigt"
+        }), " werden."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Speicherplatzangaben in binären Einheiten"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir geben Speichergrößen bewusst in binären Einheiten wie KiB, MiB oder GiB an.\nDiese folgen dem binären System, z. B. 1 GiB = 1.073.741.824 Bytes = 1024³\nBytes. Dadurch stellen wir technische Genauigkeit sicher und vermeiden\nVerwirrung durch uneinheitliche Umrechnungen, wie sie bei dezimalen Angaben\n(z. B. KB, MB, GB) häufig auftreten."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Glossar"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Anlegen:"
+        }), " Hinzufügen von Objekten ohne Vertragsposition, die von Grund auf\nvon den Usern erstellt werden müssen."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Artikel:"
+        }), " Alle kostenpflichtigen Produkte, z. B. Domains, die hinzugebucht\nwerden."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Bestellen:"
+        }), " Beschreibt das kostenpflichtige Bestellen eines Artikels,\nProjektes oder Servers. Wird auch als hinzufügen / anlegen / kaufen /\nKaufprozess starten / usw. beschrieben, jeweils ergänzt durch das zu\nbestellende Objekt (Beispiel: Domain bestellen)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Installieren:"
+        }), " Siehe anlegen, nur speziell für den Bereich Software (Apps,\nSystemsoftware)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Kündigen:"
+        }), " Elemente, die an einer vertraglichen Verbindlichkeit hängen,\nmüssen gekündigt werden (Ausnahme: Domains)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Löschen:"
+        }), " Elemente, die nicht an einer vertraglichen Verbindlichkeit\nhängen, werden gelöscht (Ausnahme: Domains)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "User:"
+        }), " Wir reden im mStudio immer vom User oder der Organisation. Den\nBegriff „Kunde“ verwenden wir nicht."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Organisation:"
+        }), " In der Organisation werden alle wichtigen\nZahlungsinformationen sowie Vertragspartnerdaten hinterlegt. Server und\nEinzelprojekte sind immer einer Organisation zugeordnet."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Projekt:"
+        }), " Das Projekt beinhaltet alle Komponenten zum Betreiben eines\nWebprojektes. Bspw. Apps, Domains, Datenbanken, E-Mail-Postfächer etc."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Ressourcen:"
+        }), " Beschreibt die Kombination aus vCPU/RAM (Flavour) und\nSpeicherplatz."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Server:"
+        }), " Ein Server ist einer Organisation zugeordnet und dient zur\nVerwaltung des Speicherplatzes und der Ressourcen. Auf einem Server können,\nsolange die technischen Limits nicht überschritten werden, unbegrenzt viele\nProjekte angelegt werden."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Ticket:"
+        }), " Schriftliche Anfrage eines Users."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Übersicht:"
+        }), " Eine Liste beliebiger Objekte (z. B. Artikel, Domains,\nProjekte, E-Mail-Adressen, Apps, ...)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "USt. (Umsatzsteuer):"
+        }), " Unsere Preise werden standardmäßig mit dem Hinweis\n„zzgl. USt.“ angegeben."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Vertragspartner:"
+        }), " Eine natürliche oder juristische Person, die mit uns\neinen Vertrag abgeschlossen hat (es gibt nicht zwangsläufig einen User, der\nmit dieser Person übereinstimmt)."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Zahlungsart:"
+        }), " Auswahl der Optionen, wie Produkte bezahlt werden können."]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"HQNMTjwYA4J3oQCrIYNl3","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Sprach-Guide"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Erfahre, was unsere Sprache auszeichnet und an welchen Leitlinien du dich bei\\ndeinen Texten orientieren kannst. Außerdem erklärt unser Glossar alle Begriffe,\\nauf die du im mStudio Kontext treffen kannst.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Sprach-Guide"},"scope":{}},"examples":{},"slugs":["03-content-guidelines","01-sprach-guide"],"filename":"03-content-guidelines/01-sprach-guide/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{},"scope":{}},"examples":{},"slugs":["03-content-guidelines","01-sprach-guide"],"filename":"03-content-guidelines/01-sprach-guide/overview.mdx","anchors":["Wie wir sprechen","Leitlinien","Glossar"]}}]}]],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+8:["$","script","script-0",{"src":"/flow-previews/docs/2225/merge/_next/static/chunks/9817751bee80bb5b.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null
