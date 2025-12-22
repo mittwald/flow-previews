@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"default"]
+9:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"TabTitle"]
+12:I[142373,["/flow-previews/docs/2227/merge/_next/static/chunks/e0f198b120b3af01.js","/flow-previews/docs/2227/merge/_next/static/chunks/14dd37500e156a82.js","/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js"],"default"]
+13:I[990002,["/flow-previews/docs/2227/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2227/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+d:Tafe,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung der Image-Component darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "die eingebundenen Bilder die Benutzeroberfläche sinnvoll ergänzen, indem sie\nzum Kontext und der allgemeinen Gestaltung passen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Inhalt oder Zweck des Bildes mittels aussagekräftigem ", _jsx(_components.code, {
+          children: "alt"
+        }), "-Text beschrieben\nwird. Rein dekorative Bilder bekommen ein leeres ", _jsx(_components.code, {
+          children: "alt"
+        }), "-Attribut (", _jsx(_components.code, {
+          children: "alt=\"\""
+        }), ")."]
+      }), "\n", _jsx(_components.li, {
+        children: "die Größenverhältnisse optimiert sind, um Ladezeiten und Performance zu\nverbessern."
+      }), "\n", _jsx(_components.li, {
+        children: "Auflösung und Seitenverhältnis der gewählten Bilder angenehm und konsistent\nsind."
+      }), "\n", _jsx(_components.li, {
+        children: "bei mangelndem Kontrast zum Hintergrund die Image-Component eine sichtbare\nBorder erhält."
+      }), "\n", _jsx(_components.li, {
+        children: "nach Möglichkeit kein Text im Bild verwendet wird, da dieser von Screenreadern\nnicht erfasst werden kann."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende die Image-Component, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "dekorative Bilder anzuzeigen, die die Benutzeroberfläche visuell aufwerten und\npositive Emotionen bei den Usern auslösen können."
+      }), "\n", _jsx(_components.li, {
+        children: "hilfreiche Bilder anzuzeigen, die den Kontext so unterstützen, dass Inhalte\nschneller erfasst und besser verstanden werden."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"Q9FzOfzxwAPoyfyHO8zX1","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Image"}],"Mit der Image-Component lassen sich Bilder in der Benutzeroberfläche einbinden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Image","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Image","description":"Mit der Image-Component lassen sich Bilder in der Benutzeroberfläche einbinden."},"scope":{}},"examples":{"aspectRatio":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n  aspectRatio={16 / 9}\n  withBorder\n/>;\n","border":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n  withBorder\n/>;\n","default":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n/>;\n"},"slugs":["content","image"],"filename":"content/image/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/content/image/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/content/image/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/content/image/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"aspectRatio":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n  aspectRatio={16 / 9}\n  withBorder\n/>;\n","border":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n  withBorder\n/>;\n","default":"import { Image } from \"@mittwald/flow-react-components\";\n\n<Image\n  src=\"https://mittwald.github.io/flow/assets/mittwald_logo_rgb.jpg\"\n  alt=\"mittwald\"\n  width={200}\n/>;\n"},"slugs":["content","image"],"filename":"content/image/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$Le"]}]],["$Lf","$L10"],"$L11"]}],"loading":null,"isPartial":false}
+e:["$","$L12",null,{"currentPath":"/03-components/content/image/guidelines","anchors":["Grundlagen"],"title":"Guidelines"}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2227/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+10:["$","script","script-1",{"src":"/flow-previews/docs/2227/merge/_next/static/chunks/e2c36f4fed4ce911.js","async":true}]
+11:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
