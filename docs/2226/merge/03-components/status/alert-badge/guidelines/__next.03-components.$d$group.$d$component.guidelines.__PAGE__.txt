@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"default"]
+9:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"TabTitle"]
+12:I[142373,["/flow-previews/docs/2226/merge/_next/static/chunks/6d4e6a889d8dcab2.js","/flow-previews/docs/2226/merge/_next/static/chunks/456abad2aaa4e1f3.js","/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js"],"default"]
+13:I[990002,["/flow-previews/docs/2226/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2226/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+d:T1071,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Plain} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein AlertBadge ist eine erweiterte Form der\n", _jsx(_components.a, {
+        href: "/03-components/status/badge/overview",
+        children: "Badge"
+      }), ", die für kritische Hinweise und dringende\nInformationen eingesetzt wird. Es unterscheidet sich durch den Einsatz eines\nIcons und eine auffällige Farbgebung."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer AlertBadge darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "die Beschriftung kurz und prägnant ist (idealerweise in 1–3 Wörtern)."
+      }), "\n", _jsx(_components.li, {
+        children: "der richtige Status verwendet wird (Info, Success, Warning, Danger)."
+      }), "\n", _jsxs(_components.li, {
+        children: ["es nur eingesetzt wird, wenn der Hinweis kritisch oder besonders\naufmerksamkeitsstark ist – andernfalls genügt ein\n", _jsx(_components.a, {
+          href: "/03-components/status/badge/overview",
+          children: "Badge"
+        }), "."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["nach einem AlertBadge immer weitere Informationen durch einen\n", _jsx(_components.a, {
+          href: "/03-components/status/alert/overview",
+          children: "Alert"
+        }), " folgen."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende ein AlertBadge, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "relevante Hinweise darzustellen – Info (z. B. Kündigung vorgemerkt, Update\nverfügbar)."
+      }), "\n", _jsx(_components.li, {
+        children: "dringende Benutzeraktionen hervorzuheben – Warning (z. B. Zahlung\nerforderlich, Domain unverifiziert)."
+      }), "\n", _jsx(_components.li, {
+        children: "kritische Systemzustände zu markieren – Danger (z. B. Zugriff verweigert)."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "AlertBadge vs. Badge"
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende ein AlertBadge, wenn z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "der Hinweis kritisch, sicherheitsrelevant oder besonders wichtig ist."
+          }), "\n", _jsx(_components.li, {
+            children: "weitere Informationen durch einen Alert notwendig sind."
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende ein Badge, wenn z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "Metadaten oder ergänzende Informationen dargestellt werden sollen."
+          }), "\n", _jsx(_components.li, {
+            children: "keine sofortige Aktion oder erhöhte Aufmerksamkeit notwendig ist."
+          }), "\n"]
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"IHTwyVhmHC3_bUwxV_9NO","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"AlertBadge"}],"Ein AlertBadge hebt Statusmeldungen hervor, die besondere Aufmerksamkeit erfordern.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/AlertBadge","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"AlertBadge","description":"Ein AlertBadge hebt Statusmeldungen hervor, die besondere Aufmerksamkeit erfordern."},"scope":{}},"examples":{"default":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<AlertBadge>Archiviert</AlertBadge>;\n","status":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <AlertBadge status=\"info\">Archiviert</AlertBadge>\n  <AlertBadge status=\"success\">\n    Update erfolgreich\n  </AlertBadge>\n  <AlertBadge status=\"warning\">\n    Speicher fast voll\n  </AlertBadge>\n  <AlertBadge status=\"danger\">Speicher voll</AlertBadge>\n</Row>;\n"},"slugs":["status","alert-badge"],"filename":"status/alert-badge/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/status/alert-badge/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/status/alert-badge/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/status/alert-badge/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"default":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<AlertBadge>Archiviert</AlertBadge>;\n","status":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <AlertBadge status=\"info\">Archiviert</AlertBadge>\n  <AlertBadge status=\"success\">\n    Update erfolgreich\n  </AlertBadge>\n  <AlertBadge status=\"warning\">\n    Speicher fast voll\n  </AlertBadge>\n  <AlertBadge status=\"danger\">Speicher voll</AlertBadge>\n</Row>;\n"},"slugs":["status","alert-badge"],"filename":"status/alert-badge/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]}]}],"$Le"]}]],["$Lf","$L10"],"$L11"]}],"loading":null,"isPartial":false}
+e:["$","$L12",null,{"currentPath":"/03-components/status/alert-badge/guidelines","anchors":["Grundlagen"],"title":"Guidelines"}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2226/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+10:["$","script","script-1",{"src":"/flow-previews/docs/2226/merge/_next/static/chunks/567aafa318b558ba.js","async":true}]
+11:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
