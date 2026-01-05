@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"default"]
+9:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"TabTitle"]
+13:I[142373,["/flow-previews/docs/2230/merge/_next/static/chunks/a35a6c90180bd33c.js","/flow-previews/docs/2230/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js"],"default"]
+14:I[990002,["/flow-previews/docs/2230/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2230/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+d:T40f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    h1: "h1",
+    ..._provideComponents(),
+    ...props.components
+  }, {PropertiesTables} = _components;
+  if (!PropertiesTables) _missingMdxReference("PropertiesTables", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Properties"
+    }), "\n", _jsx(PropertiesTables, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"ZPCJcr20oD9npV351xmDg","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"CounterBadge"}],"Ein CounterBadge dient dazu, dem User schnell und kompakt auf neue oder ungelesene Inhalte hinzuweisen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/CounterBadge","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"CounterBadge","description":"Ein CounterBadge dient dazu, dem User schnell und kompakt auf neue oder ungelesene Inhalte hinzuweisen."},"scope":{}},"examples":{"default":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge count={5} />;\n","high-number":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge count={120} />;\n","with-button":"import {\n  Button,\n  CounterBadge,\n  IconNotification,\n} from \"@mittwald/flow-react-components\";\n\n<Button aria-label=\"Benachrichtigungen: 7\">\n  <IconNotification />\n  <CounterBadge count={7} />\n</Button>;\n","without-content":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge />;\n"},"slugs":["status","counter-badge"],"filename":"status/counter-badge/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"develop","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/status/counter-badge/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/status/counter-badge/develop","children":"Develop"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"default":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge count={5} />;\n","high-number":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge count={120} />;\n","with-button":"import {\n  Button,\n  CounterBadge,\n  IconNotification,\n} from \"@mittwald/flow-react-components\";\n\n<Button aria-label=\"Benachrichtigungen: 7\">\n  <IconNotification />\n  <CounterBadge count={7} />\n</Button>;\n","without-content":"import { CounterBadge } from \"@mittwald/flow-react-components\";\n\n<CounterBadge />;\n"},"slugs":["status","counter-badge"],"filename":"status/counter-badge/develop.mdx","anchors":["Properties"]}}]}]]}],"$Le"]}]}]}],"$Lf"]}]],["$L10","$L11"],"$L12"]}],"loading":null,"isPartial":false}
+e:["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/status/counter-badge/guidelines","children":"Guidelines"}],false]}]
+f:["$","$L13",null,{"currentPath":"/03-components/status/counter-badge/develop","anchors":["Properties"],"title":"Develop"}]
+10:["$","script","script-0",{"src":"/flow-previews/docs/2230/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+11:["$","script","script-1",{"src":"/flow-previews/docs/2230/merge/_next/static/chunks/42b3e1bc3a70b771.js","async":true}]
+12:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null
