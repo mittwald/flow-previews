@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js"],"default"]
+2:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2234/merge/_next/static/chunks/51863772cebf34e0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js"],"default"]
 b:I[990002,["/flow-previews/docs/2234/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2234/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
 7:T487,"use strict";
@@ -34,13 +34,14 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-8:T11ee,"use strict";
+8:T177e,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = {
+    a: "a",
     h1: "h1",
-    h3: "h3",
+    h2: "h2",
     hr: "hr",
     p: "p",
     ..._provideComponents(),
@@ -49,40 +50,77 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h1, {
       children: "Allgemein"
-    }), "\n", _jsx(_components.p, {
-      children: "Fehlermeldungen sollten immer verständlich formuliert sein und auf technische Fachbegriffe verzichten. Sie beschreiben das Problem aus Sicht des Users und nicht aus Sicht des Systems mehr dazu findest du in der Guideline Fehlermeldung."
-    }), "\n", _jsx(_components.p, {
-      children: "Wir unterscheiden Fehler in zwei Arten:"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Fehlermeldungen sollten immer verständlich formuliert sein und auf technische Fachbegriffe verzichten. Sie beschreiben das Problem aus Sicht des Users und nicht aus Sicht des Systems mehr dazu findest du in der Guideline ", _jsx(_components.a, {
+        href: "/02-foundations/03-content-guidelines/03-fehlermeldungen",
+        children: "Fehlermeldung"
+      }), "."]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Fehler beim Laden von Inhalten"
     }), "\n", _jsx(_components.p, {
       children: "Beim Laden von Inhalten können Fehler auftreten, zum Beispiel wenn ein Service nicht erreichbar ist, ein Timeout entsteht oder ein technischer Fehler vorliegt. In diesen Fällen sollte der Ladezustand beendet werden, damit User sehen, dass ein Fehler passiert ist und nicht weiter warten."
-    }), "\n", _jsx(_components.p, {
-      children: "Die Fehlermeldung sollte immer dort erscheinen, wo der erwartete Inhalt wäre. Für größere Bereiche wie LayoutCards oder Sections eignet sich eine IllustratedMessage mit dem Status Danger. Sie signalisiert deutlich, dass der Inhalt aktuell nicht verfügbar ist, und bietet idealerweise eine Handlung an, zum Beispiel einen Button mit erneut laden."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Fehlermeldung sollte immer dort erscheinen, wo der erwartete Inhalt wäre. Für größere Bereiche wie ", _jsx(_components.a, {
+        href: "/03-components/structure/layout-card/overview",
+        children: "LayoutCards"
+      }), " oder ", _jsx(_components.a, {
+        href: "/03-components/structure/section/overview",
+        children: "Sections"
+      }), " eignet sich eine ", _jsx(_components.a, {
+        href: "/03-components/content/illustrated-message/overview",
+        children: "IllustratedMessage"
+      }), " mit dem Status Danger. Sie signalisiert deutlich, dass der Inhalt aktuell nicht verfügbar ist, und bietet idealerweise eine Handlung an, zum Beispiel einen Button mit erneut laden."]
     }), "\n", _jsx(_components.p, {
       children: "[Example IllstratedMessage]"
-    }), "\n", _jsx(_components.p, {
-      children: "Für kleinere, abgegrenzte UI Elemente wie Tabellen- oder Listenzeilen sollte ein InlineAlert verwendet werden. So bleibt der Kontext erhalten und der Fehler wirkt sich nicht auf die ganze Tabelle oder Liste aus."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Für kleinere, abgegrenzte UI Elemente wie Tabellen- oder Listenzeilen sollte ein ", _jsx(_components.a, {
+        href: "LINK",
+        children: "InlineAlert"
+      }), " verwendet werden. So bleibt der Kontext erhalten und der Fehler wirkt sich nicht auf die ganze ", _jsx(_components.a, {
+        href: "/03-components/structure/table/overview",
+        children: "Table"
+      }), " oder ", _jsx(_components.a, {
+        href: "/03-components/structure/list/overview",
+        children: "List"
+      }), " aus."]
     }), "\n", _jsx(_components.p, {
       children: "[Example InlineAlert]"
-    }), "\n", _jsx(_components.p, {
-      children: "Um Errors auf kleine Breiche zu begrenzen nutzen wir im  mStudio Loading und Error Boundaries. Diese kapseln technische Fehler ab und sorgen für konsistentes Feedback. Details dazu sind in der Guideline zu Boundaries (Internal) beschrieben."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Um Errors auf kleine Breiche zu begrenzen nutzen wir im  mStudio Loading und Error Boundaries. Diese kapseln technische Fehler ab und sorgen für konsistentes Feedback. Details dazu sind in der Guideline zu ", _jsx(_components.a, {
+        href: "/02-foundations/04-internal/01-boundaries",
+        children: "Boundaries (Internal)"
+      }), " beschrieben."]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Fehler beim Durchführen von Aktionen"
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsx(_components.h2, {
       children: "Fehler durch ungültige Eingaben"
-    }), "\n", _jsx(_components.p, {
-      children: "Ungültige Eingaben treten häufig in Forms auf, zum Beispiel bei fehlenden Pflichtfeldern oder falsch formatierten Werten. In diesen Fällen sollte das Feedback direkt am Form Control erfolgen. User müssen sofort erkennen können, was angepasst werden muss, ohne die Seite oder den Kontext zu verlassen. Weitere Details dazu sind unter Forms (Validation) beschrieben."
-    }), "\n", _jsx(_components.h3, {
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ungültige Eingaben treten häufig in Forms auf, zum Beispiel bei fehlenden Pflichtfeldern oder falsch formatierten Werten. In diesen Fällen sollte das Feedback direkt am Form Control erfolgen. User müssen sofort erkennen können, was angepasst werden muss, ohne die Seite oder den Kontext zu verlassen. Weitere Details dazu sind unter ", _jsx(_components.a, {
+        href: "LINK",
+        children: "Forms (Validation)"
+      }), " beschrieben."]
+    }), "\n", _jsx(_components.h2, {
       children: "Fehler bei serverseitigen Aktionen"
     }), "\n", _jsx(_components.p, {
       children: "Aktionen, die einen Request an das Backend senden, können aus unterschiedlichen Gründen fehlschlagen. Dazu zählen technische Fehler im System, Probleme bei der Kommunikation mit dem Backend oder fehlende Berechtigungen."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn eine Aktion fehlschlägt, sollte dies deutlich kommuniziert werden, dafür eigenet sich ein ", _jsx(_components.a, {
+        href: "/03-components/overlays/modal/overview",
+        children: "Modal"
+      }), " mit einer ", _jsx(_components.a, {
+        href: "/03-components/content/illustrated-message/overview",
+        children: "IllustratedMessage"
+      }), " im Status Danger. Diese informiert darüber, dass die Aktion nicht durchgeführt werden konnte, und erklärt kurz den Grund, sofern dieser für den User relevant ist. Zusätzlich sollte immer ein Ausweg angeboten werden, zum Beispiel die Aktion erneut auszuführen."]
     }), "\n", _jsx(_components.p, {
-      children: "Wenn eine Aktion fehlschlägt, sollte dies deutlich kommuniziert werden, dafür eigenet sich ein Modal mit einer IllustratedMessage im Status Danger. Diese informiert darüber, dass die Aktion nicht durchgeführt werden konnte, und erklärt kurz den Grund, sofern dieser für den User relevant ist. Zusätzlich sollte immer ein Ausweg angeboten werden, zum Beispiel die Aktion erneut auszuführen."
-    }), "\n", _jsx(_components.p, {
-      children: "(Example)"
-    }), "\n", _jsx(_components.p, {
-      children: "Für Aktionen, die über einen längeren Zeitraum laufen und zunächst erfolgreich an das Backend übermittelt werden, aber erst später fehlschlagen, eignet sich eine Notification besser. Ein typisches Beispiel ist das Registrieren einer Domain.bWeitere Details dazu sind im Informationskonzept beschrieben."
+      children: "[Example Modal]"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Für Aktionen, die über einen längeren Zeitraum laufen und zunächst erfolgreich an das Backend übermittelt werden, aber erst später fehlschlagen, eignet sich besser ", _jsx(_components.a, {
+        href: "/03-components/status/notification/overview",
+        children: "Notifications"
+      }), ". Ein typisches Beispiel ist das Registrieren einer Domain. Weitere Details dazu sind im ", _jsx(_components.a, {
+        href: "/02-foundations/03-content-guidelines/02-informationskonzept",
+        children: "Informationskonzept"
+      }), " beschrieben."]
     })]
   });
 }
@@ -101,7 +139,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-0:{"buildId":"nBNWmRFPJaZtsAJ0WFO90","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Error Handling"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Error Handling"},"scope":{}},"examples":{},"slugs":["05-ui-patterns","05-errorhandling"],"filename":"05-ui-patterns/05-errorhandling/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-ui-patterns","05-errorhandling"],"filename":"05-ui-patterns/05-errorhandling/overview.mdx","anchors":["Allgemein","Fehler beim Laden von Inhalten","Fehler beim Durchführen von Aktionen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-9:["$","script","script-0",{"src":"/flow-previews/docs/2234/merge/_next/static/chunks/0aa2c0eb286b1e0e.js","async":true}]
+0:{"buildId":"G67O-Wme6eEgdH0-gs3p3","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Error Handling"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Error Handling"},"scope":{}},"examples":{},"slugs":["05-ui-patterns","05-errorhandling"],"filename":"05-ui-patterns/05-errorhandling/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["05-ui-patterns","05-errorhandling"],"filename":"05-ui-patterns/05-errorhandling/overview.mdx","anchors":["Allgemein","Fehler beim Laden von Inhalten","Fehler beim Durchführen von Aktionen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2234/merge/_next/static/chunks/15efb8cf9e066c35.js","async":true}]
 a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
 d:null
