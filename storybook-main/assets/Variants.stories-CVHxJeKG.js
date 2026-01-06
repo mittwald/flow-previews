@@ -1,0 +1,32 @@
+import{j as r}from"./iframe-Dnm846PF.js";import{H as n}from"./Heading-DIDy3S_I.js";import c from"./Default.stories-DGQMls2G.js";import{N as a}from"./Notification-c9oaD5UK.js";import{T as p}from"./Text-DtZxu6g8.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-S63Cq1sy.js";import"./index-Db1dbbsL.js";import"./index-sBHKlQZD.js";import"./Heading-BVtLIbvB.js";import"./RSPContexts-DkLfIxB1.js";import"./utils-VDIU0BnD.js";import"./AlertIcon-7aOFMVRI.js";import"./IconWarning-CExbEpDP.js";import"./remote-XcyFsW5Q.js";import"./useLocalizedStringFormatter-BqtI09-_.js";import"./context-CoOH5oCy.js";import"./Button-D3IXyzzj.js";import"./LoadingSpinner-DASF7rgv.js";import"./LiveAnnouncer-Cy654hVN.js";import"./Button-B-4mNKoj.js";import"./ProgressBar-BIFWcEy_.js";import"./Label-B2apKb0w.js";import"./Hidden-1UUWpuD7.js";import"./filterDOMProps-i7L6S0l1.js";import"./useLabel-pLNL7Cvk.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-CU4gAXU4.js";import"./useFocus-D-7SE4fF.js";import"./useFocusRing-CANRw9LC.js";import"./useFocusable-DgTTkttD.js";import"./Link-CvmmRiOt.js";import"./dynamic-CwAvPpRM.js";import"./browser-DEiAhc6G.js";import"./EmulatedBoldText-DH6NWkOG.js";import"./Text-1v5GZWlz.js";const J={...c,title:"Status/Notifications/Notification/Status"},t={},o={args:{status:"warning"},render:e=>r.jsxs(a,{...e,children:[r.jsx(n,{children:"Storage almost exceeded"}),r.jsxs(p,{children:["The storage in your project ",r.jsx("strong",{children:"My Project"})," is over 80% utilized."]})]})},s={args:{status:"danger"},render:e=>r.jsxs(a,{...e,children:[r.jsx(n,{children:"No SSL certificate"}),r.jsxs(p,{children:["No SSL certificate could be issued for ",r.jsx("strong",{children:"example.de"}),"."]})]})},i={args:{status:"success"},render:e=>r.jsxs(a,{...e,children:[r.jsx(n,{children:"App installation finished"}),r.jsxs(p,{children:["Your app ",r.jsx("strong",{children:"My WordPress"})," has been installed."]})]})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    status: "warning"
+  },
+  render: props => <Notification {...props}>
+      <Heading>Storage almost exceeded</Heading>
+      <Text>
+        The storage in your project <strong>My Project</strong> is over 80%
+        utilized.
+      </Text>
+    </Notification>
+}`,...o.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    status: "danger"
+  },
+  render: props => <Notification {...props}>
+      <Heading>No SSL certificate</Heading>
+      <Text>
+        No SSL certificate could be issued for <strong>example.de</strong>.
+      </Text>
+    </Notification>
+}`,...s.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  args: {
+    status: "success"
+  },
+  render: props => <Notification {...props}>
+      <Heading>App installation finished</Heading>
+      <Text>
+        Your app <strong>My WordPress</strong> has been installed.
+      </Text>
+    </Notification>
+}`,...i.parameters?.docs?.source}}};const K=["Info","Warning","Danger","Success"];export{s as Danger,t as Info,i as Success,o as Warning,K as __namedExportsOrder,J as default};
