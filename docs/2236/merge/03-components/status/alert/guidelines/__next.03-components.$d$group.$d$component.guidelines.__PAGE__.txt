@@ -1,0 +1,250 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"default"]
+e:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"TabTitle"]
+15:I[990002,["/flow-previews/docs/2236/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2236/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[142373,["/flow-previews/docs/2236/merge/_next/static/chunks/feca642af2dba092.js","/flow-previews/docs/2236/merge/_next/static/chunks/b90093fcc09e15e6.js","/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js"],"default"]
+9:T470,import {
+  Alert,
+  Content,
+  Heading,
+} from "@mittwald/flow-react-components";
+
+<Row>
+  <Alert status="info">
+    <Heading>E-Mail-Adresse wurde archiviert</Heading>
+    <Content>
+      Da deine Domain gelöscht wurde, wurde diese
+      E-Mail-Adresse archiviert. Um E-Mails empfangen und
+      senden zu können musst du die Adresse wieder
+      umbenennen.
+    </Content>
+  </Alert>
+
+  <Alert status="warning">
+    <Heading>Dein Speicher ist fast voll</Heading>
+    <Content>
+      Dein Speicher ist zu über 80% belegt. Wir empfehlen
+      dir deinen Speicherplatz zu erweitern, um Problemen
+      vorzubeugen.
+    </Content>
+  </Alert>
+
+  <Alert status="danger">
+    <Heading>
+      Es konnte kein SSL-Zertifikat ausgestellt werden
+    </Heading>
+    <Content>
+      Für diese Domain konnte kein SSL-Zertifikat
+      ausgestellt werden, da die Domain per IP nicht auf
+      deine Server-IP zeigt.
+    </Content>
+  </Alert>
+
+  <Alert status="success">
+    <Heading>Deine App wurde aktualisiert</Heading>
+    <Content>
+      Deine App wurde erfolgreich auf die neueste Version
+      aktualisiert.
+    </Content>
+  </Alert>
+</Row>;
+0:{"buildId":"DO_2fKHUFfgPmZCSAzHL5","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Alert"}],"Ein Alert macht den User auf eine wichtige Information aufmerksam. Er ist visuell hervorgehoben und sollte nur bei relevanten, nicht ignorierbaren Inhalten verwendet werden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Alert","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Alert","description":"Ein Alert macht den User auf eine wichtige Information aufmerksam. Er ist visuell hervorgehoben und sollte nur bei relevanten, nicht ignorierbaren Inhalten verwendet werden."},"scope":{}},"examples":{"default":"import {\n  Alert,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Alert>\n  <Heading>E-Mail-Adresse wurde archiviert</Heading>\n</Alert>;\n","page":"import {\n  Alert,\n  LayoutCard,\n  Heading,\n  Text,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <Alert status=\"danger\">\n    <Heading>E-Mail-Adresse wurde archiviert</Heading>\n    <Text>\n      Da deine Domain gelöscht wurde, wurde diese\n      E-Mail-Adresse archiviert. Um E-Mails empfangen und\n      senden zu können musst du die E-Mail-Adresse\n      bearbeiten.\n    </Text>\n  </Alert>\n  <Section>\n    <Heading>E-Mail-Adresse</Heading>\n    <Text>...</Text>\n  </Section>\n  <Section>\n    <Heading>Speicherplatz</Heading>\n    <Text>...</Text>\n  </Section>\n</LayoutCard>;\n","section":"import {\n  Alert,\n  Heading,\n  LayoutCard,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <Section>\n    <Heading>E-Mail-Adresse</Heading>\n    <Text>...</Text>\n  </Section>\n  <Section>\n    <Heading>Speicherplatz</Heading>\n    <Alert status=\"danger\">\n      <Heading>Speicherplatz ist voll</Heading>\n      <Text>\n        Der Speicherplatz deines Postfachs ist voll. Um\n        wieder E-Mails erhalten zu können, kannst du der\n        E-Mail-Adresse mehr Speicher zuweisen.\n      </Text>\n    </Alert>\n    <Text>...</Text>\n  </Section>\n</LayoutCard>;\n","status":"$9","with-content":"import {\n  Alert,\n  Button,\n  Content,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Alert>\n  <Heading>E-Mail-Adresse wurde archiviert</Heading>\n  <Content>\n    Da deine Domain gelöscht wurde, wurde diese\n    E-Mail-Adresse archiviert. Um E-Mails empfangen und\n    senden zu können musst du die Adresse wieder umbenennen.\n    <Button>E-Mail-Adresse anpassen</Button>\n  </Content>\n</Alert>;\n"},"slugs":["status","alert"],"filename":"status/alert/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:T1ae3,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {Do, DoAndDont, Plain} = _components;
+  if (!Do) _missingMdxReference("Do", true);
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.p, {
+      children: "Ein Alert ist ein UI-Element zur Kommunikation wichtiger Informationen, die\nAufmerksamkeit erfordern. Alerts sollten sparsam und gezielt eingesetzt werden,\nda sie visuell hervorgehoben sind und den Nutzerfluss unterbrechen können. Sie\nkönnen informativ, warnend, kritisch oder bestätigend sein."
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines Alerts darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "der Alert nur verwendet wird, wenn der Inhalt wirklich die Aufmerksamkeit des\nUsers benötigt. Für rein informative Hinweise kann ein weniger auffälliges\nElement (z. B. ein Hinweistext) ausreichend sein."
+      }), "\n", _jsxs(_components.li, {
+        children: ["der Schweregrad sinnvoll gewählt ist – ", _jsx(_components.code, {
+          children: "danger"
+        }), " für sofortigen\nHandlungsbedarf, ", _jsx(_components.code, {
+          children: "warning"
+        }), " für Handlungsbedarf, ", _jsx(_components.code, {
+          children: "info"
+        }), " für eine wichtige\nInformation und ", _jsx(_components.code, {
+          children: "success"
+        }), " für einen Erfolg."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["der Text klar, prägnant und lösungsorientiert formuliert ist. Vermeide\ntechnische Fachbegriffe oder Schuldzuweisungen. Beachte die Content Guidelines\nfür\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/02-foundations/03-content-guidelines/02-fehlermeldungen",
+          children: "Fehlermeldungen"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "er möglichst eine Handlungsmöglichkeit bietet."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen Alert, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "dem User mitzuteilen, dass ein Fehler aufgetreten ist – verursacht durch sein\nHandeln oder durch das System."
+      }), "\n", _jsx(_components.li, {
+        children: "vor einer möglichen Folge oder Auswirkung zu warnen."
+      }), "\n", _jsx(_components.li, {
+        children: "wichtige Statusänderungen oder Systemereignisse mitzuteilen."
+      }), "\n", _jsx(_components.li, {
+        children: "zusätzliche wichtige Informationen oder Hinweise in einem bestimmten Kontext\nbereitzustellen."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Alert vs AccentBox"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Alerts und ", _jsx(_components.a, {
+        href: "/03-components/structure/accent-box/overview",
+        children: "AccentBoxen"
+      }), " dienen\nbeide dazu, dem User zusätzliche Informationen bereitzustellen. Eine einfache\nFaustregel hilft bei der Entscheidung: Kann die Information ignoriert werden,\nohne negative Folgen? Dann ist eine AccentBox die richtige Wahl. Wenn das\nIgnorieren hingegen zu Problemen führen könnte – etwa bei sicherheitsrelevanten\nHinweisen oder wichtigen Systemmeldungen – sollte ein Alert mit entsprechendem\nStatus verwendet werden."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende Alerts, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "den User auf sicherheits- oder funktionsrelevante Informationen hinzuweisen."
+          }), "\n", _jsx(_components.li, {
+            children: "vor möglichen Problemen oder Systemzuständen zu warnen."
+          }), "\n", _jsx(_components.li, {
+            children: "dringende oder aktionsrelevante Statusmeldungen zu kommunizieren."
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende AccentBoxen, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "ergänzende, aber nicht kritische Hinweise anzuzeigen."
+          }), "\n", _jsx(_components.li, {
+            children: "kontextuelle Informationen oder Tipps zu geben."
+          }), "\n", _jsx(_components.li, {
+            children: "visuell strukturierende Inhalte einzubetten, ohne zu unterbrechen."
+          }), "\n"]
+        })
+      })]
+    }), "\n", _jsx(_components.h1, {
+      children: "Anwendung"
+    }), "\n", _jsx(_components.h2, {
+      children: "Position"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein Alert sollte immer in unmittelbarem Zusammenhang mit dem betroffenen Inhalt\nplatziert werden. Er wird in der passenden\n", _jsx(_components.a, {
+        href: "/03-components/structure/section/overview",
+        children: "Section"
+      }), " untergebracht oder, wenn\nsein Hinweis für die gesamte Seite gilt, in der\n", _jsx(_components.a, {
+        href: "/03-components/structure/layout-card/overview",
+        children: "LayoutCard"
+      }), " oberhalb aller\nSections."]
+    }), "\n", _jsx(Do, {
+      example: "section",
+      bgColor: "dark",
+      children: _jsx(_components.p, {
+        children: "Bezieht sich der Alert auf eine bestimmte Section, wird er zwischen der Heading\nund dem restlichen Content dieser Section eingefügt."
+      })
+    }), "\n", _jsx(Do, {
+      example: "page",
+      bgColor: "dark",
+      children: _jsx(_components.p, {
+        children: "Bezieht sich der Alert auf den gesamten Inhalt, wird er prominent oberhalb der\nersten Section innerhalb der LayoutCard platziert."
+      })
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T470,import {
+  Alert,
+  Content,
+  Heading,
+} from "@mittwald/flow-react-components";
+
+<Row>
+  <Alert status="info">
+    <Heading>E-Mail-Adresse wurde archiviert</Heading>
+    <Content>
+      Da deine Domain gelöscht wurde, wurde diese
+      E-Mail-Adresse archiviert. Um E-Mails empfangen und
+      senden zu können musst du die Adresse wieder
+      umbenennen.
+    </Content>
+  </Alert>
+
+  <Alert status="warning">
+    <Heading>Dein Speicher ist fast voll</Heading>
+    <Content>
+      Dein Speicher ist zu über 80% belegt. Wir empfehlen
+      dir deinen Speicherplatz zu erweitern, um Problemen
+      vorzubeugen.
+    </Content>
+  </Alert>
+
+  <Alert status="danger">
+    <Heading>
+      Es konnte kein SSL-Zertifikat ausgestellt werden
+    </Heading>
+    <Content>
+      Für diese Domain konnte kein SSL-Zertifikat
+      ausgestellt werden, da die Domain per IP nicht auf
+      deine Server-IP zeigt.
+    </Content>
+  </Alert>
+
+  <Alert status="success">
+    <Heading>Deine App wurde aktualisiert</Heading>
+    <Content>
+      Deine App wurde erfolgreich auf die neueste Version
+      aktualisiert.
+    </Content>
+  </Alert>
+</Row>;
+a:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"guidelines","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/status/alert/overview","children":"Overview"}],false]}],["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/status/alert/develop","children":"Develop"}],false]}],["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/status/alert/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  Alert,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Alert>\n  <Heading>E-Mail-Adresse wurde archiviert</Heading>\n</Alert>;\n","page":"import {\n  Alert,\n  LayoutCard,\n  Heading,\n  Text,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <Alert status=\"danger\">\n    <Heading>E-Mail-Adresse wurde archiviert</Heading>\n    <Text>\n      Da deine Domain gelöscht wurde, wurde diese\n      E-Mail-Adresse archiviert. Um E-Mails empfangen und\n      senden zu können musst du die E-Mail-Adresse\n      bearbeiten.\n    </Text>\n  </Alert>\n  <Section>\n    <Heading>E-Mail-Adresse</Heading>\n    <Text>...</Text>\n  </Section>\n  <Section>\n    <Heading>Speicherplatz</Heading>\n    <Text>...</Text>\n  </Section>\n</LayoutCard>;\n","section":"import {\n  Alert,\n  Heading,\n  LayoutCard,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <Section>\n    <Heading>E-Mail-Adresse</Heading>\n    <Text>...</Text>\n  </Section>\n  <Section>\n    <Heading>Speicherplatz</Heading>\n    <Alert status=\"danger\">\n      <Heading>Speicherplatz ist voll</Heading>\n      <Text>\n        Der Speicherplatz deines Postfachs ist voll. Um\n        wieder E-Mails erhalten zu können, kannst du der\n        E-Mail-Adresse mehr Speicher zuweisen.\n      </Text>\n    </Alert>\n    <Text>...</Text>\n  </Section>\n</LayoutCard>;\n","status":"$13","with-content":"import {\n  Alert,\n  Button,\n  Content,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Alert>\n  <Heading>E-Mail-Adresse wurde archiviert</Heading>\n  <Content>\n    Da deine Domain gelöscht wurde, wurde diese\n    E-Mail-Adresse archiviert. Um E-Mails empfangen und\n    senden zu können musst du die Adresse wieder umbenennen.\n    <Button>E-Mail-Adresse anpassen</Button>\n  </Content>\n</Alert>;\n"},"slugs":["status","alert"],"filename":"status/alert/guidelines.mdx","anchors":["Grundlagen","Anwendung"]}}]}]]}]]}]}]}],"$L14"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2236/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+c:["$","script","script-1",{"src":"/flow-previews/docs/2236/merge/_next/static/chunks/272061e6eeea0d22.js","async":true}]
+d:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+14:["$","$L18",null,{"currentPath":"/03-components/status/alert/guidelines","anchors":"$a:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+17:null
