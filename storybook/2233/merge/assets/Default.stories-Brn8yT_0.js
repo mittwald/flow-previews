@@ -1,0 +1,135 @@
+import{j as e}from"./iframe-BeQWUZkN.js";import{C as r,M as t}from"./ContextMenu-Cq3XwEgg.js";import{C as i}from"./ContextMenuTrigger-B8Q7xA3r.js";import{C as a}from"./ContextMenuSection-of5hagQh.js";import{B as s}from"./Button-CGVqLO1a.js";import{S as j}from"./Separator-B1y-9T0j.js";import{H as f}from"./Heading-Em1n1mkD.js";import{Y as M,G as S,Z as I}from"./IconWarning-BINGtqrd.js";import{T as o}from"./Text-DBLOUBNs.js";import{A as C}from"./Avatar-Cd28HLfw.js";import{I as T}from"./Initials-E63rgvpE.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-C5zRFTyN.js";import"./index-1B1ExeLK.js";import"./index-C7QqpnOV.js";import"./Switch-CesNZomq.js";import"./useFieldComponent-Df_LAOUO.js";import"./Label.module-CUYTf9Jc.js";import"./utils-DahaGO1Z.js";import"./filterDOMProps-i7L6S0l1.js";import"./useToggleState-D_PN-5xb.js";import"./useFormReset-C8CI0grL.js";import"./usePress-DC5PU-Mt.js";import"./useFocus-B8WX1wz4.js";import"./useFocusRing-plkuiMUL.js";import"./useFocusable-5ZG33T1u.js";import"./useControlledState-CVKu2BVA.js";import"./VisuallyHidden-Dai9OIPt.js";import"./Dialog-BcNKaqXQ.js";import"./Button-CL6J7LkF.js";import"./ProgressBar-DrS-kVcX.js";import"./Label-CrwWIO9R.js";import"./Hidden-CGYC7LW_.js";import"./useLabel-Bej11zP_.js";import"./context-BW8umLlU.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./RSPContexts-3R6axPUC.js";import"./OverlayArrow-CQhuNf01.js";import"./Collection-BT4mtoIi.js";import"./CollectionBuilder-8XmSCxqz.js";import"./SelectionIndicator-CpkhsEOb.js";import"./Separator-jKx-ftTc.js";import"./Text-oRZAcHnn.js";import"./SelectionManager-g_157G_P.js";import"./useEvent-D73bdPYV.js";import"./useCollator-BitTSQ9h.js";import"./FocusScope-BFFCHkyv.js";import"./useLocalizedStringFormatter-BinbCyOY.js";import"./Action-E4S27TIO.js";import"./context-C8zS221N.js";import"./useStatic-H-gT8Tnv.js";import"./browser-CC8M21FF.js";import"./getActionGroupSlot-Mt7aWTck.js";import"./dynamic-CY8Jd6pV.js";import"./Popover-BNxboum2.js";import"./useOverlayController-Cg89pKF6.js";import"./OverlayContextProvider-DSplWZAb.js";import"./OverlayTrigger-CQFXwfOk.js";import"./LoadingSpinner-BzbdJJnJ.js";import"./remote-BjhB0wla.js";import"./Heading-DqQ4fdlj.js";import"./EmulatedBoldText-Ds4ybabF.js";import"./AlertIcon-Bvyhnsbm.js";import"./index-SBtdq8jY.js";const ke={title:"Actions/ContextMenu",component:r,render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsxs(r,{...n,children:[e.jsx(t,{id:"item1",children:"Item 1"}),e.jsx(t,{id:"item2",children:"Item 2"}),e.jsx(t,{id:"item3",children:"Item 3"})]})]}),parameters:{controls:{exclude:["defaultOpen","selectionMode","defaultSelectedKeys"]}}},d={},m={args:{defaultOpen:!0,selectionMode:"single",defaultSelectedKeys:["item2"]}},c={args:{defaultOpen:!0,selectionMode:"multiple",defaultSelectedKeys:["item2","item3"]}},w={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsxs(r,{defaultSelectedKeys:["https://www.mittwald.de"],selectionMode:"navigation",...n,children:[e.jsx(t,{href:"https://www.mittwald.de",id:"https://www.mittwald.de",children:"www.mittwald.de"}),e.jsx(t,{href:"https://www.google.de",children:"www.google.de"}),e.jsx(t,{href:"https://www.adobe.com",children:"www.adobe.com"})]})]}),args:{defaultOpen:!0}},p={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsxs(r,{defaultSelectedKeys:["https://www.mittwald.de"],selectionMode:"navigation",...n,children:[e.jsx(t,{href:"https://www.mittwald.de",id:"https://www.mittwald.de",children:"www.mittwald.de"}),e.jsx(j,{}),e.jsx(t,{href:"https://www.google.de",children:"www.google.de"}),e.jsx(t,{href:"https://www.adobe.com",children:"www.adobe.com"})]})]}),args:{defaultOpen:!0}},l={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsx(r,{selectionMode:"navigation",...n,children:e.jsxs(a,{children:[e.jsx(f,{children:"Websites"}),e.jsx(t,{href:"https://www.mittwald.de",id:"https://www.mittwald.de",children:"www.mittwald.de"}),e.jsx(t,{href:"https://www.google.de",children:"www.google.de"}),e.jsx(t,{href:"https://www.adobe.com",children:"www.adobe.com"})]})})]}),args:{defaultOpen:!0}},u={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsx(r,{selectionMode:"navigation",...n,children:e.jsxs(a,{children:[e.jsx(f,{children:"Websites"}),e.jsxs(t,{href:"https://www.mittwald.de",id:"https://www.mittwald.de",children:[e.jsx(M,{}),e.jsx(o,{children:"www.mittwald.de"})]}),e.jsxs(t,{href:"https://www.google.de",children:[e.jsx(M,{}),e.jsx(o,{children:"www.google.de"})]}),e.jsxs(t,{isDisabled:!0,href:"https://www.adobe.com",children:[e.jsx(M,{}),e.jsx(o,{children:"www.adobe.com"})]})]})})]}),args:{defaultOpen:!0}},g={args:{width:400}},h={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsxs(r,{selectionMode:"navigation",...n,children:[e.jsxs(a,{children:[e.jsxs(t,{children:[e.jsx(C,{children:e.jsx(T,{children:"Max Mustermann"})}),e.jsx(S,{})]}),e.jsx(f,{children:"Max Mustermann"})]}),e.jsx(j,{}),e.jsxs(a,{children:[e.jsx(t,{children:e.jsx(o,{children:"Settings"})}),e.jsx(t,{children:e.jsx(o,{children:"Logout"})})]})]})]}),args:{defaultOpen:!0}},x={render:n=>e.jsxs(i,{children:[e.jsx(s,{children:"Trigger"}),e.jsxs(r,{...n,children:[e.jsx(a,{selectionMode:"switch",children:e.jsx(t,{children:e.jsx(o,{children:"Spam protection"})})}),e.jsx(j,{}),e.jsx(a,{selectionMode:"navigation",children:e.jsxs(t,{children:[e.jsx(I,{}),e.jsx(o,{children:"Update email address"})]})})]})]}),args:{defaultOpen:!0}};d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:"{}",...d.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    defaultOpen: true,
+    selectionMode: "single",
+    defaultSelectedKeys: ["item2"]
+  }
+}`,...m.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  args: {
+    defaultOpen: true,
+    selectionMode: "multiple",
+    defaultSelectedKeys: ["item2", "item3"]
+  }
+}`,...c.parameters?.docs?.source}}};w.parameters={...w.parameters,docs:{...w.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu defaultSelectedKeys={["https://www.mittwald.de"]} selectionMode="navigation" {...props}>
+        <MenuItem href="https://www.mittwald.de" id="https://www.mittwald.de">
+          www.mittwald.de
+        </MenuItem>
+        <MenuItem href="https://www.google.de">www.google.de</MenuItem>
+        <MenuItem href="https://www.adobe.com">www.adobe.com</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...w.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu defaultSelectedKeys={["https://www.mittwald.de"]} selectionMode="navigation" {...props}>
+        <MenuItem href="https://www.mittwald.de" id="https://www.mittwald.de">
+          www.mittwald.de
+        </MenuItem>
+        <Separator />
+        <MenuItem href="https://www.google.de">www.google.de</MenuItem>
+        <MenuItem href="https://www.adobe.com">www.adobe.com</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...p.parameters?.docs?.source}}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu selectionMode="navigation" {...props}>
+        <ContextMenuSection>
+          <Heading>Websites</Heading>
+          <MenuItem href="https://www.mittwald.de" id="https://www.mittwald.de">
+            www.mittwald.de
+          </MenuItem>
+          <MenuItem href="https://www.google.de">www.google.de</MenuItem>
+          <MenuItem href="https://www.adobe.com">www.adobe.com</MenuItem>
+        </ContextMenuSection>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...l.parameters?.docs?.source}}};u.parameters={...u.parameters,docs:{...u.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu selectionMode="navigation" {...props}>
+        <ContextMenuSection>
+          <Heading>Websites</Heading>
+          <MenuItem href="https://www.mittwald.de" id="https://www.mittwald.de">
+            <IconServer />
+            <Text>www.mittwald.de</Text>
+          </MenuItem>
+          <MenuItem href="https://www.google.de">
+            <IconServer />
+            <Text>www.google.de</Text>
+          </MenuItem>
+          <MenuItem isDisabled={true} href="https://www.adobe.com">
+            <IconServer />
+            <Text>www.adobe.com</Text>
+          </MenuItem>
+        </ContextMenuSection>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...u.parameters?.docs?.source}}};g.parameters={...g.parameters,docs:{...g.parameters?.docs,source:{originalSource:`{
+  args: {
+    width: 400
+  }
+}`,...g.parameters?.docs?.source}}};h.parameters={...h.parameters,docs:{...h.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu selectionMode="navigation" {...props}>
+        <ContextMenuSection>
+          <MenuItem>
+            <Avatar>
+              <Initials>Max Mustermann</Initials>
+            </Avatar>
+            <IconCamera />
+          </MenuItem>
+          <Heading>Max Mustermann</Heading>
+        </ContextMenuSection>
+        <Separator />
+        <ContextMenuSection>
+          <MenuItem>
+            <Text>Settings</Text>
+          </MenuItem>
+          <MenuItem>
+            <Text>Logout</Text>
+          </MenuItem>
+        </ContextMenuSection>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...h.parameters?.docs?.source}}};x.parameters={...x.parameters,docs:{...x.parameters?.docs,source:{originalSource:`{
+  render: props => <ContextMenuTrigger>
+      <Button>Trigger</Button>
+      <ContextMenu {...props}>
+        <ContextMenuSection selectionMode="switch">
+          <MenuItem>
+            <Text>Spam protection</Text>
+          </MenuItem>
+        </ContextMenuSection>
+        <Separator />
+        <ContextMenuSection selectionMode="navigation">
+          <MenuItem>
+            <IconEmail />
+            <Text>Update email address</Text>
+          </MenuItem>
+        </ContextMenuSection>
+      </ContextMenu>
+    </ContextMenuTrigger>,
+  args: {
+    defaultOpen: true
+  }
+}`,...x.parameters?.docs?.source}}};const Ue=["Default","SingleSelection","MultipleSelection","WithLinks","WithSeparator","WithContextMenuSection","WithIcon","CustomWidth","WithAvatar","WithSectionSelectionMode"];export{g as CustomWidth,d as Default,c as MultipleSelection,m as SingleSelection,h as WithAvatar,l as WithContextMenuSection,u as WithIcon,w as WithLinks,x as WithSectionSelectionMode,p as WithSeparator,Ue as __namedExportsOrder,ke as default};
