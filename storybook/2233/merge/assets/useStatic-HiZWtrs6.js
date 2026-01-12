@@ -1,0 +1,1 @@
+import{g as a}from"./flowComponent-CO2lzhPy.js";import{r as e}from"./iframe-BUX4ZqHF.js";const n=(t,r=[])=>{const[s,o]=e.useState(t());return e.useEffect(()=>a(()=>{o(t())}),r),s},S=t=>e.useState(()=>t())[0];export{n as a,S as u};
