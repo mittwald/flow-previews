@@ -1,0 +1,619 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"default"]
+11:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Flex"]
+12:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Tabs"]
+13:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"Tab"]
+14:I[39682,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"TabTitle"]
+1c:I[990002,["/flow-previews/docs/2243/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2243/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[142373,["/flow-previews/docs/2243/merge/_next/static/chunks/d8f18e5741c3e2d8.js","/flow-previews/docs/2243/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js"],"default"]
+9:T7d8,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <TextArea
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+  <Button color="accent">Senden</Button>
+</Chat>;
+a:T719,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+import { useForm } from "react-hook-form";
+import {
+  Field,
+  Form,
+} from "@mittwald/flow-react-components/react-hook-form";
+
+export default () => {
+  const form = useForm<{ message: string }>();
+
+  return (
+    <Chat>
+      <MessageThread>
+        <Message>
+          <Header>
+            <Align>
+              <Avatar>
+                <Initials>Max Mustermann</Initials>
+              </Avatar>
+              <Text>
+                <strong>Max Mustermann</strong>
+              </Text>
+            </Align>
+          </Header>
+          <Content>
+            <Text>
+              Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Cumque eius quam quas vel
+              voluptas, ullam aliquid fugit. Voluptate harum
+              accusantium rerum ullam modi blanditiis vitae,
+              laborum ea tempore, dolore voluptas. Earum
+              pariatur, similique corrupti id officia
+              perferendis. Labore, similique. Earum, quas
+              in. At dolorem corrupti blanditiis nulla
+              deserunt laborum! Corrupti delectus aspernatur
+              nihil nulla obcaecati ipsam porro sequi rem?
+              Quam.
+            </Text>
+          </Content>
+        </Message>
+      </MessageThread>
+      <Form
+        form={form}
+        onSubmit={() => {
+          console.log("submitted");
+        }}
+      >
+        <Field name="message">
+          <TextArea
+            aria-label="message"
+            rows={3}
+            autoResizeMaxRows={10}
+          />
+        </Field>
+        <Button color="accent" type="submit">
+          Submit
+        </Button>
+      </Form>
+    </Chat>
+  );
+};
+b:T7e4,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  MarkdownEditor,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <MarkdownEditor
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+  <Button color="accent">Senden</Button>
+</Chat>;
+c:T48b,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  FileCard,
+  FileCardList,
+  FileField,
+  Header,
+  Initials,
+  Message,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+
+<Chat>
+  <MessageThread>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Labore, similique. Earum, quas in. At dolorem
+          corrupti blanditiis nulla deserunt laborum!
+          Corrupti delectus aspernatur nihil nulla obcaecati
+          ipsam porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+
+  <TextArea
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+
+  <FileField>
+    <Button variant="outline" color="secondary">
+      Datei anhängen
+    </Button>
+  </FileField>
+  <Button color="accent">Senden</Button>
+  <FileCardList>
+    <FileCard name="Hochgeladene Datei 1" />
+    <FileCard name="Hochgeladene Datei 2" />
+  </FileCardList>
+</Chat>;
+0:{"buildId":"p0XKLu6omepxbbhf6gJoa","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Chat"}],"Der Chat kombiniert den MessageThread mit einer Texteingabe zur Darstellung eines vollständigen Chat-Interfaces.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Chat","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"intro\",\n    zoom: 0.8\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Chat","description":"Der Chat kombiniert den MessageThread mit einer Texteingabe zur Darstellung eines vollständigen Chat-Interfaces."},"scope":{}},"examples":{"default":"$9","form":"$a","intro":"import {\n  Align,\n  Avatar,\n  Button,\n  Chat,\n  Content,\n  Header,\n  Initials,\n  Message,\n  MessageThread,\n  Text,\n  TextArea,\n} from \"@mittwald/flow-react-components\";\n\n<Chat>\n  <MessageThread>\n    <Message>\n      <Header>\n        <Align>\n          <Avatar>\n            <Initials>Max Mustermann</Initials>\n          </Avatar>\n          <Text>\n            <strong>Max Mustermann</strong>\n          </Text>\n        </Align>\n      </Header>\n      <Content>\n        <Text>\n          Labore, similique. Earum, quas in. At dolorem\n          corrupti blanditiis nulla deserunt laborum!\n          Corrupti delectus aspernatur nihil nulla obcaecati\n          ipsam porro sequi rem? Quam.\n        </Text>\n      </Content>\n    </Message>\n  </MessageThread>\n  <TextArea\n    aria-label=\"Nachricht\"\n    rows={3}\n    autoResizeMaxRows={10}\n  />\n  <Button color=\"accent\">Senden</Button>\n</Chat>;\n","markdown-editor":"$b","upload":"$c"},"slugs":["chat","chat"],"filename":"chat/chat/index.mdx","anchors":[]}}]]}]}],"$Ld"],["$Le","$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+15:T40f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    h1: "h1",
+    ..._provideComponents(),
+    ...props.components
+  }, {PropertiesTables} = _components;
+  if (!PropertiesTables) _missingMdxReference("PropertiesTables", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Properties"
+    }), "\n", _jsx(PropertiesTables, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+16:T7d8,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <TextArea
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+  <Button color="accent">Senden</Button>
+</Chat>;
+17:T719,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  Message,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+import { useForm } from "react-hook-form";
+import {
+  Field,
+  Form,
+} from "@mittwald/flow-react-components/react-hook-form";
+
+export default () => {
+  const form = useForm<{ message: string }>();
+
+  return (
+    <Chat>
+      <MessageThread>
+        <Message>
+          <Header>
+            <Align>
+              <Avatar>
+                <Initials>Max Mustermann</Initials>
+              </Avatar>
+              <Text>
+                <strong>Max Mustermann</strong>
+              </Text>
+            </Align>
+          </Header>
+          <Content>
+            <Text>
+              Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Cumque eius quam quas vel
+              voluptas, ullam aliquid fugit. Voluptate harum
+              accusantium rerum ullam modi blanditiis vitae,
+              laborum ea tempore, dolore voluptas. Earum
+              pariatur, similique corrupti id officia
+              perferendis. Labore, similique. Earum, quas
+              in. At dolorem corrupti blanditiis nulla
+              deserunt laborum! Corrupti delectus aspernatur
+              nihil nulla obcaecati ipsam porro sequi rem?
+              Quam.
+            </Text>
+          </Content>
+        </Message>
+      </MessageThread>
+      <Form
+        form={form}
+        onSubmit={() => {
+          console.log("submitted");
+        }}
+      >
+        <Field name="message">
+          <TextArea
+            aria-label="message"
+            rows={3}
+            autoResizeMaxRows={10}
+          />
+        </Field>
+        <Button color="accent" type="submit">
+          Submit
+        </Button>
+      </Form>
+    </Chat>
+  );
+};
+18:T7e4,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  Header,
+  Initials,
+  MarkdownEditor,
+  Message,
+  MessageSeparator,
+  MessageThread,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Chat height={400}>
+  <MessageThread>
+    <MessageSeparator>Ticket geöffnet</MessageSeparator>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in. At dolorem corrupti
+          blanditiis nulla deserunt laborum! Corrupti
+          delectus aspernatur nihil nulla obcaecati ipsam
+          porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+    <Message type="sender">
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>John Doe</Initials>
+          </Avatar>
+          <Text>
+            <strong>John Doe</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cumque eius quam quas vel voluptas, ullam
+          aliquid fugit. Voluptate harum accusantium rerum
+          ullam modi blanditiis vitae, laborum ea tempore,
+          dolore voluptas. Earum pariatur, similique
+          corrupti id officia perferendis. Labore,
+          similique. Earum, quas in.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+  <MarkdownEditor
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+  <Button color="accent">Senden</Button>
+</Chat>;
+19:T48b,import {
+  Align,
+  Avatar,
+  Button,
+  Chat,
+  Content,
+  FileCard,
+  FileCardList,
+  FileField,
+  Header,
+  Initials,
+  Message,
+  MessageThread,
+  Text,
+  TextArea,
+} from "@mittwald/flow-react-components";
+
+<Chat>
+  <MessageThread>
+    <Message>
+      <Header>
+        <Align>
+          <Avatar>
+            <Initials>Max Mustermann</Initials>
+          </Avatar>
+          <Text>
+            <strong>Max Mustermann</strong>
+          </Text>
+        </Align>
+      </Header>
+      <Content>
+        <Text>
+          Labore, similique. Earum, quas in. At dolorem
+          corrupti blanditiis nulla deserunt laborum!
+          Corrupti delectus aspernatur nihil nulla obcaecati
+          ipsam porro sequi rem? Quam.
+        </Text>
+      </Content>
+    </Message>
+  </MessageThread>
+
+  <TextArea
+    aria-label="Nachricht"
+    rows={3}
+    autoResizeMaxRows={10}
+  />
+
+  <FileField>
+    <Button variant="outline" color="secondary">
+      Datei anhängen
+    </Button>
+  </FileField>
+  <Button color="accent">Senden</Button>
+  <FileCardList>
+    <FileCard name="Hochgeladene Datei 1" />
+    <FileCard name="Hochgeladene Datei 2" />
+  </FileCardList>
+</Chat>;
+d:["$","$L11",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L11",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L12",null,{"selectedKey":"develop","children":[["$","$L13",null,{"id":"overview","children":[["$","$L14",null,{"href":"/03-components/chat/chat/overview","children":"Overview"}],false]}],["$","$L13",null,{"id":"develop","children":[["$","$L14",null,{"href":"/03-components/chat/chat/develop","children":"Develop"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$15","frontmatter":{},"scope":{}},"examples":{"default":"$16","form":"$17","intro":"import {\n  Align,\n  Avatar,\n  Button,\n  Chat,\n  Content,\n  Header,\n  Initials,\n  Message,\n  MessageThread,\n  Text,\n  TextArea,\n} from \"@mittwald/flow-react-components\";\n\n<Chat>\n  <MessageThread>\n    <Message>\n      <Header>\n        <Align>\n          <Avatar>\n            <Initials>Max Mustermann</Initials>\n          </Avatar>\n          <Text>\n            <strong>Max Mustermann</strong>\n          </Text>\n        </Align>\n      </Header>\n      <Content>\n        <Text>\n          Labore, similique. Earum, quas in. At dolorem\n          corrupti blanditiis nulla deserunt laborum!\n          Corrupti delectus aspernatur nihil nulla obcaecati\n          ipsam porro sequi rem? Quam.\n        </Text>\n      </Content>\n    </Message>\n  </MessageThread>\n  <TextArea\n    aria-label=\"Nachricht\"\n    rows={3}\n    autoResizeMaxRows={10}\n  />\n  <Button color=\"accent\">Senden</Button>\n</Chat>;\n","markdown-editor":"$18","upload":"$19"},"slugs":["chat","chat"],"filename":"chat/chat/develop.mdx","anchors":["Properties"]}}]}]]}],"$L1a"]}]}]}],"$L1b"]}]
+e:["$","script","script-0",{"src":"/flow-previews/docs/2243/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+f:["$","script","script-1",{"src":"/flow-previews/docs/2243/merge/_next/static/chunks/04a3f7a5a014feae.js","async":true}]
+10:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1a:["$","$L13",null,{"id":"guidelines","children":[["$","$L14",null,{"href":"/03-components/chat/chat/guidelines","children":"Guidelines"}],false]}]
+1b:["$","$L1f",null,{"currentPath":"/03-components/chat/chat/develop","anchors":"$d:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:props:mdxFile:anchors","title":"Develop"}]
+1e:null
