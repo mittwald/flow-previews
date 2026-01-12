@@ -279,7 +279,7 @@ export default () => {
     </Form>
   );
 };
-0:{"buildId":"YYUQ8XAigeAxNqJdIEJKA","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+0:{"buildId":"Da2e1rFHogK95HwUrosBy","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
 d:T289a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
