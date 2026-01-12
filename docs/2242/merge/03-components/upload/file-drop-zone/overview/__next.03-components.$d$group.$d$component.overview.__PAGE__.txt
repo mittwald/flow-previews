@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"default"]
+e:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"TabTitle"]
+17:I[990002,["/flow-previews/docs/2242/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2242/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2242/merge/_next/static/chunks/131aa69ca01924fd.js","/flow-previews/docs/2242/merge/_next/static/chunks/f73687bff921c740.js","/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js"],"default"]
+9:T4af,import {
+  Button,
+  FileCard,
+  FileCardList,
+  FileDropZone,
+  FileField,
+  Heading,
+  IconUpload,
+  Section,
+} from "@mittwald/flow-react-components";
+import { useState } from "react";
+
+export default () => {
+  const [files, setFiles] = useState<File[]>([]);
+
+  return (
+    <Section>
+      <FileDropZone
+        multiple
+        onChange={(value) => {
+          if (value) {
+            setFiles([...files, ...value]);
+          }
+        }}
+      >
+        <IconUpload />
+        <Heading>Dateien ablegen</Heading>
+        <FileField
+          name="file"
+          onChange={(value) => {
+            if (value) {
+              setFiles([...files, ...value]);
+            }
+          }}
+        >
+          <Button>Dateien auswählen</Button>
+        </FileField>
+      </FileDropZone>
+
+      <FileCardList>
+        {files.map((file) => (
+          <FileCard
+            name={file.name}
+            type={file.type}
+            key={file.name}
+            sizeInBytes={file.size}
+            onDelete={() =>
+              setFiles(
+                files.filter((watched) => watched !== file),
+              )
+            }
+          />
+        ))}
+      </FileCardList>
+    </Section>
+  );
+};
+0:{"buildId":"vwFRuJ16BJWwu-ECjhpIr","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"FileDropZone"}],"Die FileDropZone ermöglicht das Hochladen von Dateien per Drag-and-Drop oder durch manuelle Auswahl.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/FileDropZone","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"FileDropZone","description":"Die FileDropZone ermöglicht das Hochladen von Dateien per Drag-and-Drop oder durch manuelle Auswahl."},"scope":{}},"examples":{"default":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconUpload,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone onChange={(files) => console.log(files)}>\n    <IconUpload />\n    <Heading>Datei ablegen</Heading>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Datei auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n","fileCardList":"$9","multiple":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconUpload,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone\n    multiple\n    onChange={(files) => console.log(files)}\n  >\n    <IconUpload />\n    <Heading>Dateien ablegen</Heading>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Dateien auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n","type":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconImage,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone\n    accept=\"image/png\"\n    onChange={(files) => console.log(files)}\n  >\n    <IconImage />\n    <Heading>Bild ablegen</Heading>\n    <Text>\n      Es sind nur Bilder vom Typ image/png erlaubt.\n    </Text>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Bild auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n"},"slugs":["upload","file-drop-zone"],"filename":"upload/file-drop-zone/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:Tc67,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<FileDropZone />"
+      }), ", um Dateien per Drag-and-Drop hochzuladen. Biete\nzusätzlich mit ", _jsx(_components.code, {
+        children: "<Button />"
+      }), " eine alternative Möglichkeit an."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Vorgegebene Dateitypen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Text />"
+      }), ", um den User über erlaubte Dateitypen und maximale\nDateigrößen beim Hochladen zu informieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "type",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mehrere Dateien"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über die Property ", _jsx(_components.code, {
+        children: "multiple"
+      }), " wird das gleichzeitige Hochladen mehrerer Dateien\nermöglicht. Beim erneuten Hochladen werden bestehende Dateien ersetzt. Wenn\nDateien nacheinander hochgeladen werden sollen, kombiniere die FileDropZone mit\nder ", _jsx(_components.a, {
+        href: "/03-components/upload/file-card-list/overview",
+        children: "FileCardList"
+      }), "."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "multiple",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombinieren mit..."
+    }), "\n", _jsx(_components.h2, {
+      children: "FileCardList"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn User Dateien nach dem Hochladen hinzufügen und auch wieder entfernen\nsollen, kombiniere die FileDropZone mit der FileCardList. Die\n", _jsx(_components.a, {
+        href: "/03-components/upload/file-card-list/overview",
+        children: "FileCardList"
+      }), " zeigt die\nzwischengespeicherten Dateien."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "fileCardList",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T4af,import {
+  Button,
+  FileCard,
+  FileCardList,
+  FileDropZone,
+  FileField,
+  Heading,
+  IconUpload,
+  Section,
+} from "@mittwald/flow-react-components";
+import { useState } from "react";
+
+export default () => {
+  const [files, setFiles] = useState<File[]>([]);
+
+  return (
+    <Section>
+      <FileDropZone
+        multiple
+        onChange={(value) => {
+          if (value) {
+            setFiles([...files, ...value]);
+          }
+        }}
+      >
+        <IconUpload />
+        <Heading>Dateien ablegen</Heading>
+        <FileField
+          name="file"
+          onChange={(value) => {
+            if (value) {
+              setFiles([...files, ...value]);
+            }
+          }}
+        >
+          <Button>Dateien auswählen</Button>
+        </FileField>
+      </FileDropZone>
+
+      <FileCardList>
+        {files.map((file) => (
+          <FileCard
+            name={file.name}
+            type={file.type}
+            key={file.name}
+            sizeInBytes={file.size}
+            onDelete={() =>
+              setFiles(
+                files.filter((watched) => watched !== file),
+              )
+            }
+          />
+        ))}
+      </FileCardList>
+    </Section>
+  );
+};
+a:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"overview","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/upload/file-drop-zone/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconUpload,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone onChange={(files) => console.log(files)}>\n    <IconUpload />\n    <Heading>Datei ablegen</Heading>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Datei auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n","fileCardList":"$13","multiple":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconUpload,\n  Section,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone\n    multiple\n    onChange={(files) => console.log(files)}\n  >\n    <IconUpload />\n    <Heading>Dateien ablegen</Heading>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Dateien auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n","type":"import {\n  Button,\n  FileDropZone,\n  FileField,\n  Heading,\n  IconImage,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <FileDropZone\n    accept=\"image/png\"\n    onChange={(files) => console.log(files)}\n  >\n    <IconImage />\n    <Heading>Bild ablegen</Heading>\n    <Text>\n      Es sind nur Bilder vom Typ image/png erlaubt.\n    </Text>\n    <FileField\n      name=\"file\"\n      onChange={(files) => console.log(files)}\n    >\n      <Button>Bild auswählen</Button>\n    </FileField>\n  </FileDropZone>\n</Section>;\n"},"slugs":["upload","file-drop-zone"],"filename":"upload/file-drop-zone/overview.mdx","anchors":["Playground","Vorgegebene Dateitypen","Mehrere Dateien","Kombinieren mit..."]}}]}]]}],"$L14","$L15"]}]}]}],"$L16"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2242/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+c:["$","script","script-1",{"src":"/flow-previews/docs/2242/merge/_next/static/chunks/42106cc12532b056.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+14:["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/upload/file-drop-zone/develop","children":"Develop"}],false]}]
+15:["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/upload/file-drop-zone/guidelines","children":"Guidelines"}],false]}]
+16:["$","$L1a",null,{"currentPath":"/03-components/upload/file-drop-zone/overview","anchors":"$a:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+19:null
