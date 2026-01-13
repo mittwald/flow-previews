@@ -1,0 +1,504 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"default"]
+10:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Flex"]
+11:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Tabs"]
+12:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Tab"]
+13:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"TabTitle"]
+1b:I[990002,["/flow-previews/docs/2247/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2247/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[142373,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"default"]
+9:T43f,import {
+  CartesianChart,
+  type CartesianChartEmptyViewProps,
+  Flex,
+  Heading,
+  IconDanger,
+  IconMonitoring,
+  IllustratedMessage,
+  Link,
+  XAxis,
+  YAxis,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const EmptyView = (
+    props: CartesianChartEmptyViewProps,
+  ) => {
+    if (props.data === undefined) {
+      return (
+        <IllustratedMessage color="danger">
+          <IconDanger />
+          <Heading>Laden der Daten fehlgeschlagen</Heading>
+          <Link>Neu laden</Link>
+        </IllustratedMessage>
+      );
+    }
+
+    return (
+      <IllustratedMessage>
+        <IconMonitoring />
+        <Heading>Keine Daten verfügbar</Heading>
+      </IllustratedMessage>
+    );
+  };
+
+  const Chart = (props: CartesianChartEmptyViewProps) => {
+    return (
+      <CartesianChart
+        emptyView={EmptyView}
+        height="300px"
+        flexGrow
+        {...props}
+      >
+        <XAxis />
+        <YAxis />
+      </CartesianChart>
+    );
+  };
+
+  return (
+    <Flex direction="row" grow>
+      <Chart />
+      <Chart data={[]} />
+    </Flex>
+  );
+};
+a:T672,import {
+  Area,
+  CartesianChart,
+  CartesianGrid,
+  ChartTooltip,
+  ChartLegend,
+  XAxis,
+  YAxis,
+  Section,
+  Heading,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Heading>CPU</Heading>
+  <CartesianChart
+    data={[
+      {
+        Zeit: "0 Uhr",
+        Datenbanken: 40,
+        Projekte: 24,
+      },
+      {
+        Zeit: "1 Uhr",
+        Datenbanken: 30,
+        Projekte: 13,
+      },
+      {
+        Zeit: "2 Uhr",
+        Datenbanken: 20,
+        Projekte: 78,
+      },
+      {
+        Zeit: "3 Uhr",
+        Datenbanken: 27,
+        Projekte: 39,
+      },
+    ]}
+    height="200px"
+    syncId="syncedCharts"
+  >
+    <CartesianGrid />
+    <Area dataKey="Datenbanken" />
+    <Area dataKey="Projekte" color="palatinate-blue" />
+    <XAxis dataKey="Zeit" />
+    <YAxis domain={[0, 100]} unit=" %" />
+    <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />
+  </CartesianChart>
+  <Heading>RAM</Heading>
+  <CartesianChart
+    data={[
+      {
+        Zeit: "0 Uhr",
+        Datenbanken: 39,
+        Projekte: 27,
+      },
+      {
+        Zeit: "1 Uhr",
+        Datenbanken: 30,
+        Projekte: 13,
+      },
+      {
+        Zeit: "2 Uhr",
+        Datenbanken: 63,
+        Projekte: 10,
+      },
+      {
+        Zeit: "3 Uhr",
+        Datenbanken: 24,
+        Projekte: 40,
+      },
+    ]}
+    height="200px"
+    syncId="syncedCharts"
+  >
+    <CartesianGrid />
+    <Area dataKey="Datenbanken" />
+    <Area dataKey="Projekte" color="palatinate-blue" />
+    <XAxis dataKey="Zeit" />
+    <YAxis domain={[0, 100]} unit=" %" />
+    <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />
+    <ChartLegend />
+  </CartesianChart>
+</Section>;
+b:T4d8,import {
+  Area,
+  Line,
+  CartesianChart,
+  CartesianGrid,
+  YAxis,
+  XAxis,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const data = [
+    {
+      Zeit: "A",
+      A: 40,
+      B: 45,
+    },
+    {
+      Zeit: "B",
+      A: 32,
+      B: 35,
+    },
+    {
+      Zeit: "C",
+      A: 20,
+      B: 78,
+    },
+    {
+      Zeit: "D",
+      A: 27,
+      B: 39,
+    },
+  ];
+  return (
+    <Row>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Area dataKey="A" />
+        <Area dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Line dataKey="A" />
+        <Line dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Area dataKey="A" />
+        <Line dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+    </Row>
+  );
+};
+0:{"buildId":"Y5NaOBncqYcPeTicHvgpk","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"CartesianChart"}],"CartesianChart ist eine vielseitige Diagrammkomponente zur Darstellung von Metriken über Zeit. Sie kann entweder als Liniendiagramm (Line) oder Flächendiagramm (Area) konfiguriert werden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/CartesianChart","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"default\",\n    zoom: 0.8\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"CartesianChart","description":"CartesianChart ist eine vielseitige Diagrammkomponente zur Darstellung von Metriken über Zeit. Sie kann entweder als Liniendiagramm (Line) oder Flächendiagramm (Area) konfiguriert werden."},"scope":{}},"examples":{"colors":"import {\n  Area,\n  CartesianChart,\n  CartesianGrid,\n  ChartTooltip,\n  ChartLegend,\n  XAxis,\n  YAxis,\n} from \"@mittwald/flow-react-components\";\n\n<CartesianChart\n  data={[\n    {\n      Zeit: \"0 Uhr\",\n      Datenbanken: 40,\n      Projekte: 24,\n    },\n    {\n      Zeit: \"1 Uhr\",\n      Datenbanken: 30,\n      Projekte: 13,\n    },\n    {\n      Zeit: \"2 Uhr\",\n      Datenbanken: 20,\n      Projekte: 78,\n    },\n    {\n      Zeit: \"3 Uhr\",\n      Datenbanken: 27,\n      Projekte: 39,\n    },\n  ]}\n  height=\"300px\"\n>\n  <CartesianGrid />\n  <Area dataKey=\"Datenbanken\" color=\"lime\" />\n  <Area dataKey=\"Projekte\" color=\"#555\" />\n  <XAxis dataKey=\"Zeit\" />\n  <YAxis domain={[0, 100]} unit=\" %\" />\n  <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />\n  <ChartLegend />\n</CartesianChart>;\n","default":"import {\n  Area,\n  CartesianChart,\n  CartesianGrid,\n  ChartTooltip,\n  ChartLegend,\n  XAxis,\n  YAxis,\n} from \"@mittwald/flow-react-components\";\n\n<CartesianChart\n  data={[\n    {\n      Zeit: \"0 Uhr\",\n      Datenbanken: 40,\n      Projekte: 24,\n    },\n    {\n      Zeit: \"1 Uhr\",\n      Datenbanken: 30,\n      Projekte: 13,\n    },\n    {\n      Zeit: \"2 Uhr\",\n      Datenbanken: 20,\n      Projekte: 78,\n    },\n    {\n      Zeit: \"3 Uhr\",\n      Datenbanken: 27,\n      Projekte: 39,\n    },\n  ]}\n  height=\"300px\"\n>\n  <CartesianGrid />\n  <Area dataKey=\"Datenbanken\" />\n  <Area dataKey=\"Projekte\" color=\"palatinate-blue\" />\n  <XAxis dataKey=\"Zeit\" />\n  <YAxis domain={[0, 100]} unit=\" %\" />\n  <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />\n  <ChartLegend />\n</CartesianChart>;\n","emptyView":"$9","synced":"$a","types":"$b"},"slugs":["data-visualisation","cartesian-chart"],"filename":"data-visualisation/cartesian-chart/index.mdx","anchors":[]}}]]}]}],"$Lc"],["$Ld","$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+14:Tea5,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<CartesianChart />"
+      }), ", um ein CartesianChart darzustellen. Beachte\ndabei, dass zum Rendern entweder das übergeordnete Parent eine feste Höhe\nvorgeben muss oder das Chart selbst über die Property ", _jsx(_components.code, {
+        children: "height"
+      }), " eine eigene Höhe\nerhalten muss."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Darstellungstypen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Im CartesianChart können unterschiedliche Darstellungstypen wie ", _jsx(_components.code, {
+        children: "<Area />"
+      }), ",\n", _jsx(_components.code, {
+        children: "<Line />"
+      }), " oder eine Kombination aus beiden verwendet werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "types",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Color"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Für die Farbgebung der Daten können\n", _jsx(_components.a, {
+        href: "/02-foundations/01-design/02-colors#categorical-color",
+        children: "Categorical Colors"
+      }), " oder\neigene Farben verwendet werden. Es sollte sichergestellt sein, dass Farben, die\ndirekt nebeneinander liegen, einen ausreichenden Kontrast zueinander haben."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "colors",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Synchronisierte Charts"
+    }), "\n", _jsx(_components.p, {
+      children: "Zwei CartesianCharts können synchronisiert werden, um den gleichen Zeitraum\ndarzustellen. Dadurch lassen sich verschiedene Metriken zeitlich exakt\nvergleichen."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "synced",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h2, {
+      children: "Mit EmptyView"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der EmptyView wird angezeigt, sobald die Property ", _jsx(_components.code, {
+        children: "data"
+      }), " des Charts entweder ein\nleeres Array enthält oder ", _jsx(_components.code, {
+        children: "undefined"
+      }), " ist. Er dient dazu, leere Zustände visuell\nzu kennzeichnen und bietet Orientierung bei Ausnahmefällen wie Ladefehlern,\nfehlgeschlagenen Datenabfragen oder nicht vorhandenen Ergebnissen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "emptyView",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+15:T43f,import {
+  CartesianChart,
+  type CartesianChartEmptyViewProps,
+  Flex,
+  Heading,
+  IconDanger,
+  IconMonitoring,
+  IllustratedMessage,
+  Link,
+  XAxis,
+  YAxis,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const EmptyView = (
+    props: CartesianChartEmptyViewProps,
+  ) => {
+    if (props.data === undefined) {
+      return (
+        <IllustratedMessage color="danger">
+          <IconDanger />
+          <Heading>Laden der Daten fehlgeschlagen</Heading>
+          <Link>Neu laden</Link>
+        </IllustratedMessage>
+      );
+    }
+
+    return (
+      <IllustratedMessage>
+        <IconMonitoring />
+        <Heading>Keine Daten verfügbar</Heading>
+      </IllustratedMessage>
+    );
+  };
+
+  const Chart = (props: CartesianChartEmptyViewProps) => {
+    return (
+      <CartesianChart
+        emptyView={EmptyView}
+        height="300px"
+        flexGrow
+        {...props}
+      >
+        <XAxis />
+        <YAxis />
+      </CartesianChart>
+    );
+  };
+
+  return (
+    <Flex direction="row" grow>
+      <Chart />
+      <Chart data={[]} />
+    </Flex>
+  );
+};
+16:T672,import {
+  Area,
+  CartesianChart,
+  CartesianGrid,
+  ChartTooltip,
+  ChartLegend,
+  XAxis,
+  YAxis,
+  Section,
+  Heading,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Heading>CPU</Heading>
+  <CartesianChart
+    data={[
+      {
+        Zeit: "0 Uhr",
+        Datenbanken: 40,
+        Projekte: 24,
+      },
+      {
+        Zeit: "1 Uhr",
+        Datenbanken: 30,
+        Projekte: 13,
+      },
+      {
+        Zeit: "2 Uhr",
+        Datenbanken: 20,
+        Projekte: 78,
+      },
+      {
+        Zeit: "3 Uhr",
+        Datenbanken: 27,
+        Projekte: 39,
+      },
+    ]}
+    height="200px"
+    syncId="syncedCharts"
+  >
+    <CartesianGrid />
+    <Area dataKey="Datenbanken" />
+    <Area dataKey="Projekte" color="palatinate-blue" />
+    <XAxis dataKey="Zeit" />
+    <YAxis domain={[0, 100]} unit=" %" />
+    <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />
+  </CartesianChart>
+  <Heading>RAM</Heading>
+  <CartesianChart
+    data={[
+      {
+        Zeit: "0 Uhr",
+        Datenbanken: 39,
+        Projekte: 27,
+      },
+      {
+        Zeit: "1 Uhr",
+        Datenbanken: 30,
+        Projekte: 13,
+      },
+      {
+        Zeit: "2 Uhr",
+        Datenbanken: 63,
+        Projekte: 10,
+      },
+      {
+        Zeit: "3 Uhr",
+        Datenbanken: 24,
+        Projekte: 40,
+      },
+    ]}
+    height="200px"
+    syncId="syncedCharts"
+  >
+    <CartesianGrid />
+    <Area dataKey="Datenbanken" />
+    <Area dataKey="Projekte" color="palatinate-blue" />
+    <XAxis dataKey="Zeit" />
+    <YAxis domain={[0, 100]} unit=" %" />
+    <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />
+    <ChartLegend />
+  </CartesianChart>
+</Section>;
+17:T4d8,import {
+  Area,
+  Line,
+  CartesianChart,
+  CartesianGrid,
+  YAxis,
+  XAxis,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const data = [
+    {
+      Zeit: "A",
+      A: 40,
+      B: 45,
+    },
+    {
+      Zeit: "B",
+      A: 32,
+      B: 35,
+    },
+    {
+      Zeit: "C",
+      A: 20,
+      B: 78,
+    },
+    {
+      Zeit: "D",
+      A: 27,
+      B: 39,
+    },
+  ];
+  return (
+    <Row>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Area dataKey="A" />
+        <Area dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Line dataKey="A" />
+        <Line dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+      <CartesianChart flexGrow data={data} height="300px">
+        <CartesianGrid />
+        <Area dataKey="A" />
+        <Line dataKey="B" color="palatinate-blue" />
+        <XAxis dataKey="Zeit" />
+        <YAxis domain={[0, 100]} unit=" %" />
+      </CartesianChart>
+    </Row>
+  );
+};
+c:["$","$L10",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L10",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L11",null,{"selectedKey":"overview","children":[["$","$L12",null,{"id":"overview","children":[["$","$L13",null,{"href":"/03-components/data-visualisation/cartesian-chart/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$14","frontmatter":{},"scope":{}},"examples":{"colors":"import {\n  Area,\n  CartesianChart,\n  CartesianGrid,\n  ChartTooltip,\n  ChartLegend,\n  XAxis,\n  YAxis,\n} from \"@mittwald/flow-react-components\";\n\n<CartesianChart\n  data={[\n    {\n      Zeit: \"0 Uhr\",\n      Datenbanken: 40,\n      Projekte: 24,\n    },\n    {\n      Zeit: \"1 Uhr\",\n      Datenbanken: 30,\n      Projekte: 13,\n    },\n    {\n      Zeit: \"2 Uhr\",\n      Datenbanken: 20,\n      Projekte: 78,\n    },\n    {\n      Zeit: \"3 Uhr\",\n      Datenbanken: 27,\n      Projekte: 39,\n    },\n  ]}\n  height=\"300px\"\n>\n  <CartesianGrid />\n  <Area dataKey=\"Datenbanken\" color=\"lime\" />\n  <Area dataKey=\"Projekte\" color=\"#555\" />\n  <XAxis dataKey=\"Zeit\" />\n  <YAxis domain={[0, 100]} unit=\" %\" />\n  <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />\n  <ChartLegend />\n</CartesianChart>;\n","default":"import {\n  Area,\n  CartesianChart,\n  CartesianGrid,\n  ChartTooltip,\n  ChartLegend,\n  XAxis,\n  YAxis,\n} from \"@mittwald/flow-react-components\";\n\n<CartesianChart\n  data={[\n    {\n      Zeit: \"0 Uhr\",\n      Datenbanken: 40,\n      Projekte: 24,\n    },\n    {\n      Zeit: \"1 Uhr\",\n      Datenbanken: 30,\n      Projekte: 13,\n    },\n    {\n      Zeit: \"2 Uhr\",\n      Datenbanken: 20,\n      Projekte: 78,\n    },\n    {\n      Zeit: \"3 Uhr\",\n      Datenbanken: 27,\n      Projekte: 39,\n    },\n  ]}\n  height=\"300px\"\n>\n  <CartesianGrid />\n  <Area dataKey=\"Datenbanken\" />\n  <Area dataKey=\"Projekte\" color=\"palatinate-blue\" />\n  <XAxis dataKey=\"Zeit\" />\n  <YAxis domain={[0, 100]} unit=\" %\" />\n  <ChartTooltip formatter={(v, k) => `${k}: ${v} %`} />\n  <ChartLegend />\n</CartesianChart>;\n","emptyView":"$15","synced":"$16","types":"$17"},"slugs":["data-visualisation","cartesian-chart"],"filename":"data-visualisation/cartesian-chart/overview.mdx","anchors":["Playground","Darstellungstypen","Color","Synchronisierte Charts"]}}]}]]}],"$L18","$L19"]}]}]}],"$L1a"]}]
+d:["$","script","script-0",{"src":"/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+e:["$","script","script-1",{"src":"/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js","async":true}]
+f:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+18:["$","$L12",null,{"id":"develop","children":[["$","$L13",null,{"href":"/03-components/data-visualisation/cartesian-chart/develop","children":"Develop"}],false]}]
+19:["$","$L12",null,{"id":"guidelines","children":[["$","$L13",null,{"href":"/03-components/data-visualisation/cartesian-chart/guidelines","children":"Guidelines"}],false]}]
+1a:["$","$L1e",null,{"currentPath":"/03-components/data-visualisation/cartesian-chart/overview","anchors":"$c:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+1d:null

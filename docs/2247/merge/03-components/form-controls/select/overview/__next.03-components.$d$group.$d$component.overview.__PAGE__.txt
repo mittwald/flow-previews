@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"default"]
+d:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Flex"]
+e:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Tabs"]
+f:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"Tab"]
+10:I[39682,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"TabTitle"]
+15:I[990002,["/flow-previews/docs/2247/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2247/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[142373,["/flow-previews/docs/2247/merge/_next/static/chunks/27dabd70d3fac66d.js","/flow-previews/docs/2247/merge/_next/static/chunks/d4de3f0047ceeeda.js","/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js"],"default"]
+0:{"buildId":"Y5NaOBncqYcPeTicHvgpk","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Select"}],"Ein Select ermöglicht es Usern, eine einzelne Option aus einer vordefinierten Liste auszuwählen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Select","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Select","description":"Ein Select ermöglicht es Usern, eine einzelne Option aus einer vordefinierten Liste auszuwählen."},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  Select,\n  Label,\n  Option,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <Select>\n    <Label>App</Label>\n    <Option>WordPress</Option>\n    <Option>TYPO3</Option>\n    <Option>Contao</Option>\n    <Option>Drupal</Option>\n    <Option>Joomla!</Option>\n    <Option>Matomo</Option>\n  </Select>\n  <Button>Hinzufügen</Button>\n</Align>;\n","contextualHelp":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Option,\n  Select,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>\n    App\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n</Select>;\n","default":"import {\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>App</Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n</Select>;\n","defaultValue":"import {\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select defaultSelectedKey=\"wordpress\" isRequired>\n  <Label>App</Label>\n  <Option value=\"wordpress\">WordPress</Option>\n  <Option value=\"typo3\">TYPO3</Option>\n</Select>;\n","fieldDescription":"import {\n  FieldDescription,\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>App</Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n  <FieldDescription>Weitere Informationen</FieldDescription>\n</Select>;\n","form":"import {\n  Label,\n  Option,\n  Section,\n  Select,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ app: string }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"app\"\n          rules={{\n            required: \"Bitte wähle eine App aus\",\n          }}\n        >\n          <Select>\n            <Label>App</Label>\n            <Option value=\"wordpress\">WordPress</Option>\n            <Option value=\"typo3\">TYPO3</Option>\n          </Select>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","select"],"filename":"form-controls/select/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+11:Td8d,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Select />"
+      }), ", um einen Select darzustellen. Ein zugehöriges ", _jsx(_components.code, {
+        children: "<Label />"
+      }), " sowie die gewünschte Anzahl an ", _jsx(_components.code, {
+        children: "<Option />"
+      }), "-Elementen werden innerhalb der Component eingefügt."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Default-Wert"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit ", _jsx(_components.code, {
+        children: "defaultSelectedKey"
+      }), " kann eine Default-Option angegeben werden, die dem User standardmäßig zuerst angezeigt wird."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "defaultValue",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "FieldDescription"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Um wichtige Hinweise zu den Auswahloptionen des Select bereitzustellen, kann unterhalb eine ", _jsx(_components.code, {
+        children: "<FieldDescription />"
+      }), " eingebaut werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "fieldDescription",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Align"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Benutze die ", _jsx(_components.a, {
+        href: "/03-components/structure/align/overview",
+        children: "Align"
+      }), " Component, um beispielsweise einen Button\nneben dem Select zu platzieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "align",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "ContextualHelp"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Benutze das ", _jsx(_components.a, {
+        href: "/03-components/overlays/contextual-help/overview",
+        children: "ContextualHelp"
+      }), ", um weitere Informationen bereitstellen zu können."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "contextualHelp",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "React Hook Form"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "form",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Ld",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Le",null,{"selectedKey":"overview","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/form-controls/select/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  Select,\n  Label,\n  Option,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <Select>\n    <Label>App</Label>\n    <Option>WordPress</Option>\n    <Option>TYPO3</Option>\n    <Option>Contao</Option>\n    <Option>Drupal</Option>\n    <Option>Joomla!</Option>\n    <Option>Matomo</Option>\n  </Select>\n  <Button>Hinzufügen</Button>\n</Align>;\n","contextualHelp":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Label,\n  Option,\n  Select,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>\n    App\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Heading>Weitere Informationen</Heading>\n        <Text>\n          Hier gibt es weitere Informationen, die zu lang\n          für die FieldDescription sind.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n</Select>;\n","default":"import {\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>App</Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n</Select>;\n","defaultValue":"import {\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select defaultSelectedKey=\"wordpress\" isRequired>\n  <Label>App</Label>\n  <Option value=\"wordpress\">WordPress</Option>\n  <Option value=\"typo3\">TYPO3</Option>\n</Select>;\n","fieldDescription":"import {\n  FieldDescription,\n  Label,\n  Option,\n  Select,\n} from \"@mittwald/flow-react-components\";\n\n<Select>\n  <Label>App</Label>\n  <Option>WordPress</Option>\n  <Option>TYPO3</Option>\n  <Option>Contao</Option>\n  <Option>Drupal</Option>\n  <Option>Joomla!</Option>\n  <Option>Matomo</Option>\n  <FieldDescription>Weitere Informationen</FieldDescription>\n</Select>;\n","form":"import {\n  Label,\n  Option,\n  Section,\n  Select,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/03-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ app: string }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"app\"\n          rules={{\n            required: \"Bitte wähle eine App aus\",\n          }}\n        >\n          <Select>\n            <Label>App</Label>\n            <Option value=\"wordpress\">WordPress</Option>\n            <Option value=\"typo3\">TYPO3</Option>\n          </Select>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n"},"slugs":["form-controls","select"],"filename":"form-controls/select/overview.mdx","anchors":["Playground","Default-Wert","Kombiniere mit ..."]}}]}]]}],"$L12","$L13"]}]}]}],"$L14"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2247/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+b:["$","script","script-1",{"src":"/flow-previews/docs/2247/merge/_next/static/chunks/1b9ba0905db555d0.js","async":true}]
+c:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+12:["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/form-controls/select/develop","children":"Develop"}],false]}]
+13:["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/form-controls/select/guidelines","children":"Guidelines"}],false]}]
+14:["$","$L18",null,{"currentPath":"/03-components/form-controls/select/overview","anchors":"$9:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+17:null
