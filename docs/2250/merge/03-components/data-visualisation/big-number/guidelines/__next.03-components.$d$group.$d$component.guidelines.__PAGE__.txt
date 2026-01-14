@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"default"]
+9:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"TabTitle"]
+13:I[142373,["/flow-previews/docs/2250/merge/_next/static/chunks/a909d664ee4e5322.js","/flow-previews/docs/2250/merge/_next/static/chunks/2708df728141c6ab.js","/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js"],"default"]
+14:I[990002,["/flow-previews/docs/2250/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2250/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"buildId":"H23A_BXx0nxzaN30np9q0","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"BigNumber"}],"Die BigNumber dient der prominenten Darstellung numerischer Werte innerhalb einer Oberfläche. Sie wird vorrangig eingesetzt, um Kennzahlen oder Metriken übersichtlich und visuell hervorzuheben.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/BigNumber","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"BigNumber","description":"Die BigNumber dient der prominenten Darstellung numerischer Werte innerhalb einer Oberfläche. Sie wird vorrangig eingesetzt, um Kennzahlen oder Metriken übersichtlich und visuell hervorzuheben."},"scope":{}},"examples":{"accent-box":"import {\n  AccentBox,\n  BigNumber,\n  Button,\n  ColumnLayout,\n  Flex,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout>\n  <AccentBox>\n    <Flex direction=\"column\" gap=\"s\" align=\"center\">\n      <BigNumber>\n        <Text>250 ms</Text>\n        <Text>Dateioperationen</Text>\n      </BigNumber>\n      <Text>\n        <small>Geringer Optimierungsbedarf</small>\n      </Text>\n      <Button size=\"s\" variant=\"outline\" color=\"secondary\">\n        Details anzeigen\n      </Button>\n    </Flex>\n  </AccentBox>\n  <AccentBox>\n    <Flex direction=\"column\" gap=\"xs\" align=\"center\">\n      <BigNumber>\n        <Text>100 ms</Text>\n        <Text>Serveroperationen</Text>\n      </BigNumber>\n      <Text>\n        <small>Optimierungsbedarf</small>\n      </Text>\n      <Button size=\"s\" variant=\"outline\" color=\"secondary\">\n        Details anzeigen\n      </Button>\n    </Flex>\n  </AccentBox>\n</ColumnLayout>;\n","default":"import {\n  BigNumber,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<BigNumber>\n  <Text>69%</Text>\n  <Text>Performance</Text>\n</BigNumber>;\n","rating":"import {\n  BigNumber,\n  Flex,\n  Rating,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Flex direction=\"column\" gap=\"s\" align=\"center\">\n  <BigNumber>\n    <Text>80%</Text>\n    <Text>Performance</Text>\n  </BigNumber>\n  <Rating value={4} />\n</Flex>;\n"},"slugs":["data-visualisation","big-number"],"filename":"data-visualisation/big-number/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":"$La"}]}],"$Lb"]}]],["$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+12:Tb48,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer BigNumber darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "der dargestellte Wert für die User eine unmittelbare Relevanz oder\nAussagekraft besitzt."
+      }), "\n", _jsxs(_components.li, {
+        children: ["ausreichend Raum zur Verfügung steht, damit die Zahl optisch wirken kann und\nnicht mit anderen Elementen konkurriert. Nutze dafür zum Beispiel die\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/03-components/structure/accent-box",
+          children: "AccentBox"
+        }), "."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["eine Kombination mit anderen Components – etwa einem\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/03-components/content/rating",
+          children: "Rating"
+        }), " – den\nInformationsgehalt erhöht."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende eine BigNumber, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "zentrale Kennzahlen auf einem Dashboard schnell erfassbar zu machen."
+      }), "\n", _jsx(_components.li, {
+        children: "den Fokus gezielt auf einen einzelnen Wert zu lenken."
+      }), "\n", _jsxs(_components.li, {
+        children: ["in Kombination mit einer\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/03-components/structure/accent-box",
+          children: "AccentBox"
+        }), "\neine visuelle Gruppierung aus Wert und Beschreibung zu schaffen."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["durch Ergänzung mit einem\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/03-components/content/rating",
+          children: "Rating"
+        }), "\nzusätzliche Einordnung oder Bewertung zu ermöglichen."]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+a:["$","$Lf",null,{"selectedKey":"guidelines","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/03-components/data-visualisation/big-number/overview","children":"Overview"}],false]}],["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/03-components/data-visualisation/big-number/develop","children":"Develop"}],false]}],["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/03-components/data-visualisation/big-number/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"accent-box":"import {\n  AccentBox,\n  BigNumber,\n  Button,\n  ColumnLayout,\n  Flex,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ColumnLayout>\n  <AccentBox>\n    <Flex direction=\"column\" gap=\"s\" align=\"center\">\n      <BigNumber>\n        <Text>250 ms</Text>\n        <Text>Dateioperationen</Text>\n      </BigNumber>\n      <Text>\n        <small>Geringer Optimierungsbedarf</small>\n      </Text>\n      <Button size=\"s\" variant=\"outline\" color=\"secondary\">\n        Details anzeigen\n      </Button>\n    </Flex>\n  </AccentBox>\n  <AccentBox>\n    <Flex direction=\"column\" gap=\"xs\" align=\"center\">\n      <BigNumber>\n        <Text>100 ms</Text>\n        <Text>Serveroperationen</Text>\n      </BigNumber>\n      <Text>\n        <small>Optimierungsbedarf</small>\n      </Text>\n      <Button size=\"s\" variant=\"outline\" color=\"secondary\">\n        Details anzeigen\n      </Button>\n    </Flex>\n  </AccentBox>\n</ColumnLayout>;\n","default":"import {\n  BigNumber,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<BigNumber>\n  <Text>69%</Text>\n  <Text>Performance</Text>\n</BigNumber>;\n","rating":"import {\n  BigNumber,\n  Flex,\n  Rating,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Flex direction=\"column\" gap=\"s\" align=\"center\">\n  <BigNumber>\n    <Text>80%</Text>\n    <Text>Performance</Text>\n  </BigNumber>\n  <Rating value={4} />\n</Flex>;\n"},"slugs":["data-visualisation","big-number"],"filename":"data-visualisation/big-number/guidelines.mdx","anchors":["Grundlagen"]}}]}]]}]]}]
+b:["$","$L13",null,{"currentPath":"/03-components/data-visualisation/big-number/guidelines","anchors":"$a:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2250/merge/_next/static/chunks/ade46dea9845fb10.js","async":true}]
+d:["$","script","script-1",{"src":"/flow-previews/docs/2250/merge/_next/static/chunks/3cf3af2341c2c4d4.js","async":true}]
+e:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null
