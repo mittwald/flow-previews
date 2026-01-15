@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js"],"default"]
+2:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2253/merge/_next/static/chunks/3f126f80ddaeebb2.js","/flow-previews/docs/2253/merge/_next/static/chunks/076d53374755b599.js","/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js"],"default"]
 10:I[990002,["/flow-previews/docs/2253/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2253/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 11:"$Sreact.suspense"
 7:T49b,"use strict";
@@ -279,7 +279,7 @@ export default () => {
     </Form>
   );
 };
-0:{"buildId":"4I9XLpbFVuOIKRxwpRoPN","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+0:{"buildId":"fhThD9hhgbJs39jQX8PPq","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
 d:T289a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -720,6 +720,6 @@ export default () => {
   );
 };
 a:["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"form":"$e","validation":"$f"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":["Aufbau einer Form","Aufbau eines Form Controls","Validation"]}}]}]
-b:["$","script","script-0",{"src":"/flow-previews/docs/2253/merge/_next/static/chunks/02d39af66450a7de.js","async":true}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2253/merge/_next/static/chunks/79093c96c0ca7476.js","async":true}]
 c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
 12:null
