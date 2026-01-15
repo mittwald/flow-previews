@@ -1,0 +1,18 @@
+import i from"./Default.stories-DLh6-Reg.js";import{F as p}from"./FileCard-C2afFItt.js";import{d as t}from"./dummyText-CX_I_Wpl.js";import"./iframe-pcvtdEGM.js";import"./preload-helper-PPVm8Dsz.js";import"./ContextMenu-DJR2fZHZ.js";import"./clsx-B-dksMZM.js";import"./flowComponent-BsMfbHRX.js";import"./index-qOUwp4oz.js";import"./index-YznY-g7A.js";import"./IconWarning-BUxMadyi.js";import"./remote-O2EONUZN.js";import"./Switch-RCsrPuWC.js";import"./useFieldComponent-DX_YsVYS.js";import"./Label.module-CUYTf9Jc.js";import"./utils-fsWZtkeO.js";import"./filterDOMProps-i7L6S0l1.js";import"./useToggleState-CHUJbcAS.js";import"./useFormReset-D7xZNI6Q.js";import"./usePress-Dv_EQiAe.js";import"./useFocus-B8eWYfgC.js";import"./useFocusRing-Zb0us3UP.js";import"./useFocusable-3pO1u96t.js";import"./useControlledState-CJg030Qn.js";import"./VisuallyHidden-DxWu5xEc.js";import"./Dialog-DwYtEz4y.js";import"./Button-C7g9LfsB.js";import"./ProgressBar-BJtj52rd.js";import"./Label-BTMeT-8z.js";import"./Hidden-DReGI82W.js";import"./useLabel-D_iN71C8.js";import"./context-We2COa_S.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./RSPContexts-DZfuqB-R.js";import"./OverlayArrow-KSA73Rxs.js";import"./Collection-CigrVSlS.js";import"./CollectionBuilder-Bto5ITGH.js";import"./SelectionIndicator-PrkU8Fpu.js";import"./Separator-CvwRIy8P.js";import"./Text-DqkI-mFO.js";import"./SelectionManager-DshmmqnA.js";import"./useEvent-D-kKKOwz.js";import"./useCollator-BbVXsX3o.js";import"./FocusScope-Da3nqOUO.js";import"./useLocalizedStringFormatter-vFyNiPiP.js";import"./Action-DJjvSFsd.js";import"./context-rIsit77n.js";import"./useStatic-BCDrLUdV.js";import"./browser-DdUrC3oM.js";import"./getActionGroupSlot-CPo9rPQE.js";import"./dynamic-CjFFErYF.js";import"./ContextMenuSection-CnsRFJEn.js";import"./Popover-DAaX80Bn.js";import"./useOverlayController-DYra3gnv.js";import"./OverlayContextProvider-B8OuVkDx.js";import"./ContextMenuTrigger-mJDnczT7.js";import"./OverlayTrigger-AmfCki8T.js";import"./Label-CRIab_7x.js";import"./ProgressBar-CrBQVIdb.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-DoSGnXJh.js";import"./Text-B9qmJggM.js";import"./EmulatedBoldText-BoMrbuLQ.js";import"./Button-uyxj5lKX.js";import"./LoadingSpinner-CRozfiA2.js";import"./Avatar-Cjun65_-.js";import"./AlertIcon-CRV-RQ9G.js";import"./Image-s1YoCCRN.js";import"./Link-F1t-GURJ.js";import"./OptionsButton-BZOHUOOS.js";import"./ButtonView-CX1Lh7Nh.js";import"./ContextMenuTriggerView-AB6-yj8e.js";const{action:m}=__STORYBOOK_MODULE_ACTIONS__,zo={...i,title:"Upload/FileCard/Edge Cases",component:p},o={args:{name:t.long,sizeInBytes:47500,onDelete:()=>{m("onDelete")}}},r={args:{name:t.long,sizeInBytes:47500,onDelete:()=>{m("onDelete")},href:"#"}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    }
+  }
+}`,...o.parameters?.docs?.source}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  args: {
+    name: dummyText.long,
+    sizeInBytes: 47500,
+    onDelete: () => {
+      action("onDelete");
+    },
+    href: "#"
+  }
+}`,...r.parameters?.docs?.source}}};const Co=["LongName","LongNameAndLink"];export{o as LongName,r as LongNameAndLink,Co as __namedExportsOrder,zo as default};
