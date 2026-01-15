@@ -1,0 +1,1 @@
+import{r as o,j as t}from"./iframe-pcvtdEGM.js";import{D as g}from"./OverlayTrigger-AmfCki8T.js";import{v as s}from"./flowComponent-BsMfbHRX.js";const e=o.memo(r=>{const i=o.useContext(s).DialogTrigger??g;return t.jsx(i,{...r})});e.displayName="DialogTriggerView";e.__docgenInfo={description:"",methods:[],displayName:"DialogTriggerView"};export{e as D};
