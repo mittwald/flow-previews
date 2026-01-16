@@ -1,0 +1,447 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/26f7351ba0300949.js","/flow-previews/docs/2255/merge/_next/static/chunks/b66ae8af9190e048.js","/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/26f7351ba0300949.js","/flow-previews/docs/2255/merge/_next/static/chunks/b66ae8af9190e048.js","/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/26f7351ba0300949.js","/flow-previews/docs/2255/merge/_next/static/chunks/b66ae8af9190e048.js","/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/26f7351ba0300949.js","/flow-previews/docs/2255/merge/_next/static/chunks/b66ae8af9190e048.js","/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/26f7351ba0300949.js","/flow-previews/docs/2255/merge/_next/static/chunks/b66ae8af9190e048.js","/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js"],"default"]
+b:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2255/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+7:T542,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "Error- und Loading Boundaries sind ein zentrales Werkzeug, um Ladezustände anzuzeigen und Fehler im UI gezielt abzufangen. Sie verhindern, dass Fehler unkontrolliert die gesamte Anwendung zum Absturz bringen, und bieten die Möglichkeit, Usern eine verständliche Rückmeldung zu geben. Gleichzeitig unterstützen sie Entwicklern durch Logging und Monitoring bei der Fehleranalyse."
+    }), "\n", _jsx(_components.p, {
+      children: "Da jede Anwendung unterschiedliche Anforderungen hat, gibt es kein universelles Schema, wo und wie Boundaries am besten platziert werden. Die folgenden Best practices sollen bei der Orientierung und Entscheidungsfindung helfen."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+8:T5c17,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    p: "p",
+    pre: "pre",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ..._provideComponents(),
+    ...props.components
+  }, {Alert, Content, Heading} = _components;
+  if (!Alert) _missingMdxReference("Alert", true);
+  if (!Content) _missingMdxReference("Content", true);
+  if (!Heading) _missingMdxReference("Heading", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(Alert, {
+      children: [_jsx(Heading, {
+        children: "Guideline für interne Teams"
+      }), _jsx(Content, {
+        children: _jsx(_components.p, {
+          children: "Diese Guideline richtet sich in erster Linie an das interne Team von\nmittwald und setzt entsprechendes Vorwissen voraus. Die darin genannten\nKomponenten beziehen sich auf interne mStudio-Komponenten."
+        })
+      })]
+    }), "\n", _jsx(_components.h1, {
+      children: "Technische Umsetzung"
+    }), "\n", _jsx(_components.p, {
+      children: "Bei der Platzierung der Boundaries empfiehlt es sich, vom Groben ins Detail\nvorzugehen. Entscheidend ist eine gute Balance: Zu viele kleine Boundaries\nerhöhen die Komplexität, zu wenige gefährden hingegen die Stabilität großer\nTeile der Anwendung."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "Typ"
+          }), _jsx(_components.th, {
+            children: "Verwendung"
+          }), _jsx(_components.th, {
+            children: "Element"
+          }), _jsx(_components.th, {
+            children: "Fehlerfall"
+          }), _jsx(_components.th, {
+            children: "Loading"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "LayoutCard"
+            })
+          }), _jsx(_components.td, {
+            children: "Äußerste Boundary einer Seite"
+          }), _jsx(_components.td, {
+            children: "LayoutCard"
+          }), _jsx(_components.td, {
+            children: "LayoutCard mit IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "LayoutCard mit Sections mit mehrzeiligen Skeletons"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "LayoutCardFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Dashboards mit ungewisser Anzahl und Breite der Kacheln"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "LayoutCard mit IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "LayoutCard mit Sections mit mehrzeiligen Skeletons"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "SectionsFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Äußerste Boundary in Tabs"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "Sections mit mehrzeiligen Skeletons"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Section"
+            })
+          }), _jsx(_components.td, {
+            children: "Ersetzt normale Sections"
+          }), _jsx(_components.td, {
+            children: "Section"
+          }), _jsx(_components.td, {
+            children: "Fehler Section"
+          }), _jsx(_components.td, {
+            children: "Mehrzeilige Skeletons"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "ContentFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für mehrzeilige Inhalte"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "Fehler Section"
+          }), _jsx(_components.td, {
+            children: "Mehrzeilige Skeletons"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Fragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Inhalte die im Lade / Fehlerzustand nicht angezeigt werden"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "Nichts"
+          }), _jsx(_components.td, {
+            children: "Nichts"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Modal"
+            })
+          }), _jsx(_components.td, {
+            children: "Ersetzt normale Modals"
+          }), _jsx(_components.td, {
+            children: "Modal"
+          }), _jsx(_components.td, {
+            children: "IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "LoadingView der Flow Component"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "ContextMenu"
+            })
+          }), _jsx(_components.td, {
+            children: "Ersetzt normale ContextMenus"
+          }), _jsx(_components.td, {
+            children: "ContextMenu"
+          }), _jsx(_components.td, {
+            children: "MenuItems mit Fehler Text"
+          }), _jsx(_components.td, {
+            children: "MenuItems mit Skeleton"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "ChartFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für CartesianCharts"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "CartesianChart mit IllustratedMessage"
+          }), _jsx(_components.td, {
+            children: "CartesianChart mit LoadingSpinner"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "FieldFragment"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Form Fields mit nachgeladenen Inhalten"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "Fehler Text"
+          }), _jsx(_components.td, {
+            children: "TextField"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Avatar"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Avatare"
+          }), _jsx(_components.td, {
+            children: "Avatar"
+          }), _jsx(_components.td, {
+            children: "Avatar mit Fehler Icon"
+          }), _jsx(_components.td, {
+            children: "Avatar mit Skeleton"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Link"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Links"
+          }), _jsx(_components.td, {
+            children: "Link"
+          }), _jsx(_components.td, {
+            children: "Fehler Text"
+          }), _jsx(_components.td, {
+            children: "Einzeiliges Skeleton"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "Text"
+            })
+          }), _jsx(_components.td, {
+            children: "Für Texte"
+          }), _jsx(_components.td, {
+            children: "Text"
+          }), _jsx(_components.td, {
+            children: "Fehler Text"
+          }), _jsx(_components.td, {
+            children: "Einzeiliges Skeleton"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: _jsx(_components.code, {
+              children: "String"
+            })
+          }), _jsx(_components.td, {
+            children: "Für einzeilige Inhalte"
+          }), _jsx(_components.td, {
+            children: "Fragment"
+          }), _jsx(_components.td, {
+            children: "Fehler Text"
+          }), _jsx(_components.td, {
+            children: "Einzeiliges Skeleton"
+          })]
+        })]
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Inhalte einer LayoutCard (WithBoundaries.LayoutCard)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Sind Funktionen oder Informationen einer LayoutCard essenziell für die Nutzung\nder Seite, sollte die gesamte LayoutCard mit ", _jsx(_components.code, {
+        children: "WithBoundaries.LayoutCard"
+      }), "\numschlossen sein. Dabei wird die Anzahl der geladenen Sections als\n", _jsx(_components.code, {
+        children: "sectionsCount"
+      }), " mitgegeben, um die LoadingView passend darzustellen."]
+    }), "\n", _jsx(_components.h3, {
+      children: "Listenseite"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine Listenseite enthält in der Regel eine einzelne Section. Der ", _jsx(_components.code, {
+        children: "sectionsCount"
+      }), "\nbeträgt hier daher 1. Der Count der Liste wird zuerst geladen, damit die gesamte\nListe im Fehlerfall in die ErrorView wechseln kann."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const CronjobsPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 1 }}>\n    {() => {\n      const { projectId } = usePathParams(\"projectId\");\n      const projectGhost = ProjectGhost.ofId(projectId);\n      const cronjobCount = projectGhost.cronjobs.getTotalCount().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={projectGhost} />\n          <WithBoundaries.Section>\n            {backupCount === 0 ? <CronjobIllustratedMessage project={projectGhost} /> : <CronjobList project={projectGhost} />}\n          </WithBoundaries.Section>\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
+      })
+    }), "\n", _jsx(_components.h3, {
+      children: "Detailseite"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der ", _jsx(_components.code, {
+        children: "sectionsCount"
+      }), " sollte der erwarteten Anzahl an Sections entsprechen. So\nbleibt das Layout während des Ladevorgangs stabil. Das Hauptelement der Seite\nwird zuerst geladen, damit im Fehlerfall für die gesamte Seite eine ErrorView\nangezeigt werden kann."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const CronjobPage: FC = () => (\n  <WithBoundaries.LayoutCard suspenseFallbackProps={{ sectionsCount: 2 }}>\n    {() => {\n      const { cronjobId } = usePathParams(\"cronjobId\");\n      const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n      return (\n        <>\n          <ProjectDeactivatedAlert project={cronjob.project} />\n          <GeneralSection cronjob={cronjob} />\n          <IntervalSection cronjob={cronjob} />\n        </>\n      );\n    }}\n  </WithBoundaries.LayoutCard>\n);\n"
+      })
+    }), "\n", _jsx(_components.h3, {
+      children: "Tab (WithBoundaries.SectionsFragment)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Manche Seiten verteilen Inhalte auf mehrere Tabs. In solchen Fällen kann es\nsinnvoll sein, Tabs separat abzusichern. Dafür eignet sich\n", _jsx(_components.code, {
+        children: "WithBoundaries.SectionsFragment"
+      }), "."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const CronjobTabs: FC = () => (\n  <LayoutCard>\n    <Tabs>\n      <Tab>\n        <TabTitle>Allgemein</TabTitle>\n        <WithBoundaries.SectionsFragment suspenseFallbackProps={{ sectionsCount: 3 }}>\n          {() => {\n            const { cronjobId } = usePathParams(\"cronjobId\");\n            const cronjob = CronjobGhost.ofId(cronjobId).getCommon().use();\n\n            return (\n              <>\n                <ProjectDeactivatedAlert project={cronjob.project} />\n                <GeneralSection cronjob={cronjob} />\n                <IntervalSection cronjob={cronjob} />\n              </>\n            );\n          }}\n        </WithBoundaries.SectionsFragment>\n      </Tab>\n    </Tabs>\n  </LayoutCard>\n);\n"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Modals (WithBoundaries.Modal)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Für Modals sollte immer ein ", _jsx(_components.code, {
+        children: "WithBoundaries.Modal"
+      }), " verwendet werden. Dies\nverhindert auch das Nachladen von Daten innerhalb des Modals, bevor das Modal\ngeöffnet wird."]
+    }), "\n", _jsx(_components.h3, {
+      children: "Inhalte von Forms in Modals"
+    }), "\n", _jsx(_components.p, {
+      children: "Eine teilweise geladene oder fehlerhafte Form untergräbt das Vertrauen der User\nund kann zu unvollständigen oder inkonsistenten Daten führen. Sobald innerhalb\nder Form ein Fehler auftritt, fällt automatisch das ganze Modal in eine\nErrorView, auch wenn es darin noch Boundaries gibt."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "interface Props {\n  cronjob:CronjobProxy;\n  controller?: OverlayController;\n}\n\nexport const RenameCronjobModal: FC<Props> = (props) => (\n  <WithBoundaries.Modal controller={props.controller}>\n    {() => {\n      const { cronjobProxy } = asProxyProps(props, [\"cronjob\"]);\n      const controller = useOverlayController(\"Modal\");\n      const form = useForm();\n      const handleOnSubmit = async () => {\n        ...\n        controller.close();\n      };\n\n      return (\n        <Form form={form} onSubmit={handleOnSubmit}>\n          ...\n        </Form>\n      );\n    }}\n  </WithBoundaries.Modal>\n);\n"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Inhalte einzelner Sections (WithBoundaries.Section)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine Section kann ergänzende Informationen oder Funktionen aus einem anderen\nService enthalten, die das primäre Nutzererlebnis der Seite nicht einschränken.\nIn solchen Fällen lohnt sich eine Abgrenzung über ", _jsx(_components.code, {
+        children: "WithBoundaries.Section"
+      }), ". So\nbleiben Fehler auf einen kleinen Bereich beschränkt, ohne die gesamte Seite zu\ngefährden."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const AppInstallationSection: FC<Props> = (props) => (\n  <WithBoundaries.Section>\n    {() => {\n      const { cronjobGhost } = asGhostProps(props);\n      const appInstallation = cronjobGhost.getCommon().linkedAppInstallation.getCommon().use();\n      const t = useTCronjob();\n\n      return (\n        <>...</>\n      );\n    }}\n  </WithBoundaries.Section>\n);\n"
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Sonderfall:"
+      }), " Manche Sections werden nur unter bestimmten Bedingungen\nangezeigt. In diesen Situationen soll keine eigene LoadingView erzeugt werden,\ndamit Nutzer kein Ladeverhalten sehen, das später nicht zu einem sichtbaren\nErgebnis führt. Für solche Fälle eignet sich ", _jsx(_components.code, {
+        children: "WithBoundaries.Fragment"
+      }), ", da es\ndie Section schützt, ohne einen sichtbaren Ladezustand zu erzeugen."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const AppInstallationSection: FC<Props> = (props) => (\n  <WithBoundaries.Fragment>\n    {() => {\n      const { cronjobGhost } = asGhostProps(props);\n      const cronjob = cronjobGhost.getCommon().use();\n      const t = useTCronjob();\n\n      if(!cronjob.linkedAppInstallation){\n        return null;\n      }\n\n      return (\n        <Section>...</Section>\n      );\n    }}\n  </WithBoundaries.Fragment>\n);\n"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Inhalte eines Diagramms (WithBoundaries.ChartFragment)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Diagramme beziehen in der Regel viele Daten aus externen Services und sind daher\nfehleranfällig. Sie sollten immer von einer Boundary umschlossen werden. Für das\n", _jsx(_components.code, {
+        children: "CartesianChart"
+      }), " gibt es hierfür das ", _jsx(_components.code, {
+        children: "WithBoundaries.ChartFragment"
+      }), "."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<WithBoundaries.ChartFragment>\n  <CartesianChart>...</CartesianChart>\n</WithBoundaries.ChartFragment>\n"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Inhalte einzelner kleinerer Elemente"
+    }), "\n", _jsx(_components.p, {
+      children: "Kleine Elemente wie Texte, Links, Badges, Actions oder ContextMenus werden oft\ndynamisch geladen, da sie das Nutzungserlebnis der Seite lediglich ergänzen.\nDiese sollten daher separat geschützt werden, um nicht die gesamte Seite zu\nblockieren. Diese Elemente besitzen oft keine eigene ErrorView und erscheinen im\nFehlerfall nicht oder verbleiben in ihrem Ladezustand."
+    }), "\n", _jsx(_components.h3, {
+      children: "Texte (WithBoundaries.Text)"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<LabeledValue>\n  <Label>{t(\"projectShortId\")}</Label>\n  <WithBoundaries.Text>\n    {() =>  projectGhost.getCommon().use().shortId }\n  </WithBoundaries.Text>\n</LabeledValue>\n"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "Zusätzlich gibt es Components die direkt auf ein Model angewendet werden können\nund eine eingebaute Boundary besitzen."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<ModelLink model={cronjob}>\n  <ModelTitle model={cronjob} />\n</ModelLink>\n\n<ModelLabeledValue model={cronjob}/>\n"
+      })
+    }), "\n", _jsx(_components.h3, {
+      children: "Alerts / Badges (WithBoundaries.Fragment)"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Alerts und Badges ergänzen eine Seite oft nur um kleine Hinweise oder\nStatusinformationen. Sie werden in ein ", _jsx(_components.code, {
+        children: "WithBoundaries.Fragment"
+      }), " verpackt. So\nbleiben sie geschützt, ohne eine eigene LoadingView auszulösen."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const CustomerBankruptAlert: FC<Props> = (props) => (\n  <WithBoundaries.Fragment>\n    {() => {\n      const { customerProxy, asBadge } = asProxyProps(props, [\"customer\"]);\n      const isBankrupt = customerProxy.getDetailed().isBankrupt().use();\n\n      if (!isBankrupt) {\n        return null;\n      }\n\n      if (asBadge) {\n        return <AlertBadge>...</AlertBadge>\n      }\n\n      return <Alert>...</Alert>;\n    }}\n  </WithBoundaries.Fragment>\n);\n"
+      })
+    }), "\n", _jsx(_components.h3, {
+      children: "Field (WithBoundaries.FieldFragment)"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const AppInstallationSelectField: FC<Props> = (props) => {\n  const { name, label, projectGhost } = asGhostProps(props, [\"project\"]);\n\n  return (\n    <WithBoundaries.FieldFragment suspenseFallbackProps={{ label }}>\n      {() => {\n        const appInstallations = projectGhost.appInstallations.execute().use().items;\n\n        return (\n          <Field name={name}>\n            <Select isDisabled={appInstallations.length === 0}>\n              <Label>{label}</Label>\n              {sortedAppInstallations.map((i) => (\n                <Option key={i.id} value={i.id}>\n                  {i.description}\n                </Option>\n              ))}\n            </Select>\n          </Field>\n        );\n      }}\n    </WithBoundaries.FieldFragment>\n  );\n};\n"
+      })
+    }), "\n", _jsx(_components.h3, {
+      children: "ContextMenu (WithBoundaries.ContextMenu)"
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "export const ActionsContextMenu: FC<Props> = (props) => {\n  const { cronjobProxy } = asProxyProps(props);\n  const deleteModalController = useOverlayController(\"Modal\");\n\n  return (\n    <>\n      <WithBoundaries.ContextMenu placement=\"bottom end\">\n        {() => {\n          const cronjob = cronjobProxy.getCommon().use();\n          return <DeleteMenuItem onAction={() => deleteModalController.open()} />;\n        }}\n      </WithBoundaries.ContextMenu>\n\n      <DeleteCronjobModal\n        controller={deleteModalController}\n        cronjob={cronjobProxy}\n      />\n    </>\n  );\n};\n"
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Weitere Empfehlungen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein durchdachtes Loading und ErrorBoundary Konzept endet nicht bei der\ntechnischen Umsetzung. Fehler sollten zuverlässig erfasst und an\nMonitoring-Systeme, Sentry oder Datadog weitergegeben werden, damit Probleme\nfrüh sichtbar werden. Manuelle und automatisierte Tests helfen dabei, die\neigenen Fallbacks regelmäßig zu überprüfen und sicherzustellen, dass sie in\nallen relevanten Situationen greifen. Ebenso wichtig ist eine klare und\nkonsistente Formulierung der Fehlermeldungen, damit User verstehen, was passiert\nund wie sie weitermachen können. Für konkrete Hinweise zur sprachlichen\nAusgestaltung bietet die Guideline\n", _jsx(_components.a, {
+        href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
+        children: "Fehlermeldungen"
+      }), "\nweitere Orientierung. So entsteht ein stabiles und nachvollziehbares Verhalten,\ndas sowohl die Entwicklung als auch die Nutzung der Anwendung unterstützt."]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+0:{"buildId":"4TX1Digf0ey_0PLXHiKZ3","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Boundaries"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Boundaries"},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/index.mdx","anchors":[]}}]]}]}],["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["04-internal","01-boundaries"],"filename":"04-internal/01-boundaries/overview.mdx","anchors":["Technische Umsetzung","Weitere Empfehlungen"]}}]}]],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+9:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/98b441ed654d47e8.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null
