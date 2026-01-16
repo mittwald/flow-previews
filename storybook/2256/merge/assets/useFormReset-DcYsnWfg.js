@@ -1,0 +1,1 @@
+import{c as i}from"./index-j2LaL0Dv.js";import{r as n}from"./iframe-Dcjk2TLd.js";function c(r,a,d){let t=i(()=>{d&&d(a)});n.useEffect(()=>{var o;let e=r==null||(o=r.current)===null||o===void 0?void 0:o.form;return e?.addEventListener("reset",t),()=>{e?.removeEventListener("reset",t)}},[r,t])}export{c as $};
