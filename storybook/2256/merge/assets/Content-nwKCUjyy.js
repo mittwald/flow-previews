@@ -1,1 +1,0 @@
-import{j as m}from"./iframe-D2BYf5-g.js";import{f as i}from"./flowComponent-CbIDm01r.js";const l=i("Content",e=>{const{children:t,elementType:n="div",ref:o,...r}=e,s=n;return m.jsx(s,{ref:o,...r,children:t})});l.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"Content"};export{l as C};
