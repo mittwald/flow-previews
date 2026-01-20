@@ -1,0 +1,2823 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"default"]
+1d:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Flex"]
+1e:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Tabs"]
+1f:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"Tab"]
+20:I[39682,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"TabTitle"]
+36:I[990002,["/flow-previews/docs/2260/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2260/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+37:"$Sreact.suspense"
+39:I[142373,["/flow-previews/docs/2260/merge/_next/static/chunks/8a2a627ec8e403ad.js","/flow-previews/docs/2260/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js"],"default"]
+9:Tbde,import {
+  ActionGroup,
+  AlertBadge,
+  Avatar,
+  Button,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      defaultViewMode="list"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <ActionGroup>
+        <Button color="accent">Anlegen</Button>
+      </ActionGroup>
+      <DomainList.Search />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Typ"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain Z bis A"
+        direction="desc"
+      />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+        showTiles
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+a:T6ec,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Status"
+        values={["Verifiziert", "Unverifiziert"]}
+        matcher={(filterValue, verified) => {
+          return filterValue === "Verifiziert"
+            ? verified
+            : !verified;
+        }}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+b:T7d1,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Status"
+        values={["Verifiziert", "Unverifiziert"]}
+        matcher={(filterValue, verified) => {
+          return filterValue === "Verifiziert"
+            ? verified
+            : !verified;
+        }}
+      />
+      <DomainList.Filter
+        property="id"
+        mode="some"
+        name="Filter"
+        values={[
+          "SSL Zertifikat abgelaufen",
+          "Kein Ziel hinterlegt",
+        ]}
+        matcher={() => true}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+c:T458,import {
+  ActionGroup,
+  Avatar,
+  Button,
+  Content,
+  Heading,
+  IconDomain,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item textValue={(domain) => domain.domain}>
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content>
+              <ActionGroup>
+                <Button variant="soft" color="secondary">
+                  Bearbeiten
+                </Button>
+                <Button variant="soft" color="danger">
+                  Löschen
+                </Button>
+              </ActionGroup>
+            </Content>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+d:Ta61,import {
+  Avatar,
+  Checkbox,
+  Heading,
+  IconDomain,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+import { useState } from "react";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  const [selectedDomains, setSelectedDomains] = useState<
+    Domain[]
+  >([]);
+
+  const onSelected = (
+    domain: Domain,
+    selected: boolean,
+  ) => {
+    if (selected) {
+      setSelectedDomains((prev) => [...prev, domain]);
+    } else {
+      setSelectedDomains((prev) =>
+        prev.filter((d) => d.id !== domain.id),
+      );
+    }
+  };
+
+  const isSelected = (domain: Domain) => {
+    return (
+      selectedDomains.find((d) => d.id === domain.id) !==
+      undefined
+    );
+  };
+
+  return (
+    <List.List
+      hidePagination
+      batchSize={2}
+      aria-label="Domains"
+      onAction={(domain) => {
+        onSelected(domain, !isSelected(domain));
+      }}
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.hostname}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Checkbox
+              isSelected={isSelected(domain)}
+              onChange={(value) =>
+                onSelected(domain, value)
+              }
+              aria-label={`${domain.hostname} auswählen`}
+            />
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+            <Text>{domain.type}</Text>
+          </List.ItemView>
+        )}
+      </List.Item>
+
+      <List.Table>
+        <List.TableHeader>
+          <List.TableColumn>
+            <Checkbox
+              aria-label="Alle auswählen"
+              onChange={(v) =>
+                setSelectedDomains(v ? domains : [])
+              }
+            />
+          </List.TableColumn>
+          <List.TableColumn>Domain</List.TableColumn>
+        </List.TableHeader>
+        <List.TableBody>
+          <List.TableRow>
+            <List.TableCell>
+              {(domain) => (
+                <Checkbox
+                  isSelected={isSelected(domain)}
+                  onChange={(value) =>
+                    onSelected(domain, value)
+                  }
+                  aria-label={`${domain.hostname} auswählen`}
+                />
+              )}
+            </List.TableCell>
+            <List.TableCell>
+              {(domain) => domain.hostname}
+            </List.TableCell>
+          </List.TableRow>
+        </List.TableBody>
+      </List.Table>
+    </List.List>
+  );
+};
+e:T4d5,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconEmail,
+  Label,
+  MenuItem,
+  ProgressBar,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const List = typedList<{ mail: string }>();
+
+  return (
+    <div style={{ width: 400 }}>
+      <List.List
+        batchSize={2}
+        aria-label="E-Mail-Adressen"
+        hidePagination
+      >
+        <List.StaticData
+          data={[
+            { mail: "john@doe.com" },
+            { mail: "max@mustermann.de" },
+          ]}
+        />
+        <List.Item textValue={(mail) => mail.mail}>
+          {(mail) => (
+            <List.ItemView
+              l={[3, 1]}
+              m={[2, 1]}
+              s={[1, null]}
+            >
+              <Avatar>
+                <IconEmail />
+              </Avatar>
+              <Heading>{mail.mail}</Heading>
+
+              <Content>
+                <ProgressBar size="s" value={50}>
+                  <Label>Speicherplatz</Label>
+                </ProgressBar>
+              </Content>
+
+              <ContextMenu>
+                <MenuItem>Details anzeigen</MenuItem>
+              </ContextMenu>
+            </List.ItemView>
+          )}
+        </List.Item>
+      </List.List>
+    </div>
+  );
+};
+f:T430,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconEmail,
+  Label,
+  MenuItem,
+  ProgressBar,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const List = typedList<{ mail: string }>();
+
+  return (
+    <List.List
+      batchSize={2}
+      aria-label="E-Mail-Adressen"
+      hidePagination
+    >
+      <List.StaticData
+        data={[
+          { mail: "john@doe.com" },
+          { mail: "max@mustermann.de" },
+        ]}
+      />
+      <List.Item textValue={(mail) => mail.mail}>
+        {(mail) => (
+          <List.ItemView l={[3, 1]} m={[2, 1]} s={[1]}>
+            <Avatar>
+              <IconEmail />
+            </Avatar>
+            <Heading>{mail.mail}</Heading>
+
+            <Content>
+              <ProgressBar size="s" value={50}>
+                <Label>Speicherplatz</Label>
+              </ProgressBar>
+            </Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+10:T414,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  MenuItem,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content slot="top">Top Content</Content>
+            <Content slot="bottom">Bottom Content</Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+11:Td36,import {
+  ActionGroup,
+  AlertBadge,
+  Avatar,
+  Button,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconDownload,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <ActionGroup>
+        <Button
+          color="secondary"
+          variant="soft"
+          slot="secondary"
+        >
+          <IconDownload />
+        </Button>
+        <Button color="accent">Anlegen</Button>
+      </ActionGroup>
+      <DomainList.Search />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain Z bis A"
+        direction="desc"
+      />
+      <DomainList.Sorting
+        property="type"
+        name="Type A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="type"
+        name="Type Z bis A"
+        direction="desc"
+      />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+12:T5d0,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      hidePagination
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+13:T600,import { typedList } from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      defaultViewMode="table"
+      aria-label="Domains"
+      hidePagination
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+    </DomainList.List>
+  );
+};
+14:T618,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      hidePagination
+      defaultViewMode="tiles"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+        showTiles
+        showList={false}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+15:T7d3,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+        values={["Domain", "Subdomain"]}
+        defaultSelected={["Domain"]}
+      />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Verifizierung"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Verifiziert"
+            ? propertyValue
+            : !propertyValue
+        }
+        defaultSelected={["Unverifiziert"]}
+        values={["Verifiziert", "Unverifiziert"]}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+16:T8f1,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Type Domain"
+            ? propertyValue === "Domain"
+            : propertyValue === "Subdomain"
+        }
+        values={["Type Domain", "Type Subdomain"]}
+        defaultSelected={["Type Domain"]}
+      />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Verifizierung"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Verifizierung Verifiziert"
+            ? propertyValue
+            : !propertyValue
+        }
+        defaultSelected={["Verifizierung Unverifiziert"]}
+        values={[
+          "Verifizierung Verifiziert",
+          "Verifizierung Unverifiziert",
+        ]}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+17:T793,import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Sorting
+        property="hostname"
+        name="Name A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Name Z bis A"
+        direction="desc"
+        defaultEnabled
+      />
+      <DomainList.Sorting
+        property="tld"
+        name="TLD A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="tld"
+        name="TLD Z bis A"
+        direction="desc"
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+18:T659,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Sorting
+        property="domain"
+        name="Name"
+        defaultEnabled
+      />
+      <DomainList.Sorting property="tld" name="TLD" />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+19:T449,import {
+  Flex,
+  Heading,
+  ListItemView,
+  ListSummary,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const InvoiceList = typedList<{
+    id: string;
+    amount: string;
+  }>();
+
+  return (
+    <InvoiceList.List
+      batchSize={2}
+      hidePagination
+      aria-label="Rechnungen"
+      getItemId={(invoice) => invoice.id}
+    >
+      <ListSummary position="bottom">
+        <Flex justify="end">
+          <Text>
+            <strong>Gesamt: 37,00 €</strong>
+          </Text>
+        </Flex>
+      </ListSummary>
+      <InvoiceList.StaticData
+        data={[
+          {
+            id: "Rechnung 1",
+            amount: "25,00 €",
+          },
+          {
+            id: "Rechnung 2",
+            amount: "12,00 €",
+          },
+        ]}
+      />
+
+      <InvoiceList.Item textValue={(invoice) => invoice.id}>
+        {(invoice) => (
+          <ListItemView>
+            <Heading>{invoice.id}</Heading>
+            <Text>{invoice.amount}</Text>
+          </ListItemView>
+        )}
+      </InvoiceList.Item>
+    </InvoiceList.List>
+  );
+};
+0:{"buildId":"-gNX_lG6HW6hmsspV-HzL","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"List"}],"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/List","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"mode-list\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"List","description":"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$9","filterCategory":"$a","filterGeneralCategory":"$b","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$c","item-checkbox":"$d","item-column-layout-hidden":"$e","item-column-layout":"$f","item-content":"$10","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$11","mode-list":"$12","mode-table":"$13","mode-tile":"$14","namingDo":"$15","namingDont":"$16","sortingDo":"$17","sortingDont":"$18","summary":"$19"},"slugs":["structure","list"],"filename":"structure/list/index.mdx","anchors":[]}}]]}]}],"$L1a"],["$L1b"],"$L1c"]}],"loading":null,"isPartial":false}
+21:T2b58,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    strong: "strong",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit ", _jsx(_components.code, {
+        children: "typedList<T>"
+      }), " lässt sich eine List für einen bestimmten Datentyp erzeugen."]
+    }), "\n", _jsx(_components.p, {
+      children: "Im Tab Develop stehen verschiedene Anleitungen zum technischen Aufbau bereit."
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Ansichten"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Liste unterstützt die Ansichten ", _jsx(_components.strong, {
+        children: "Liste, Raster"
+      }), " und ", _jsx(_components.strong, {
+        children: "Tabelle"
+      }), ". Wird mehr als\neine Ansicht verwendet, kann über ein Menü zwischen den Ansichten gewechselt\nwerden. Die Default-Ansicht wird über das Property ", _jsx(_components.code, {
+        children: "defaultViewMode"
+      }), " festgelegt."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Listenansicht"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Nutze ", _jsx(_components.code, {
+        children: "<List.Item />"
+      }), ", um die List in der Listenansicht darzustellen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "mode-list",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Rasteransicht"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Für die Rasteransicht wird ebenfalls das ", _jsx(_components.code, {
+        children: "<List.Item />"
+      }), " verwendet. Nutze\n", _jsx(_components.code, {
+        children: "showTiles"
+      }), ", um diese Ansicht zu aktivieren. Die Listenansicht kann deaktiviert\nwerden, indem ", _jsx(_components.code, {
+        children: "showList"
+      }), " auf ", _jsx(_components.code, {
+        children: "false"
+      }), " gesetzt wird."]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über das ", _jsx(_components.code, {
+        children: "maxTileWidth"
+      }), "-Property lässt sich die maximale Breite der Kacheln steuern."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "mode-tile",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Tabellenansicht"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Nutze ", _jsx(_components.code, {
+        children: "<List.Table />"
+      }), ", um die List als ", _jsx(_components.a, {
+        href: "/03-components/structure/table",
+        children: "Table"
+      }), " darzustellen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "mode-table",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "ListItems"
+    }), "\n", _jsx(_components.p, {
+      children: "In einer List lassen sich ListItems mit unterschiedlichen Interaktions- und Aufbaumöglichkeiten einsetzen."
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit Link"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein ListItem bietet das Property ", _jsx(_components.code, {
+        children: "href"
+      }), " an, um das Element zu verlinken."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-link",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit Accordion"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das Accordion-Verhalten wird über die ", _jsx(_components.code, {
+        children: "accordion"
+      }), "-Property aktiviert. Dadurch lässt sich\nein ListItem per Klick ein- oder ausklappen. Der erweiterte Inhalt wird in ", _jsx(_components.code, {
+        children: "<Content slot=\"bottom\" />"
+      }), " platziert."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-accordion",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit Checkboxen"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.a, {
+        href: "/03-components/form-controls/checkbox",
+        children: "Checkboxen"
+      }), " in einem ListItem werden automatisch am Anfang der Zeile angeordnet. Die Funktionalität der Checkbox wird nicht von der List gesteuert und muss individuell implementiert werden. Achte bei der Implementierung jedoch\ndarauf, dass die gesamte Zeile zur Auswahl des Elements genutzt werden kann.\nNutze dafür ", _jsx(_components.code, {
+        children: "onAction"
+      }), " der List."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-checkbox",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit Content Slots"
+    }), "\n", _jsxs(_components.p, {
+      children: ["In einem ListItem kann zusätzlicher ", _jsx(_components.code, {
+        children: "<Content/ >"
+      }), " (Top und Bottom Content) platziert werden. Die Position wird über das ", _jsx(_components.code, {
+        children: "slot"
+      }), "-Property gesteuert."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-content",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit ColumnLayout"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Dem ListItem können die ", _jsx(_components.a, {
+        href: "/03-components/structure/column-layout",
+        children: "ColumnLayout"
+      }), " Properties ", _jsx(_components.code, {
+        children: "s"
+      }), ", ", _jsx(_components.code, {
+        children: "m"
+      }), " und ", _jsx(_components.code, {
+        children: "l"
+      }), " mitgegeben\nwerden, um das Seitenverhältnis sowie das Umbruchverhalten von Header und Content zu\nsteuern."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-column-layout",
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.p, {
+      children: ["Da für die ColumnLayout-Spalten auch ", _jsx(_components.code, {
+        children: "null"
+      }), " gesetzt werden kann, ist es möglich,\nnicht zwingend benötigten Content in kleineren Ansichten auszublenden. In diesem Fall werden auch die entsprechenden Content Slots nicht angezeigt."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-column-layout-hidden",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Mit ActionGroup"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende eine ActionGroup innerhalb des ", _jsx(_components.code, {
+        children: "<Content />"
+      }), ", um ", _jsx(_components.a, {
+        href: "/03-components/actions/button",
+        children: "Buttons"
+      }), " in der List\nzu platzieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "item-action-group",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Einstellmöglichkeiten"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die List bietet ", _jsx(_components.strong, {
+        children: "Sortierung, Filter, Suche"
+      }), " und ", _jsx(_components.strong, {
+        children: "Pagination"
+      }), " an.\nDetaillierte Anleitungen zu den einzelnen Einstellmöglichkeiten stehen unter dem Develop-Tab der List zur Verfügung."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Sortierung"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Nutze ", _jsx(_components.code, {
+        children: "<List.Sorting />"
+      }), " innerhalb der List, um eine Sortiermethode anzulegen."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Filter"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über ", _jsx(_components.code, {
+        children: "<List.Filter />"
+      }), " lassen sich Filtermöglichkeiten für die List anlegen."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Suche"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<List.Search />"
+      }), " innerhalb der List, um ein\n", _jsx(_components.a, {
+        href: "/03-components/form-controls/search-field",
+        children: "SearchField"
+      }), " anzuzeigen.\nStandardmäßig wird die Suche automatisch gestartet. Soll die Suche nur beim Drücken auf Enter ausgelöst werden, kann das Property ", _jsx(_components.code, {
+        children: "autoSubmit"
+      }), " auf ", _jsx(_components.code, {
+        children: "false"
+      }), " gesetzt werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Pagination"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Pagination ist standardmäßig bei jeder List aktiviert, kann jedoch über\n", _jsx(_components.code, {
+        children: "hidePagination"
+      }), " deaktiviert werden. Über die ", _jsx(_components.code, {
+        children: "batchSize"
+      }), "-Property kann\nfestgelegt werden, wie viele Einträge gleichzeitig angezeigt werden sollen."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "ActionGroup"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<ActionGroup />"
+      }), " innerhalb der List, um eine\n", _jsx(_components.a, {
+        href: "/03-components/actions/action-group",
+        children: "ActionGroup"
+      }), " anzuzeigen. Hier können\neine oder mehrere Aktionen definiert werden, die sich direkt auf die Liste beziehen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "actionGroup",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Summary"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende eine ", _jsx(_components.code, {
+        children: "<ListSummary />"
+      }), ", um eine Zusammenfassung anzuzeigen, beispielsweise die\nGesamtsumme der Beträge. Über das ", _jsx(_components.code, {
+        children: "position"
+      }), "-Property wird festgelegt, ob die Summary oberhalb oder unterhalb der List erscheint."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "summary",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+22:Tbde,import {
+  ActionGroup,
+  AlertBadge,
+  Avatar,
+  Button,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      defaultViewMode="list"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <ActionGroup>
+        <Button color="accent">Anlegen</Button>
+      </ActionGroup>
+      <DomainList.Search />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Typ"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain Z bis A"
+        direction="desc"
+      />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+        showTiles
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+23:T6ec,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Status"
+        values={["Verifiziert", "Unverifiziert"]}
+        matcher={(filterValue, verified) => {
+          return filterValue === "Verifiziert"
+            ? verified
+            : !verified;
+        }}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+24:T7d1,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Status"
+        values={["Verifiziert", "Unverifiziert"]}
+        matcher={(filterValue, verified) => {
+          return filterValue === "Verifiziert"
+            ? verified
+            : !verified;
+        }}
+      />
+      <DomainList.Filter
+        property="id"
+        mode="some"
+        name="Filter"
+        values={[
+          "SSL Zertifikat abgelaufen",
+          "Kein Ziel hinterlegt",
+        ]}
+        matcher={() => true}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+25:T458,import {
+  ActionGroup,
+  Avatar,
+  Button,
+  Content,
+  Heading,
+  IconDomain,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item textValue={(domain) => domain.domain}>
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content>
+              <ActionGroup>
+                <Button variant="soft" color="secondary">
+                  Bearbeiten
+                </Button>
+                <Button variant="soft" color="danger">
+                  Löschen
+                </Button>
+              </ActionGroup>
+            </Content>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+26:Ta61,import {
+  Avatar,
+  Checkbox,
+  Heading,
+  IconDomain,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+import { useState } from "react";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  const [selectedDomains, setSelectedDomains] = useState<
+    Domain[]
+  >([]);
+
+  const onSelected = (
+    domain: Domain,
+    selected: boolean,
+  ) => {
+    if (selected) {
+      setSelectedDomains((prev) => [...prev, domain]);
+    } else {
+      setSelectedDomains((prev) =>
+        prev.filter((d) => d.id !== domain.id),
+      );
+    }
+  };
+
+  const isSelected = (domain: Domain) => {
+    return (
+      selectedDomains.find((d) => d.id === domain.id) !==
+      undefined
+    );
+  };
+
+  return (
+    <List.List
+      hidePagination
+      batchSize={2}
+      aria-label="Domains"
+      onAction={(domain) => {
+        onSelected(domain, !isSelected(domain));
+      }}
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.hostname}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Checkbox
+              isSelected={isSelected(domain)}
+              onChange={(value) =>
+                onSelected(domain, value)
+              }
+              aria-label={`${domain.hostname} auswählen`}
+            />
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+            <Text>{domain.type}</Text>
+          </List.ItemView>
+        )}
+      </List.Item>
+
+      <List.Table>
+        <List.TableHeader>
+          <List.TableColumn>
+            <Checkbox
+              aria-label="Alle auswählen"
+              onChange={(v) =>
+                setSelectedDomains(v ? domains : [])
+              }
+            />
+          </List.TableColumn>
+          <List.TableColumn>Domain</List.TableColumn>
+        </List.TableHeader>
+        <List.TableBody>
+          <List.TableRow>
+            <List.TableCell>
+              {(domain) => (
+                <Checkbox
+                  isSelected={isSelected(domain)}
+                  onChange={(value) =>
+                    onSelected(domain, value)
+                  }
+                  aria-label={`${domain.hostname} auswählen`}
+                />
+              )}
+            </List.TableCell>
+            <List.TableCell>
+              {(domain) => domain.hostname}
+            </List.TableCell>
+          </List.TableRow>
+        </List.TableBody>
+      </List.Table>
+    </List.List>
+  );
+};
+27:T4d5,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconEmail,
+  Label,
+  MenuItem,
+  ProgressBar,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const List = typedList<{ mail: string }>();
+
+  return (
+    <div style={{ width: 400 }}>
+      <List.List
+        batchSize={2}
+        aria-label="E-Mail-Adressen"
+        hidePagination
+      >
+        <List.StaticData
+          data={[
+            { mail: "john@doe.com" },
+            { mail: "max@mustermann.de" },
+          ]}
+        />
+        <List.Item textValue={(mail) => mail.mail}>
+          {(mail) => (
+            <List.ItemView
+              l={[3, 1]}
+              m={[2, 1]}
+              s={[1, null]}
+            >
+              <Avatar>
+                <IconEmail />
+              </Avatar>
+              <Heading>{mail.mail}</Heading>
+
+              <Content>
+                <ProgressBar size="s" value={50}>
+                  <Label>Speicherplatz</Label>
+                </ProgressBar>
+              </Content>
+
+              <ContextMenu>
+                <MenuItem>Details anzeigen</MenuItem>
+              </ContextMenu>
+            </List.ItemView>
+          )}
+        </List.Item>
+      </List.List>
+    </div>
+  );
+};
+28:T430,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconEmail,
+  Label,
+  MenuItem,
+  ProgressBar,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const List = typedList<{ mail: string }>();
+
+  return (
+    <List.List
+      batchSize={2}
+      aria-label="E-Mail-Adressen"
+      hidePagination
+    >
+      <List.StaticData
+        data={[
+          { mail: "john@doe.com" },
+          { mail: "max@mustermann.de" },
+        ]}
+      />
+      <List.Item textValue={(mail) => mail.mail}>
+        {(mail) => (
+          <List.ItemView l={[3, 1]} m={[2, 1]} s={[1]}>
+            <Avatar>
+              <IconEmail />
+            </Avatar>
+            <Heading>{mail.mail}</Heading>
+
+            <Content>
+              <ProgressBar size="s" value={50}>
+                <Label>Speicherplatz</Label>
+              </ProgressBar>
+            </Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+29:T414,import {
+  Avatar,
+  Content,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  MenuItem,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const List = typedList<Domain>();
+
+  return (
+    <List.List
+      batchSize={2}
+      hidePagination
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <List.StaticData data={domains} />
+      <List.Item
+        showTiles
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <List.ItemView>
+            <Avatar>
+              <IconDomain />
+            </Avatar>
+            <Heading>{domain.hostname}</Heading>
+
+            <Content slot="top">Top Content</Content>
+            <Content slot="bottom">Bottom Content</Content>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+            </ContextMenu>
+          </List.ItemView>
+        )}
+      </List.Item>
+    </List.List>
+  );
+};
+2a:Td36,import {
+  ActionGroup,
+  AlertBadge,
+  Avatar,
+  Button,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconDownload,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={2}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <ActionGroup>
+        <Button
+          color="secondary"
+          variant="soft"
+          slot="secondary"
+        >
+          <IconDownload />
+        </Button>
+        <Button color="accent">Anlegen</Button>
+      </ActionGroup>
+      <DomainList.Search />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Domain Z bis A"
+        direction="desc"
+      />
+      <DomainList.Sorting
+        property="type"
+        name="Type A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="type"
+        name="Type Z bis A"
+        direction="desc"
+      />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+2b:T5d0,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      hidePagination
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+2c:T600,import { typedList } from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      defaultViewMode="table"
+      aria-label="Domains"
+      hidePagination
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Table>
+        <DomainList.TableHeader>
+          <DomainList.TableColumn>
+            Name
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Type
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            TLD
+          </DomainList.TableColumn>
+          <DomainList.TableColumn>
+            Hostname
+          </DomainList.TableColumn>
+        </DomainList.TableHeader>
+
+        <DomainList.TableBody>
+          <DomainList.TableRow>
+            <DomainList.TableCell>
+              {(domain) => domain.domain}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.type}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.tld}
+            </DomainList.TableCell>
+            <DomainList.TableCell>
+              {(domain) => domain.hostname}
+            </DomainList.TableCell>
+          </DomainList.TableRow>
+        </DomainList.TableBody>
+      </DomainList.Table>
+    </DomainList.List>
+  );
+};
+2d:T618,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={4}
+      aria-label="Domains"
+      hidePagination
+      defaultViewMode="tiles"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+        showTiles
+        showList={false}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+2e:T7d3,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+        values={["Domain", "Subdomain"]}
+        defaultSelected={["Domain"]}
+      />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Verifizierung"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Verifiziert"
+            ? propertyValue
+            : !propertyValue
+        }
+        defaultSelected={["Unverifiziert"]}
+        values={["Verifiziert", "Unverifiziert"]}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+2f:T8f1,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Filter
+        property="type"
+        mode="some"
+        name="Type"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Type Domain"
+            ? propertyValue === "Domain"
+            : propertyValue === "Subdomain"
+        }
+        values={["Type Domain", "Type Subdomain"]}
+        defaultSelected={["Type Domain"]}
+      />
+      <DomainList.Filter
+        property="verified"
+        mode="some"
+        name="Verifizierung"
+        matcher={(filterValue, propertyValue) =>
+          filterValue === "Verifizierung Verifiziert"
+            ? propertyValue
+            : !propertyValue
+        }
+        defaultSelected={["Verifizierung Unverifiziert"]}
+        values={[
+          "Verifizierung Verifiziert",
+          "Verifizierung Unverifiziert",
+        ]}
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+30:T793,import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Sorting
+        property="hostname"
+        name="Name A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="hostname"
+        name="Name Z bis A"
+        direction="desc"
+        defaultEnabled
+      />
+      <DomainList.Sorting
+        property="tld"
+        name="TLD A bis Z"
+        direction="asc"
+      />
+      <DomainList.Sorting
+        property="tld"
+        name="TLD Z bis A"
+        direction="desc"
+      />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+31:T659,import {
+  AlertBadge,
+  Avatar,
+  ContextMenu,
+  Heading,
+  IconDomain,
+  IconSubdomain,
+  MenuItem,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+import {
+  type Domain,
+  domains,
+} from "@/content/03-components/structure/list/examples/domainApi";
+
+export default () => {
+  const DomainList = typedList<Domain>();
+
+  return (
+    <DomainList.List
+      batchSize={5}
+      aria-label="Domains"
+      getItemId={(domain) => domain.id}
+    >
+      <DomainList.StaticData data={domains} />
+      <DomainList.Sorting
+        property="domain"
+        name="Name"
+        defaultEnabled
+      />
+      <DomainList.Sorting property="tld" name="TLD" />
+      <DomainList.Item
+        textValue={(domain) => domain.domain}
+      >
+        {(domain) => (
+          <DomainList.ItemView>
+            <Avatar
+              color={
+                domain.type === "Domain" ? "blue" : "teal"
+              }
+            >
+              {domain.type === "Domain" ? (
+                <IconDomain />
+              ) : (
+                <IconSubdomain />
+              )}
+            </Avatar>
+            <Heading>
+              {domain.hostname}
+              {!domain.verified && (
+                <AlertBadge status="warning">
+                  Unverifiziert
+                </AlertBadge>
+              )}
+            </Heading>
+            <Text>{domain.type}</Text>
+
+            <ContextMenu>
+              <MenuItem>Details anzeigen</MenuItem>
+              <MenuItem>Löschen</MenuItem>
+            </ContextMenu>
+          </DomainList.ItemView>
+        )}
+      </DomainList.Item>
+    </DomainList.List>
+  );
+};
+32:T449,import {
+  Flex,
+  Heading,
+  ListItemView,
+  ListSummary,
+  Text,
+  typedList,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const InvoiceList = typedList<{
+    id: string;
+    amount: string;
+  }>();
+
+  return (
+    <InvoiceList.List
+      batchSize={2}
+      hidePagination
+      aria-label="Rechnungen"
+      getItemId={(invoice) => invoice.id}
+    >
+      <ListSummary position="bottom">
+        <Flex justify="end">
+          <Text>
+            <strong>Gesamt: 37,00 €</strong>
+          </Text>
+        </Flex>
+      </ListSummary>
+      <InvoiceList.StaticData
+        data={[
+          {
+            id: "Rechnung 1",
+            amount: "25,00 €",
+          },
+          {
+            id: "Rechnung 2",
+            amount: "12,00 €",
+          },
+        ]}
+      />
+
+      <InvoiceList.Item textValue={(invoice) => invoice.id}>
+        {(invoice) => (
+          <ListItemView>
+            <Heading>{invoice.id}</Heading>
+            <Text>{invoice.amount}</Text>
+          </ListItemView>
+        )}
+      </InvoiceList.Item>
+    </InvoiceList.List>
+  );
+};
+1a:["$","$L1d",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L1d",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L1e",null,{"selectedKey":"overview","children":[["$","$L1f",null,{"id":"overview","children":[["$","$L20",null,{"href":"/03-components/structure/list/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$21","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$22","filterCategory":"$23","filterGeneralCategory":"$24","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$25","item-checkbox":"$26","item-column-layout-hidden":"$27","item-column-layout":"$28","item-content":"$29","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/03-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$2a","mode-list":"$2b","mode-table":"$2c","mode-tile":"$2d","namingDo":"$2e","namingDont":"$2f","sortingDo":"$30","sortingDont":"$31","summary":"$32"},"slugs":["structure","list"],"filename":"structure/list/overview.mdx","anchors":[{"text":"Playground","level":2},{"text":"Ansichten","level":2},{"text":"Listenansicht","level":3},{"text":"Rasteransicht","level":3},{"text":"Tabellenansicht","level":3},{"text":"ListItems","level":2},{"text":"Mit Link","level":3},{"text":"Mit Accordion","level":3},{"text":"Mit Checkboxen","level":3},{"text":"Mit Content Slots","level":3},{"text":"Mit ColumnLayout","level":3},{"text":"Mit ActionGroup","level":3},{"text":"Einstellmöglichkeiten","level":2},{"text":"Sortierung","level":3},{"text":"Filter","level":3},{"text":"Suche","level":3},{"text":"Pagination","level":3},{"text":"Kombiniere mit ...","level":2},{"text":"ActionGroup","level":3},{"text":"Summary","level":3}]}}]}]]}],"$L33","$L34"]}]}]}],"$L35"]}]
+1b:["$","script","script-0",{"src":"/flow-previews/docs/2260/merge/_next/static/chunks/fed8f42712e65098.js","async":true}]
+1c:["$","$L36",null,{"children":["$","$37",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+33:["$","$L1f",null,{"id":"develop","children":[["$","$L20",null,{"href":"/03-components/structure/list/develop","children":"Develop"}],false]}]
+34:["$","$L1f",null,{"id":"guidelines","children":[["$","$L20",null,{"href":"/03-components/structure/list/guidelines","children":"Guidelines"}],false]}]
+35:["$","$L39",null,{"currentPath":"/03-components/structure/list/overview","anchors":"$1a:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+38:null
