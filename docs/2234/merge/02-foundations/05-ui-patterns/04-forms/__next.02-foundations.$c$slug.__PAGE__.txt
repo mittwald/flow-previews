@@ -1,11 +1,13 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/1c454038f98d2dfe.js","/flow-previews/docs/2234/merge/_next/static/chunks/a489f7dc264af4df.js","/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/1c454038f98d2dfe.js","/flow-previews/docs/2234/merge/_next/static/chunks/a489f7dc264af4df.js","/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/1c454038f98d2dfe.js","/flow-previews/docs/2234/merge/_next/static/chunks/a489f7dc264af4df.js","/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/1c454038f98d2dfe.js","/flow-previews/docs/2234/merge/_next/static/chunks/a489f7dc264af4df.js","/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2234/merge/_next/static/chunks/1c454038f98d2dfe.js","/flow-previews/docs/2234/merge/_next/static/chunks/a489f7dc264af4df.js","/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js"],"default"]
-10:I[990002,["/flow-previews/docs/2234/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2234/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
-11:"$Sreact.suspense"
+2:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"default"]
+d:I[39682,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"Flex"]
+12:I[990002,["/flow-previews/docs/2234/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2234/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[142373,["/flow-previews/docs/2234/merge/_next/static/chunks/0fdbf3952164acc0.js","/flow-previews/docs/2234/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js"],"default"]
 7:T49b,"use strict";
 const {jsx: _jsx} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -279,8 +281,8 @@ export default () => {
     </Form>
   );
 };
-0:{"buildId":"ms50HnxZ_p4Gq9S2M4q_v","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
-d:T289a,"use strict";
+0:{"buildId":"cCc9WrMEERkUy5P9PP3OY","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+e:T289a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -474,7 +476,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-e:T11a6,import {
+f:T11a6,import {
   ActionGroup,
   ColumnLayout,
   Heading,
@@ -656,7 +658,7 @@ export default () => {
     </Form>
   );
 };
-f:T553,import {
+10:T553,import {
   ActionGroup,
   Heading,
   Label,
@@ -719,7 +721,8 @@ export default () => {
     </Form>
   );
 };
-a:["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"form":"$e","validation":"$f"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":["Aufbau einer Form","Aufbau eines Form Controls","Validation"]}}]}]
-b:["$","script","script-0",{"src":"/flow-previews/docs/2234/merge/_next/static/chunks/ad32519f69358e8a.js","async":true}]
-c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
-12:null
+a:["$","$Ld",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$e","frontmatter":{},"scope":{}},"examples":{"form":"$f","validation":"$10"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":[{"text":"Aufbau einer Form","level":2},{"text":"Progressively disclosed Form Controls","level":3},{"text":"Aufbau eines Form Controls","level":2},{"text":"Label","level":3},{"text":"Fields / Controls","level":3},{"text":"FieldDescription","level":3},{"text":"FieldError","level":3},{"text":"Placeholder","level":3},{"text":"Validation","level":2},{"text":"Quick submit","level":3}]}}]}],"$L11"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2234/merge/_next/static/chunks/830cc960826f091f.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+11:["$","$L15",null,{"currentPath":"/02-foundations/05-ui-patterns/04-forms","anchors":[{"text":"Aufbau einer Form","level":2},{"text":"Progressively disclosed Form Controls","level":3},{"text":"Aufbau eines Form Controls","level":2},{"text":"Label","level":3},{"text":"Fields / Controls","level":3},{"text":"FieldDescription","level":3},{"text":"FieldError","level":3},{"text":"Placeholder","level":3},{"text":"Validation","level":2},{"text":"Quick submit","level":3}],"title":"Forms"}]
+14:null
