@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"default"]
+d:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Flex"]
+e:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Tabs"]
+f:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"Tab"]
+10:I[39682,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"TabTitle"]
+14:I[990002,["/flow-previews/docs/2264/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2264/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[142373,["/flow-previews/docs/2264/merge/_next/static/chunks/4fe09b6450a66b96.js","/flow-previews/docs/2264/merge/_next/static/chunks/268071106b5a6323.js","/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js"],"default"]
+9:T4d1,import {
+  ActionGroup,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Heading,
+  IconContextMenu,
+  IconEdit,
+  Label,
+  MenuItem,
+  Modal,
+  TextField,
+  useOverlayController,
+  Text,
+  Action,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const modalController = useOverlayController("Modal");
+
+  return (
+    <>
+      <ContextMenuTrigger>
+        <Button variant="plain" color="secondary">
+          <IconContextMenu />
+        </Button>
+        <ContextMenu>
+          <MenuItem
+            onAction={() => {
+              modalController.open();
+            }}
+          >
+            <IconEdit />
+            <Text>Bearbeiten</Text>
+          </MenuItem>
+        </ContextMenu>
+      </ContextMenuTrigger>
+      <Modal controller={modalController}>
+        <Heading>Bearbeiten</Heading>
+        <Content>
+          <TextField>
+            <Label>Name</Label>
+          </TextField>
+        </Content>
+        <ActionGroup>
+          <Action closeOverlay="Modal">
+            <Button color="accent">Speichern</Button>
+            <Button color="secondary" variant="soft">
+              Abbrechen
+            </Button>
+          </Action>
+        </ActionGroup>
+      </Modal>
+    </>
+  );
+};
+0:{"buildId":"8I4_EBOL6iOxUSmUGlSbN","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"ContextMenu"}],"Das ContextMenu öffnet ein Popover mit einer Liste von Aktionen oder Links, welches in der Regel über einen Button geöffnet wird.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/ContextMenu","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"ContextMenu","description":"Das ContextMenu öffnet ein Popover mit einer Liste von Aktionen oder Links, welches in der Regel über einen Button geöffnet wird."},"scope":{}},"examples":{"avatar":"import {\n  Avatar,\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  Heading,\n  IconCamera,\n  Initials,\n  MenuItem,\n  Section,\n  Separator,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu selectionMode=\"navigation\">\n    <Section>\n      <MenuItem>\n        <Avatar>\n          <Initials>Max Mustermann</Initials>\n        </Avatar>\n        <IconCamera />\n      </MenuItem>\n      <Heading>Max Mustermann</Heading>\n    </Section>\n    <Separator />\n    <Section>\n      <MenuItem>\n        <Text>Settings</Text>\n      </MenuItem>\n      <MenuItem>\n        <Text>Logout</Text>\n      </MenuItem>\n    </Section>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","default":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">Item 1</MenuItem>\n    <MenuItem id=\"2\">Item 2</MenuItem>\n    <MenuItem id=\"3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","icon":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  IconInfo,\n  MenuItem,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">\n      <IconInfo />\n      <Text>Item 1</Text>\n    </MenuItem>\n    <MenuItem id=\"2\">\n      <IconInfo />\n      <Text>Item 2</Text>\n    </MenuItem>\n    <MenuItem id=\"3\">\n      <IconInfo />\n      <Text>Item 3</Text>\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","modal":"$9","multi-select":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    selectionMode=\"multiple\"\n    defaultSelectedKeys={[\"item2\", \"item3\"]}\n  >\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","section":"import {\n  Button,\n  ContextMenu,\n  ContextMenuSection,\n  ContextMenuTrigger,\n  Heading,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuSection>\n      <Heading>Section 1</Heading>\n      <MenuItem id=\"1\">Item 1</MenuItem>\n      <MenuItem id=\"2\">Item 2</MenuItem>\n      <MenuItem id=\"3\">Item 3</MenuItem>\n    </ContextMenuSection>\n    <Separator />\n    <ContextMenuSection>\n      <Heading>Section 2</Heading>\n      <MenuItem id=\"4\">Item 4</MenuItem>\n      <MenuItem id=\"5\">Item 5</MenuItem>\n    </ContextMenuSection>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","sectionSelectionMode":"import {\n  Button,\n  ContextMenu,\n  ContextMenuSection,\n  ContextMenuTrigger,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuSection selectionMode=\"multiple\">\n      <MenuItem id=\"item1\">Item 1</MenuItem>\n      <MenuItem id=\"item2\">Item 2</MenuItem>\n      <MenuItem id=\"item3\">Item 3</MenuItem>\n    </ContextMenuSection>\n    <Separator />\n    <ContextMenuSection selectionMode=\"single\">\n      <MenuItem id=\"item1\">Item 4</MenuItem>\n      <MenuItem id=\"item2\">Item 5</MenuItem>\n      <MenuItem id=\"item3\">Item 6</MenuItem>\n    </ContextMenuSection>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","separator":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <MenuItem id=\"1\">Item 1</MenuItem>\n    <Separator />\n    <MenuItem id=\"2\">Item 2</MenuItem>\n    <MenuItem id=\"3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","single-select":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    selectionMode=\"single\"\n    defaultSelectedKeys={[\"item2\"]}\n  >\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","switch":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu selectionMode=\"switch\">\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","width":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    width={300}\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">Mein Projekt</MenuItem>\n    <MenuItem id=\"2\">Mein zweites Projekt</MenuItem>\n    <MenuItem id=\"3\">\n      Mein drittes Projekt mit einem sehr langen Namen\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n"},"slugs":["actions","context-menu"],"filename":"actions/context-menu/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+11:Te1e,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung von einem ContextMenu darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "nur kontextrelevante Inhalte angezeigt werden."
+      }), "\n", _jsx(_components.li, {
+        children: "die Aktionen klar benannt und gut verständlich sind."
+      }), "\n", _jsx(_components.li, {
+        children: "häufig genutzte Aktionen oben stehen und leicht erreichbar sind."
+      }), "\n", _jsxs(_components.li, {
+        children: ["bei Bedarf Gruppierungen - z. B. durch eine\n", _jsx(_components.a, {
+          href: "/03-components/structure/section/overview",
+          children: "Section"
+        }), " oder einen einzelnen\n", _jsx(_components.a, {
+          href: "/03-components/structure/separator/overview",
+          children: "Separator"
+        }), " - verwendet werden, um die\nÜbersichtlichkeit zu erhöhen."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["interaktive Elemente (z. B. ", _jsx(_components.a, {
+          href: "/03-components/form-controls/checkbox/overview",
+          children: "Checkbox"
+        }), ",\n", _jsx(_components.a, {
+          href: "/03-components/form-controls/radio-group/overview",
+          children: "RadioGroup"
+        }), " oder\n", _jsx(_components.a, {
+          href: "/03-components/form-controls/switch/overview",
+          children: "Switch"
+        }), ") nur verwendet werden, wenn die\nAktionen sofort wirksam sind, häufig benötigt werden und der Zustand direkt\nerkennbar ist."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende ein ContextMenu, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "die Benutzeroberfläche aufgeräumt zu halten, indem Aktionen nur bei Bedarf\neingeblendet werden."
+      }), "\n", _jsx(_components.li, {
+        children: "sekundäre Aktionen, Profi-Tools oder 'Quick-Actions' platzsparend\ndarzustellen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["elementbezogene Aktionen für ", _jsx(_components.a, {
+          href: "/03-components/structure/list/overview",
+          children: "Listen"
+        }), "\nanzubieten (z. B. Details anzeigen, Status ändern oder löschen)."]
+      }), "\n", _jsx(_components.li, {
+        children: "Filter mit einer Mehrfach-Auswahl durch Checkboxen anzubieten."
+      }), "\n", _jsx(_components.li, {
+        children: "Aktionen durch einen Switch zu aktivieren oder deaktivieren."
+      }), "\n", _jsx(_components.li, {
+        children: "eine Sortierung mit einer Einfach-Auswahl durch Radios anzuzeigen."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+12:T4d1,import {
+  ActionGroup,
+  Button,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Heading,
+  IconContextMenu,
+  IconEdit,
+  Label,
+  MenuItem,
+  Modal,
+  TextField,
+  useOverlayController,
+  Text,
+  Action,
+} from "@mittwald/flow-react-components";
+
+export default () => {
+  const modalController = useOverlayController("Modal");
+
+  return (
+    <>
+      <ContextMenuTrigger>
+        <Button variant="plain" color="secondary">
+          <IconContextMenu />
+        </Button>
+        <ContextMenu>
+          <MenuItem
+            onAction={() => {
+              modalController.open();
+            }}
+          >
+            <IconEdit />
+            <Text>Bearbeiten</Text>
+          </MenuItem>
+        </ContextMenu>
+      </ContextMenuTrigger>
+      <Modal controller={modalController}>
+        <Heading>Bearbeiten</Heading>
+        <Content>
+          <TextField>
+            <Label>Name</Label>
+          </TextField>
+        </Content>
+        <ActionGroup>
+          <Action closeOverlay="Modal">
+            <Button color="accent">Speichern</Button>
+            <Button color="secondary" variant="soft">
+              Abbrechen
+            </Button>
+          </Action>
+        </ActionGroup>
+      </Modal>
+    </>
+  );
+};
+a:["$","$Ld",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Ld",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Le",null,{"selectedKey":"guidelines","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/03-components/actions/context-menu/overview","children":"Overview"}],false]}],["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/03-components/actions/context-menu/develop","children":"Develop"}],false]}],["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/03-components/actions/context-menu/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"avatar":"import {\n  Avatar,\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  Heading,\n  IconCamera,\n  Initials,\n  MenuItem,\n  Section,\n  Separator,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu selectionMode=\"navigation\">\n    <Section>\n      <MenuItem>\n        <Avatar>\n          <Initials>Max Mustermann</Initials>\n        </Avatar>\n        <IconCamera />\n      </MenuItem>\n      <Heading>Max Mustermann</Heading>\n    </Section>\n    <Separator />\n    <Section>\n      <MenuItem>\n        <Text>Settings</Text>\n      </MenuItem>\n      <MenuItem>\n        <Text>Logout</Text>\n      </MenuItem>\n    </Section>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","default":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">Item 1</MenuItem>\n    <MenuItem id=\"2\">Item 2</MenuItem>\n    <MenuItem id=\"3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","icon":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  IconInfo,\n  MenuItem,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">\n      <IconInfo />\n      <Text>Item 1</Text>\n    </MenuItem>\n    <MenuItem id=\"2\">\n      <IconInfo />\n      <Text>Item 2</Text>\n    </MenuItem>\n    <MenuItem id=\"3\">\n      <IconInfo />\n      <Text>Item 3</Text>\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","modal":"$12","multi-select":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    selectionMode=\"multiple\"\n    defaultSelectedKeys={[\"item2\", \"item3\"]}\n  >\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","section":"import {\n  Button,\n  ContextMenu,\n  ContextMenuSection,\n  ContextMenuTrigger,\n  Heading,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuSection>\n      <Heading>Section 1</Heading>\n      <MenuItem id=\"1\">Item 1</MenuItem>\n      <MenuItem id=\"2\">Item 2</MenuItem>\n      <MenuItem id=\"3\">Item 3</MenuItem>\n    </ContextMenuSection>\n    <Separator />\n    <ContextMenuSection>\n      <Heading>Section 2</Heading>\n      <MenuItem id=\"4\">Item 4</MenuItem>\n      <MenuItem id=\"5\">Item 5</MenuItem>\n    </ContextMenuSection>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","sectionSelectionMode":"import {\n  Button,\n  ContextMenu,\n  ContextMenuSection,\n  ContextMenuTrigger,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <ContextMenuSection selectionMode=\"multiple\">\n      <MenuItem id=\"item1\">Item 1</MenuItem>\n      <MenuItem id=\"item2\">Item 2</MenuItem>\n      <MenuItem id=\"item3\">Item 3</MenuItem>\n    </ContextMenuSection>\n    <Separator />\n    <ContextMenuSection selectionMode=\"single\">\n      <MenuItem id=\"item1\">Item 4</MenuItem>\n      <MenuItem id=\"item2\">Item 5</MenuItem>\n      <MenuItem id=\"item3\">Item 6</MenuItem>\n    </ContextMenuSection>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","separator":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n  Separator,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu>\n    <MenuItem id=\"1\">Item 1</MenuItem>\n    <Separator />\n    <MenuItem id=\"2\">Item 2</MenuItem>\n    <MenuItem id=\"3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","single-select":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    selectionMode=\"single\"\n    defaultSelectedKeys={[\"item2\"]}\n  >\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","switch":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu selectionMode=\"switch\">\n    <MenuItem id=\"item1\">Item 1</MenuItem>\n    <MenuItem id=\"item2\">Item 2</MenuItem>\n    <MenuItem id=\"item3\">Item 3</MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n","width":"import {\n  Button,\n  ContextMenu,\n  ContextMenuTrigger,\n  MenuItem,\n} from \"@mittwald/flow-react-components\";\n\n<ContextMenuTrigger>\n  <Button>Trigger</Button>\n  <ContextMenu\n    width={300}\n    onAction={(id) => {\n      alert(id);\n    }}\n  >\n    <MenuItem id=\"1\">Mein Projekt</MenuItem>\n    <MenuItem id=\"2\">Mein zweites Projekt</MenuItem>\n    <MenuItem id=\"3\">\n      Mein drittes Projekt mit einem sehr langen Namen\n    </MenuItem>\n  </ContextMenu>\n</ContextMenuTrigger>;\n"},"slugs":["actions","context-menu"],"filename":"actions/context-menu/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]]}]}]}],"$L13"]}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2264/merge/_next/static/chunks/c9b4408c516b2bfd.js","async":true}]
+c:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+13:["$","$L17",null,{"currentPath":"/03-components/actions/context-menu/guidelines","anchors":"$a:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+16:null
