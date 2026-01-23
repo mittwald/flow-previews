@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"default"]
-d:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"Flex"]
+2:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"default"]
+d:I[39682,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"Flex"]
 12:I[990002,["/flow-previews/docs/2263/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2263/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 13:"$Sreact.suspense"
-15:I[142373,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js"],"default"]
+15:I[142373,["/flow-previews/docs/2263/merge/_next/static/chunks/2a2a1676976c738b.js","/flow-previews/docs/2263/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js"],"default"]
 7:T49b,"use strict";
 const {jsx: _jsx} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -281,7 +281,7 @@ export default () => {
     </Form>
   );
 };
-0:{"buildId":"38K-Yk87QCjoYZEtiD5d9","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+0:{"buildId":"52la6leQsLXGHyOZlzVaZ","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$7","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$8","validation":"$9"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
 e:T289a,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -722,7 +722,7 @@ export default () => {
   );
 };
 a:["$","$Ld",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$e","frontmatter":{},"scope":{}},"examples":{"form":"$f","validation":"$10"},"slugs":["05-ui-patterns","04-forms"],"filename":"05-ui-patterns/04-forms/overview.mdx","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"aufbau-einer-form-progressively-disclosed-form-controls","text":"Progressively disclosed Form Controls","level":3},{"slug":"aufbau-eines-form-controls","text":"Aufbau eines Form Controls","level":2},{"slug":"aufbau-eines-form-controls-label","text":"Label","level":3},{"slug":"aufbau-eines-form-controls-fields-controls","text":"Fields / Controls","level":3},{"slug":"aufbau-eines-form-controls-fielddescription","text":"FieldDescription","level":3},{"slug":"aufbau-eines-form-controls-fielderror","text":"FieldError","level":3},{"slug":"aufbau-eines-form-controls-placeholder","text":"Placeholder","level":3},{"slug":"validation","text":"Validation","level":2},{"slug":"validation-quick-submit","text":"Quick submit","level":3}]}}]}],"$L11"]}]
-b:["$","script","script-0",{"src":"/flow-previews/docs/2263/merge/_next/static/chunks/9b53563961292830.js","async":true}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2263/merge/_next/static/chunks/a565ccb2e8e1f367.js","async":true}]
 c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
 11:["$","$L15",null,{"currentPath":"/02-foundations/05-ui-patterns/04-forms","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"aufbau-einer-form-progressively-disclosed-form-controls","text":"Progressively disclosed Form Controls","level":3},{"slug":"aufbau-eines-form-controls","text":"Aufbau eines Form Controls","level":2},{"slug":"aufbau-eines-form-controls-label","text":"Label","level":3},{"slug":"aufbau-eines-form-controls-fields-controls","text":"Fields / Controls","level":3},{"slug":"aufbau-eines-form-controls-fielddescription","text":"FieldDescription","level":3},{"slug":"aufbau-eines-form-controls-fielderror","text":"FieldError","level":3},{"slug":"aufbau-eines-form-controls-placeholder","text":"Placeholder","level":3},{"slug":"validation","text":"Validation","level":2},{"slug":"validation-quick-submit","text":"Quick submit","level":3}],"title":"Forms"}]
 14:null
