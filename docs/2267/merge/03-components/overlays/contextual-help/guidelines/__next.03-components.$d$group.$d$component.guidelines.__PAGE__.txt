@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"default"]
+9:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"TabTitle"]
+11:I[142373,["/flow-previews/docs/2267/merge/_next/static/chunks/3fff14559d94cacd.js","/flow-previews/docs/2267/merge/_next/static/chunks/b63447c13f6d5c6e.js","/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js"],"default"]
+12:I[990002,["/flow-previews/docs/2267/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2267/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+d:T9d4,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung des ContextualHelp darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["es nicht alleinstehend verwendet wird, sondern immer einem spezifischen\nElement (z. B. ", _jsx(_components.a, {
+          href: "/03-components/content/heading/overview",
+          children: "Heading"
+        }), ",\n", _jsx(_components.a, {
+          href: "/03-components/content/text/overview",
+          children: "Text"
+        }), " oder\n", _jsx(_components.a, {
+          href: "/03-components/content/label/overview",
+          children: "Label"
+        }), ") zugeordnet wird."]
+      }), "\n", _jsx(_components.li, {
+        children: "es nicht für Inhalte benutzt wird, die zum Verständnis der Benutzeroberfläche\nunerlässlich sind. Stattdessen wird es für weiterführende Erklärungen oder zum\nVerweisen auf externe Quellen verwendet."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende ein ContextualHelp, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Benutzeroberflächen mit weiterführenden Informationen anzureichern, ohne alles\noptisch zu überladen."
+      }), "\n", _jsx(_components.li, {
+        children: "versteckte Hilfe zu Inhalten oder Begrifflichkeiten zu bieten, die nicht für\njeden User sofort verständlich sind."
+      }), "\n", _jsx(_components.li, {
+        children: "auf weiterführende Quellen zu inhaltlich komplexeren Themen zu verweisen."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"epcgihr6BmF9kEuuj0N-D","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"ContextualHelp"}],"Ein ContextualHelp bietet dem User weiterführende, hilfreiche Informationen in einem Popover an.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/ContextualHelp","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"ContextualHelp","description":"Ein ContextualHelp bietet dem User weiterführende, hilfreiche Informationen in einem Popover an."},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <Text>mail.agenturserver.de</Text>\n\n  <ContextualHelpTrigger>\n    <Button />\n\n    <ContextualHelp>\n      <Text>\n        Hier wird die URL des Servers angezeigt, der für den\n        E-Mail-Versand genutzt wird.\n      </Text>\n    </ContextualHelp>\n  </ContextualHelpTrigger>\n</Align>;\n","default":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Link,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextualHelpTrigger>\n  <Button />\n\n  <ContextualHelp>\n    <Heading>Rechte & Rollen</Heading>\n    <Text>\n      Jedem Benutzer-Profil wird im mStudio je Projekt\n      und/oder Organisation eine Rolle zugewiesen. Das\n      ermöglicht dir ein ganz neues und modernes Arbeiten.\n    </Text>\n    <Link>Mehr erfahren</Link>\n  </ContextualHelp>\n</ContextualHelpTrigger>;\n"},"slugs":["overlays","contextual-help"],"filename":"overlays/contextual-help/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/03-components/overlays/contextual-help/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/03-components/overlays/contextual-help/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/03-components/overlays/contextual-help/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Align>\n  <Text>mail.agenturserver.de</Text>\n\n  <ContextualHelpTrigger>\n    <Button />\n\n    <ContextualHelp>\n      <Text>\n        Hier wird die URL des Servers angezeigt, der für den\n        E-Mail-Versand genutzt wird.\n      </Text>\n    </ContextualHelp>\n  </ContextualHelpTrigger>\n</Align>;\n","default":"import {\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  Heading,\n  Link,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<ContextualHelpTrigger>\n  <Button />\n\n  <ContextualHelp>\n    <Heading>Rechte & Rollen</Heading>\n    <Text>\n      Jedem Benutzer-Profil wird im mStudio je Projekt\n      und/oder Organisation eine Rolle zugewiesen. Das\n      ermöglicht dir ein ganz neues und modernes Arbeiten.\n    </Text>\n    <Link>Mehr erfahren</Link>\n  </ContextualHelp>\n</ContextualHelpTrigger>;\n"},"slugs":["overlays","contextual-help"],"filename":"overlays/contextual-help/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]]}]}]}],"$Le"]}]],["$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+e:["$","$L11",null,{"currentPath":"/03-components/overlays/contextual-help/guidelines","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}],"title":"Guidelines"}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2267/merge/_next/static/chunks/b24e6abef826bf05.js","async":true}]
+10:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
