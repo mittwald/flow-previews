@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"default"]
-c:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Flex"]
+2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+c:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Flex"]
 11:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2255/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
-14:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"default"]
+14:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
 7:T75b,export default () => {
   const styles: Record<string, React.CSSProperties> = {
     layoutContainer: {
@@ -228,8 +228,8 @@ c:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.
     </div>
   );
 };
-0:{"buildId":"yzliB9mcc1mvilId-F26O","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Layout"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Das Layout organisiert die Benutzeroberfläche in einer logischen und\\nhierarchischen Struktur, um die Aufmerksamkeit des Users gezielt zu lenken.\\nDabei werden Elemente wie Header, Navigation und Content-Bereich berücksichtigt.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Layout"},"scope":{}},"examples":{"general-layout":"$7","mStudio-layout":"$8"},"slugs":["02-structure","01-layout"],"filename":"02-structure/01-layout/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
-d:T2089,"use strict";
+0:{"buildId":"cOCKrk30ktKo2-JeleGsY","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Layout"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Das Layout organisiert die Benutzeroberfläche in einer logischen und\\nhierarchischen Struktur, um die Aufmerksamkeit des Users gezielt zu lenken.\\nDabei werden Elemente wie Header, Navigation und Content-Bereich berücksichtigt.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Layout"},"scope":{}},"examples":{"general-layout":"$7","mStudio-layout":"$8"},"slugs":["02-structure","01-layout"],"filename":"02-structure/01-layout/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+d:T208e,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -298,25 +298,25 @@ function _createMdxContent(props) {
       children: "Header"
     }), "\n", _jsxs(_components.p, {
       children: ["Der Header-Bereich befindet sich im oberen Bereich des Layouts und ist auf jeder\nSeite identisch. Er kann das Logo sowie eine\n", _jsx(_components.a, {
-        href: "/03-components/navigation/header-navigation/overview",
+        href: "/04-components/navigation/header-navigation/overview",
         children: "HeaderNavigation"
-      }), " enthalten. Ein\nHauptbestandteil der HeaderNavigation sind primäre Navigationspunkte. Ergänzend\ngibt es ", _jsx(_components.a, {
-        href: "/03-components/actions/button/overview",
+      }), "\nenthalten. Ein Hauptbestandteil der HeaderNavigation sind primäre\nNavigationspunkte. Ergänzend gibt es\n", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
         children: "Buttons"
       }), ", die Overlays oder\n", _jsx(_components.a, {
-        href: "/03-components/actions/context-menu/overview",
+        href: "/04-components/actions/context-menu/overview",
         children: "ContextMenus"
-      }), " öffnen, wie beispielsweise\nfür die Suche, das NotificationCenter oder das ProfilMenu. Im Header-Bereich\nsollten ausschließlich wichtige Elemente angezeigt werden, die auf allen Seiten\nsichtbar sein müssen."]
+      }), " öffnen, wie\nbeispielsweise für die Suche, das NotificationCenter oder das ProfilMenu. Im\nHeader-Bereich sollten ausschließlich wichtige Elemente angezeigt werden, die\nauf allen Seiten sichtbar sein müssen."]
     }), "\n", _jsx(_components.h2, {
       children: "Side-Navigation"
     }), "\n", _jsx(_components.p, {
       children: "Die Side-Navigation befindet sich entweder direkt links neben dem\nContent-Bereich oder fest am linken Bildschirmrand. Sie muss nicht nur aus einer\nNavigation bestehen, sondern kann auch aus einer Primary und einer Secondary\nNavigation bestehen."
     }), "\n", _jsxs(_components.p, {
       children: ["Zum Aufbau einer Side-Navigation kann eine\n", _jsx(_components.a, {
-        href: "/03-components/structure/layout-card/overview",
+        href: "/04-components/structure/layout-card/overview",
         children: "LayoutCard"
       }), " mit der Component\n", _jsx(_components.a, {
-        href: "/03-components/navigation/navigation/overview",
+        href: "/04-components/navigation/navigation/overview",
         children: "Navigation"
       }), " gefüllt werden."]
     }), "\n", _jsx(_components.h2, {
@@ -325,42 +325,42 @@ function _createMdxContent(props) {
       children: "Der Content-Bereich stellt dem User Informationen zur Verfügung, damit er seine\nAufgabe erfüllen kann. Der Inhalt variiert von Seite zu Seite, es wird jedoch\nempfohlen, den Inhalt nach einem wiederkehrenden Muster anzuordnen, das bereits\nauf anderen Seiten verwendet wurde."
     }), "\n", _jsxs(_components.p, {
       children: ["Die Navigationsstruktur im Content-Bereich folgt ebenfalls einem klaren Muster.\nIm Content-Bereich können ", _jsx(_components.a, {
-        href: "/03-components/navigation/tabs/overview",
+        href: "/04-components/navigation/tabs/overview",
         children: "Tabs"
       }), " und\n", _jsx(_components.a, {
-        href: "/03-components/structure/list",
+        href: "/04-components/structure/list",
         children: "List"
-      }), " verwendet werden, um die Inhalte zu teilen\noder in die Tiefe zu navigieren. Bei der Navigation in tiefere Ebenen, z. B.\nüber eine List, bietet eine ", _jsx(_components.a, {
-        href: "/03-components/navigation/breadcrumb/overview",
+      }), " verwendet werden, um die Inhalte zu teilen\noder in die Tiefe zu navigieren. Bei der Navigation in tiefere Ebenen, z. B.\nüber eine List, bietet eine\n", _jsx(_components.a, {
+        href: "/04-components/navigation/breadcrumb/overview",
         children: "Breadcrumb"
-      }), "\neine Orientierungshilfe."]
+      }), " eine\nOrientierungshilfe."]
     }), "\n", _jsxs(_components.p, {
-      children: ["Der Content wird von einer ", _jsx(_components.a, {
-        href: "/03-components/structure/layout-card/overview",
+      children: ["Der Content wird von einer\n", _jsx(_components.a, {
+        href: "/04-components/structure/layout-card/overview",
         children: "LayoutCard"
-      }), "\numschlossen. Um innerhalb der LayoutCard die richtigen Abstände in vertikaler\nund horizontaler Richtung sicherzustellen, sollten die Layout-Components\n", _jsx(_components.a, {
-        href: "/03-components/structure/section/overview",
+      }), " umschlossen. Um\ninnerhalb der LayoutCard die richtigen Abstände in vertikaler und horizontaler\nRichtung sicherzustellen, sollten die Layout-Components\n", _jsx(_components.a, {
+        href: "/04-components/structure/section/overview",
         children: "Section"
       }), " und\n", _jsx(_components.a, {
-        href: "/03-components/structure/column-layout/overview",
+        href: "/04-components/structure/column-layout/overview",
         children: "ColumnLayout"
-      }), " verwendet werden."]
+      }), " verwendet\nwerden."]
     }), "\n", _jsx(_components.h2, {
       children: "Overlay"
     }), "\n", _jsxs(_components.p, {
       children: ["Ein Overlay öffnet sich über der eigentlichen Seite. Größere Overlays wie\n", _jsx(_components.a, {
-        href: "/03-components/overlays/modal/overview",
+        href: "/04-components/overlays/modal/overview",
         children: "Modals"
       }), " und\n", _jsx(_components.a, {
-        href: "/03-components/overlays/modal/overview",
+        href: "/04-components/overlays/modal/overview",
         children: "OffCanvas"
-      }), " erhalten zusätzlich einen Backdrop,\ndamit sich der User besser auf den angezeigten Inhalt konzentrieren kann.\nAndere, kleinere Overlays wie ", _jsx(_components.a, {
-        href: "/03-components/actions/context-menu/overview",
+      }), " erhalten zusätzlich einen\nBackdrop, damit sich der User besser auf den angezeigten Inhalt konzentrieren\nkann. Andere, kleinere Overlays wie\n", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu/overview",
         children: "ContextMenu"
-      }), "\noder ", _jsx(_components.a, {
-        href: "/03-components/overlays/tooltip/overview",
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/overlays/tooltip/overview",
         children: "Tooltip"
-      }), " erhalten keinen Backdrop für die\nim Hintergrund angezeigte Seite."]
+      }), " erhalten keinen Backdrop für\ndie im Hintergrund angezeigte Seite."]
     })]
   });
 }
@@ -603,7 +603,7 @@ f:T1011,export default () => {
   );
 };
 9:["$","$Lc",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"general-layout":"$e","mStudio-layout":"$f"},"slugs":["02-structure","01-layout"],"filename":"02-structure/01-layout/overview.mdx","anchors":[{"slug":"best-practices","text":"Best practices","level":2},{"slug":"genereller-aufbau","text":"Genereller Aufbau","level":2},{"slug":"genereller-aufbau-header","text":"Header","level":3},{"slug":"genereller-aufbau-side-navigation","text":"Side-Navigation","level":3},{"slug":"genereller-aufbau-content","text":"Content","level":3},{"slug":"genereller-aufbau-overlay","text":"Overlay","level":3}]}}]}],"$L10"]}]
-a:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js","async":true}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js","async":true}]
 b:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
 10:["$","$L14",null,{"currentPath":"/02-foundations/02-structure/01-layout","anchors":[{"slug":"best-practices","text":"Best practices","level":2},{"slug":"genereller-aufbau","text":"Genereller Aufbau","level":2},{"slug":"genereller-aufbau-header","text":"Header","level":3},{"slug":"genereller-aufbau-side-navigation","text":"Side-Navigation","level":3},{"slug":"genereller-aufbau-content","text":"Content","level":3},{"slug":"genereller-aufbau-overlay","text":"Overlay","level":3}],"title":"Layout"}]
 13:null

@@ -1,0 +1,368 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+e:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"TabTitle"]
+18:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2255/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+9:T486,import {
+  AlertBadge,
+  Button,
+  ColumnLayout,
+  Content,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>
+      Mein Projekt
+      <AlertBadge status="danger">
+        Fehlende Vertragspartnerdaten
+      </AlertBadge>
+    </Heading>
+    <Button
+      variant="soft"
+      color="secondary"
+      aria-label="Weitere Aktionen anzeigen"
+    >
+      <IconContextMenu />
+    </Button>
+    <Button variant="soft" color="secondary">
+      Datenbank migrieren
+    </Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+a:T504,import {
+  Button,
+  ColumnLayout,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  MenuItem,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>Mein Projekt</Heading>
+
+    <ContextMenuTrigger>
+      <Button
+        variant="soft"
+        color="secondary"
+        aria-label="Weitere Aktionen anzeigen"
+      >
+        <IconContextMenu />
+      </Button>
+      <ContextMenu aria-label="Weitere Aktionen">
+        <MenuItem>Datenbank migrieren</MenuItem>
+        <MenuItem>Volume migrieren</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+
+    <Button color="danger">Deaktivieren</Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+0:{"buildId":"cOCKrk30ktKo2-JeleGsY","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Section"}],"Eine Section erhöht die Übersichtlichkeit, indem sie den Content in vertikale Teilbereiche mit festen Abständen gliedert. Zwischen mehreren Sections wird automatisch ein Separator eingefügt, um die Bereiche optisch zu trennen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Section","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Section","description":"Eine Section erhöht die Übersichtlichkeit, indem sie den Content in vertikale Teilbereiche mit festen Abständen gliedert. Zwischen mehreren Sections wird automatisch ein Separator eingefügt, um die Bereiche optisch zu trennen."},"scope":{}},"examples":{"alert-badge-dont":"$9","alert-badge":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","context-menu":"$a","default":"import {\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","hierarchy-do":"import {\n  Heading,\n  IconStar,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>\n    <IconStar />\n    Erste Schritte\n  </Heading>\n  <Text>\n    Im Onboarding erklären wir dir alles Wichtige – etwa die\n    Organisationsstrukturen deines Hostings, das Rechte- und\n    Rollensystem oder auch den Zugang über SSH.\n  </Text>\n  <Link href=\"#\">Starten</Link>\n</Section>;\n","link":"import {\n  Header,\n  Heading,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Link href=\"#\">Zur Anmeldung</Link>\n  </Header>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","long-heading":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein sehr langes Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","multiple":"import {\n  Button,\n  Header,\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<>\n  <Section>\n    <Header>\n      <Heading>Datenbanken</Heading>\n      <Button>Datenbank verknüpfen</Button>\n    </Header>\n    <Text>\n      Eine Datenbank, die mit einer App verknüpft ist, kann\n      nicht gelöscht werden. Die App nutzt immer die\n      verknüpfte Datenbank.\n    </Text>\n  </Section>\n  <Section>\n    <Heading>Cronjobs</Heading>\n    <Text>\n      Ein Cronjob ist immer fest einer App zugeordnet, du\n      kannst ihn unter dem Menüpunkt Cronjobs bearbeiten und\n      löschen.\n    </Text>\n  </Section>\n</>;\n","sub-heading":"import {\n  Heading,\n  InlineCode,\n  Label,\n  LabeledValue,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>DNS Verwaltung</Heading>\n  <Text>\n    Da du externe Nameserver nutzt, empfehlen wir dir\n    folgende Records bei deinem Provider einzutragen.\n  </Text>\n  <Heading level={3}>A-Record</Heading>\n  <LabeledValue>\n    <Label>IPv4-Adresse</Label>\n    <InlineCode>12.123.123.12</InlineCode>\n  </LabeledValue>\n</Section>;\n","switch":"import {\n  Header,\n  Heading,\n  Section,\n  Switch,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Autoresponder</Heading>\n    <Switch>Aktivieren</Switch>\n  </Header>\n  <Text>\n    Lasse den Autoresponder für dich arbeiten. Er kann\n    automatisch auf eingehende E-Mails antworten.\n  </Text>\n</Section>;\n"},"slugs":["structure","section"],"filename":"structure/section/index.mdx","anchors":[]}}]]}]}],"$Lb"],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:T12fe,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Section />"
+      }), ", um eine Section darzustellen. Sie sorgt automatisch für\nfeste Abstände zwischen den darin platzierten Elementen."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Mehrere Sections"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn mehrere Sections untereinander platziert werden, werden sie automatisch\ndurch einen ", _jsx(_components.a, {
+        href: "/04-components/structure/separator/overview",
+        children: "Separator"
+      }), " getrennt."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "multiple",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Sub-Headings"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Sections beginnen in der Regel mit einer\nH2-", _jsx(_components.a, {
+        href: "/04-components/content/heading/overview",
+        children: "Heading"
+      }), ". Wenn eine feinere\nUnterteilung nötig ist, können Headings auf niedrigerem Level direkt in der\nSection platziert werden. Zur optischen Verdeutlichung erhalten Sub-Headings in\nder Größe H3 automatisch einen größeren Abstand zum darüberliegenden Content."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "sub-heading",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "SectionAction"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Section verfügt in der rechten oberen Ecke über einen Bereich für Actions –\ndie sogenannte SectionAction. Dort können ein\n", _jsx(_components.a, {
+        href: "/04-components/navigation/link/overview",
+        children: "Link"
+      }), ", ein\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/switch/overview",
+        children: "Switch"
+      }), ", ein oder zwei\n", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
+        children: "Buttons"
+      }), " oder eine Kombination dieser\nComponents verwendet werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "link",
+      editorCollapsed: true
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "switch",
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.p, {
+      children: ["Es können maximal zwei ", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
+        children: "Buttons"
+      }), "\nnebeneinander angezeigt werden. Werden mehr als zwei Aktionen benötigt, erhält\ndie Hauptaktion einen eigenen Button, während alle weiteren in ein\n", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu/overview",
+        children: "ContextMenu"
+      }), " verschoben werden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "context-menu",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "AlertBadge und Badge"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die ", _jsx(_components.a, {
+        href: "/04-components/content/heading/overview",
+        children: "Heading"
+      }), " kann mit einem\n", _jsx(_components.a, {
+        href: "/04-components/status/alert-badge/overview",
+        children: "AlertBadge"
+      }), " oder einem\n", _jsx(_components.a, {
+        href: "/04-components/status/badge/overview",
+        children: "Badge"
+      }), " ergänzt werden. Dadurch wird der\nUser schnell über den Status oder über Metadaten des Inhalts einer Section\ninformiert."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "alert-badge",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T486,import {
+  AlertBadge,
+  Button,
+  ColumnLayout,
+  Content,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>
+      Mein Projekt
+      <AlertBadge status="danger">
+        Fehlende Vertragspartnerdaten
+      </AlertBadge>
+    </Heading>
+    <Button
+      variant="soft"
+      color="secondary"
+      aria-label="Weitere Aktionen anzeigen"
+    >
+      <IconContextMenu />
+    </Button>
+    <Button variant="soft" color="secondary">
+      Datenbank migrieren
+    </Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+14:T504,import {
+  Button,
+  ColumnLayout,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  CopyButton,
+  Header,
+  Heading,
+  IconContextMenu,
+  IconExternalLink,
+  Label,
+  LabeledValue,
+  Link,
+  MenuItem,
+  Section,
+  Text,
+} from "@mittwald/flow-react-components";
+
+<Section>
+  <Header>
+    <Heading>Mein Projekt</Heading>
+
+    <ContextMenuTrigger>
+      <Button
+        variant="soft"
+        color="secondary"
+        aria-label="Weitere Aktionen anzeigen"
+      >
+        <IconContextMenu />
+      </Button>
+      <ContextMenu aria-label="Weitere Aktionen">
+        <MenuItem>Datenbank migrieren</MenuItem>
+        <MenuItem>Volume migrieren</MenuItem>
+      </ContextMenu>
+    </ContextMenuTrigger>
+
+    <Button color="danger">Deaktivieren</Button>
+  </Header>
+
+  <ColumnLayout>
+    <LabeledValue>
+      <Label>Projektname</Label>
+      <Content>Dolce Vita</Content>
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Short-ID</Label>
+      <Content>p-lol3qe</Content>
+      <CopyButton text="p-lol3qe" />
+    </LabeledValue>
+    <LabeledValue>
+      <Label>Projektdomain</Label>
+      <Link>
+        <Text>p-lol3qe.project.space</Text>
+        <IconExternalLink />
+      </Link>
+      <CopyButton text="p-lol3qe.project.space" />
+    </LabeledValue>
+  </ColumnLayout>
+</Section>;
+b:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"overview","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/04-components/structure/section/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"alert-badge-dont":"$13","alert-badge":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","context-menu":"$14","default":"import {\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>Newsletter</Heading>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","hierarchy-do":"import {\n  Heading,\n  IconStar,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>\n    <IconStar />\n    Erste Schritte\n  </Heading>\n  <Text>\n    Im Onboarding erklären wir dir alles Wichtige – etwa die\n    Organisationsstrukturen deines Hostings, das Rechte- und\n    Rollensystem oder auch den Zugang über SSH.\n  </Text>\n  <Link href=\"#\">Starten</Link>\n</Section>;\n","link":"import {\n  Header,\n  Heading,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Newsletter</Heading>\n    <Link href=\"#\">Zur Anmeldung</Link>\n  </Header>\n  <Text>\n    Kommende Releases, neue Features und Tipps rund um dein\n    Hosting – wir bringen dir das Wichtigste in dein\n    Postfach. Abonniere unseren Newsletter und bleib auf dem\n    Laufenden.\n  </Text>\n</Section>;\n","long-heading":"import {\n  AlertBadge,\n  Button,\n  ColumnLayout,\n  Content,\n  CopyButton,\n  Header,\n  Heading,\n  IconExternalLink,\n  Label,\n  LabeledValue,\n  Link,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>\n      Mein sehr langes Projekt\n      <AlertBadge status=\"danger\">Deaktiviert</AlertBadge>\n    </Heading>\n\n    <Button variant=\"soft\" color=\"secondary\">\n      Datenbank migrieren\n    </Button>\n    <Button color=\"accent\">Aktivieren</Button>\n  </Header>\n\n  <ColumnLayout>\n    <LabeledValue>\n      <Label>Projektname</Label>\n      <Content>Dolce Vita</Content>\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Short-ID</Label>\n      <Content>p-lol3qe</Content>\n      <CopyButton text=\"p-lol3qe\" />\n    </LabeledValue>\n    <LabeledValue>\n      <Label>Projektdomain</Label>\n      <Link>\n        <Text>p-lol3qe.project.space</Text>\n        <IconExternalLink />\n      </Link>\n      <CopyButton text=\"p-lol3qe.project.space\" />\n    </LabeledValue>\n  </ColumnLayout>\n</Section>;\n","multiple":"import {\n  Button,\n  Header,\n  Heading,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<>\n  <Section>\n    <Header>\n      <Heading>Datenbanken</Heading>\n      <Button>Datenbank verknüpfen</Button>\n    </Header>\n    <Text>\n      Eine Datenbank, die mit einer App verknüpft ist, kann\n      nicht gelöscht werden. Die App nutzt immer die\n      verknüpfte Datenbank.\n    </Text>\n  </Section>\n  <Section>\n    <Heading>Cronjobs</Heading>\n    <Text>\n      Ein Cronjob ist immer fest einer App zugeordnet, du\n      kannst ihn unter dem Menüpunkt Cronjobs bearbeiten und\n      löschen.\n    </Text>\n  </Section>\n</>;\n","sub-heading":"import {\n  Heading,\n  InlineCode,\n  Label,\n  LabeledValue,\n  Section,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Heading>DNS Verwaltung</Heading>\n  <Text>\n    Da du externe Nameserver nutzt, empfehlen wir dir\n    folgende Records bei deinem Provider einzutragen.\n  </Text>\n  <Heading level={3}>A-Record</Heading>\n  <LabeledValue>\n    <Label>IPv4-Adresse</Label>\n    <InlineCode>12.123.123.12</InlineCode>\n  </LabeledValue>\n</Section>;\n","switch":"import {\n  Header,\n  Heading,\n  Section,\n  Switch,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Section>\n  <Header>\n    <Heading>Autoresponder</Heading>\n    <Switch>Aktivieren</Switch>\n  </Header>\n  <Text>\n    Lasse den Autoresponder für dich arbeiten. Er kann\n    automatisch auf eingehende E-Mails antworten.\n  </Text>\n</Section>;\n"},"slugs":["structure","section"],"filename":"structure/section/overview.mdx","anchors":[{"slug":"playground","text":"Playground","level":2},{"slug":"mehrere-sections","text":"Mehrere Sections","level":2},{"slug":"mehrere-sections-sub-headings","text":"Sub-Headings","level":3},{"slug":"sectionaction","text":"SectionAction","level":2},{"slug":"kombiniere-mit","text":"Kombiniere mit ","level":2},{"slug":"kombiniere-mit-alertbadge-und-badge","text":"AlertBadge und Badge","level":3}]}}]}]]}],"$L15","$L16"]}]}]}],"$L17"]}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js","async":true}]
+d:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+15:["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/04-components/structure/section/develop","children":"Develop"}],false]}]
+16:["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/04-components/structure/section/guidelines","children":"Guidelines"}],false]}]
+17:["$","$L1b",null,{"currentPath":"/04-components/structure/section/overview","anchors":"$b:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+1a:null

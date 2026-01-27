@@ -1,0 +1,368 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Section"]
+6:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+d:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+e:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2255/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+8:T1b67,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    strong: "strong",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: ["Detailseiten sind die zentrale Oberfläche innerhalb der Anwendung. Sie bündeln\nalle relevanten Informationen zu einem einzelnen Objekt und stellen diese im\nContent-Bereich übersichtlich dar. Von hier aus können Bearbeitungs- und\nAnlageprozesse gestartet werden. Sie gliedert sich in zwei Hauptbereiche: den\n", _jsx(_components.strong, {
+        children: "ContentHeader"
+      }), ", der dem User Orientierung gibt, und den ", _jsx(_components.strong, {
+        children: "Content"
+      }), ", in dem\ndie eigentlichen Informationen und Aktionen dargestellt werden."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Code-Beispiel"
+    }), "\n", _jsx(_components.p, {
+      children: "Das folgende Code-Beispiel zeigt den Aufbau einer typischen Detailseite in\nmStudio. Es veranschaulicht, wie Inhalte strukturiert und dargestellt werden."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "detail-page",
+      editorCollapsed: true,
+      bgColor: "dark"
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "ContentHeader"
+    }), "\n", _jsx(_components.p, {
+      children: "Der ContentHeader enthält Orientierungselemente wie PageTitle und Breadcrumb\nsowie Schnellzugriffe im ActionMenu."
+    }), "\n", _jsx(_components.h2, {
+      children: "PageTitle"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der PageTitle wird als ", _jsx(_components.a, {
+        href: "/04-components/content/heading",
+        children: "Heading"
+      }), " mit H1\ndargestellt. Er gibt den Usern eine klare Orientierung darüber, in welchem\nBereich sie sich befinden. Der Titel steht in direktem Bezug zum Inhalt der\nDetailseite."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Breadcrumb"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die ", _jsx(_components.a, {
+        href: "/04-components/navigation/breadcrumb",
+        children: "Breadcrumb"
+      }), " ergänzt die Orientierung.\nSie ermöglicht die Navigation innerhalb des Seitenbaums und bietet eine schnelle\nRückkehr zu übergeordneten Ebenen. Die Bezeichnungen der Einträge sind möglichst\ngenerisch gehalten, um Platz zu sparen und unterschiedlich lange Namen\nkonsistent abzubilden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "ActionMenu"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das ActionMenu besteht aus einem ", _jsx(_components.a, {
+        href: "/04-components/actions/button",
+        children: "Button"
+      }), " als\nTrigger und einem ", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu",
+        children: "ContextMenu"
+      }), ". Es bietet\nzentrale Aktionen, sogenannte QuickActions, an. QuickActions spiegeln wichtige\nFunktionen wider, die zwar innerhalb des Contents vorhanden sind und hier\nzusätzlich als Schnellzugriff zur Verfügung stehen. Außerdem werden die\nFunktionen „Umbenennen“ oder „Löschen“ hier platziert."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Content"
+    }), "\n", _jsx(_components.p, {
+      children: "Im Content-Bereich werden die für den User relevanten Informationen dargestellt\nund Bearbeitungs- sowie Anlageprozesse ermöglicht. Damit Seiten einheitlich\nwirken, sollten die Inhalte nach einem wiederkehrenden Muster aufgebaut werden.\nGrundlage ist die LayoutCard als Container für Sections, die bei Bedarf mit Tabs\nergänzt werden können."
+    }), "\n", _jsx(_components.h2, {
+      children: "LayoutCard"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die ", _jsx(_components.a, {
+        href: "/04-components/structure/layout-card",
+        children: "LayoutCard"
+      }), " ist die Grundlage jeder\nDetailseite. Sie bildet den äußeren Container für den Inhalt und stellt\nHintergrund und Padding bereit."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Tabs"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.a, {
+        href: "/04-components/navigation/tabs",
+        children: "Tabs"
+      }), " schaffen Übersicht bei komplexen\nInhalten. Sie teilen den Content in kleinere thematische Einheiten auf. Wenn\nsich mehrere Sections sinnvoll gruppieren lassen, können sie in einem Tab\nausgelagert werden. User können so zwischen verschiedenen Ansichten wechseln,\nohne den Kontext zu verlieren."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Sections"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.a, {
+        href: "/04-components/structure/section",
+        children: "Sections"
+      }), " strukturieren die Inhalte in\nThemenblöcke. Jede Section beginnt dabei mit einer H2-Überschrift. Weitere\nUnterteilungen erfolgen über verschachtelte Sections mit den Überschriften H3\nbis H5 (siehe ", _jsx(_components.a, {
+        href: "/04-components/content/heading",
+        children: "Heading"
+      }), "). Neben der Heading\nkönnen auch Actions platziert werden. Die sogenannten SectionAction im\nSection-Header bietet Platz für Elemente wie\n", _jsx(_components.a, {
+        href: "/04-components/actions/button",
+        children: "Buttons"
+      }), ",\n", _jsx(_components.a, {
+        href: "/04-components/navigation/link",
+        children: "Links"
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/switch",
+        children: "Switches"
+      }), ". Diese stehen in direktem\nZusammenhang mit der jeweiligen Section. Über Buttons können beispielsweise\nBearbeitungs- und Anlegeprozesse gestartet werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "ColumnLayout"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das ", _jsx(_components.a, {
+        href: "/04-components/structure/column-layout",
+        children: "ColumnLayout"
+      }), " organisiert Inhalte\nin Spalten. Anzahl und Breite der Spalten sind flexibel und passen sich an\nunterschiedliche Breakpoints an."]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:T1aa2,import {
+  Breadcrumb,
+  Button,
+  ColumnLayout,
+  Content,
+  ContextMenu,
+  ContextMenuTrigger,
+  Flex,
+  Header,
+  Heading,
+  IconChevronDown,
+  IconDelete,
+  IconEdit,
+  IconExternalLink,
+  IconPassword,
+  Label,
+  LabeledValue,
+  LayoutCard,
+  Link,
+  MenuItem,
+  Modal,
+  ModalTrigger,
+  ProgressBar,
+  Section,
+  Segment,
+  SegmentedControl,
+  Switch,
+  Tab,
+  Table,
+  TableBody,
+  TableCell,
+  TableColumn,
+  TableHeader,
+  TableRow,
+  Tabs,
+  TabTitle,
+  Text,
+} from "@mittwald/flow-react-components";
+import { useState } from "react";
+
+export default () => {
+  const [connectionType, setConnectionType] =
+    useState("IMAP");
+
+  return (
+    <Flex direction="column" gap="m">
+      <Flex direction="column">
+        <Breadcrumb color="light">
+          <Link>Projekt</Link>
+          <Link>E-Mails</Link>
+          <Link>E-Mail-Details</Link>
+        </Breadcrumb>
+        <Flex justify="space-between">
+          <Heading color="light" level={1}>
+            max@mustermann.de
+          </Heading>
+          <ContextMenuTrigger>
+            <Button variant="outline" color="light">
+              <Text>Aktionen</Text>
+              <IconChevronDown />
+            </Button>
+            <ContextMenu placement="bottom end">
+              <MenuItem>
+                <IconEdit />
+                <Text>E-Mail-Adresse bearbeiten</Text>
+              </MenuItem>
+              <MenuItem>
+                <IconPassword />
+                <Text>Passwort ändern</Text>
+              </MenuItem>
+              <MenuItem>
+                <IconExternalLink />
+                <Text>mittwald Webmailer</Text>
+              </MenuItem>
+              <MenuItem>
+                <IconDelete />
+                <Text>Löschen</Text>
+              </MenuItem>
+            </ContextMenu>
+          </ContextMenuTrigger>
+        </Flex>
+      </Flex>
+      <LayoutCard>
+        <Tabs>
+          <Tab>
+            <TabTitle>Allgemein</TabTitle>
+            <Section>
+              <Header>
+                <Heading>E-Mail-Adresse</Heading>
+                <ModalTrigger>
+                  <Button variant="soft" color="secondary">
+                    Passwort ändern
+                  </Button>
+                  <Modal>
+                    <Heading>Passwort ändern</Heading>
+                    <Content>
+                      <Text>...</Text>
+                    </Content>
+                  </Modal>
+                </ModalTrigger>
+                <ModalTrigger>
+                  <Button>E-Mail-Adresse bearbeiten</Button>
+                  <Modal>
+                    <Heading>
+                      E-Mail-Adresse bearbeiten
+                    </Heading>
+                    <Content>
+                      <Text>...</Text>
+                    </Content>
+                  </Modal>
+                </ModalTrigger>
+              </Header>
+              <ColumnLayout>
+                <LabeledValue>
+                  <Label>E-Mail-Adresse</Label>
+                  <Text>max@mustermann.de</Text>
+                </LabeledValue>
+                <LabeledValue>
+                  <Label>Webmailer</Label>
+                  <Link target="_blank">
+                    mittwald Webmailer
+                  </Link>
+                </LabeledValue>
+              </ColumnLayout>
+            </Section>
+            <Section>
+              <Header>
+                <Heading>Speicherplatz</Heading>
+                <ModalTrigger>
+                  <Button variant="soft" color="secondary">
+                    Bearbeiten
+                  </Button>
+                  <Modal>
+                    <Heading>
+                      Speicherplatz bearbeiten
+                    </Heading>
+                    <Content>
+                      <Text>...</Text>
+                    </Content>
+                  </Modal>
+                </ModalTrigger>
+              </Header>
+              <Text>
+                Die E-Mail-Adresse verfügt über einen
+                Speicherplatz zum Empfangen und Speichern
+                von E-Mails. Wir empfehlen dir, mindestens 2
+                GB zu reservieren.
+              </Text>
+              <ProgressBar
+                formatOptions={{
+                  style: "unit",
+                  unit: "gigabyte",
+                }}
+                size="l"
+                showMaxValue
+                maxValue={2}
+                value={1}
+                status="success"
+              >
+                <Label>Speicherplatz</Label>
+              </ProgressBar>
+            </Section>
+            <Section>
+              <Heading>Verbindungsinformationen</Heading>
+              <SegmentedControl
+                defaultValue={connectionType}
+                onChange={setConnectionType}
+                aria-label="Verbindungsart"
+              >
+                <Segment value="IMAP">IMAP</Segment>
+                <Segment value="POP3">POP3</Segment>
+                <Segment value="SMTP">SMTP</Segment>
+              </SegmentedControl>
+              <Table aria-label="Verbindungsinformationen">
+                <TableHeader>
+                  <TableColumn></TableColumn>
+                  <TableColumn></TableColumn>
+                </TableHeader>
+                <TableBody>
+                  <TableRow>
+                    <TableCell rowHeader>
+                      Benutzername
+                    </TableCell>
+                    <TableCell>max@mustermann.de</TableCell>
+                  </TableRow>
+                  <TableRow>
+                    <TableCell rowHeader>
+                      {connectionType} Port
+                    </TableCell>
+                    <TableCell>...</TableCell>
+                  </TableRow>
+                  <TableRow>
+                    <TableCell rowHeader>
+                      {connectionType} Postausgang
+                    </TableCell>
+                    <TableCell>...</TableCell>
+                  </TableRow>
+                </TableBody>
+              </Table>
+            </Section>
+            <Section>
+              <Header>
+                <Heading>Spamschutz</Heading>
+                <Switch defaultSelected>Aktivieren</Switch>
+              </Header>
+              <Text>
+                Der Spamfilter schützt dich vor ungewollten
+                E-Mails. Niemand will Müll in seinem
+                Postfach, daher empfehlen wir den Spamschutz
+                immer aktiviert zu lassen.
+              </Text>
+            </Section>
+          </Tab>
+          <Tab>
+            <TabTitle>Weiterleitungen</TabTitle>
+            <Section>
+              <Text>...</Text>
+            </Section>
+          </Tab>
+          <Tab>
+            <TabTitle>Autoresponder</TabTitle>
+            <Section>
+              <Text>...</Text>
+            </Section>
+          </Tab>
+        </Tabs>
+      </LayoutCard>
+    </Flex>
+  );
+};
+0:{"buildId":"cOCKrk30ktKo2-JeleGsY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"detail-page":"$9"},"slugs":["detail-page"],"filename":"detail-page/index.mdx","anchors":[{"slug":"code-beispiel","text":"Code-Beispiel","level":2},{"slug":"contentheader","text":"ContentHeader","level":2},{"slug":"contentheader-pagetitle","text":"PageTitle","level":3},{"slug":"contentheader-breadcrumb","text":"Breadcrumb","level":3},{"slug":"contentheader-actionmenu","text":"ActionMenu","level":3},{"slug":"content","text":"Content","level":2},{"slug":"content-layoutcard","text":"LayoutCard","level":3},{"slug":"content-tabs","text":"Tabs","level":3},{"slug":"content-sections","text":"Sections","level":3},{"slug":"content-columnlayout","text":"ColumnLayout","level":3}]}}]]}]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+a:["$","$Ld",null,{"currentPath":"/01-get-started/detail-page","anchors":[{"slug":"code-beispiel","text":"Code-Beispiel","level":2},{"slug":"contentheader","text":"ContentHeader","level":2},{"slug":"contentheader-pagetitle","text":"PageTitle","level":3},{"slug":"contentheader-breadcrumb","text":"Breadcrumb","level":3},{"slug":"contentheader-actionmenu","text":"ActionMenu","level":3},{"slug":"content","text":"Content","level":2},{"slug":"content-layoutcard","text":"LayoutCard","level":3},{"slug":"content-tabs","text":"Tabs","level":3},{"slug":"content-sections","text":"Sections","level":3},{"slug":"content-columnlayout","text":"ColumnLayout","level":3}],"title":"Detailseite"}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js","async":true}]
+c:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

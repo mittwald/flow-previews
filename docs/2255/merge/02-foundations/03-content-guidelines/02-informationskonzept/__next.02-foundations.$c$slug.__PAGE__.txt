@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"default"]
-b:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"Flex"]
+2:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
+b:I[39682,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"Flex"]
 f:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2255/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
-12:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/b9d67c4f9049b653.js","/flow-previews/docs/2255/merge/_next/static/chunks/093357b39cd23271.js","/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js"],"default"]
+12:I[142373,["/flow-previews/docs/2255/merge/_next/static/chunks/f45512fd1a75d53b.js","/flow-previews/docs/2255/merge/_next/static/chunks/ad52ae3dd24e74f9.js","/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js"],"default"]
 7:T573,import {
   Alert,
   Heading,
@@ -66,8 +66,8 @@ f:I[990002,["/flow-previews/docs/2255/merge/_next/static/chunks/1a167b29b3617808
     </Content>
   </Alert>
 </Column>;
-0:{"buildId":"yzliB9mcc1mvilId-F26O","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Informationskonzept"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Das Informationskonzept beschreibt, wie der User im mStudio über alle relevanten Informationen informiert wird – sowohl durch selbst initiierte Aktionen als auch durch systemseitig ausgelöste Ereignisse. Dazu zählen laufende und abgeschlossene Prozesse sowie wichtige Systemmeldungen (z. B. „Speicherplatz ist voll“). Es definiert, wie Feedback zu Prozessen gegeben wird und wie Benachrichtigungen gestaltet sind.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Informationskonzept"},"scope":{}},"examples":{"alert":"$7","alertBadge":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <AlertBadge>Update verfügbar</AlertBadge>\n\n  <AlertBadge status=\"warning\">\n    Speicherplatz fast voll\n  </AlertBadge>\n\n  <AlertBadge status=\"danger\">\n    Speicherplatz voll\n  </AlertBadge>\n\n  <AlertBadge status=\"success\">Verifiziert</AlertBadge>\n</Row>;\n","notification":"import {\n  Heading,\n  Notification,\n  Text,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" wrap=\"wrap\">\n  <Notification>\n    <Heading>E-Mail-Adresse archiviert</Heading>\n    <Text>\n      Die E-Mail-Adresse <b>example@mittwald.de</b> wurde\n      archiviert.\n    </Text>\n  </Notification>\n\n  <Notification status=\"warning\">\n    <Heading>Speicher fast voll</Heading>\n    <Text>\n      Der Speicherplatz im Projekt <b>My Project</b> ist zu\n      80% voll.\n    </Text>\n  </Notification>\n\n  <Notification status=\"danger\">\n    <Heading>Kein SSL-Zertifikat</Heading>\n    <Text>\n      Für <b>exmaple.de</b> konnte kein SSL-Zertifikat\n      ausgestellt werden.\n    </Text>\n  </Notification>\n\n  <Notification status=\"success\">\n    <Heading>App installiert</Heading>\n    <Text>\n      Deine App <b>My WordPress</b> wurde erfolgreich\n      installiert.\n    </Text>\n  </Notification>\n</Flex>;\n","tabs":"import {\n  Tabs,\n  Tab,\n  TabTitle,\n  AlertIcon,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n  </Tab>\n  <Tab>\n    <TabTitle>\n      Tab\n      <AlertIcon />\n    </TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n</Tabs>;\n"},"slugs":["03-content-guidelines","02-informationskonzept"],"filename":"03-content-guidelines/02-informationskonzept/index.mdx","anchors":[]}}]]}]}],"$L8"],["$L9"],"$La"]}],"loading":null,"isPartial":false}
-c:T2657,"use strict";
+0:{"buildId":"cOCKrk30ktKo2-JeleGsY","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Informationskonzept"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Das Informationskonzept beschreibt, wie der User im mStudio über alle relevanten Informationen informiert wird – sowohl durch selbst initiierte Aktionen als auch durch systemseitig ausgelöste Ereignisse. Dazu zählen laufende und abgeschlossene Prozesse sowie wichtige Systemmeldungen (z. B. „Speicherplatz ist voll“). Es definiert, wie Feedback zu Prozessen gegeben wird und wie Benachrichtigungen gestaltet sind.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Informationskonzept"},"scope":{}},"examples":{"alert":"$7","alertBadge":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <AlertBadge>Update verfügbar</AlertBadge>\n\n  <AlertBadge status=\"warning\">\n    Speicherplatz fast voll\n  </AlertBadge>\n\n  <AlertBadge status=\"danger\">\n    Speicherplatz voll\n  </AlertBadge>\n\n  <AlertBadge status=\"success\">Verifiziert</AlertBadge>\n</Row>;\n","notification":"import {\n  Heading,\n  Notification,\n  Text,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" wrap=\"wrap\">\n  <Notification>\n    <Heading>E-Mail-Adresse archiviert</Heading>\n    <Text>\n      Die E-Mail-Adresse <b>example@mittwald.de</b> wurde\n      archiviert.\n    </Text>\n  </Notification>\n\n  <Notification status=\"warning\">\n    <Heading>Speicher fast voll</Heading>\n    <Text>\n      Der Speicherplatz im Projekt <b>My Project</b> ist zu\n      80% voll.\n    </Text>\n  </Notification>\n\n  <Notification status=\"danger\">\n    <Heading>Kein SSL-Zertifikat</Heading>\n    <Text>\n      Für <b>exmaple.de</b> konnte kein SSL-Zertifikat\n      ausgestellt werden.\n    </Text>\n  </Notification>\n\n  <Notification status=\"success\">\n    <Heading>App installiert</Heading>\n    <Text>\n      Deine App <b>My WordPress</b> wurde erfolgreich\n      installiert.\n    </Text>\n  </Notification>\n</Flex>;\n","tabs":"import {\n  Tabs,\n  Tab,\n  TabTitle,\n  AlertIcon,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n  </Tab>\n  <Tab>\n    <TabTitle>\n      Tab\n      <AlertIcon />\n    </TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n</Tabs>;\n"},"slugs":["03-content-guidelines","02-informationskonzept"],"filename":"03-content-guidelines/02-informationskonzept/index.mdx","anchors":[]}}]]}]}],"$L8"],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+c:T2670,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -94,17 +94,17 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Das Informationskonzept unterscheidet vier Status: ", _jsx(_components.strong, {
         children: "Info, Warning, Danger"
-      }), " und ", _jsx(_components.strong, {
+      }), " und\n", _jsx(_components.strong, {
         children: "Success"
       }), ". Jeder Status folgt dabei einem definierten Kombination aus\n", _jsx(_components.a, {
         href: "/02-foundations/01-design/02-colors",
         children: "Color"
       }), "- und\n", _jsx(_components.a, {
-        href: "/03-components/content/icon/overview#icon-bibliothek",
+        href: "/04-components/content/icon/overview#icon-bibliothek",
         children: "Icon"
-      }), ", um eine\neindeutige und schnelle Erkennung zu ermöglichen."]
+      }), ", um eine eindeutige\nund schnelle Erkennung zu ermöglichen."]
     }), "\n", _jsx(_components.p, {
-      children: "Wenn zwei Status inhaltlich miteinander konkurrieren, wird immer der handlungsentscheidende angezeigt. Zum Beispiel überschreibt ein Danger stets Warning und Info."
+      children: "Wenn zwei Status inhaltlich miteinander konkurrieren, wird immer der\nhandlungsentscheidende angezeigt. Zum Beispiel überschreibt ein Danger stets\nWarning und Info."
     }), "\n", _jsxs(_components.table, {
       children: [_jsx(_components.thead, {
         children: _jsxs(_components.tr, {
@@ -167,16 +167,16 @@ function _createMdxContent(props) {
       children: "Alert"
     }), "\n", _jsxs(_components.p, {
       children: ["Ein ", _jsx(_components.a, {
-        href: "/03-components/status/alert/overview",
+        href: "/04-components/status/alert/overview",
         children: "Alert"
-      }), " wird dort eingesetzt, wo\nunmittelbare Aufmerksamkeit erforderlich ist – etwa bei Systemfehlern oder\nwichtigen Systeminformationen. Er übermittelt die Information in wenigen Sätzen und gibt, wenn möglich, eine Handlungsempfehlung. Diese kann mithilfe eines ", _jsx(_components.a, {
-        href: "/03-components/navigation/link/overview",
+      }), " wird dort eingesetzt, wo\nunmittelbare Aufmerksamkeit erforderlich ist – etwa bei Systemfehlern oder\nwichtigen Systeminformationen. Er übermittelt die Information in wenigen Sätzen\nund gibt, wenn möglich, eine Handlungsempfehlung. Diese kann mithilfe eines\n", _jsx(_components.a, {
+        href: "/04-components/navigation/link/overview",
         children: "Links"
-      }), " oder eines ", _jsx(_components.a, {
-        href: "/03-components/actions/button/overview",
+      }), " oder eines\n", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
         children: "Buttons"
-      }), " unterstützt werden. Alerts sollten stets in der Nähe des betroffenen Inhalts platziert werden (s. ", _jsx(_components.a, {
-        href: "/03-components/status/alert/guidelines#anwendung",
+      }), " unterstützt werden. Alerts\nsollten stets in der Nähe des betroffenen Inhalts platziert werden (s.\n", _jsx(_components.a, {
+        href: "/04-components/status/alert/guidelines#anwendung",
         children: "Alert: Position"
       }), ")."]
     }), "\n", _jsx(LiveCodeEditor, {
@@ -186,28 +186,28 @@ function _createMdxContent(props) {
       children: "AlertBadge"
     }), "\n", _jsxs(_components.p, {
       children: ["Eine ", _jsx(_components.a, {
-        href: "/03-components/status/alert-badge/overview",
+        href: "/04-components/status/alert-badge/overview",
         children: "AlertBadge"
-      }), " dient dazu, den Status eines Elements schnell sichtbar zu machen, beispielsweise in ", _jsx(_components.a, {
-        href: "/03-components/structure/section/overview",
+      }), " dient dazu, den\nStatus eines Elements schnell sichtbar zu machen, beispielsweise in\n", _jsx(_components.a, {
+        href: "/04-components/structure/section/overview",
         children: "Section"
-      }), " ", _jsx(_components.a, {
-        href: "/03-components/content/heading/overview",
+      }), "\n", _jsx(_components.a, {
+        href: "/04-components/content/heading/overview",
         children: "Headings"
-      }), " oder ", _jsx(_components.a, {
-        href: "/03-components/structure/list/overview",
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/structure/list/overview",
         children: "List"
-      }), "-Einträgen. In vielen Fällen wird sie durch einen ", _jsx(_components.a, {
-        href: "/03-components/status/alert/overview",
+      }), "-Einträgen. In vielen Fällen wird\nsie durch einen ", _jsx(_components.a, {
+        href: "/04-components/status/alert/overview",
         children: "Alert"
-      }), " ergänzt, etwa auf der ", _jsx(_components.a, {
+      }), " ergänzt, etwa auf\nder ", _jsx(_components.a, {
         href: "/02-foundations/04-ui-patterns/03-struktur",
         children: "Detailseite"
-      }), ", um zusätzliche Informationen bereitzustellen. Für Metadaten oder ergänzende Informationen ist hingegen die ", _jsx(_components.a, {
-        href: "/03-components/status/badge/overview",
+      }), ", um zusätzliche\nInformationen bereitzustellen. Für Metadaten oder ergänzende Informationen ist\nhingegen die ", _jsx(_components.a, {
+        href: "/04-components/status/badge/overview",
         children: "Badge"
-      }), " besser geeignet (siehe ", _jsx(_components.a, {
-        href: "/03-components/status/alert-badge/guidelines#grundlagen",
+      }), " besser geeignet\n(siehe\n", _jsx(_components.a, {
+        href: "/04-components/status/alert-badge/guidelines#grundlagen",
         children: "AlertBadge vs. Badge"
       }), ")."]
     }), "\n", _jsx(LiveCodeEditor, {
@@ -217,17 +217,17 @@ function _createMdxContent(props) {
       children: "Notifications"
     }), "\n", _jsxs(_components.p, {
       children: [_jsx(_components.a, {
-        href: "/03-components/status/notification/overview",
+        href: "/04-components/status/notification/overview",
         children: "Notifications"
       }), " informieren über\nwichtige System- oder Statusmeldungen und erscheinen kurz im Bildschirm des\nUsers. So stellen sie sicher, dass User über einen Status informiert werden,\nauch wenn sie sich gerade nicht auf der betroffenen\n", _jsx(_components.a, {
         href: "/02-foundations/04-ui-patterns/03-struktur",
         children: "Detailseite"
-      }), " befinden. Notifications sollten bewusst und sparsam eingesetzt werden. Denn zu viele Notifications überfluten den User und lenken von wirklich wichtigen Informationen ab."]
+      }), " befinden.\nNotifications sollten bewusst und sparsam eingesetzt werden. Denn zu viele\nNotifications überfluten den User und lenken von wirklich wichtigen\nInformationen ab."]
     }), "\n", _jsxs(_components.p, {
       children: ["Notifications werden durch den\n", _jsx(_components.a, {
-        href: "03-components/status/notification-provider/overview",
+        href: "04-components/status/notification-provider/overview",
         children: "NotificationsProvider"
-      }), "\nausgelöst. Da Notifications in der Regel nur kurz sichtbar sind, sollten sie an einem zentralen Ort gesammelt werden, damit ungelesene Notifications auch zu einem späteren Zeitpunkt eingesehen werden können. Kritische Probleme sollten zusätzlich zur Notification per E-Mail kommuniziert werden. So wird sichergestellt, dass der User die Informationen zuverlässig erhält."]
+      }), "\nausgelöst. Da Notifications in der Regel nur kurz sichtbar sind, sollten sie an\neinem zentralen Ort gesammelt werden, damit ungelesene Notifications auch zu\neinem späteren Zeitpunkt eingesehen werden können. Kritische Probleme sollten\nzusätzlich zur Notification per E-Mail kommuniziert werden. So wird\nsichergestellt, dass der User die Informationen zuverlässig erhält."]
     }), "\n", _jsx(LiveCodeEditor, {
       example: "notification",
       editorCollapsed: true
@@ -235,13 +235,13 @@ function _createMdxContent(props) {
       children: "Status-Icon"
     }), "\n", _jsxs(_components.p, {
       children: ["Einzelne ", _jsx(_components.a, {
-        href: "/03-components/content/icon/overview#icon-bibliothek",
+        href: "/04-components/content/icon/overview#icon-bibliothek",
         children: "Status-Icon"
       }), "\nkönnen den User auf versteckte Status-Informtionen aufmerksam machen. Zum\nBeispiel zeigt ein Status-Icon innerhalb von einem\n", _jsx(_components.a, {
-        href: "/03-components/navigation/tabs/overview",
+        href: "/04-components/navigation/tabs/overview",
         children: "Tab"
       }), " an, dass in diesem ein relevanter\nStatus vorliegt. Der Status kann dann im Tab z. B. mit Hilfe eines\n", _jsx(_components.a, {
-        href: "/03-components/status/alert/overview",
+        href: "/04-components/status/alert/overview",
         children: "Alerts"
       }), " erläutert werden."]
     }), "\n", _jsx(LiveCodeEditor, {
@@ -327,7 +327,7 @@ d:T573,import {
   </Alert>
 </Column>;
 8:["$","$Lb",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$c","frontmatter":{},"scope":{}},"examples":{"alert":"$d","alertBadge":"import { AlertBadge } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <AlertBadge>Update verfügbar</AlertBadge>\n\n  <AlertBadge status=\"warning\">\n    Speicherplatz fast voll\n  </AlertBadge>\n\n  <AlertBadge status=\"danger\">\n    Speicherplatz voll\n  </AlertBadge>\n\n  <AlertBadge status=\"success\">Verifiziert</AlertBadge>\n</Row>;\n","notification":"import {\n  Heading,\n  Notification,\n  Text,\n  Flex,\n} from \"@mittwald/flow-react-components\";\n\n<Flex gap=\"m\" wrap=\"wrap\">\n  <Notification>\n    <Heading>E-Mail-Adresse archiviert</Heading>\n    <Text>\n      Die E-Mail-Adresse <b>example@mittwald.de</b> wurde\n      archiviert.\n    </Text>\n  </Notification>\n\n  <Notification status=\"warning\">\n    <Heading>Speicher fast voll</Heading>\n    <Text>\n      Der Speicherplatz im Projekt <b>My Project</b> ist zu\n      80% voll.\n    </Text>\n  </Notification>\n\n  <Notification status=\"danger\">\n    <Heading>Kein SSL-Zertifikat</Heading>\n    <Text>\n      Für <b>exmaple.de</b> konnte kein SSL-Zertifikat\n      ausgestellt werden.\n    </Text>\n  </Notification>\n\n  <Notification status=\"success\">\n    <Heading>App installiert</Heading>\n    <Text>\n      Deine App <b>My WordPress</b> wurde erfolgreich\n      installiert.\n    </Text>\n  </Notification>\n</Flex>;\n","tabs":"import {\n  Tabs,\n  Tab,\n  TabTitle,\n  AlertIcon,\n} from \"@mittwald/flow-react-components\";\n\n<Tabs>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n  </Tab>\n  <Tab>\n    <TabTitle>\n      Tab\n      <AlertIcon />\n    </TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n  <Tab>\n    <TabTitle>Tab</TabTitle>\n    Tab Content\n  </Tab>\n</Tabs>;\n"},"slugs":["03-content-guidelines","02-informationskonzept"],"filename":"03-content-guidelines/02-informationskonzept/overview.mdx","anchors":[{"slug":"status","text":"Status","level":2},{"slug":"alert","text":"Alert","level":2},{"slug":"alertbadge","text":"AlertBadge","level":2},{"slug":"notifications","text":"Notifications","level":2},{"slug":"status-icon","text":"Status-Icon","level":2}]}}]}],"$Le"]}]
-9:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/342d0c48400611e8.js","async":true}]
+9:["$","script","script-0",{"src":"/flow-previews/docs/2255/merge/_next/static/chunks/fec3d8b2246cba30.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 e:["$","$L12",null,{"currentPath":"/02-foundations/03-content-guidelines/02-informationskonzept","anchors":[{"slug":"status","text":"Status","level":2},{"slug":"alert","text":"Alert","level":2},{"slug":"alertbadge","text":"AlertBadge","level":2},{"slug":"notifications","text":"Notifications","level":2},{"slug":"status-icon","text":"Status-Icon","level":2}],"title":"Informationskonzept"}]
 11:null
