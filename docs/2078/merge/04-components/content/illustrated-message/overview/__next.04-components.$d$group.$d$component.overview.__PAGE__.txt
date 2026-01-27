@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"default"]
+c:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Flex"]
+d:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Tabs"]
+e:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Tab"]
+f:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"TabTitle"]
+14:I[990002,["/flow-previews/docs/2078/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2078/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[142373,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"default"]
+0:{"buildId":"oPqZeRjGSPn8oeL_R_bYQ","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"IllustratedMessage"}],"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/IllustratedMessage","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"IllustratedMessage","description":"Die IllustratedMessage dient als Platzhalter, wenn der eigentliche Inhalt nicht angezeigt werden kann."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","danger":"import {\n  Button,\n  Heading,\n  IconDanger,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Fehler beim Laden von Daten</Heading>\n  <Text>\n    Dieser Bereich konnte nicht geladen werden. Wir arbeiten\n    daran das Problem zu beheben. Bitte habe etwas Geduld\n    und probiere es später noch einmal.\n  </Text>\n  <Button color=\"secondary\" variant=\"soft\">\n    Erneut versuchen\n  </Button>\n</IllustratedMessage>;\n","dark":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","unavailable":"import {\n  Link,\n  Heading,\n  IconUnavailable,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"unavailable\">\n  <IconUnavailable />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Link>Zum Dashboard</Link>\n</IllustratedMessage>;\n"},"slugs":["content","illustrated-message"],"filename":"content/illustrated-message/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+10:T10b5,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    strong: "strong",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<IllustratedMessage />"
+      }), ", um einen IllustratedMessage darzustellen. Sie\nbesteht in der Regel aus ", _jsx(_components.code, {
+        children: "<Icon />"
+      }), ", ", _jsx(_components.code, {
+        children: "<Heading />"
+      }), " und einem ", _jsx(_components.code, {
+        children: "<Text />"
+      }), ". Sie\nkann durch einen ", _jsx(_components.code, {
+        children: "<Button />"
+      }), " oder einen ", _jsx(_components.code, {
+        children: "<Link />"
+      }), " ergänzt werden."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Color"
+    }), "\n", _jsx(_components.h2, {
+      children: "Danger und Unavailable"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Bei Fehlern oder unzulässigem Zugriff hilft die IllustratedMessage Usern dabei\nzu verstehen, was nicht funktioniert und warum. Zusätzlich kann sie eine\nmögliche Lösung anbieten. Im Vergleich zu einem\n", _jsx(_components.a, {
+        href: "/04-components/status/alert/overview",
+        children: "Alert"
+      }), " wirkt sie freundlicher und gleicht\nfehlende Inhalte visuell besser aus."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "danger",
+      editorCollapsed: true
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "unavailable",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Light und Dark"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Zusätzlich zu den Standard-Colors, kann die IllustratedMessage in ", _jsx(_components.strong, {
+        children: "Light"
+      }), " und\n", _jsx(_components.strong, {
+        children: "Dark"
+      }), " dargestellt werden. Beide Colors sind Alternativen zu den herkömmlichen\nFarben, falls diese nicht auf farbigen oder dekorativen Hintergründen\nfunktionieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "light",
+      bgColor: "dark",
+      editorCollapsed: true
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "dark",
+      bgColor: "light",
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Light:"
+      }), " Verwende die Light-Color, bei dunklen Hintergründen mit einem HSL\nLightness-Wert von weniger als 50."]
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Dark:"
+      }), " Verwende die Dark-Color, bei hellen, farbigen Hintergründen mit einem\nHSL Lightness-Wert von größer als 50."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "ActionGroup"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn mehr als eine Action benötigt wird, kann die IllustratedMessage auch mit\neiner ", _jsx(_components.a, {
+        href: "/04-components/actions/action-group/overview",
+        children: "ActionGroup"
+      }), " kombiniert\nwerden."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "actionGroup"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Lc",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lc",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Ld",null,{"selectedKey":"overview","children":[["$","$Le",null,{"id":"overview","children":[["$","$Lf",null,{"href":"/04-components/content/illustrated-message/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <ActionGroup>\n    <Button variant=\"soft\" color=\"secondary\">\n      Zurück\n    </Button>\n    <Button>App anlegen</Button>\n  </ActionGroup>\n</IllustratedMessage>;\n","danger":"import {\n  Button,\n  Heading,\n  IconDanger,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"danger\">\n  <IconDanger />\n  <Heading>Fehler beim Laden von Daten</Heading>\n  <Text>\n    Dieser Bereich konnte nicht geladen werden. Wir arbeiten\n    daran das Problem zu beheben. Bitte habe etwas Geduld\n    und probiere es später noch einmal.\n  </Text>\n  <Button color=\"secondary\" variant=\"soft\">\n    Erneut versuchen\n  </Button>\n</IllustratedMessage>;\n","dark":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"dark\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","default":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage>\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","light":"import {\n  Button,\n  Heading,\n  IconApp,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"light\">\n  <IconApp />\n  <Heading>Keine Apps installiert</Heading>\n  <Text>\n    Lege deine erste App an, um mit der Arbeit an deiner\n    Webseite loszulegen.\n  </Text>\n  <Button>App anlegen</Button>\n</IllustratedMessage>;\n","unavailable":"import {\n  Link,\n  Heading,\n  IconUnavailable,\n  IllustratedMessage,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<IllustratedMessage color=\"unavailable\">\n  <IconUnavailable />\n  <Heading>Kein Zugriff</Heading>\n  <Text>\n    Du hast keine Berechtigung, um auf diese Seite\n    zuzugreifen.\n  </Text>\n  <Link>Zum Dashboard</Link>\n</IllustratedMessage>;\n"},"slugs":["content","illustrated-message"],"filename":"content/illustrated-message/overview.mdx","anchors":[{"slug":"playground","text":"Playground","level":2},{"slug":"color","text":"Color","level":2},{"slug":"color-danger-und-unavailable","text":"Danger und Unavailable","level":3},{"slug":"color-light-und-dark","text":"Light und Dark","level":3},{"slug":"kombiniere-mit","text":"Kombiniere mit ","level":2},{"slug":"kombiniere-mit-actiongroup","text":"ActionGroup","level":3}]}}]}]]}],"$L11","$L12"]}]}]}],"$L13"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js","async":true}]
+b:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+11:["$","$Le",null,{"id":"develop","children":[["$","$Lf",null,{"href":"/04-components/content/illustrated-message/develop","children":"Develop"}],false]}]
+12:["$","$Le",null,{"id":"guidelines","children":[["$","$Lf",null,{"href":"/04-components/content/illustrated-message/guidelines","children":"Guidelines"}],false]}]
+13:["$","$L17",null,{"currentPath":"/04-components/content/illustrated-message/overview","anchors":"$9:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+16:null

@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"default"]
+9:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Flex"]
+a:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Tabs"]
+b:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"Tab"]
+c:I[39682,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"TabTitle"]
+11:I[142373,["/flow-previews/docs/2078/merge/_next/static/chunks/d8453f1d55b1dc3e.js","/flow-previews/docs/2078/merge/_next/static/chunks/4fe4f8f65b383ba5.js","/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js"],"default"]
+12:I[990002,["/flow-previews/docs/2078/merge/_next/static/chunks/1a167b29b3617808.js","/flow-previews/docs/2078/merge/_next/static/chunks/cdf75262bf53fc5c.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+d:Tdc1,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines Tooltips darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["diese verwendet werden, um knappe Informationen mit niedriger Priorität\nbereitzustellen – z. B. eine kurze Beschreibung eines\n", _jsx(_components.a, {
+          href: "/04-components/content/icon/overview",
+          children: "Icons"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "der Tooltip nur ergänzende Informationen enthält und keine wichtige\nInformation (z. B. Error-Meldung oder Feedback) der Benutzeroberfläche\nersetzt. Es muss immer bedacht werden, dass beispielsweise auf dem Smartphone\nTooltips vom User nicht wahrgenommen werden."
+      }), "\n", _jsx(_components.li, {
+        children: "der Inhalt kurz, verständlich und präzise formuliert ist. Tooltips bestehen\nmeist nur aus 1-3 Wörtern."
+      }), "\n", _jsx(_components.li, {
+        children: "er erst beim Hovern oder Fokussieren erscheint."
+      }), "\n", _jsxs(_components.li, {
+        children: ["innerhalb nur Text verwendet wird. In einem Tooltip sollten keine\n", _jsx(_components.a, {
+          href: "/04-components/actions/button/overview",
+          children: "Buttons"
+        }), ",\n", _jsx(_components.a, {
+          href: "/04-components/navigation/link/overview",
+          children: "Links"
+        }), " oder interaktiven Inhalte\nenthalten sein."]
+      }), "\n", _jsx(_components.li, {
+        children: "sie nicht für Elemente mit vorhandener sichtbarer Beschriftung eingesetzt\nwerden."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen Tooltip, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["zusätzliche kurze Hinweise oder Kontext zu einem Element der\nBenutzeroberfläche bereitzustellen, ohne die Benutzeroberfläche zu überladen.\nFür umfangreichere Informationen – die über den direkten Kontext des Elements\nhinausgehen – eignet sich z. B. ein\n", _jsx(_components.a, {
+          href: "/04-components/overlays/contextual-help/overview",
+          children: "ContextualHelp"
+        }), "."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["Symbole, Icons oder verkürzte Bezeichnungen zu erklären. Ein Tooltip kann\nUsern beispielsweise helfen,\n", _jsx(_components.a, {
+          href: "/04-components/actions/button/overview",
+          children: "das Icon eines Buttons"
+        }), " korrekt zu\ninterpretieren."]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"oPqZeRjGSPn8oeL_R_bYQ","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Tooltip"}],"Tooltips sind kurze Hilfselemente, die beim Hovern über ein Element zusätzliche Informationen anzeigen.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Tooltip","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Tooltip","description":"Tooltips sind kurze Hilfselemente, die beim Hovern über ein Element zusätzliche Informationen anzeigen."},"scope":{}},"examples":{"default":"import {\n  Button,\n  IconEdit,\n  Tooltip,\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components\";\n\n<TooltipTrigger>\n  <Button aria-label=\"Bearbeiten\" variant=\"plain\">\n    <IconEdit />\n  </Button>\n  <Tooltip>Bearbeiten</Tooltip>\n</TooltipTrigger>;\n"},"slugs":["overlays","tooltip"],"filename":"overlays/tooltip/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$La",null,{"selectedKey":"guidelines","children":[["$","$Lb",null,{"id":"overview","children":[["$","$Lc",null,{"href":"/04-components/overlays/tooltip/overview","children":"Overview"}],false]}],["$","$Lb",null,{"id":"develop","children":[["$","$Lc",null,{"href":"/04-components/overlays/tooltip/develop","children":"Develop"}],false]}],["$","$Lb",null,{"id":"guidelines","children":[["$","$Lc",null,{"href":"/04-components/overlays/tooltip/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  Button,\n  IconEdit,\n  Tooltip,\n  TooltipTrigger,\n} from \"@mittwald/flow-react-components\";\n\n<TooltipTrigger>\n  <Button aria-label=\"Bearbeiten\" variant=\"plain\">\n    <IconEdit />\n  </Button>\n  <Tooltip>Bearbeiten</Tooltip>\n</TooltipTrigger>;\n"},"slugs":["overlays","tooltip"],"filename":"overlays/tooltip/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]]}]}]}],"$Le"]}]],["$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+e:["$","$L11",null,{"currentPath":"/04-components/overlays/tooltip/guidelines","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}],"title":"Guidelines"}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2078/merge/_next/static/chunks/51b998cb8a63531e.js","async":true}]
+10:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
