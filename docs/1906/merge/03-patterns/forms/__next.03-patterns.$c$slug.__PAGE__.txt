@@ -1,0 +1,456 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Section"]
+6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+e:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+f:I[466743,["/flow-previews/docs/1906/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/1906/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+8:T2b2c,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "Forms sind strukturierte Oberflächen zur Eingabe, Bearbeitung und Übermittlung\nvon Daten. Sie bestehen aus Form Controls wie TextFields, NumberFields,\nCheckboxen oder Radios, die gemeinsam eine in sich geschlossene Aufgabe\nabbilden. Jede Eingabe steht dabei in einem klaren Kontext und wird durch Label\noder FieldDescription verständlich gemacht. Eine gute Form verhält sich\nvorhersehbar, führt Schritt für Schritt durch den Prozess und gibt jederzeit\neindeutiges Feedback. Ziel ist es, die kognitive Last gering zu halten und\nertrauen in die Dateneingabe zu schaffen."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Aufbau einer Form"
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "form",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.p, {
+      children: "Formularfelder sollten in einer vorhersehbaren und intuitiven Reihenfolge\nangeordnet sein. Für eine intuitive Bedienung:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Ordne die Felder nach ihrer Wichtigkeit."
+      }), "\n", _jsx(_components.li, {
+        children: "Platziere zusammengehörige Felder nah beieinander."
+      }), "\n", _jsx(_components.li, {
+        children: "Platziere nach Möglichkeit Eingabefelder mit Tastatureingabe nah beieinander,\ndamit Mausnutzer nicht zwischen Klicken und Tippen wechseln müssen."
+      }), "\n"]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Zur Strukturierung von Formularen können Form Controls mithilfe von\n", _jsx(_components.a, {
+        href: "/04-components/structure/section/overview",
+        children: "Sections"
+      }), " gruppiert und mit\n", _jsx(_components.a, {
+        href: "/04-components/structure/column-layout/overview",
+        children: "ColumnLayouts"
+      }), " in Spalten\naufgeteilt werden. Forms werden im mStudio in der Regel in einem\n", _jsx(_components.a, {
+        href: "/04-components/overlays/modal/overview",
+        children: "Modal"
+      }), " platziert. Weitere Informationen\nfindest du im Pattern ", _jsx(_components.a, {
+        href: "/03-patterns/anlegeprozess",
+        children: "Anlegen und Bearbeiten"
+      }), "."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Progressively disclosed Form Controls"
+    }), "\n", _jsxs(_components.p, {
+      children: ["In manchen Fällen können Form Controls schrittweise eingeblendet werden. Sie\nsind dabei visuell unter einem übergeordneten Control verschachtelt. Ein\ngängiges Muster ist die Nutzung des \"aktivierten\" Zustands einer\n", _jsx(_components.a, {
+        href: "https://mittwald.github.io/flow/04-components/form-controls/checkbox/overview",
+        children: "Checkbox"
+      }), "\noder\n", _jsx(_components.a, {
+        href: "https://mittwald.github.io/flow/04-components/form-controls/radio-group/overview",
+        children: "RadioGroup"
+      }), ".\nDieser Zustand entscheidet, ob ein zugehöriges Form Control angezeigt wird."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Aufbau eines Form Controls"
+    }), "\n", _jsx(_components.p, {
+      children: "Forms können verschiedene Elemente enthalten. Standardmäßig sind alle Angaben\nPflichtfelder. Eine Ausnahme bilden Felder mit dem Zusatz „(optional)“ am Label\noder der Heading."
+    }), "\n", _jsx(_components.h2, {
+      children: "Label"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein gutes ", _jsx(_components.a, {
+        href: "/04-components/content/label/overview",
+        children: "Label"
+      }), " vermittelt alle\nnotwendigen Informationen klar und prägnant (max. 2 Wörter). Ist ein Form\nControl optional, füge den Zusatz „(optional)“ hinzu. Können die\nEingabeanforderungen aus dem Kontext erschlossen werden, kann auf ein sichtbares\nLabel verzichtet werden. In diesem Fall muss das Form Control über\n", _jsx(_components.code, {
+        children: "aria-labelledby"
+      }), " verknüpft oder mit ", _jsx(_components.code, {
+        children: "aria-label"
+      }), " beschrieben werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Fields / Controls"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Das Design System bietet eine große Auswahl an wiederverwendbaren Form Controls.\nDazu gehören verschiedene ", _jsx(_components.strong, {
+        children: "Fields"
+      }), " wie zum Beispiel\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/text-field/overview",
+        children: "TextField"
+      }), ",\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/number-field/overview",
+        children: "NumberField"
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/password-creation-field/overview",
+        children: "PasswordCreationField"
+      }), "\nsowie ", _jsx(_components.strong, {
+        children: "Controls"
+      }), " wie\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/checkbox/overview",
+        children: "Checkboxen"
+      }), ",\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/select/overview",
+        children: "Selects"
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/radio-group/overview",
+        children: "RadioGroups"
+      }), ". Alle\nComponents sind im Bereich Components unter dem Menüpunkt Form Controls zu\nfinden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "FieldDescription"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die ", _jsx(_components.code, {
+        children: "<FieldDescription />"
+      }), " ist ein optionaler Hilfstext unterhalb des Form\nControls. Sie liefert zusätzliche Informationen oder Anweisungen. Verwende sie\nsparsam. Sie kann Beispiele oder Hinweise zur Formatierung enthalten."]
+    }), "\n", _jsx(_components.h2, {
+      children: "FieldError"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein ungültiges Field muss immer eine Fehlermeldung anzeigen. Diese erklärt,\nwarum der eingegebene Wert die Validierung nicht besteht. Nutze den\n", _jsx(_components.code, {
+        children: "<FieldError />"
+      }), " für diese Meldung. Beschreibe klar, warum die Eingabe ungültig\nist, und hilf dem User bei der Korrektur. Hinweise zur Formulierung findest du\nin der Guideline zu\n", _jsx(_components.a, {
+        href: "/02-foundations/03-content-guidelines/02-fehlermeldungen",
+        children: "Fehlermeldungen"
+      }), "."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Placeholder"
+    }), "\n", _jsx(_components.p, {
+      children: "Placeholder sind nicht barrierefrei. Sie dürfen keine Informationen enthalten,\ndie für das korrekte Ausfüllen eines Fields notwendig sind. Zum einen\nverschwinden Placeholder bei der Eingabe von Text. Zum anderen werden sie von\nAssistenztechnologien oft nicht zuverlässig erkannt und sind schwieriger zu\nverarbeiten als eine FieldDescription. Statt eines Placeholders:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Nutze ein\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/04-components/content/label/overview",
+          children: "Label"
+        }), "\nfür essenzielle Informationen zu den Eingabeanforderungen."]
+      }), "\n", _jsx(_components.li, {
+        children: "Nutze eine FieldDescription für Beispiele oder Formatierungshinweise."
+      }), "\n"]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine Ausnahme ist das\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/search-field/overview",
+        children: "SearchField"
+      }), ". Es besitzt\nein zusätzliches visuelles Leading Icon, das die Suche kennzeichnet."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Validation"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Standardmäßig erfolgt die Validierung erst beim Absenden des Forms, damit der\nUser es ohne Unterbrechung ausfüllen kann. Zum Absenden wird der\n", _jsx(_components.code, {
+        children: "<SubmitButton/>"
+      }), " verwendet. Nutze die Components\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/form-react-hook-form/overview",
+        children: "Form (React Hook Form)"
+      }), "\noder\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/field-react-hook-form/overview",
+        children: "Field (React Hook Form)"
+      }), ",\num die Form Controls von Flow nahtlos in das Formular-Management von React Hook\nForm zu integrieren."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "validation",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.p, {
+      children: "Je nach Field stehen unterschiedliche Properties zur Verfügung, zum Beispiel:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "isRequired"
+        }), " für Pflichtfelder."]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "validate"
+        }), " für eigene Validierungen."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["HTML Input Properties wie ", _jsx(_components.code, {
+          children: "type=\"email\""
+        }), ", ", _jsx(_components.code, {
+          children: "minLength"
+        }), "."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Quick submit"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein Formular sollte die Funktion „Quick submit“ unterstützen. Sie ermöglicht das\nAbsenden über ", _jsx(_components.code, {
+        children: "⌘ + Enter"
+      }), " oder ", _jsx(_components.code, {
+        children: "Strg + Enter"
+      }), " aus jedem Form Control,\ninsbesondere aus einem TextArea oder einem MarkdownEditor."]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:T11a6,import {
+  ActionGroup,
+  ColumnLayout,
+  Heading,
+  Label,
+  Section,
+  Segment,
+  SegmentedControl,
+  Text,
+  TextField,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm, useWatch } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    firstName: string;
+    lastName: string;
+    street: string;
+    houseNumber: string;
+    zip: string;
+    city: string;
+    phone?: string;
+    paymentMethod: "invoice" | "debit";
+    accountHolder: string;
+    iban: string;
+  }>({
+    defaultValues: {
+      firstName: "",
+      lastName: "",
+      street: "",
+      houseNumber: "",
+      phone: "",
+      paymentMethod: "invoice",
+      accountHolder: "",
+      iban: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  const watchedPaymentMethod = useWatch({
+    control: form.control,
+    name: "paymentMethod",
+  });
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Zahlungsinformationen</Heading>
+        <Heading level={3}>Zahlungsart</Heading>
+        <Field name="paymentMethod">
+          <SegmentedControl aria-label="Zahlungsart">
+            <Segment value="invoice">Rechnung</Segment>
+            <Segment value="debit">Lastschrift</Segment>
+          </SegmentedControl>
+        </Field>
+
+        {watchedPaymentMethod === "invoice" && (
+          <Text>
+            Bitte bezahle deine Rechnungen innerhalb von 14
+            Tagen.
+          </Text>
+        )}
+
+        {watchedPaymentMethod === "debit" && (
+          <>
+            <ColumnLayout m={[1, 1]}>
+              <Field
+                name="accountHolder"
+                rules={{
+                  required:
+                    "Bitte gib einen Kontoinhaber ein",
+                }}
+              >
+                <TextField>
+                  <Label>Kontoinhaber</Label>
+                </TextField>
+              </Field>
+
+              <Field
+                name="iban"
+                rules={{
+                  required: "Bitte gib eine IBAN ein",
+                }}
+              >
+                <TextField>
+                  <Label>IBAN</Label>
+                </TextField>
+              </Field>
+            </ColumnLayout>
+          </>
+        )}
+
+        <Heading level={3}>Rechnungsadresse</Heading>
+        <ColumnLayout l={[1, 1]}>
+          <Field
+            name="firstName"
+            rules={{
+              required: "Bitte gib einen Vornamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Vorname</Label>
+            </TextField>
+          </Field>
+          <Field
+            name="lastName"
+            rules={{
+              required: "Bitte gib einen Nachnamen ein",
+            }}
+          >
+            <TextField>
+              <Label>Nachname</Label>
+            </TextField>
+          </Field>
+          <ColumnLayout m={[2, 1]} s={[2, 1]}>
+            <Field
+              name="street"
+              rules={{
+                required: "Bitte gib eine Straße ein",
+              }}
+            >
+              <TextField>
+                <Label>Straße</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="houseNumber"
+              rules={{
+                required: "Bitte gib eine Hausnr. ein",
+              }}
+            >
+              <TextField>
+                <Label>Hausnummer</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <ColumnLayout m={[1, 2]} s={[1, 2]}>
+            <Field
+              name="zip"
+              rules={{
+                required: "Bitte gib eine Postleitzahl ein",
+              }}
+            >
+              <TextField>
+                <Label>Postleitzahl</Label>
+              </TextField>
+            </Field>
+            <Field
+              name="city"
+              rules={{
+                required: "Bitte gib einen Ort ein",
+              }}
+            >
+              <TextField>
+                <Label>Ort</Label>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+          <Field name="phone">
+            <TextField>
+              <Label>Telefonnummer</Label>
+            </TextField>
+          </Field>
+        </ColumnLayout>
+        <ActionGroup>
+          <SubmitButton color="accent">
+            Speichern
+          </SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+a:T553,import {
+  ActionGroup,
+  Heading,
+  Label,
+  Section,
+  TextArea,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  const form = useForm<{
+    publicKey: string;
+  }>({
+    defaultValues: {
+      publicKey: "",
+    },
+  });
+
+  const Field = typedField(form);
+
+  return (
+    <Form
+      form={form}
+      onSubmit={() => console.log("submitted")}
+    >
+      <Section>
+        <Heading>Validierung</Heading>
+        <Field
+          name="publicKey"
+          rules={{
+            required: "Bitte gib einen SSH-Key ein",
+            validate: {
+              isValid: (key) =>
+                key.startsWith("rsa")
+                  ? true
+                  : "Der SSH-Key muss mit 'rsa' anfangen",
+            },
+            minLength: {
+              value: 10,
+              message:
+                "Der SSH-Key muss mindestens 10 Zeichen lang sein",
+            },
+          }}
+        >
+          <TextArea maxLength={8000} showCharacterCount>
+            <Label>SSH-Key</Label>
+          </TextArea>
+        </Field>
+
+        <ActionGroup>
+          <SubmitButton color="accent">
+            Speichern
+          </SubmitButton>
+        </ActionGroup>
+      </Section>
+    </Form>
+  );
+};
+0:{"buildId":"_6jdDZGzOynUOUyEsp5nn","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Forms"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Forms"},"scope":{}},"examples":{"form":"$9","validation":"$a"},"slugs":["forms"],"filename":"forms/index.mdx","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"aufbau-einer-form-progressively-disclosed-form-controls","text":"Progressively disclosed Form Controls","level":3},{"slug":"aufbau-eines-form-controls","text":"Aufbau eines Form Controls","level":2},{"slug":"aufbau-eines-form-controls-label","text":"Label","level":3},{"slug":"aufbau-eines-form-controls-fields-controls","text":"Fields / Controls","level":3},{"slug":"aufbau-eines-form-controls-fielddescription","text":"FieldDescription","level":3},{"slug":"aufbau-eines-form-controls-fielderror","text":"FieldError","level":3},{"slug":"aufbau-eines-form-controls-placeholder","text":"Placeholder","level":3},{"slug":"validation","text":"Validation","level":2},{"slug":"validation-quick-submit","text":"Quick submit","level":3}]}}]]}]}],"$Lb"]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+b:["$","$Le",null,{"currentPath":"/01-get-started/forms","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"aufbau-einer-form-progressively-disclosed-form-controls","text":"Progressively disclosed Form Controls","level":3},{"slug":"aufbau-eines-form-controls","text":"Aufbau eines Form Controls","level":2},{"slug":"aufbau-eines-form-controls-label","text":"Label","level":3},{"slug":"aufbau-eines-form-controls-fields-controls","text":"Fields / Controls","level":3},{"slug":"aufbau-eines-form-controls-fielddescription","text":"FieldDescription","level":3},{"slug":"aufbau-eines-form-controls-fielderror","text":"FieldError","level":3},{"slug":"aufbau-eines-form-controls-placeholder","text":"Placeholder","level":3},{"slug":"validation","text":"Validation","level":2},{"slug":"validation-quick-submit","text":"Quick submit","level":3}],"title":"Forms"}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js","async":true}]
+d:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null
