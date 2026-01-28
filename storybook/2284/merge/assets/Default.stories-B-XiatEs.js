@@ -1,0 +1,27 @@
+import{j as i}from"./iframe-BbsOAs33.js";import{C as c}from"./CheckboxButton-Ct2BI3q0.js";import{C as p}from"./Content-DNaPbk0Q.js";import{T as d}from"./Text-BYxWYBBY.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-CnY6R6y_.js";import"./index-hsH483Jp.js";import"./index-32jMpZgo.js";import"./Checkbox-DfrZ7YwD.js";import"./IconWarning-BG17vbyg.js";import"./remote-DIEpRnMd.js";import"./useFieldComponent-c0I5eEtM.js";import"./utils-d4vW56Wr.js";import"./RSPContexts-DfamIfkg.js";import"./FieldError-3tWBh0vH.js";import"./Text-C1_k2kAR.js";import"./filterDOMProps-BNnC3YgW.js";import"./Form-BubIOB2-.js";import"./useLabel-BZoz0BQC.js";import"./Label-jCbgdnWR.js";import"./Hidden-C9ZrqSun.js";import"./useFormValidation-DyJaMlWv.js";import"./useFocus-8sJeBC00.js";import"./useFocusRing-B8FmEpoX.js";import"./useControlledState-QxMMjnNS.js";import"./usePress-CuEkD-Mt.js";import"./useToggleState-CquJo8pa.js";import"./useFormReset-eAh5gylf.js";import"./useFocusable-CRykt1O9.js";import"./VisuallyHidden-D-GMXsu-.js";import"./browser-6_CJeJSO.js";import"./EmulatedBoldText-Bt8Ku6uY.js";const{action:u}=__STORYBOOK_MODULE_ACTIONS__,H={title:"Form Controls/CheckboxButton",component:c,args:{onChange:u("onChange")},parameters:{controls:{exclude:["onChange"]}},render:m=>i.jsx(c,{...m,children:"Consent to terms and conditions"})},r={},e={args:{isDisabled:!0}},t={args:{isReadOnly:!0}},o={args:{isIndeterminate:!0}},s={args:{isDisabled:!0,isSelected:!0}},a={render:m=>i.jsxs(c,{...m,children:[i.jsx(d,{children:"Terms and Conditions"}),i.jsx(p,{children:"Consent to terms and conditions"})]})},n={args:{isInvalid:!0}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"{}",...r.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...e.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    isIndeterminate: true
+  }
+}`,...o.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true,
+    isSelected: true
+  }
+}`,...s.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  render: props => <CheckboxButton {...props}>
+      <Text>Terms and Conditions</Text>
+      <Content>Consent to terms and conditions</Content>
+    </CheckboxButton>
+}`,...a.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {
+    isInvalid: true
+  }
+}`,...n.parameters?.docs?.source}}};const J=["Default","Disabled","ReadOnly","Indeterminate","DisabledSelected","WithContent","Invalid"];export{r as Default,e as Disabled,s as DisabledSelected,o as Indeterminate,n as Invalid,t as ReadOnly,a as WithContent,J as __namedExportsOrder,H as default};
