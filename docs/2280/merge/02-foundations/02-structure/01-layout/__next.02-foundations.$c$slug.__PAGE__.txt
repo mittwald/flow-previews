@@ -1,0 +1,609 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"default"]
+c:I[39682,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"Flex"]
+11:I[466743,["/flow-previews/docs/2280/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2280/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[142373,["/flow-previews/docs/2280/merge/_next/static/chunks/6d9d48ed07a3c34b.js","/flow-previews/docs/2280/merge/_next/static/chunks/e79d8678b86885e3.js","/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js"],"default"]
+7:T75b,export default () => {
+  const styles: Record<string, React.CSSProperties> = {
+    layoutContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'header header'
+        'nav content'
+      `,
+      gridTemplateColumns: "90px 1fr",
+      gridTemplateRows: "auto 1fr",
+      gap: "10px",
+      border: "1px solid rgba(206, 75, 255, 1)",
+      borderRadius: "4px",
+      padding: "10px",
+    },
+    header: {
+      gridArea: "header",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    sideNavigation: {
+      gridArea: "nav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      padding: "55px 10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      width: "90px",
+    },
+    verticalText: {
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    content: {
+      gridArea: "content",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    textStyle: {
+      color: "rgba(0, 63, 184, 1)",
+      fontWeight: "400",
+      fontSize: "14px",
+    },
+  };
+
+  return (
+    <div style={styles.layoutContainer}>
+      <header style={styles.header}>
+        <p style={styles.textStyle}>Header</p>
+      </header>
+      <nav style={styles.sideNavigation}>
+        <p
+          style={{
+            ...styles.verticalText,
+            ...styles.textStyle,
+          }}
+        >
+          Side-Navigation
+        </p>
+      </nav>
+      <main style={styles.content}>
+        <p style={styles.textStyle}>Content</p>
+      </main>
+    </div>
+  );
+};
+8:T1011,export default () => {
+  const styles: Record<string, React.CSSProperties> = {
+    rootContainer: {
+      display: "flex",
+      flexDirection: "column",
+      gap: "10px",
+      border: "1px solid rgba(206, 75, 255, 1)",
+      borderRadius: "4px",
+      padding: "10px",
+    },
+    headerContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'logo header header'
+      `,
+      gridTemplateColumns: "60px 1fr 1fr",
+      gap: "10px",
+    },
+    layoutContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'primaryNav secondaryNav breadcrumb breadcrumb'
+        'primaryNav secondaryNav pageTitle button'
+        'primaryNav secondaryNav content content'
+      `,
+      gridTemplateColumns: "30px 60px 1fr",
+      gridTemplateRows: "auto auto 1fr",
+      gap: "10px",
+    },
+    logo: {
+      gridArea: "logo",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    },
+    header: {
+      gridArea: "header",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    primaryNav: {
+      gridArea: "primaryNav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "38px 0px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    secondaryNav: {
+      gridArea: "secondaryNav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "38px 0px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    breadcrumb: {
+      gridArea: "breadcrumb",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    pageTitle: {
+      gridArea: "pageTitle",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    button: {
+      gridArea: "button",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "0px 5px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    content: {
+      gridArea: "content",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    textStyle: {
+      color: "rgba(0, 63, 184, 1)",
+      fontWeight: "400",
+      fontSize: "14px",
+    },
+  };
+
+  return (
+    <div style={styles.rootContainer}>
+      <div style={styles.headerContainer}>
+        <div style={styles.logo}>
+          <p style={styles.textStyle}>Logo</p>
+        </div>
+        <header style={styles.header}>
+          <p style={styles.textStyle}>Header</p>
+        </header>
+      </div>
+      <div style={styles.layoutContainer}>
+        <nav style={styles.primaryNav}>
+          <p style={styles.textStyle}>Primary Navigation</p>
+        </nav>
+        <nav style={styles.secondaryNav}>
+          <p style={styles.textStyle}>
+            Secondary Navigation
+          </p>
+        </nav>
+        <div style={styles.breadcrumb}>
+          <p style={styles.textStyle}>Breadcrumb</p>
+        </div>
+        <div style={styles.pageTitle}>
+          <p style={styles.textStyle}>Page Title</p>
+        </div>
+        <div style={styles.button}>
+          <p style={styles.textStyle}>Button</p>
+        </div>
+        <main style={styles.content}>
+          <p style={styles.textStyle}>Content</p>
+        </main>
+      </div>
+    </div>
+  );
+};
+0:{"buildId":"THE9sRgw06Jtoof10hrjT","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Layout"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Das Layout organisiert die Benutzeroberfläche in einer logischen und\\nhierarchischen Struktur, um die Aufmerksamkeit des Users gezielt zu lenken.\\nDabei werden Elemente wie Header, Navigation und Content-Bereich berücksichtigt.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Layout"},"scope":{}},"examples":{"general-layout":"$7","mStudio-layout":"$8"},"slugs":["02-structure","01-layout"],"filename":"02-structure/01-layout/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+d:T208e,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Info, MStudio} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Info) _missingMdxReference("Info", true);
+  if (!MStudio) _missingMdxReference("MStudio", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Ein Layout fügt verschiedene Elemente der Benutzeroberfläche zu einer logischen\nStruktur zusammen. Die folgenden Punkte sind hilfreich, um ein gutes Layout zu\nerstellen:"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Ein Layout sollte den Fokus immer auf die Aufgaben des Users legen."
+      }), "\n", _jsx(_components.li, {
+        children: "Ein konsistentes Layout hilft dem User, die Website schneller zu verstehen, da\nnicht ständig neue Layouts erlernt werden müssen."
+      }), "\n", _jsx(_components.li, {
+        children: "Der Fokus des Layouts sollte auf dem Content-Bereich liegen, da hier die\nHauptaktionen des Users liegen. Achte hier besonders auf die strukturelle\nHierarchie und die inhaltlichen Beziehungen des Contents."
+      }), "\n", _jsx(_components.li, {
+        children: "Ein Layout sollte immer responsiv sein, damit die Benutzeroberfläche auch auf\nkleineren Bildschirmen funktioniert. Im Layout ist grade das Zusammenspiel von\nHeader, Side-Navigation und Content-Bereich für die Responsivität relevant."
+      }), "\n"]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Genereller Aufbau"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Grob lassen sich die meisten Layouts, die mit Flow erstellt werden können, in 4\nBereiche einteilen: ", _jsx(_components.strong, {
+        children: "Header"
+      }), ", ", _jsx(_components.strong, {
+        children: "Side-Navigation"
+      }), ", ", _jsx(_components.strong, {
+        children: "Content"
+      }), " und\n", _jsx(_components.strong, {
+        children: "Overlay"
+      }), ". Das Layout innerhalb dieser Bereiche wird durch verschiedene\nComponents und deren Komposition bestimmt. In unseren Components ist das\n", _jsx(_components.a, {
+        href: "/02-foundations/02-structure/02-spacing",
+        children: "Spacing"
+      }), " bereits integriert."]
+    }), "\n", _jsx(_components.p, {
+      children: "Verschiedene Layouts mit Code zum Kopieren finden sich unter Code Templates."
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Info, {
+        example: "general-layout",
+        heading: "Layout-Aufbau",
+        children: _jsx(_components.p, {
+          children: "Grobes Layout einer Seite. Eingeteilt in Header-, Side-Navigation- und\nContent-Bereich."
+        })
+      }), _jsx(MStudio, {
+        example: "mStudio-layout",
+        heading: "mStudio Aufbau",
+        children: _jsx(_components.p, {
+          children: "Grobes Layout des mStudios. Darstellung mit Primary und Secondary\nNavigation."
+        })
+      })]
+    }), "\n", _jsx(_components.h2, {
+      children: "Header"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der Header-Bereich befindet sich im oberen Bereich des Layouts und ist auf jeder\nSeite identisch. Er kann das Logo sowie eine\n", _jsx(_components.a, {
+        href: "/04-components/navigation/header-navigation/overview",
+        children: "HeaderNavigation"
+      }), "\nenthalten. Ein Hauptbestandteil der HeaderNavigation sind primäre\nNavigationspunkte. Ergänzend gibt es\n", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
+        children: "Buttons"
+      }), ", die Overlays oder\n", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu/overview",
+        children: "ContextMenus"
+      }), " öffnen, wie\nbeispielsweise für die Suche, das NotificationCenter oder das ProfilMenu. Im\nHeader-Bereich sollten ausschließlich wichtige Elemente angezeigt werden, die\nauf allen Seiten sichtbar sein müssen."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Side-Navigation"
+    }), "\n", _jsx(_components.p, {
+      children: "Die Side-Navigation befindet sich entweder direkt links neben dem\nContent-Bereich oder fest am linken Bildschirmrand. Sie muss nicht nur aus einer\nNavigation bestehen, sondern kann auch aus einer Primary und einer Secondary\nNavigation bestehen."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Zum Aufbau einer Side-Navigation kann eine\n", _jsx(_components.a, {
+        href: "/04-components/structure/layout-card/overview",
+        children: "LayoutCard"
+      }), " mit der Component\n", _jsx(_components.a, {
+        href: "/04-components/navigation/navigation/overview",
+        children: "Navigation"
+      }), " gefüllt werden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Content"
+    }), "\n", _jsx(_components.p, {
+      children: "Der Content-Bereich stellt dem User Informationen zur Verfügung, damit er seine\nAufgabe erfüllen kann. Der Inhalt variiert von Seite zu Seite, es wird jedoch\nempfohlen, den Inhalt nach einem wiederkehrenden Muster anzuordnen, das bereits\nauf anderen Seiten verwendet wurde."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Navigationsstruktur im Content-Bereich folgt ebenfalls einem klaren Muster.\nIm Content-Bereich können ", _jsx(_components.a, {
+        href: "/04-components/navigation/tabs/overview",
+        children: "Tabs"
+      }), " und\n", _jsx(_components.a, {
+        href: "/04-components/structure/list",
+        children: "List"
+      }), " verwendet werden, um die Inhalte zu teilen\noder in die Tiefe zu navigieren. Bei der Navigation in tiefere Ebenen, z. B.\nüber eine List, bietet eine\n", _jsx(_components.a, {
+        href: "/04-components/navigation/breadcrumb/overview",
+        children: "Breadcrumb"
+      }), " eine\nOrientierungshilfe."]
+    }), "\n", _jsxs(_components.p, {
+      children: ["Der Content wird von einer\n", _jsx(_components.a, {
+        href: "/04-components/structure/layout-card/overview",
+        children: "LayoutCard"
+      }), " umschlossen. Um\ninnerhalb der LayoutCard die richtigen Abstände in vertikaler und horizontaler\nRichtung sicherzustellen, sollten die Layout-Components\n", _jsx(_components.a, {
+        href: "/04-components/structure/section/overview",
+        children: "Section"
+      }), " und\n", _jsx(_components.a, {
+        href: "/04-components/structure/column-layout/overview",
+        children: "ColumnLayout"
+      }), " verwendet\nwerden."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Overlay"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein Overlay öffnet sich über der eigentlichen Seite. Größere Overlays wie\n", _jsx(_components.a, {
+        href: "/04-components/overlays/modal/overview",
+        children: "Modals"
+      }), " und\n", _jsx(_components.a, {
+        href: "/04-components/overlays/modal/overview",
+        children: "OffCanvas"
+      }), " erhalten zusätzlich einen\nBackdrop, damit sich der User besser auf den angezeigten Inhalt konzentrieren\nkann. Andere, kleinere Overlays wie\n", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu/overview",
+        children: "ContextMenu"
+      }), " oder\n", _jsx(_components.a, {
+        href: "/04-components/overlays/tooltip/overview",
+        children: "Tooltip"
+      }), " erhalten keinen Backdrop für\ndie im Hintergrund angezeigte Seite."]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+e:T75b,export default () => {
+  const styles: Record<string, React.CSSProperties> = {
+    layoutContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'header header'
+        'nav content'
+      `,
+      gridTemplateColumns: "90px 1fr",
+      gridTemplateRows: "auto 1fr",
+      gap: "10px",
+      border: "1px solid rgba(206, 75, 255, 1)",
+      borderRadius: "4px",
+      padding: "10px",
+    },
+    header: {
+      gridArea: "header",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    sideNavigation: {
+      gridArea: "nav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      padding: "55px 10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      width: "90px",
+    },
+    verticalText: {
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    content: {
+      gridArea: "content",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    textStyle: {
+      color: "rgba(0, 63, 184, 1)",
+      fontWeight: "400",
+      fontSize: "14px",
+    },
+  };
+
+  return (
+    <div style={styles.layoutContainer}>
+      <header style={styles.header}>
+        <p style={styles.textStyle}>Header</p>
+      </header>
+      <nav style={styles.sideNavigation}>
+        <p
+          style={{
+            ...styles.verticalText,
+            ...styles.textStyle,
+          }}
+        >
+          Side-Navigation
+        </p>
+      </nav>
+      <main style={styles.content}>
+        <p style={styles.textStyle}>Content</p>
+      </main>
+    </div>
+  );
+};
+f:T1011,export default () => {
+  const styles: Record<string, React.CSSProperties> = {
+    rootContainer: {
+      display: "flex",
+      flexDirection: "column",
+      gap: "10px",
+      border: "1px solid rgba(206, 75, 255, 1)",
+      borderRadius: "4px",
+      padding: "10px",
+    },
+    headerContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'logo header header'
+      `,
+      gridTemplateColumns: "60px 1fr 1fr",
+      gap: "10px",
+    },
+    layoutContainer: {
+      display: "grid",
+      gridTemplateAreas: `
+        'primaryNav secondaryNav breadcrumb breadcrumb'
+        'primaryNav secondaryNav pageTitle button'
+        'primaryNav secondaryNav content content'
+      `,
+      gridTemplateColumns: "30px 60px 1fr",
+      gridTemplateRows: "auto auto 1fr",
+      gap: "10px",
+    },
+    logo: {
+      gridArea: "logo",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    },
+    header: {
+      gridArea: "header",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "10px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    primaryNav: {
+      gridArea: "primaryNav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "38px 0px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    secondaryNav: {
+      gridArea: "secondaryNav",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "38px 0px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+      writingMode: "vertical-rl",
+      transform: "rotate(180deg)",
+    },
+    breadcrumb: {
+      gridArea: "breadcrumb",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    pageTitle: {
+      gridArea: "pageTitle",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    button: {
+      gridArea: "button",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      padding: "0px 5px",
+      textAlign: "center",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    content: {
+      gridArea: "content",
+      backgroundColor: "rgba(0, 84, 245, 0.02)",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      padding: "10px",
+      border: "1px dashed rgba(0, 84, 245, 1)",
+      borderRadius: "4px",
+    },
+    textStyle: {
+      color: "rgba(0, 63, 184, 1)",
+      fontWeight: "400",
+      fontSize: "14px",
+    },
+  };
+
+  return (
+    <div style={styles.rootContainer}>
+      <div style={styles.headerContainer}>
+        <div style={styles.logo}>
+          <p style={styles.textStyle}>Logo</p>
+        </div>
+        <header style={styles.header}>
+          <p style={styles.textStyle}>Header</p>
+        </header>
+      </div>
+      <div style={styles.layoutContainer}>
+        <nav style={styles.primaryNav}>
+          <p style={styles.textStyle}>Primary Navigation</p>
+        </nav>
+        <nav style={styles.secondaryNav}>
+          <p style={styles.textStyle}>
+            Secondary Navigation
+          </p>
+        </nav>
+        <div style={styles.breadcrumb}>
+          <p style={styles.textStyle}>Breadcrumb</p>
+        </div>
+        <div style={styles.pageTitle}>
+          <p style={styles.textStyle}>Page Title</p>
+        </div>
+        <div style={styles.button}>
+          <p style={styles.textStyle}>Button</p>
+        </div>
+        <main style={styles.content}>
+          <p style={styles.textStyle}>Content</p>
+        </main>
+      </div>
+    </div>
+  );
+};
+9:["$","$Lc",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$d","frontmatter":{},"scope":{}},"examples":{"general-layout":"$e","mStudio-layout":"$f"},"slugs":["02-structure","01-layout"],"filename":"02-structure/01-layout/overview.mdx","anchors":[{"slug":"best-practices","text":"Best practices","level":2},{"slug":"genereller-aufbau","text":"Genereller Aufbau","level":2},{"slug":"genereller-aufbau-header","text":"Header","level":3},{"slug":"genereller-aufbau-side-navigation","text":"Side-Navigation","level":3},{"slug":"genereller-aufbau-content","text":"Content","level":3},{"slug":"genereller-aufbau-overlay","text":"Overlay","level":3}]}}]}],"$L10"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2280/merge/_next/static/chunks/62e1868569e517da.js","async":true}]
+b:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+10:["$","$L14",null,{"currentPath":"/02-foundations/02-structure/01-layout","anchors":[{"slug":"best-practices","text":"Best practices","level":2},{"slug":"genereller-aufbau","text":"Genereller Aufbau","level":2},{"slug":"genereller-aufbau-header","text":"Header","level":3},{"slug":"genereller-aufbau-side-navigation","text":"Side-Navigation","level":3},{"slug":"genereller-aufbau-content","text":"Content","level":3},{"slug":"genereller-aufbau-overlay","text":"Overlay","level":3}],"title":"Layout"}]
+13:null
