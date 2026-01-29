@@ -1,0 +1,46 @@
+import{j as r}from"./iframe-CV15FJMl.js";import{N as o}from"./NumberField-CTe6BKZc.js";import{L as t}from"./Label-BYiN1vfD.js";import{F as c}from"./FieldDescription-BbUtqeWX.js";import{F as g}from"./FieldError-e14SOUTJ.js";import{C as x,a as b}from"./ContextualHelpTrigger-DFCO2fJv.js";import{B as h}from"./Button-CPmcSz1K.js";import{T as F}from"./Text-DO3jYkuR.js";import"./preload-helper-PPVm8Dsz.js";import"./useFieldComponent-4syZJMEs.js";import"./flowComponent-zkKbLiwJ.js";import"./index-BdI4bZr-.js";import"./clsx-B-dksMZM.js";import"./index-DgyS9CYh.js";import"./IconWarning-CS7d0V5Y.js";import"./remote-BYNvJzFU.js";import"./useControlledHostValueProps-CzUjaEYd.js";import"./Button-Deu1Fo5o.js";import"./utils-B45PgFGd.js";import"./ProgressBar-DYhZqT6M.js";import"./Label-DnBvsshm.js";import"./Hidden-DbKTPC62.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-DgTpLYXb.js";import"./context-Is67_JkX.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-C9ebI84m.js";import"./useFocus-C3kMSW21.js";import"./useFocusRing-CoS5ESqQ.js";import"./useFocusable-DenRoGzb.js";import"./FieldError-CDBleeuN.js";import"./Text-Bk0CAvR5.js";import"./Form-B5_Ftb3l.js";import"./Group-Oc33WXVS.js";import"./Input-Wuyb26cC.js";import"./useControlledState-Br5i43rk.js";import"./useFormValidation-rdndu8q5.js";import"./useSpinButton-dYlzXGLa.js";import"./useLocalizedStringFormatter-DhOUTddD.js";import"./useFormReset-DQt01LcM.js";import"./useEvent-CGsPBawQ.js";import"./useTextField-DH39Jsbq.js";import"./Label.module-CUYTf9Jc.js";import"./AlertText-Dryg6b6V.js";import"./AlertIcon-BZ2qa2OA.js";import"./Popover-Bhj9zixw.js";import"./useOverlayController-10mwaIn0.js";import"./context-z7OXrsOp.js";import"./useStatic-CaY36sW2.js";import"./OverlayContextProvider-B4MrJ_Vf.js";import"./Dialog-CvkIF4vR.js";import"./RSPContexts-09abhkzW.js";import"./OverlayArrow-BtUNb3SD.js";import"./Collection-BDyrlbfU.js";import"./CollectionBuilder-DPEpUwFF.js";import"./SelectionIndicator-C649Jmr0.js";import"./Separator-BUXgDBus.js";import"./SelectionManager-DjElDtGz.js";import"./useCollator-C223TjTn.js";import"./FocusScope-Da56m84L.js";import"./VisuallyHidden-DJ3SqDe0.js";import"./OverlayTrigger--ZhGhozj.js";import"./LoadingSpinner-C2UghIT7.js";import"./browser-8BNXX35r.js";import"./EmulatedBoldText-CKJb5Byw.js";const{action:j}=__STORYBOOK_MODULE_ACTIONS__,Wr={title:"Form Controls/NumberField",component:o,render:e=>r.jsx(o,{onChange:j("onChange"),...e,children:r.jsx(t,{children:"Age"})})},i={},a={args:{isDisabled:!0}},s={args:{isReadOnly:!0}},n={args:{isRequired:!0}},p={render:e=>r.jsxs(o,{...e,minValue:5,maxValue:10,children:[r.jsx(t,{children:"Age"}),r.jsx(c,{children:"Enter your age"})]})},m={render:e=>r.jsx(o,{...e,defaultValue:34,children:r.jsx(t,{children:"Age"})})},l={render:e=>r.jsxs(o,{...e,isInvalid:!0,isRequired:!0,children:[r.jsx(t,{children:"Age"}),r.jsx(g,{children:"Age is required"})]})},d={render:e=>r.jsx(o,{...e,formatOptions:{style:"unit",unit:"gigabyte"},defaultValue:12,children:r.jsx(t,{children:"Storage"})})},u={render:e=>r.jsx(o,{...e,minValue:5,maxValue:10,children:r.jsxs(t,{children:["Age",r.jsxs(x,{children:[r.jsx(h,{ariaSlot:null}),r.jsx(b,{children:r.jsx(F,{children:"Enter your age"})})]})]})})};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:"{}",...i.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  args: {
+    isDisabled: true
+  }
+}`,...a.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    isReadOnly: true
+  }
+}`,...s.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {
+    isRequired: true
+  }
+}`,...n.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: props => <NumberField {...props} minValue={5} maxValue={10}>
+      <Label>Age</Label>
+      <FieldDescription>Enter your age</FieldDescription>
+    </NumberField>
+}`,...p.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => <NumberField {...props} defaultValue={34}>
+      <Label>Age</Label>
+    </NumberField>
+}`,...m.parameters?.docs?.source}}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`{
+  render: props => <NumberField {...props} isInvalid isRequired>
+      <Label>Age</Label>
+      <FieldError>Age is required</FieldError>
+    </NumberField>
+}`,...l.parameters?.docs?.source}}};d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`{
+  render: props => <NumberField {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} defaultValue={12}>
+      <Label>Storage</Label>
+    </NumberField>
+}`,...d.parameters?.docs?.source}}};u.parameters={...u.parameters,docs:{...u.parameters?.docs,source:{originalSource:`{
+  render: props => <NumberField {...props} minValue={5} maxValue={10}>
+      <Label>
+        Age
+        <ContextualHelpTrigger>
+          <Button ariaSlot={null} />
+          <ContextualHelp>
+            <Text>Enter your age</Text>
+          </ContextualHelp>
+        </ContextualHelpTrigger>
+      </Label>
+    </NumberField>
+}`,...u.parameters?.docs?.source}}};const Tr=["Default","Disabled","ReadOnly","Required","WithFieldDescription","WithDefaultValue","WithFieldError","WithUnit","WithContextualHelp"];export{i as Default,a as Disabled,s as ReadOnly,n as Required,u as WithContextualHelp,m as WithDefaultValue,p as WithFieldDescription,l as WithFieldError,d as WithUnit,Tr as __namedExportsOrder,Wr as default};
