@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"default"]
+9:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Flex"]
+e:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Tabs"]
+f:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"Tab"]
+10:I[39682,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"TabTitle"]
+12:I[142373,["/flow-previews/docs/2289/merge/_next/static/chunks/af5549ab04e562db.js","/flow-previews/docs/2289/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js"],"default"]
+13:I[466743,["/flow-previews/docs/2289/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2289/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+0:{"buildId":"YeyHDMVbqQwvwKki8bsQ6","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Checkbox"}],"Mithilfe einer Checkbox kann ein User eine Option auswählen oder abwählen. Bei der Verwendung mehrerer Checkboxen wird im Normalfall die CheckboxGroup verwendet.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Checkbox","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Checkbox","description":"Mithilfe einer Checkbox kann ein User eine Option auswählen oder abwählen. Bei der Verwendung mehrerer Checkboxen wird im Normalfall die CheckboxGroup verwendet."},"scope":{}},"examples":{"default":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n","disabled":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox isDisabled>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n","form":"import {\n  Checkbox,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/04-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ acceptTerms: boolean }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"acceptTerms\"\n          rules={{ required: true }}\n        >\n          <Checkbox>\n            Ich stimme den AGBs zu und bestätige, dass ich\n            die Datenschutzhinweise zur Kenntnis genommen\n            habe.\n          </Checkbox>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n","indeterminated":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox isIndeterminate>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n"},"slugs":["form-controls","checkbox"],"filename":"form-controls/checkbox/index.mdx","anchors":[]}}]]}]}],["$","$L9",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L9",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":"$La"}],"$Lb"]}]],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+11:T12c3,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {DoAndDont, Plain} = _components;
+  if (!DoAndDont) _missingMdxReference("DoAndDont", true);
+  if (!Plain) _missingMdxReference("Plain", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Eine Checkbox funktioniert in der Handhabung nahezu identisch wie ein\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/checkbox-button/overview",
+        children: "CheckboxButton"
+      }), ". Der\nUnterschied liegt im Erscheinungsbild. Je nach Gestaltung der Benutzeroberfläche\noder je nach Anwendungsfall sollte individuell entschieden werden, welche der\nbeiden Components sinnvoller ist."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung einer Checkbox darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "sie immer eine Beschriftung hat."
+      }), "\n", _jsx(_components.li, {
+        children: "die Beschriftung kurz und eindeutig ist. Sie sollte stets mit einem\nGroßbuchstaben beginnen."
+      }), "\n", _jsx(_components.li, {
+        children: "die Beschriftung in der Regel ohne Punkt endet – es sei denn, sie ist ein\nvollständiger Satz."
+      }), "\n", _jsx(_components.li, {
+        children: "der initiale Zustand (ausgewählt/nicht ausgewählt) nachvollziehbar und\nsinnvoll gewählt ist."
+      }), "\n", _jsx(_components.li, {
+        children: "der Zwischenzustand „Indeterminate“ nur in Verbindung mit untergeordneten\nCheckboxen verwendet wird."
+      }), "\n", _jsx(_components.li, {
+        children: "das An- und Abhaken einer Checkbox keine anderen Checkboxen verändert – mit\nAusnahme einer übergeordneten Checkbox."
+      }), "\n", _jsxs(_components.li, {
+        children: ["bei mehreren Checkboxen die Reihenfolge logisch und nachvollziehbar ist (siehe\n", _jsx(_components.a, {
+          href: "/04-components/form-controls/checkbox-group/overview",
+          children: "CheckboxGroup"
+        }), ")."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende eine Checkbox, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "dem User die Auswahl einer oder mehrerer Optionen zu ermöglichen."
+      }), "\n", _jsx(_components.li, {
+        children: "einzelne Zustimmungen (z. B. AGBs) vom User einzuholen."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Checkbox vs. Switch"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Mit den Components Checkbox und\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/switch/overview",
+        children: "Switch"
+      }), " können Optionen\naktiviert/ausgewählt werden. Um die Unterschiede klarer zu machen, hier einige\nhilfreiche Anhaltspunkte."]
+    }), "\n", _jsxs(DoAndDont, {
+      children: [_jsx(Plain, {
+        heading: "Verwende eine Checkbox, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "dem User eine Auswahloption zur Bestätigung zu geben."
+          }), "\n", _jsx(_components.li, {
+            children: "Auswahlmöglichkeiten in einem Formular anzubieten, die gespeichert werden müssen."
+          }), "\n"]
+        })
+      }), _jsx(Plain, {
+        heading: "Verwende einen Switch, um z. B. ...",
+        children: _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "eine Funktion direkt zu aktivieren oder zu deaktivieren."
+          }), "\n", _jsx(_components.li, {
+            children: "eine Einstellung sofort zu ändern, ohne sie separat speichern zu müssen."
+          }), "\n"]
+        })
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+a:["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Le",null,{"selectedKey":"guidelines","children":[["$","$Lf",null,{"id":"overview","children":[["$","$L10",null,{"href":"/04-components/form-controls/checkbox/overview","children":"Overview"}],false]}],["$","$Lf",null,{"id":"develop","children":[["$","$L10",null,{"href":"/04-components/form-controls/checkbox/develop","children":"Develop"}],false]}],["$","$Lf",null,{"id":"guidelines","children":[["$","$L10",null,{"href":"/04-components/form-controls/checkbox/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$11","frontmatter":{},"scope":{}},"examples":{"default":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n","disabled":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox isDisabled>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n","form":"import {\n  Checkbox,\n  Section,\n} from \"@mittwald/flow-react-components\";\nimport { useForm } from \"react-hook-form\";\nimport {\n  Form,\n  SubmitButton,\n  typedField,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport { sleep } from \"@/content/04-components/actions/action/examples/lib\";\n\nexport default () => {\n  const form = useForm<{ acceptTerms: boolean }>();\n  const Field = typedField(form);\n\n  return (\n    <Section>\n      <Form form={form} onSubmit={sleep}>\n        <Field\n          name=\"acceptTerms\"\n          rules={{ required: true }}\n        >\n          <Checkbox>\n            Ich stimme den AGBs zu und bestätige, dass ich\n            die Datenschutzhinweise zur Kenntnis genommen\n            habe.\n          </Checkbox>\n        </Field>\n        <SubmitButton>Speichern</SubmitButton>\n      </Form>\n    </Section>\n  );\n};\n","indeterminated":"import { Checkbox } from \"@mittwald/flow-react-components\";\n\n<Checkbox isIndeterminate>\n  Ich stimme den AGBs zu und bestätige, dass ich die\n  Datenschutzhinweise zur Kenntnis genommen habe.\n</Checkbox>;\n"},"slugs":["form-controls","checkbox"],"filename":"form-controls/checkbox/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3},{"slug":"grundlagen-checkbox-vs-switch","text":"Checkbox vs. Switch","level":3}]}}]}]]}]]}]}]
+b:["$","$L12",null,{"currentPath":"/04-components/form-controls/checkbox/guidelines","anchors":"$a:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2289/merge/_next/static/chunks/b4e12c2c65556afc.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

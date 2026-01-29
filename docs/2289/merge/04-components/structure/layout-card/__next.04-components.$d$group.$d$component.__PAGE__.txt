@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[466743,["/flow-previews/docs/2289/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2289/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"YeyHDMVbqQwvwKki8bsQ6","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/04-components/structure/layout-card/overview;307;"}
