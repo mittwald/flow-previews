@@ -1,18 +1,18 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Section"]
-5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Heading"]
-6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Link"]
-7:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"IconExternalLink"]
-8:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
-1d:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Flex"]
-1e:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Tabs"]
-1f:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Tab"]
-20:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"TabTitle"]
+2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Section"]
+5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Link"]
+7:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
+1d:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Flex"]
+1e:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Tabs"]
+1f:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Tab"]
+20:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"TabTitle"]
 34:I[466743,["/flow-previews/docs/1906/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/1906/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
 35:"$Sreact.suspense"
-37:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+37:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
 9:Tbde,import {
   ActionGroup,
   AlertBadge,
@@ -1290,8 +1290,8 @@ export default () => {
     </InvoiceList.List>
   );
 };
-0:{"buildId":"_6jdDZGzOynUOUyEsp5nn","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"List"}],"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/List","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"mode-list\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"List","description":"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$9","filterCategory":"$a","filterGeneralCategory":"$b","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$c","item-checkbox":"$d","item-column-layout-hidden":"$e","item-column-layout":"$f","item-content":"$10","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$11","mode-list":"$12","mode-table":"$13","mode-tile":"$14","namingDo":"$15","namingDont":"$16","sortingDo":"$17","sortingDont":"$18","summary":"$19"},"slugs":["structure","list"],"filename":"structure/list/index.mdx","anchors":[]}}]]}]}],"$L1a"],["$L1b"],"$L1c"]}],"loading":null,"isPartial":false}
-21:T5215,"use strict";
+0:{"buildId":"gPONrl6jeY-U3UxjwCGgJ","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"List"}],"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/List","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true,\n    example: \"mode-list\",\n    zoom: 0.6\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"List","description":"Die List bildet einen strukturierten Rahmen für mehrere ListItems und bietet Funktionen wie Sortierung, Filter und Suche."},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$9","filterCategory":"$a","filterGeneralCategory":"$b","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$c","item-checkbox":"$d","item-column-layout-hidden":"$e","item-column-layout":"$f","item-content":"$10","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$11","mode-list":"$12","mode-table":"$13","mode-tile":"$14","namingDo":"$15","namingDont":"$16","sortingDo":"$17","sortingDont":"$18","summary":"$19"},"slugs":["structure","list"],"filename":"structure/list/index.mdx","anchors":[]}}]]}]}],"$L1a"],["$L1b"],"$L1c"]}],"loading":null,"isPartial":false}
+21:T52fd,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -1319,7 +1319,7 @@ function _createMdxContent(props) {
       children: ["Die List bildet den strukturierten Rahmen für sogenannte ", _jsx(_components.strong, {
         children: "ListItems"
       }), ".\nAlternativ können in der List Elemente in einer\n", _jsx(_components.a, {
-        href: "/04-components/structure/table",
+        href: "/04-components/structure/table/overview",
         children: "Table"
       }), " dargestellt werden, wenn eine\ntabellarische Ansicht mit Spalten sinnvoll ist."]
     }), "\n", _jsx(_components.p, {
@@ -1331,10 +1331,10 @@ function _createMdxContent(props) {
         children: "Filterung"
       }), " und ", _jsx(_components.strong, {
         children: "Suche"
-      }), " bereit. Zusätzlich\nkann der User über einen „Mehr anzeigen“-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+      }), " bereit. Zusätzlich\nkann der User über einen „Mehr\nanzeigen“-", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), "\nsteuern, wie viele ListItems gleichzeitig angezeigt werden."]
+      }), " steuern, wie viele\nListItems gleichzeitig angezeigt werden."]
     }), "\n", _jsx(_components.h2, {
       children: "Best practices"
     }), "\n", _jsx(_components.p, {
@@ -1368,19 +1368,19 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
         children: ["Die List wird häufig auf Übersichtsseiten eingesetzt, z. B. um alle Domains\nauf einen Blick darzustellen. Von dort aus können User in die zugehörigen\n", _jsx(_components.a, {
-          href: "/03-patterns/struktur",
+          href: "/03-patterns/detail-page",
           children: "Detailseiten"
         }), " navigieren."]
       }), "\n", _jsxs(_components.li, {
         children: ["Sie nimmt immer die volle Breite des Inhalts einer\n", _jsx(_components.a, {
-          href: "/04-components/structure/layout-card",
+          href: "/04-components/structure/layout-card/overview",
           children: "LayoutCard"
         }), " ein."]
       }), "\n", _jsxs(_components.li, {
-        children: ["Wenn neben der List weiterer Inhalt auf der Seite vorhanden ist, sollte dieser\noberhalb platziert werden. Auf diese Weise werden Layout-Verschiebungen durch\ndas Nachladen über den „Mehr anzeigen“-", _jsx(_components.a, {
-          href: "/04-components/actions/button",
+        children: ["Wenn neben der List weiterer Inhalt auf der Seite vorhanden ist, sollte dieser\noberhalb platziert werden. Auf diese Weise werden Layout-Verschiebungen durch\ndas Nachladen über den „Mehr\nanzeigen“-", _jsx(_components.a, {
+          href: "/04-components/actions/button/overview",
           children: "Button"
-        }), "\nvermieden."]
+        }), " vermieden."]
       }), "\n"]
     }), "\n", _jsx(_components.h2, {
       children: "Ansichten"
@@ -1392,12 +1392,12 @@ function _createMdxContent(props) {
       }), "."]
     }), "\n", _jsxs(_components.p, {
       children: ["In der Listen- und Rasteransicht werden unterschiedliche Varianten des ListItems\ndargestellt. In der Tabellenansicht verwendet die List die\n", _jsx(_components.a, {
-        href: "/04-components/structure/table",
+        href: "/04-components/structure/table/overview",
         children: "Table"
-      }), "-Component. Sind mehrere Ansichten\nverfügbar, können User über den Ansichts-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+      }), "-Component. Sind mehrere\nAnsichten verfügbar, können User über den\nAnsichts-", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), "\nzwischen ihnen wechseln."]
+      }), " zwischen ihnen\nwechseln."]
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
         children: [_jsx(_components.strong, {
@@ -1416,38 +1416,38 @@ function _createMdxContent(props) {
       children: "Sortierung"
     }), "\n", _jsxs(_components.p, {
       children: ["Der Sortierungs-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), " wird stets links neben\ndem Filter-Button angezeigt. Die Standardsortierung sollte dem häufigsten\nAnwendungsfall entsprechen (z. B. „Neueste zuerst“ bei einer Änderungshistorie).\nDie aktive Sortierung wird im Sortierungs-Button angezeigt (siehe Abschnitt\nWriting guidelines)."]
+      }), " wird stets\nlinks neben dem Filter-Button angezeigt. Die Standardsortierung sollte dem\nhäufigsten Anwendungsfall entsprechen (z. B. „Neueste zuerst“ bei einer\nÄnderungshistorie). Die aktive Sortierung wird im Sortierungs-Button angezeigt\n(siehe Abschnitt Writing guidelines)."]
     }), "\n", _jsx(_components.h2, {
       children: "Filter"
     }), "\n", _jsxs(_components.p, {
       children: ["Ein Klick auf den Filter-Button öffnet ein\n", _jsx(_components.a, {
-        href: "/04-components/actions/context-menu",
+        href: "/04-components/actions/context-menu/overview",
         children: "ContextMenu"
-      }), ", in dem Filter aktiviert oder\ndeaktiviert werden können."]
+      }), ", in dem Filter\naktiviert oder deaktiviert werden können."]
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
         children: ["Unterstützt der Filter eine ", _jsx(_components.strong, {
           children: "Mehrfachauswahl"
         }), ", werden die Optionen als\n", _jsx(_components.a, {
-          href: "/04-components/form-controls/checkbox",
+          href: "/04-components/form-controls/checkbox/overview",
           children: "Checkbox"
         }), " dargestellt."]
       }), "\n", _jsxs(_components.li, {
         children: ["Erfordert ein Filter ", _jsx(_components.strong, {
           children: "Einzelauswahl"
         }), ", werden die Optionen als\n", _jsx(_components.a, {
-          href: "/04-components/form-controls/radio-group",
+          href: "/04-components/form-controls/radio-group/overview",
           children: "RadioGroup"
         }), " angezeigt."]
       }), "\n", _jsxs(_components.li, {
         children: ["Jeder ", _jsx(_components.strong, {
           children: "aktive Filter"
-        }), " wird durch eine ", _jsx(_components.a, {
-          href: "/04-components/status/badge",
+        }), " wird durch eine\n", _jsx(_components.a, {
+          href: "/04-components/status/badge/overview",
           children: "Badge"
-        }), "\nvisualisiert, der per Klick einzeln entfernt werden kann. Sind mindestens zwei\nFilter aktiv, erscheint zusätzlich ein “Filter zurücksetzen”-Button."]
+        }), " visualisiert, der per Klick\neinzeln entfernt werden kann. Sind mindestens zwei Filter aktiv, erscheint\nzusätzlich ein “Filter zurücksetzen”-Button."]
       }), "\n", _jsxs(_components.li, {
         children: ["Mehrere Filter ", _jsx(_components.strong, {
           children: "derselben Kategorie"
@@ -1471,9 +1471,9 @@ function _createMdxContent(props) {
       children: ["Standardmäßig werden maximal 10 ListItems angezeigt. Mit der Option ", _jsx(_components.code, {
         children: "batchSize"
       }), "\nkann die Anzahl der anfänglichen ListItems angepasst werden. Über den \"Mehr\nanzeigen\"-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), " können bei Bedarf weitere\nListItems nachgeladen werden."]
+      }), " können bei Bedarf\nweitere ListItems nachgeladen werden."]
     }), "\n", _jsx(_components.p, {
       children: "Beachte bei der Anpassung der Pagination, dass ..."
     }), "\n", _jsxs(_components.ul, {
@@ -1501,15 +1501,15 @@ function _createMdxContent(props) {
         children: [_jsx(_components.strong, {
           children: "Avatar:"
         }), " Der ", _jsx(_components.a, {
-          href: "/04-components/content/avatar",
+          href: "/04-components/content/avatar/overview",
           children: "Avatar"
-        }), " steht am Anfang eines\nListItems. Wird ein ", _jsx(_components.a, {
-          href: "/04-components/content/icon",
+        }), " steht am\nAnfang eines ListItems. Wird ein ", _jsx(_components.a, {
+          href: "/04-components/content/icon/overview",
           children: "Icon"
-        }), " verwendet, sollte es\ndie Kategorie des dargestellten Elements widerspiegeln (z. B. ein Domain-Icon\nbei der Kategorie Domain). Falls der User für das Element ein\n", _jsx(_components.a, {
-          href: "/04-components/content/image",
+        }), "\nverwendet, sollte es die Kategorie des dargestellten Elements widerspiegeln\n(z. B. ein Domain-Icon bei der Kategorie Domain). Falls der User für das\nElement ein ", _jsx(_components.a, {
+          href: "/04-components/content/image/overview",
           children: "Image"
-        }), " hochladen kann, wird dieses angezeigt.\nIst kein Image vorhanden, sollten stattdessen Initialen erscheinen."]
+        }), " hochladen kann,\nwird dieses angezeigt. Ist kein Image vorhanden, sollten stattdessen Initialen\nerscheinen."]
       }), "\n", _jsxs(_components.li, {
         children: [_jsx(_components.strong, {
           children: "Titel:"
@@ -1526,12 +1526,12 @@ function _createMdxContent(props) {
         children: [_jsx(_components.strong, {
           children: "Aktionen:"
         }), " Für Interaktionen mit dem ListItem stehen zwei Varianten zur\nVerfügung. Entweder werden Aktionen über ein\n", _jsx(_components.a, {
-          href: "/04-components/actions/context-menu",
+          href: "/04-components/actions/context-menu/overview",
           children: "ContextMenu"
-        }), " angeboten, oder sie\nerscheinen direkt als ", _jsx(_components.a, {
-          href: "/04-components/actions/button",
+        }), " angeboten, oder\nsie erscheinen direkt als ", _jsx(_components.a, {
+          href: "/04-components/actions/button/overview",
           children: "Buttons"
-        }), " innerhalb des\nListItems."]
+        }), "\ninnerhalb des ListItems."]
       }), "\n", _jsxs(_components.li, {
         children: [_jsx(_components.strong, {
           children: "Accordion-Funktion:"
@@ -1541,31 +1541,31 @@ function _createMdxContent(props) {
       children: ["In der ", _jsx(_components.strong, {
         children: "Rasteransicht"
       }), " ist die Darstellung kompakter und stärker visuell\nausgerichtet. Der ", _jsx(_components.a, {
-        href: "/04-components/content/avatar",
+        href: "/04-components/content/avatar/overview",
         children: "Avatar"
-      }), " wird hier größer und\nin eckiger Form angezeigt. Die grundlegenden Funktionen sind vergleichbar mit\ndenen der Listenansicht, allerdings entfällt in diesem Modus der Top Content\nsowie die Accordion-Funktion."]
+      }), " wird hier\ngrößer und in eckiger Form angezeigt. Die grundlegenden Funktionen sind\nvergleichbar mit denen der Listenansicht, allerdings entfällt in diesem Modus\nder Top Content sowie die Accordion-Funktion."]
     }), "\n", _jsx(_components.h2, {
       children: "Tabellenansicht"
     }), "\n", _jsxs(_components.p, {
       children: ["Wird eine List mit einer Tabellenansicht verwendet, sind die Guidelines der\n", _jsx(_components.a, {
-        href: "/04-components/structure/table",
+        href: "/04-components/structure/table/overview",
         children: "Table"
       }), " zu beachten."]
     }), "\n", _jsx(_components.h2, {
       children: "IllustratedMessage"
     }), "\n", _jsxs(_components.p, {
       children: ["Die ", _jsx(_components.a, {
-        href: "/04-components/content/illustrated-message",
+        href: "/04-components/content/illustrated-message/overview",
         children: "IllustratedMessage"
-      }), " wird in\nzwei Anwendungsfällen verwendet:"]
+      }), "\nwird in zwei Anwendungsfällen verwendet:"]
     }), "\n", _jsxs(_components.ul, {
       children: ["\n", _jsxs(_components.li, {
         children: [_jsx(_components.strong, {
           children: "Keine Einträge vorhanden:"
         }), " Die List wird durch eine IllustratedMessage\nersetzt. Diese lädt den User über einen\n", _jsx(_components.a, {
-          href: "/04-components/actions/button",
+          href: "/04-components/actions/button/overview",
           children: "Button"
-        }), " dazu ein, das erste Element zu\nerstellen."]
+        }), " dazu ein, das erste Element\nzu erstellen."]
       }), "\n", _jsxs(_components.li, {
         children: [_jsx(_components.strong, {
           children: "Keine Such- oder Filterergebnisse:"
@@ -1577,9 +1577,9 @@ function _createMdxContent(props) {
       children: "Sortierung"
     }), "\n", _jsxs(_components.p, {
       children: ["Ist die Standardsortierung aktiv, zeigt der\nSortierungs-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), " lediglich “Sortierung” an.\nWählt der User eine spezifische Sortierung aus, wird der Button-Text\nentsprechend angepasst. Die Sortiermethode sollte so benannt werden, dass sofort\nersichtlich ist, nach welchem Kriterium und in welcher Reihenfolge sortiert\nwird."]
+      }), " lediglich\n“Sortierung” an. Wählt der User eine spezifische Sortierung aus, wird der\nButton-Text entsprechend angepasst. Die Sortiermethode sollte so benannt werden,\ndass sofort ersichtlich ist, nach welchem Kriterium und in welcher Reihenfolge\nsortiert wird."]
     }), "\n", _jsxs(DoAndDont, {
       children: [_jsx(Do, {
         example: "sortingDo",
@@ -1596,9 +1596,9 @@ function _createMdxContent(props) {
       children: "Filterung"
     }), "\n", _jsxs(_components.p, {
       children: ["Aktive Filter werden als ", _jsx(_components.a, {
-        href: "/04-components/status/badge",
+        href: "/04-components/status/badge/overview",
         children: "Badges"
-      }), " dargestellt.\nDiese sollten selbsterklärend sein. Bei mehrdeutigen Begriffen empfiehlt es\nsich, zusätzlichen Kontext anzugeben."]
+      }), "\ndargestellt. Diese sollten selbsterklärend sein. Bei mehrdeutigen Begriffen\nempfiehlt es sich, zusätzlichen Kontext anzugeben."]
     }), "\n", _jsx(Do, {
       example: "namingDo",
       children: _jsx(_components.p, {
@@ -1621,14 +1621,14 @@ function _createMdxContent(props) {
       children: "Responsive layout"
     }), "\n", _jsxs(_components.p, {
       children: ["Auf kleinen Bildschirmgrößen passt sich der Header der List an. Ansicht und\nSortierung werden in einem Icon-", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+        href: "/04-components/actions/button/overview",
         children: "Button"
       }), "\nzusammengefasst, auch die Filter werden unter einem Icon-Button versteckt. Auf\nbesonders kleinen Bildschirmen wandern diese Elemente zusammen mit der Suche\neine Zeile nach unten."]
     }), "\n", _jsxs(_components.p, {
       children: ["Der Inhalt der ListItems bricht in der Regel bei kleineren Bildschirmgrößen um.\nDer Top Content (siehe Content Slots im Overview) kann mithilfe von\n", _jsx(_components.a, {
-        href: "/04-components/structure/column-layout",
+        href: "/04-components/structure/column-layout/overview",
         children: "ColumnLayouts"
-      }), " auf kleinen Bildschirmen\nausgeblendet werden. Dabei dürfen jedoch nur Informationen ausgeblendet werden,\ndie der User nicht benötigt, um das ListItem zu verstehen."]
+      }), " auf kleinen\nBildschirmen ausgeblendet werden. Dabei dürfen jedoch nur Informationen\nausgeblendet werden, die der User nicht benötigt, um das ListItem zu verstehen."]
     }), "\n", _jsx(Info, {
       heading: "Mobile Variante",
       mobile: true,
@@ -2945,7 +2945,7 @@ export default () => {
   );
 };
 1a:["$","$L1d",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L1d",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L1e",null,{"selectedKey":"guidelines","children":[["$","$L1f",null,{"id":"overview","children":[["$","$L20",null,{"href":"/04-components/structure/list/overview","children":"Overview"}],false]}],["$","$L1f",null,{"id":"develop","children":[["$","$L20",null,{"href":"/04-components/structure/list/develop","children":"Develop"}],false]}],["$","$L1f",null,{"id":"guidelines","children":[["$","$L20",null,{"href":"/04-components/structure/list/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$21","frontmatter":{},"scope":{}},"examples":{"actionGroup":"import {\n  ActionGroup,\n  Avatar,\n  Button,\n  Heading,\n  IconDomain,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const DomainList = typedList<Domain>();\n\n  return (\n    <DomainList.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <DomainList.StaticData data={domains} />\n      <ActionGroup>\n        <Button color=\"accent\">Anlegen</Button>\n      </ActionGroup>\n      <DomainList.Item\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <DomainList.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n          </DomainList.ItemView>\n        )}\n      </DomainList.Item>\n    </DomainList.List>\n  );\n};\n","default":"$22","filterCategory":"$23","filterGeneralCategory":"$24","item-accordion":"import {\n  Avatar,\n  Content,\n  Heading,\n  IconDomain,\n  ListItemView,\n  Text,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      accordion\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item textValue={(domain) => domain.domain}>\n        {(domain) => (\n          <ListItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n            <Text>{domain.type}</Text>\n            <Content slot=\"bottom\">Mehr Inhalt</Content>\n          </ListItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","item-action-group":"$25","item-checkbox":"$26","item-column-layout-hidden":"$27","item-column-layout":"$28","item-content":"$29","item-link":"import {\n  Avatar,\n  ContextMenu,\n  Heading,\n  IconDomain,\n  MenuItem,\n  typedList,\n} from \"@mittwald/flow-react-components\";\nimport {\n  type Domain,\n  domains,\n} from \"@/content/04-components/structure/list/examples/domainApi\";\n\nexport default () => {\n  const List = typedList<Domain>();\n\n  return (\n    <List.List\n      batchSize={2}\n      hidePagination\n      aria-label=\"Domains\"\n      getItemId={(domain) => domain.id}\n    >\n      <List.StaticData data={domains} />\n      <List.Item\n        href={() => \"#\"}\n        textValue={(domain) => domain.domain}\n      >\n        {(domain) => (\n          <List.ItemView>\n            <Avatar>\n              <IconDomain />\n            </Avatar>\n            <Heading>{domain.hostname}</Heading>\n\n            <ContextMenu>\n              <MenuItem>Details anzeigen</MenuItem>\n            </ContextMenu>\n          </List.ItemView>\n        )}\n      </List.Item>\n    </List.List>\n  );\n};\n","mobile":"$2a","mode-list":"$2b","mode-table":"$2c","mode-tile":"$2d","namingDo":"$2e","namingDont":"$2f","sortingDo":"$30","sortingDont":"$31","summary":"$32"},"slugs":["structure","list"],"filename":"structure/list/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3},{"slug":"anwendung","text":"Anwendung","level":2},{"slug":"anwendung-position","text":"Position","level":3},{"slug":"anwendung-ansichten","text":"Ansichten","level":3},{"slug":"anwendung-sortierung","text":"Sortierung","level":3},{"slug":"anwendung-filter","text":"Filter","level":3},{"slug":"anwendung-pagination","text":"Pagination","level":3},{"slug":"inhalt","text":"Inhalt","level":2},{"slug":"inhalt-listitems","text":"ListItems","level":3},{"slug":"inhalt-tabellenansicht","text":"Tabellenansicht","level":3},{"slug":"inhalt-illustratedmessage","text":"IllustratedMessage","level":3},{"slug":"writing-guidelines","text":"Writing guidelines","level":2},{"slug":"writing-guidelines-sortierung","text":"Sortierung","level":3},{"slug":"writing-guidelines-filterung","text":"Filterung","level":3},{"slug":"behavior","text":"Behavior","level":2},{"slug":"behavior-list-im-modal","text":"List im Modal","level":3},{"slug":"behavior-responsive-layout","text":"Responsive layout","level":3},{"slug":"accessibility","text":"Accessibility","level":2}]}}]}]]}]]}]}]}],"$L33"]}]
-1b:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js","async":true}]
+1b:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js","async":true}]
 1c:["$","$L34",null,{"children":["$","$35",null,{"name":"Next.MetadataOutlet","children":"$@36"}]}]
 33:["$","$L37",null,{"currentPath":"/04-components/structure/list/guidelines","anchors":"$1a:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
 36:null

@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Flex"]
-3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"LayoutCard"]
-4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"ColumnLayout"]
-5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Section"]
-6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Heading"]
-7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
-10:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Section"]
+6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
+10:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
 11:I[466743,["/flow-previews/docs/1906/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/1906/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
-8:T337c,"use strict";
+8:T3385,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -50,7 +50,7 @@ function _createMdxContent(props) {
       }), " – wobei die\nTabellenansicht die Component Table in die List integriert. Sofern technisch\neingefügt, können User selbst entscheiden, welche Ansicht angezeigt wird.\nDarüber hinaus unterstützt die List mehrere Funktionen wie Sortierung, Filterung\nund Suche, um die Inhalte interaktiv zu steuern."]
     }), "\n", _jsxs(_components.p, {
       children: ["Häufig sind Elemente in List und Table verlinkt, sodass User schnell zu weiteren\nSeiten – wie z. B. ", _jsx(_components.a, {
-        href: "/03-patterns/struktur",
+        href: "/03-patterns/detail-page",
         children: "Detailseiten"
       }), " – navigieren können.\nAußerdem lassen sich häufige Aktionen direkt an den jeweiligen Elementen\nausführen."]
     }), "\n", _jsx(_components.h2, {
@@ -64,7 +64,7 @@ function _createMdxContent(props) {
       children: ["Da die Listenansicht die wichtigsten Informationen kompakt vermittelt, wird sie\noft als Standardansicht einer List im mStudio verwendet. Um Usern weitere\nInformationen bereitzustellen, führen die sogenannten ", _jsx(_components.strong, {
         children: "ListItems"
       }), "\nbeispielsweise zu ", _jsx(_components.a, {
-        href: "/03-patterns/struktur",
+        href: "/03-patterns/detail-page",
         children: "Detailseiten"
       }), "."]
     }), "\n", _jsx(LiveCodeEditor, {
@@ -108,7 +108,7 @@ function _createMdxContent(props) {
         href: "/04-components/structure/table/overview",
         children: "Tables"
       }), " werden vor allem für die\nAufzählung von Elementen verwendet – häufig als Einstiegsseiten zu\n", _jsx(_components.a, {
-        href: "/03-patterns/struktur",
+        href: "/03-patterns/detail-page",
         children: "Detailansichten"
       }), "."]
     }), "\n", _jsxs(_components.p, {
@@ -232,7 +232,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-9:Te8f,import {
+9:Teeb,import {
   ActionGroup,
   Avatar,
   Button,
@@ -270,6 +270,7 @@ export default () => {
       </Heading>
       <LayoutCard>
         <DomainList.List
+          aria-label="Domains"
           loadingItemsCount={3}
           getItemId={(domain) => domain.id}
         >
@@ -296,7 +297,9 @@ export default () => {
           />
           <DomainList.Search />
           <DomainList.Filter name="Typ" property="type" />
-          <DomainList.Item>
+          <DomainList.Item
+            textValue={(domain) => domain.domain}
+          >
             {(domain) => (
               <ListItemView>
                 <Avatar
@@ -369,7 +372,7 @@ export default () => {
     </Flex>
   );
 };
-a:T8f0,import {
+a:T96c,import {
   ActionGroup,
   Avatar,
   Button,
@@ -397,6 +400,7 @@ export default () => {
       </Heading>
       <LayoutCard>
         <ProjectList.List
+          aria-label="Projekte"
           loadingItemsCount={3}
           getItemId={(project) => project.id}
           defaultViewMode="tiles"
@@ -432,7 +436,11 @@ export default () => {
             direction="desc"
             property="description"
           />
-          <ProjectList.Item showTiles showList={false}>
+          <ProjectList.Item
+            textValue={(project) => project.description}
+            showTiles
+            showList={false}
+          >
             {(project) => (
               <ListItemView>
                 <Avatar>
@@ -459,7 +467,7 @@ export default () => {
     </Flex>
   );
 };
-b:Ta88,import {
+b:Taf4,import {
   ActionGroup,
   Avatar,
   Button,
@@ -487,6 +495,7 @@ export default () => {
       </Heading>
       <LayoutCard>
         <ServerList.List
+          aria-label="Server"
           loadingItemsCount={3}
           getItemId={(server) => server.id}
           defaultViewMode="tiles"
@@ -530,7 +539,10 @@ export default () => {
             name="Filter"
             property="customer"
           />
-          <ServerList.Item showTiles>
+          <ServerList.Item
+            textValue={(server) => server.description}
+            showTiles
+          >
             {(server) => (
               <ListItemView>
                 <Avatar
@@ -561,7 +573,7 @@ export default () => {
     </Flex>
   );
 };
-c:Tbd1,import {
+c:Tbf0,import {
   ActionGroup,
   AlertBadge,
   Button,
@@ -587,6 +599,7 @@ export default () => {
       </Heading>
       <LayoutCard>
         <TicketList.List
+          aria-label="Tickets"
           loadingItemsCount={3}
           getItemId={(ticket) => ticket.id}
           defaultViewMode="table"
@@ -670,8 +683,8 @@ export default () => {
     </Flex>
   );
 };
-0:{"buildId":"_6jdDZGzOynUOUyEsp5nn","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Listen, Raster und Tabellen"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Listen, Raster und Tabellen"},"scope":{}},"examples":{"domain-list":"$9","project-list-empty":"import {\n  ActionGroup,\n  Button,\n  Flex,\n  Heading,\n  IconProject,\n  IllustratedMessage,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <Flex direction=\"column\" gap=\"m\">\n      <Heading level={1} color=\"light\">\n        Projekte\n      </Heading>\n      <LayoutCard>\n        <IllustratedMessage>\n          <IconProject />\n          <Heading>Erstes Projekt anlegen</Heading>\n          <Text>\n            Du hast noch keine Projekte angelegt! Lege ein\n            Projekt an und schon kannst du mit dem\n            Entwickeln loslegen.\n          </Text>\n          <ActionGroup>\n            <Button color=\"accent\">Anlegen</Button>\n            <Button\n              slot=\"secondary\"\n              color=\"secondary\"\n              variant=\"soft\"\n            >\n              Tarif bestellen\n            </Button>\n          </ActionGroup>\n        </IllustratedMessage>\n      </LayoutCard>\n    </Flex>\n  );\n};\n","project-list":"$a","server-list":"$b","ticket-list":"$c"},"slugs":["list-tile-table"],"filename":"list-tile-table/index.mdx","anchors":[{"slug":"zentrale-merkmale","text":"Zentrale Merkmale","level":2},{"slug":"zentrale-merkmale-listenansicht","text":"Listenansicht","level":3},{"slug":"zentrale-merkmale-rasteransicht","text":"Rasteransicht","level":3},{"slug":"zentrale-merkmale-tabellenansicht","text":"Tabellenansicht","level":3},{"slug":"position-und-aufbau","text":"Position und Aufbau","level":2},{"slug":"position-und-aufbau-suche-filter-sortierung-und-actions","text":"Suche, Filter, Sortierung und Actions","level":3},{"slug":"erstes-anlegen","text":"Erstes Anlegen","level":2}]}}]]}]}],"$Ld"]}],["$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+0:{"buildId":"gPONrl6jeY-U3UxjwCGgJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Listen, Raster und Tabellen"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Listen, Raster und Tabellen"},"scope":{}},"examples":{"domain-list":"$9","project-list-empty":"import {\n  ActionGroup,\n  Button,\n  Flex,\n  Heading,\n  IconProject,\n  IllustratedMessage,\n  LayoutCard,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <Flex direction=\"column\" gap=\"m\">\n      <Heading level={1} color=\"light\">\n        Projekte\n      </Heading>\n      <LayoutCard>\n        <IllustratedMessage>\n          <IconProject />\n          <Heading>Erstes Projekt anlegen</Heading>\n          <Text>\n            Du hast noch keine Projekte angelegt! Lege ein\n            Projekt an und schon kannst du mit dem\n            Entwickeln loslegen.\n          </Text>\n          <ActionGroup>\n            <Button color=\"accent\">Anlegen</Button>\n            <Button\n              slot=\"secondary\"\n              color=\"secondary\"\n              variant=\"soft\"\n            >\n              Tarif bestellen\n            </Button>\n          </ActionGroup>\n        </IllustratedMessage>\n      </LayoutCard>\n    </Flex>\n  );\n};\n","project-list":"$a","server-list":"$b","ticket-list":"$c"},"slugs":["list-tile-table"],"filename":"list-tile-table/index.mdx","anchors":[{"slug":"zentrale-merkmale","text":"Zentrale Merkmale","level":2},{"slug":"zentrale-merkmale-listenansicht","text":"Listenansicht","level":3},{"slug":"zentrale-merkmale-rasteransicht","text":"Rasteransicht","level":3},{"slug":"zentrale-merkmale-tabellenansicht","text":"Tabellenansicht","level":3},{"slug":"position-und-aufbau","text":"Position und Aufbau","level":2},{"slug":"position-und-aufbau-suche-filter-sortierung-und-actions","text":"Suche, Filter, Sortierung und Actions","level":3},{"slug":"erstes-anlegen","text":"Erstes Anlegen","level":2}]}}]]}]}],"$Ld"]}],["$Le"],"$Lf"]}],"loading":null,"isPartial":false}
 d:["$","$L10",null,{"currentPath":"/01-get-started/list-tile-table","anchors":[{"slug":"zentrale-merkmale","text":"Zentrale Merkmale","level":2},{"slug":"zentrale-merkmale-listenansicht","text":"Listenansicht","level":3},{"slug":"zentrale-merkmale-rasteransicht","text":"Rasteransicht","level":3},{"slug":"zentrale-merkmale-tabellenansicht","text":"Tabellenansicht","level":3},{"slug":"position-und-aufbau","text":"Position und Aufbau","level":2},{"slug":"position-und-aufbau-suche-filter-sortierung-und-actions","text":"Suche, Filter, Sortierung und Actions","level":3},{"slug":"erstes-anlegen","text":"Erstes Anlegen","level":2}],"title":"Listen, Raster und Tabellen"}]
-e:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js","async":true}]
+e:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js","async":true}]
 f:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
 13:null

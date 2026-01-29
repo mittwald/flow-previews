@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Flex"]
-3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"LayoutCard"]
-4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"ColumnLayout"]
-5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Section"]
-6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Heading"]
-7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
-13:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Section"]
+6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
+13:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
 14:I[466743,["/flow-previews/docs/1906/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/1906/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
 15:"$Sreact.suspense"
-8:T33b2,"use strict";
+8:T33b5,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -206,7 +206,7 @@ function _createMdxContent(props) {
         href: "/04-components/structure/section/overview",
         children: "Sections"
       }), " (vgl.\n", _jsx(_components.a, {
-        href: "/03-patterns/struktur",
+        href: "/03-patterns/detail-page",
         children: "Content strukturieren"
       }), ") bestehen. Innerhalb einer\nSection kann über die\n", _jsx(_components.a, {
         href: "/04-components/structure/section/overview#sectionaction",
@@ -244,7 +244,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-9:Ta7f,import {
+9:Ta9d,import {
   Align,
   Button,
   ColumnLayout,
@@ -320,7 +320,7 @@ function _missingMdxReference(id, component) {
         </Option>
       </Select>
     </ColumnLayout>
-    <Table>
+    <Table aria-label="SSH-Zugangsdaten">
       <TableHeader>
         <TableColumn />
         <TableColumn />
@@ -601,7 +601,7 @@ export default () => {
     </ModalTrigger>
   );
 };
-c:Td9e,import {
+c:Te0d,import {
   ActionGroup,
   Avatar,
   Button,
@@ -633,7 +633,10 @@ export default () => {
 
   return (
     <LayoutCard>
-      <DomainList.List getItemId={(domain) => domain.id}>
+      <DomainList.List
+        aria-label="Domains"
+        getItemId={(domain) => domain.id}
+      >
         <DomainList.StaticData
           data={[
             {
@@ -662,7 +665,10 @@ export default () => {
           ]}
         />
         <DomainList.Search />
-        <DomainList.Item showTiles>
+        <DomainList.Item
+          textValue={(domain) => domain.domain}
+          showTiles
+        >
           {(domain) => (
             <ListItemView>
               <Avatar
@@ -956,7 +962,7 @@ e:Tf2a,import {
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-f:T712,import {
+f:T78a,import {
   ActionGroup,
   Avatar,
   Button,
@@ -980,33 +986,39 @@ export default () => {
 
   return (
     <LayoutCard>
-      <ProjectList.List getItemId={(project) => project.id}>
+      <ProjectList.List
+        aria-label="Projekte"
+        getItemId={(project) => project.id}
+      >
         <ProjectList.StaticData
           data={[
             {
               id: "1",
               name: "Café-Gebäck-Haus",
-              type: "Space-Server: Mein Server",
+              type: "vServer: Mein Server",
             },
             {
               id: "2",
               name: "Steelwork",
-              type: "proSpace",
+              type: "Webhosting",
             },
             {
               id: "3",
               name: "UtopiaVRSchule",
-              type: "proSpace lite",
+              type: "Dedicated Server: Mein Server",
             },
             {
               id: "4",
               name: "IT-Profis-Website",
-              type: "Space-Server: Mein Server",
+              type: "vServer: Mein Server",
             },
           ]}
         />
         <ProjectList.Search />
-        <ProjectList.Item showTiles>
+        <ProjectList.Item
+          textValue={(project) => project.name}
+          showTiles
+        >
           {(project) => (
             <ListItemView>
               <Avatar>
@@ -1033,8 +1045,8 @@ export default () => {
     </LayoutCard>
   );
 };
-0:{"buildId":"_6jdDZGzOynUOUyEsp5nn","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Anlegen und Bearbeiten"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Anlegen und Bearbeiten"},"scope":{}},"examples":{"app-details":"$9","app-illustrated-message":"$a","create-container":"$b","domain-list":"$c","install-app":"$d","install-extension":"$e","project-illustrated-message":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  IconProject,\n  IllustratedMessage,\n  Text,\n  LayoutCard,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <IllustratedMessage>\n    <IconProject />\n    <Heading>Erstes Projekt anlegen</Heading>\n    <Text>\n      Du hast noch keine Projekte angelegt! Lege ein Projekt\n      an und schon kannst du mit dem Entwickeln loslegen.\n    </Text>\n\n    <ActionGroup>\n      <Button color=\"secondary\" variant=\"soft\">\n        Tarif bestellen\n      </Button>\n      <Button color=\"accent\">Anlegen</Button>\n    </ActionGroup>\n  </IllustratedMessage>\n</LayoutCard>;\n","project-list":"$f"},"slugs":["anlegeprozess"],"filename":"anlegeprozess/index.mdx","anchors":[{"slug":"best-practices","text":"Best Practices","level":2},{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-modal-vs-offcanvas","text":"Modal vs. OffCanvas","level":3},{"slug":"grundlagen-abhangige-information","text":"Abhängige Information","level":3},{"slug":"grundlagen-komplexe-prozesse","text":"Komplexe Prozesse","level":3},{"slug":"anlegen","text":"Anlegen","level":2},{"slug":"anlegen-leerer-zustand-vs-vorhandener-inhalt","text":"Leerer Zustand vs. vorhandener Inhalt","level":3},{"slug":"anlegen-gleiche-und-unterschiedliche-elemente","text":"Gleiche und unterschiedliche Elemente","level":3},{"slug":"anlegen-mehr-als-5-oder-erklarungsbedurftige-elemente","text":"Mehr als 5 oder erklärungsbedürftige Elemente","level":3},{"slug":"bearbeiten","text":"Bearbeiten","level":2}]}}]]}]}],"$L10"]}],["$L11"],"$L12"]}],"loading":null,"isPartial":false}
+0:{"buildId":"gPONrl6jeY-U3UxjwCGgJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Anlegen und Bearbeiten"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Anlegen und Bearbeiten"},"scope":{}},"examples":{"app-details":"$9","app-illustrated-message":"$a","create-container":"$b","domain-list":"$c","install-app":"$d","install-extension":"$e","project-illustrated-message":"import {\n  ActionGroup,\n  Button,\n  Heading,\n  IconProject,\n  IllustratedMessage,\n  Text,\n  LayoutCard,\n} from \"@mittwald/flow-react-components\";\n\n<LayoutCard>\n  <IllustratedMessage>\n    <IconProject />\n    <Heading>Erstes Projekt anlegen</Heading>\n    <Text>\n      Du hast noch keine Projekte angelegt! Lege ein Projekt\n      an und schon kannst du mit dem Entwickeln loslegen.\n    </Text>\n\n    <ActionGroup>\n      <Button color=\"secondary\" variant=\"soft\">\n        Tarif bestellen\n      </Button>\n      <Button color=\"accent\">Anlegen</Button>\n    </ActionGroup>\n  </IllustratedMessage>\n</LayoutCard>;\n","project-list":"$f"},"slugs":["anlegeprozess"],"filename":"anlegeprozess/index.mdx","anchors":[{"slug":"best-practices","text":"Best Practices","level":2},{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-modal-vs-offcanvas","text":"Modal vs. OffCanvas","level":3},{"slug":"grundlagen-abhangige-information","text":"Abhängige Information","level":3},{"slug":"grundlagen-komplexe-prozesse","text":"Komplexe Prozesse","level":3},{"slug":"anlegen","text":"Anlegen","level":2},{"slug":"anlegen-leerer-zustand-vs-vorhandener-inhalt","text":"Leerer Zustand vs. vorhandener Inhalt","level":3},{"slug":"anlegen-gleiche-und-unterschiedliche-elemente","text":"Gleiche und unterschiedliche Elemente","level":3},{"slug":"anlegen-mehr-als-5-oder-erklarungsbedurftige-elemente","text":"Mehr als 5 oder erklärungsbedürftige Elemente","level":3},{"slug":"bearbeiten","text":"Bearbeiten","level":2}]}}]]}]}],"$L10"]}],["$L11"],"$L12"]}],"loading":null,"isPartial":false}
 10:["$","$L13",null,{"currentPath":"/01-get-started/anlegeprozess","anchors":[{"slug":"best-practices","text":"Best Practices","level":2},{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-modal-vs-offcanvas","text":"Modal vs. OffCanvas","level":3},{"slug":"grundlagen-abhangige-information","text":"Abhängige Information","level":3},{"slug":"grundlagen-komplexe-prozesse","text":"Komplexe Prozesse","level":3},{"slug":"anlegen","text":"Anlegen","level":2},{"slug":"anlegen-leerer-zustand-vs-vorhandener-inhalt","text":"Leerer Zustand vs. vorhandener Inhalt","level":3},{"slug":"anlegen-gleiche-und-unterschiedliche-elemente","text":"Gleiche und unterschiedliche Elemente","level":3},{"slug":"anlegen-mehr-als-5-oder-erklarungsbedurftige-elemente","text":"Mehr als 5 oder erklärungsbedürftige Elemente","level":3},{"slug":"bearbeiten","text":"Bearbeiten","level":2}],"title":"Anlegen und Bearbeiten"}]
-11:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js","async":true}]
+11:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js","async":true}]
 12:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
 16:null

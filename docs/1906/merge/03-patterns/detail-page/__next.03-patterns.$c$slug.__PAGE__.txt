@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Flex"]
-3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"LayoutCard"]
-4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"ColumnLayout"]
-5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Section"]
-6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"Heading"]
-7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
-d:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/a325b8a8223a32d4.js","/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js"],"default"]
+2:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Section"]
+6:I[39682,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
+d:I[142373,["/flow-previews/docs/1906/merge/_next/static/chunks/7120dca5a66234bd.js","/flow-previews/docs/1906/merge/_next/static/chunks/23a9e096d452ad9c.js","/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js"],"default"]
 e:I[466743,["/flow-previews/docs/1906/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/1906/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
 f:"$Sreact.suspense"
-8:T1b67,"use strict";
+8:T1b8c,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -59,13 +59,13 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.h2, {
       children: "ActionMenu"
     }), "\n", _jsxs(_components.p, {
-      children: ["Das ActionMenu besteht aus einem ", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+      children: ["Das ActionMenu besteht aus einem\n", _jsx(_components.a, {
+        href: "/04-components/actions/button/overview",
         children: "Button"
-      }), " als\nTrigger und einem ", _jsx(_components.a, {
-        href: "/04-components/actions/context-menu",
+      }), " als Trigger und einem\n", _jsx(_components.a, {
+        href: "/04-components/actions/context-menu/overview",
         children: "ContextMenu"
-      }), ". Es bietet\nzentrale Aktionen, sogenannte QuickActions, an. QuickActions spiegeln wichtige\nFunktionen wider, die zwar innerhalb des Contents vorhanden sind und hier\nzusätzlich als Schnellzugriff zur Verfügung stehen. Außerdem werden die\nFunktionen „Umbenennen“ oder „Löschen“ hier platziert."]
+      }), ". Es bietet zentrale\nAktionen, sogenannte QuickActions, an. QuickActions spiegeln wichtige Funktionen\nwider, die zwar innerhalb des Contents vorhanden sind und hier zusätzlich als\nSchnellzugriff zur Verfügung stehen. Außerdem werden die Funktionen „Umbenennen“\noder „Löschen“ hier platziert."]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Content"
     }), "\n", _jsx(_components.p, {
@@ -74,9 +74,9 @@ function _createMdxContent(props) {
       children: "LayoutCard"
     }), "\n", _jsxs(_components.p, {
       children: ["Die ", _jsx(_components.a, {
-        href: "/04-components/structure/layout-card",
+        href: "/04-components/structure/layout-card/overview",
         children: "LayoutCard"
-      }), " ist die Grundlage jeder\nDetailseite. Sie bildet den äußeren Container für den Inhalt und stellt\nHintergrund und Padding bereit."]
+      }), " ist die\nGrundlage jeder Detailseite. Sie bildet den äußeren Container für den Inhalt und\nstellt Hintergrund und Padding bereit."]
     }), "\n", _jsx(_components.h2, {
       children: "Tabs"
     }), "\n", _jsxs(_components.p, {
@@ -94,7 +94,7 @@ function _createMdxContent(props) {
         href: "/04-components/content/heading",
         children: "Heading"
       }), "). Neben der Heading\nkönnen auch Actions platziert werden. Die sogenannten SectionAction im\nSection-Header bietet Platz für Elemente wie\n", _jsx(_components.a, {
-        href: "/04-components/actions/button",
+        href: "/04-components/actions/button/overview",
         children: "Buttons"
       }), ",\n", _jsx(_components.a, {
         href: "/04-components/navigation/link",
@@ -361,8 +361,8 @@ export default () => {
     </Flex>
   );
 };
-0:{"buildId":"_6jdDZGzOynUOUyEsp5nn","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"detail-page":"$9"},"slugs":["detail-page"],"filename":"detail-page/index.mdx","anchors":[{"slug":"code-beispiel","text":"Code-Beispiel","level":2},{"slug":"contentheader","text":"ContentHeader","level":2},{"slug":"contentheader-pagetitle","text":"PageTitle","level":3},{"slug":"contentheader-breadcrumb","text":"Breadcrumb","level":3},{"slug":"contentheader-actionmenu","text":"ActionMenu","level":3},{"slug":"content","text":"Content","level":2},{"slug":"content-layoutcard","text":"LayoutCard","level":3},{"slug":"content-tabs","text":"Tabs","level":3},{"slug":"content-sections","text":"Sections","level":3},{"slug":"content-columnlayout","text":"ColumnLayout","level":3}]}}]]}]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+0:{"buildId":"gPONrl6jeY-U3UxjwCGgJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Detailseite"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Detailseite"},"scope":{}},"examples":{"detail-page":"$9"},"slugs":["detail-page"],"filename":"detail-page/index.mdx","anchors":[{"slug":"code-beispiel","text":"Code-Beispiel","level":2},{"slug":"contentheader","text":"ContentHeader","level":2},{"slug":"contentheader-pagetitle","text":"PageTitle","level":3},{"slug":"contentheader-breadcrumb","text":"Breadcrumb","level":3},{"slug":"contentheader-actionmenu","text":"ActionMenu","level":3},{"slug":"content","text":"Content","level":2},{"slug":"content-layoutcard","text":"LayoutCard","level":3},{"slug":"content-tabs","text":"Tabs","level":3},{"slug":"content-sections","text":"Sections","level":3},{"slug":"content-columnlayout","text":"ColumnLayout","level":3}]}}]]}]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
 a:["$","$Ld",null,{"currentPath":"/01-get-started/detail-page","anchors":[{"slug":"code-beispiel","text":"Code-Beispiel","level":2},{"slug":"contentheader","text":"ContentHeader","level":2},{"slug":"contentheader-pagetitle","text":"PageTitle","level":3},{"slug":"contentheader-breadcrumb","text":"Breadcrumb","level":3},{"slug":"contentheader-actionmenu","text":"ActionMenu","level":3},{"slug":"content","text":"Content","level":2},{"slug":"content-layoutcard","text":"LayoutCard","level":3},{"slug":"content-tabs","text":"Tabs","level":3},{"slug":"content-sections","text":"Sections","level":3},{"slug":"content-columnlayout","text":"ColumnLayout","level":3}],"title":"Detailseite"}]
-b:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/84fdd6ebc60f2cf9.js","async":true}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/1906/merge/_next/static/chunks/db1a95b21022a3f9.js","async":true}]
 c:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
 10:null
