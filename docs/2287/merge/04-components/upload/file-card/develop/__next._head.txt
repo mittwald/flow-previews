@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[466743,["/flow-previews/docs/2287/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2287/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"ViewportBoundary"]
+4:I[466743,["/flow-previews/docs/2287/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2287/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[475407,["/flow-previews/docs/2287/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2287/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"IconMark"]
+0:{"buildId":"YFc28dfgVOWLcytmDz6lE","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"FileCard"}],["$","link","1",{"rel":"icon","href":"/flow-previews/docs/2287/merge/favicon.ico?favicon.ff134f16.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L7","2",{}]]
