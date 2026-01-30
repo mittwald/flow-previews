@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"default"]
+c:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Flex"]
+d:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Tabs"]
+e:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"Tab"]
+f:I[39682,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"TabTitle"]
+14:I[466743,["/flow-previews/docs/2290/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2290/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[142373,["/flow-previews/docs/2290/merge/_next/static/chunks/2f1f6b3d4ff1ecfb.js","/flow-previews/docs/2290/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js"],"default"]
+0:{"buildId":"vmk7HPBvHTVgcyrUgXZ45","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Heading"}],"Headings strukturieren den Inhalt der Seite. Jede Heading hat dabei eine unterschiedliche Wichtigkeitsstufe.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Heading","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Heading","description":"Headings strukturieren den Inhalt der Seite. Jede Heading hat dabei eine unterschiedliche Wichtigkeitsstufe."},"scope":{}},"examples":{"badge":"import {\n  AlertBadge,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Heading>\n  E-Mail-Adresse\n  <AlertBadge status=\"danger\">\n    Speicherplatz voll\n  </AlertBadge>\n</Heading>;\n","contextualHelp":"import { Heading } from \"@mittwald/flow-react-components\";\nimport { Button } from \"@mittwald/flow-react-components\";\nimport {\n  ContextualHelp,\n  ContextualHelpTrigger,\n} from \"@mittwald/flow-react-components\";\nimport { Text } from \"@mittwald/flow-react-components\";\n\n<Heading>\n  Rechte & Rollen\n  <ContextualHelpTrigger>\n    <Button />\n    <ContextualHelp>\n      <Text>\n        Weitere Informationen zum Thema Rechte & Rollen\n      </Text>\n    </ContextualHelp>\n  </ContextualHelpTrigger>\n</Heading>;\n","dark":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading color=\"dark\">Das ist eine Überschrift</Heading>;\n","default":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading>Das ist eine Überschrift</Heading>;\n","icon":"import { Heading } from \"@mittwald/flow-react-components\";\nimport { IconMember } from \"@mittwald/flow-react-components\";\n\n<Heading>\n  <IconMember />\n  Persönliche Informationen\n</Heading>;\n","levels":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<>\n  <Heading level={1}>\n    Das ist eine Level 1 Überschrift\n  </Heading>\n  <Heading level={2}>\n    Das ist eine Level 2 Überschrift\n  </Heading>\n  <Heading level={3}>\n    Das ist eine Level 3 Überschrift\n  </Heading>\n  <Heading level={4}>\n    Das ist eine Level 4 Überschrift\n  </Heading>\n  <Heading level={5}>\n    Das ist eine Level 5 Überschrift\n  </Heading>\n</>;\n","light":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading color=\"light\">Das ist eine Überschrift</Heading>;\n","size":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading level={2} size=\"xs\">\n  Das ist eine Überschrift für die eine benutzerdefinierte\n  Größe gesetzt wurde\n</Heading>;\n"},"slugs":["content","heading"],"filename":"content/heading/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+10:T1336,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    hr: "hr",
+    p: "p",
+    strong: "strong",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Playground"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Heading />"
+      }), ", um eine Heading darzustellen."]
+    }), "\n", _jsx(LiveCodeEditor, {}), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Level"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über das Property ", _jsx(_components.code, {
+        children: "level"
+      }), " kann die Hierarchie der Heading angepasst werden.\nStandardmäßig wird eine Heading mit dem Level ", _jsx(_components.code, {
+        children: "H2"
+      }), " erzeugt. Die Seite sollte\neine sinnvolle Struktur mit verschiedenen Ebenen aufweisen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "levels",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Size"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Über das Property ", _jsx(_components.code, {
+        children: "size"
+      }), " kann in Ausnahmefällen die Schriftgröße einer Heading\nmanuell angepasst werden. Die Headings sollten dabei eine visuelle Hierarchie\nbeibehalten."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "size",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Color"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Die Heading wird standardmäßig in der Color ", _jsx(_components.code, {
+        children: "Primary"
+      }), " dargestellt."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Light und Dark"
+    }), "\n", _jsx(_components.p, {
+      children: "Zusätzlich zu der Standard-Color, kann die Heading in Light und Dark dargestellt\nwerden. Beide Colors eigenen sich, wenn die Standardfarbe auf farbigen oder\ndekorativen Hintergründen nicht gut funktioniert."
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "dark",
+      bgColor: "light",
+      editorCollapsed: true
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "light",
+      bgColor: "dark",
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Light:"
+      }), " Verwende die Light-Color bei dunklen Hintergründen mit einem\nHSL-Lightness-Wert unter 50."]
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Dark:"
+      }), " Verwende die Dark-Color bei hellen, farbigen Hintergründen mit einem\nHSL-Lightness-Wert über 50."]
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Kombiniere mit ..."
+    }), "\n", _jsx(_components.h2, {
+      children: "Icon"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Icon />"
+      }), ", um die Heading mit einem dekorativen Icon zu unterstützen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "icon",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "ContextualHelp"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<ContextualHelp />"
+      }), ", um Usern zusätzliche Hilfestellungen zu geben\n(z. B. bei Fachbegriffen)."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "contextualHelp",
+      editorCollapsed: true
+    }), "\n", _jsx(_components.h2, {
+      children: "Badge oder AlertBadge"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Verwende ", _jsx(_components.code, {
+        children: "<Badge />"
+      }), ", um wichtige Metainformationen zu einem Abschnitt\nhervorzuheben, oder eine ", _jsx(_components.code, {
+        children: "<AlertBadge/>"
+      }), ", um einen Status anzuzeigen."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      example: "badge",
+      editorCollapsed: true
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:["$","$Lc",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lc",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Ld",null,{"selectedKey":"overview","children":[["$","$Le",null,{"id":"overview","children":[["$","$Lf",null,{"href":"/04-components/content/heading/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"badge":"import {\n  AlertBadge,\n  Heading,\n} from \"@mittwald/flow-react-components\";\n\n<Heading>\n  E-Mail-Adresse\n  <AlertBadge status=\"danger\">\n    Speicherplatz voll\n  </AlertBadge>\n</Heading>;\n","contextualHelp":"import { Heading } from \"@mittwald/flow-react-components\";\nimport { Button } from \"@mittwald/flow-react-components\";\nimport {\n  ContextualHelp,\n  ContextualHelpTrigger,\n} from \"@mittwald/flow-react-components\";\nimport { Text } from \"@mittwald/flow-react-components\";\n\n<Heading>\n  Rechte & Rollen\n  <ContextualHelpTrigger>\n    <Button />\n    <ContextualHelp>\n      <Text>\n        Weitere Informationen zum Thema Rechte & Rollen\n      </Text>\n    </ContextualHelp>\n  </ContextualHelpTrigger>\n</Heading>;\n","dark":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading color=\"dark\">Das ist eine Überschrift</Heading>;\n","default":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading>Das ist eine Überschrift</Heading>;\n","icon":"import { Heading } from \"@mittwald/flow-react-components\";\nimport { IconMember } from \"@mittwald/flow-react-components\";\n\n<Heading>\n  <IconMember />\n  Persönliche Informationen\n</Heading>;\n","levels":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<>\n  <Heading level={1}>\n    Das ist eine Level 1 Überschrift\n  </Heading>\n  <Heading level={2}>\n    Das ist eine Level 2 Überschrift\n  </Heading>\n  <Heading level={3}>\n    Das ist eine Level 3 Überschrift\n  </Heading>\n  <Heading level={4}>\n    Das ist eine Level 4 Überschrift\n  </Heading>\n  <Heading level={5}>\n    Das ist eine Level 5 Überschrift\n  </Heading>\n</>;\n","light":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading color=\"light\">Das ist eine Überschrift</Heading>;\n","size":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Heading level={2} size=\"xs\">\n  Das ist eine Überschrift für die eine benutzerdefinierte\n  Größe gesetzt wurde\n</Heading>;\n"},"slugs":["content","heading"],"filename":"content/heading/overview.mdx","anchors":[{"slug":"playground","text":"Playground","level":2},{"slug":"level","text":"Level","level":2},{"slug":"size","text":"Size","level":2},{"slug":"color","text":"Color","level":2},{"slug":"color-light-und-dark","text":"Light und Dark","level":3},{"slug":"kombiniere-mit","text":"Kombiniere mit ","level":2},{"slug":"kombiniere-mit-icon","text":"Icon","level":3},{"slug":"kombiniere-mit-contextualhelp","text":"ContextualHelp","level":3},{"slug":"kombiniere-mit-badge-oder-alertbadge","text":"Badge oder AlertBadge","level":3}]}}]}]]}],"$L11","$L12"]}]}]}],"$L13"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2290/merge/_next/static/chunks/f6d7edb70c1fdbd6.js","async":true}]
+b:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+11:["$","$Le",null,{"id":"develop","children":[["$","$Lf",null,{"href":"/04-components/content/heading/develop","children":"Develop"}],false]}]
+12:["$","$Le",null,{"id":"guidelines","children":[["$","$Lf",null,{"href":"/04-components/content/heading/guidelines","children":"Guidelines"}],false]}]
+13:["$","$L17",null,{"currentPath":"/04-components/content/heading/overview","anchors":"$9:props:children:0:props:children:props:children:props:children:0:props:children:1:props:children:props:mdxFile:anchors","title":"Overview"}]
+16:null
