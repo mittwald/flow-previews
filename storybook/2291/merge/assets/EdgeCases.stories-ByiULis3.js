@@ -1,0 +1,7 @@
+import{j as o}from"./iframe-DSXKf9Qs.js";import a from"./Default.stories-DIS1tf7s.js";import{D as e}from"./DonutChart-DFzG3wSr.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./ProgressBar-zeu61Rhn.js";import"./utils-BkNrSrSW.js";import"./index-_ST8Xdbb.js";import"./index-xIXPquhv.js";import"./Label-Dnlar29r.js";import"./Hidden-Bsr5uGtI.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-D2CXizlL.js";import"./context-DU2DYbHB.js";import"./NumberFormatter-DNR9MAW-.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-C-jl1HtL.js";import"./Text-C7KW9wgf.js";import"./flowComponent-aTnVZ28_.js";import"./browser-zi1f_NHh.js";import"./EmulatedBoldText-CWbGlL7P.js";import"./Text-BGc7dsTw.js";const _={title:"Data Visualisation/DonutChart/Edge Cases",...a},r={render:()=>o.jsx(e,{value:1e12,maxValue:11e11})},t={render:()=>o.jsx(e,{value:10,size:"l",children:m.short})};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  render: () => <DonutChart value={1000000000000} maxValue={1100000000000} />
+}`,...r.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  render: () => <DonutChart value={10} size="l">
+      {dummyText.short}
+    </DonutChart>
+}`,...t.parameters?.docs?.source}}};const O=["LongValue","LongChildrenContent"];export{t as LongChildrenContent,r as LongValue,O as __namedExportsOrder,_ as default};
