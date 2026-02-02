@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"Section"]
+6:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"default"]
+c:I[142373,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/fa3196f726d6af43.js","/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js"],"default"]
+d:I[466743,["/flow-previews/docs/2293/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2293/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+8:Td9a,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "Ein häufiger Anwendungsfall ist die Unterstützung von Nutzerinnen und Nutzern bei der Eingabe von Zeitintervallen, in denen Aktionen ausgeführt werden. Ein typisches Beispiel ist das Konfigurieren von Cronjobs."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Aufbau einer Form"
+    }), "\n", _jsxs(_components.p, {
+      children: ["In diesem Codebeispiel werden die Komponenten ", _jsx(_components.a, {
+        href: "/04-components/form-controls/select/overview",
+        children: "Select"
+      }), ", ", _jsx(_components.a, {
+        href: "04-components/form-controls/time-field/overview",
+        children: "TimeField"
+      }), ", ", _jsx(_components.a, {
+        href: "/04-components/form-controls/text-field/overview",
+        children: "TextField"
+      }), " mit Cron-Syntax und ", _jsx(_components.a, {
+        href: "/04-components/content/labeled-value/overview",
+        children: "LabeledValue"
+      }), " kombiniert."]
+    }), "\n", _jsx(_components.p, {
+      children: "[Codebeispiel]"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein ", _jsx(_components.code, {
+        children: "Select"
+      }), " schlägt passende Zeitintervalle vor. Je nach Auswahl kann dynamisch ein weiteres FormControl  eingeblendet werden, zum Beispiel ein ", _jsx(_components.code, {
+        children: "TimeField"
+      }), ", um die Auswahl zu verfeinern. Die Option \"Cron-Syntax\" ermöglicht über ein ", _jsx(_components.code, {
+        children: "TextField"
+      }), " mit Cron-Syntax sehr individuelle Einstellung. Zur Unterstützung können die nächsten drei Ausführungen beispielhaft in einem ", _jsx(_components.code, {
+        children: "LabeledValue"
+      }), " dargestellt werden."]
+    }), "\n", _jsx(_components.h1, {
+      children: "Best Practices"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Reduziere die Auswahl auf für den Nutzungskontext relevante Zeitintervalle, um Entscheidungen zu vereinfachen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Sehr kleine Intervalle sind oft weder nötig noch umweltfreundlich. Gib bei Bedarf einen Hinweis, zum Beispiel mit einer ", _jsx(_components.a, {
+          href: "/04-components/structure/accent-box/overview",
+          children: "AccentBox"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "Blend weitere FormControls dynamisch ein, um Auswahl zu verfeinern und Überforderung zu vermeiden."
+      }), "\n", _jsx(_components.li, {
+        children: "Achte auf eine klare Kommunikation der Zeitzone, in der das Intervall gilt, da sonst falsche Erwartungen entstehen können."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"LD_P3T-d__udKPZet7JKM","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Zeitintervalle"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Zeitintervalle"},"scope":{}},"examples":{},"slugs":["zeitintervalle"],"filename":"zeitintervalle/index.mdx","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"best-practices","text":"Best Practices","level":2}]}}]]}]}],"$L9"]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+9:["$","$Lc",null,{"currentPath":"/01-get-started/zeitintervalle","anchors":[{"slug":"aufbau-einer-form","text":"Aufbau einer Form","level":2},{"slug":"best-practices","text":"Best Practices","level":2}],"title":"Zeitintervalle"}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2293/merge/_next/static/chunks/a4c80a783827c5c0.js","async":true}]
+b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
