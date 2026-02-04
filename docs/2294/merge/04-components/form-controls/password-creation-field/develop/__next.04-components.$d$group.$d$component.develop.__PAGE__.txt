@@ -1,0 +1,300 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"default"]
+e:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Flex"]
+f:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Tabs"]
+10:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"Tab"]
+11:I[39682,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"TabTitle"]
+17:I[466743,["/flow-previews/docs/2294/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2294/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[142373,["/flow-previews/docs/2294/merge/_next/static/chunks/ea3698351deed761.js","/flow-previews/docs/2294/merge/_next/static/chunks/f277a0ce1de26e04.js","/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js"],"default"]
+9:T559,import { useForm } from "react-hook-form";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/04-components/actions/action/examples/lib";
+import {
+  Label,
+  Section,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+import {
+  generatePasswordCreationFieldValidation,
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+
+export default () => {
+  const customPolicy = Policy.fromDeclaration({
+    minComplexity: 3,
+    rules: [
+      {
+        ruleType: RuleType.length,
+        min: 8,
+        max: 12,
+      },
+    ],
+  });
+
+  const form = useForm<{ password: string }>({
+    defaultValues: {
+      password: "",
+    },
+  });
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="password"
+          rules={{
+            required: true,
+            validate:
+              generatePasswordCreationFieldValidation(
+                customPolicy,
+              ),
+          }}
+        >
+          <PasswordCreationField
+            validationPolicy={customPolicy}
+          >
+            <Label>Passwort</Label>
+          </PasswordCreationField>
+        </Field>
+        <SubmitButton>Speichern</SubmitButton>
+      </Form>
+    </Section>
+  );
+};
+a:T554,import {
+  Label,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+
+import {
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+import { useState } from "react";
+
+export default () => {
+  const [password, setPassword] = useState("");
+
+  return (
+    <PasswordCreationField
+      validationPolicy={Policy.fromDeclaration({
+        minComplexity: 3,
+        rules: [
+          {
+            ruleType: RuleType.length,
+            min: 8,
+            max: 12,
+          },
+          {
+            ruleType: RuleType.regex,
+            pattern: "^[0-9]",
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.hibp,
+          },
+          {
+            identifier: "special",
+            ruleType: RuleType.charPool,
+            charPools: ["special"],
+            min: 1,
+            max: 2,
+          },
+          {
+            identifier: "numbers",
+            ruleType: RuleType.charPool,
+            charPools: ["numbers"],
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.blocklist,
+            blocklist: ["foo", "bar"],
+            substringMatch: true,
+          },
+        ],
+      })}
+      value={password}
+      onChange={setPassword}
+    >
+      <Label>Password</Label>
+    </PasswordCreationField>
+  );
+};
+0:{"buildId":"rCt6x3bX7smjM-4he_T-r","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"PasswordCreationField"}],"Das PasswordCreationField unterstützt den User dabei, sichere Passwörter zu erstellen. Über eine visuelle Komplexitätsanzeige wird es dem User erleichtert, unsichere Passwörter zu erkennen und zu meiden.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/PasswordCreationField","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"PasswordCreationField","description":"Das PasswordCreationField unterstützt den User dabei, sichere Passwörter zu erstellen. Über eine visuelle Komplexitätsanzeige wird es dem User erleichtert, unsichere Passwörter zu erkennen und zu meiden."},"scope":{}},"examples":{"buttons":"import {\n  Button,\n  Label,\n  PasswordCreationField,\n  IconSshKey,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n      <Button>\n        <IconSshKey />\n      </Button>\n    </PasswordCreationField>\n  );\n};\n","copyButton":"import {\n  CopyButton,\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <PasswordCreationField>\n      <Label>Password</Label>\n      <CopyButton />\n    </PasswordCreationField>\n  );\n};\n","default":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\n\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n    </PasswordCreationField>\n  );\n};\n","disabled":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\n<PasswordCreationField isDisabled>\n  <Label>Password</Label>\n</PasswordCreationField>;\n","form":"$9","rules":"$a"},"slugs":["form-controls","password-creation-field"],"filename":"form-controls/password-creation-field/index.mdx","anchors":[]}}]]}]}],"$Lb"],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+12:T40f,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    h1: "h1",
+    ..._provideComponents(),
+    ...props.components
+  }, {PropertiesTables} = _components;
+  if (!PropertiesTables) _missingMdxReference("PropertiesTables", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Properties"
+    }), "\n", _jsx(PropertiesTables, {})]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+13:T559,import { useForm } from "react-hook-form";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/04-components/actions/action/examples/lib";
+import {
+  Label,
+  Section,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+import {
+  generatePasswordCreationFieldValidation,
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+
+export default () => {
+  const customPolicy = Policy.fromDeclaration({
+    minComplexity: 3,
+    rules: [
+      {
+        ruleType: RuleType.length,
+        min: 8,
+        max: 12,
+      },
+    ],
+  });
+
+  const form = useForm<{ password: string }>({
+    defaultValues: {
+      password: "",
+    },
+  });
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="password"
+          rules={{
+            required: true,
+            validate:
+              generatePasswordCreationFieldValidation(
+                customPolicy,
+              ),
+          }}
+        >
+          <PasswordCreationField
+            validationPolicy={customPolicy}
+          >
+            <Label>Passwort</Label>
+          </PasswordCreationField>
+        </Field>
+        <SubmitButton>Speichern</SubmitButton>
+      </Form>
+    </Section>
+  );
+};
+14:T554,import {
+  Label,
+  PasswordCreationField,
+} from "@mittwald/flow-react-components";
+
+import {
+  Policy,
+  RuleType,
+} from "@mittwald/flow-react-components/mittwald-password-tools-js";
+import { useState } from "react";
+
+export default () => {
+  const [password, setPassword] = useState("");
+
+  return (
+    <PasswordCreationField
+      validationPolicy={Policy.fromDeclaration({
+        minComplexity: 3,
+        rules: [
+          {
+            ruleType: RuleType.length,
+            min: 8,
+            max: 12,
+          },
+          {
+            ruleType: RuleType.regex,
+            pattern: "^[0-9]",
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.hibp,
+          },
+          {
+            identifier: "special",
+            ruleType: RuleType.charPool,
+            charPools: ["special"],
+            min: 1,
+            max: 2,
+          },
+          {
+            identifier: "numbers",
+            ruleType: RuleType.charPool,
+            charPools: ["numbers"],
+            min: 1,
+            max: 2,
+          },
+          {
+            ruleType: RuleType.blocklist,
+            blocklist: ["foo", "bar"],
+            substringMatch: true,
+          },
+        ],
+      })}
+      value={password}
+      onChange={setPassword}
+    >
+      <Label>Password</Label>
+    </PasswordCreationField>
+  );
+};
+b:["$","$Le",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Le",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lf",null,{"selectedKey":"develop","children":[["$","$L10",null,{"id":"overview","children":[["$","$L11",null,{"href":"/04-components/form-controls/password-creation-field/overview","children":"Overview"}],false]}],["$","$L10",null,{"id":"develop","children":[["$","$L11",null,{"href":"/04-components/form-controls/password-creation-field/develop","children":"Develop"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$12","frontmatter":{},"scope":{}},"examples":{"buttons":"import {\n  Button,\n  Label,\n  PasswordCreationField,\n  IconSshKey,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n      <Button>\n        <IconSshKey />\n      </Button>\n    </PasswordCreationField>\n  );\n};\n","copyButton":"import {\n  CopyButton,\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  return (\n    <PasswordCreationField>\n      <Label>Password</Label>\n      <CopyButton />\n    </PasswordCreationField>\n  );\n};\n","default":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\nimport { useState } from \"react\";\n\nexport default () => {\n  const [password, setPassword] = useState(\"\");\n\n  return (\n    <PasswordCreationField\n      value={password}\n      onChange={setPassword}\n    >\n      <Label>Password</Label>\n    </PasswordCreationField>\n  );\n};\n","disabled":"import {\n  Label,\n  PasswordCreationField,\n} from \"@mittwald/flow-react-components\";\n\n<PasswordCreationField isDisabled>\n  <Label>Password</Label>\n</PasswordCreationField>;\n","form":"$13","rules":"$14"},"slugs":["form-controls","password-creation-field"],"filename":"form-controls/password-creation-field/develop.mdx","anchors":[{"slug":"properties","text":"Properties","level":2}]}}]}]]}],"$L15"]}]}]}],"$L16"]}]
+c:["$","script","script-0",{"src":"/flow-previews/docs/2294/merge/_next/static/chunks/bf04d0d0e917df2d.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+15:["$","$L10",null,{"id":"guidelines","children":[["$","$L11",null,{"href":"/04-components/form-controls/password-creation-field/guidelines","children":"Guidelines"}],false]}]
+16:["$","$L1a",null,{"currentPath":"/04-components/form-controls/password-creation-field/develop","anchors":"$b:props:children:0:props:children:props:children:props:children:1:props:children:1:props:children:props:mdxFile:anchors","title":"Develop"}]
+19:null
