@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[466743,["/flow-previews/docs/2298/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2298/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"KkLUR4LHOI1D5fLFCIR0z","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"isQixxS6MSLQ-bqU8lHPA","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/04-components/status/counter-badge/overview;307;"}
