@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"default"]
+c:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Flex"]
+d:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Tabs"]
+e:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"Tab"]
+f:I[39682,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"TabTitle"]
+12:I[466743,["/flow-previews/docs/2298/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2298/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[142373,["/flow-previews/docs/2298/merge/_next/static/chunks/a9240678286b8de6.js","/flow-previews/docs/2298/merge/_next/static/chunks/b6651b47428a0d45.js","/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js"],"default"]
+0:{"buildId":"KkLUR4LHOI1D5fLFCIR0z","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Text"}],"Die Text-Component sorgt für eine konsistente Formatierung und Strukturierung von Text.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Text","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Text","description":"Die Text-Component sorgt für eine konsistente Formatierung und Strukturierung von Text."},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  CopyButton,\n  IconDomain,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Align>\n    <IconDomain />\n    <Text>mail.agenturserver.de</Text>\n  </Align>\n\n  <Align>\n    <Text>mail.agenturserver.de</Text>\n    <CopyButton text=\"mail.agenturserver.de\" />\n  </Align>\n\n  <Align>\n    <Text>mail.agenturserver.de</Text>\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Text>\n          Hier wird die URL des Servers angezeigt, der für\n          den E-Mail-Versand genutzt wird.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Align>\n</Column>;\n","dark":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text color=\"dark\">Das ist ein Text</Text>;\n","default":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text>Das ist ein Text</Text>;\n","elementType":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text elementType=\"p\">Das ist ein Absatz</Text>;\n","emulateBoldWidth":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Text\n    style={{ borderInline: \"2px solid red\" }}\n    emulateBoldWidth\n  >\n    Das ist ein Text\n  </Text>\n  <Text style={{ borderInline: \"2px solid red\" }}>\n    <strong>Das ist ein Text</strong>\n  </Text>\n</Column>;\n","html":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Text>\n    <ul>\n      <li>Item 1</li>\n      <li>Item 2</li>\n    </ul>\n  </Text>\n  <Text>\n    Dies ist ein <strong>Beispiel</strong> für{\" \"}\n    <i>verschiedene</i> HTML-Formatierungen.\n  </Text>\n</Column>;\n","light":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text color=\"light\">Das ist ein Text</Text>;\n","size":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text>\n  <small>Das ist ein Text in small</small>\n</Text>;\n"},"slugs":["content","text"],"filename":"content/text/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+10:T964,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung von Text darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Texte prägnant, verständlich und hilfreich sein sollen. Beachte zum\nkonsistenten Umgang mit Text auch den\n", _jsx(_components.a, {
+          href: "/02-foundations/03-content-guidelines/01-sprach-guide",
+          children: "Sprach-Guide"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "Text häufig nicht oder nur unaufmerksam wahrgenommen wird, sodass eine\nBenutzeroberfläche auch ohne zusätzliche Erläuterungen funktionieren sollte."
+      }), "\n", _jsx(_components.li, {
+        children: "die Zeilenlänge 75 Zeichen nicht überschreitet. Längere Zeilen erschweren die\nLesbarkeit und das Verständnis des Inhalts."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Absätze über ", _jsx(_components.code, {
+          children: "elementType"
+        }), " korrekt als ", _jsx(_components.code, {
+          children: "<p>"
+        }), " gekennzeichnet werden."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende Text, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Fließtext in der Benutzeroberfläche anzuzeigen."
+      }), "\n", _jsx(_components.li, {
+        children: "Text innerhalb von Components darzustellen."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+9:["$","$Lc",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lc",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Ld",null,{"selectedKey":"guidelines","children":[["$","$Le",null,{"id":"overview","children":[["$","$Lf",null,{"href":"/04-components/content/text/overview","children":"Overview"}],false]}],["$","$Le",null,{"id":"develop","children":[["$","$Lf",null,{"href":"/04-components/content/text/develop","children":"Develop"}],false]}],["$","$Le",null,{"id":"guidelines","children":[["$","$Lf",null,{"href":"/04-components/content/text/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"align":"import {\n  Align,\n  Button,\n  ContextualHelp,\n  ContextualHelpTrigger,\n  CopyButton,\n  IconDomain,\n  Text,\n} from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Align>\n    <IconDomain />\n    <Text>mail.agenturserver.de</Text>\n  </Align>\n\n  <Align>\n    <Text>mail.agenturserver.de</Text>\n    <CopyButton text=\"mail.agenturserver.de\" />\n  </Align>\n\n  <Align>\n    <Text>mail.agenturserver.de</Text>\n    <ContextualHelpTrigger>\n      <Button />\n      <ContextualHelp>\n        <Text>\n          Hier wird die URL des Servers angezeigt, der für\n          den E-Mail-Versand genutzt wird.\n        </Text>\n      </ContextualHelp>\n    </ContextualHelpTrigger>\n  </Align>\n</Column>;\n","dark":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text color=\"dark\">Das ist ein Text</Text>;\n","default":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text>Das ist ein Text</Text>;\n","elementType":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text elementType=\"p\">Das ist ein Absatz</Text>;\n","emulateBoldWidth":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Text\n    style={{ borderInline: \"2px solid red\" }}\n    emulateBoldWidth\n  >\n    Das ist ein Text\n  </Text>\n  <Text style={{ borderInline: \"2px solid red\" }}>\n    <strong>Das ist ein Text</strong>\n  </Text>\n</Column>;\n","html":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Text>\n    <ul>\n      <li>Item 1</li>\n      <li>Item 2</li>\n    </ul>\n  </Text>\n  <Text>\n    Dies ist ein <strong>Beispiel</strong> für{\" \"}\n    <i>verschiedene</i> HTML-Formatierungen.\n  </Text>\n</Column>;\n","light":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text color=\"light\">Das ist ein Text</Text>;\n","size":"import { Text } from \"@mittwald/flow-react-components\";\n\n<Text>\n  <small>Das ist ein Text in small</small>\n</Text>;\n"},"slugs":["content","text"],"filename":"content/text/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]]}]}]}],"$L11"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2298/merge/_next/static/chunks/23a37dabd708ab3f.js","async":true}]
+b:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+11:["$","$L15",null,{"currentPath":"/04-components/content/text/guidelines","anchors":"$9:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+14:null
