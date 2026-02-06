@@ -1,0 +1,432 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"Flex"]
+3:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"LayoutCard"]
+4:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"ColumnLayout"]
+5:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"Section"]
+6:I[39682,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"Heading"]
+7:I[579932,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"default"]
+d:I[142373,["/flow-previews/docs/2293/merge/_next/static/chunks/79ee7c67585a4ac3.js","/flow-previews/docs/2293/merge/_next/static/chunks/ad1caeb21910216a.js","/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js"],"default"]
+e:I[466743,["/flow-previews/docs/2293/merge/_next/static/chunks/c15fc04ab80f7627.js","/flow-previews/docs/2293/merge/_next/static/chunks/9bfa95ab632c82a6.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+8:Teb9,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  }, {LiveCodeEditor} = _components;
+  if (!LiveCodeEditor) _missingMdxReference("LiveCodeEditor", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "Ein häufiger Anwendungsfall ist die Unterstützung von Usern bei der Eingabe von\nZeitintervallen, in denen Aktionen ausgeführt werden. Ein typisches Beispiel ist\ndas Konfigurieren von Cronjobs."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Aufbau"
+    }), "\n", _jsxs(_components.p, {
+      children: ["In diesem Codebeispiel werden die Komponenten\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/select/overview",
+        children: "Select"
+      }), ",\n", _jsx(_components.a, {
+        href: "04-components/form-controls/time-field/overview",
+        children: "TimeField"
+      }), ",\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/text-field/overview",
+        children: "TextField"
+      }), " mit Cron-Syntax\nund ", _jsx(_components.a, {
+        href: "/04-components/content/labeled-value/overview",
+        children: "LabeledValue"
+      }), " kombiniert."]
+    }), "\n", _jsx(LiveCodeEditor, {
+      editorCollapsed: true
+    }), "\n", _jsxs(_components.p, {
+      children: ["Ein ", _jsx(_components.code, {
+        children: "Select"
+      }), " schlägt passende Zeitintervalle vor. Je nach Auswahl kann dynamisch\nein weiteres FormControl eingeblendet werden, zum Beispiel ein ", _jsx(_components.code, {
+        children: "TimeField"
+      }), ", um\ndie Auswahl zu verfeinern. Die Option \"Cron-Syntax\" ermöglicht über ein\n", _jsx(_components.code, {
+        children: "TextField"
+      }), " mit Cron-Syntax sehr individuelle Einstellung. Zur Unterstützung\nkönnen die nächsten drei Ausführungen beispielhaft in einem ", _jsx(_components.code, {
+        children: "LabeledValue"
+      }), "\ndargestellt werden."]
+    }), "\n", _jsx(_components.h1, {
+      children: "Best Practices"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Reduziere die Auswahl auf für den Nutzungskontext relevante Zeitintervalle, um\nEntscheidungen zu vereinfachen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["Sehr kleine Intervalle sind oft weder nötig noch umweltfreundlich. Gib bei\nBedarf einen Hinweis, zum Beispiel mit einer\n", _jsx(_components.a, {
+          href: "/04-components/structure/accent-box/overview",
+          children: "AccentBox"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "Blende weitere FormControls dynamisch ein, um Auswahl zu verfeinern und\nÜberforderung zu vermeiden."
+      }), "\n", _jsx(_components.li, {
+        children: "Achte auf eine klare Kommunikation der Zeitzone, in der das Intervall gilt, da\nsonst falsche Erwartungen entstehen können."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:T2096,import { useForm, useWatch } from "react-hook-form";
+import { Time } from "@internationalized/date";
+import {
+  ColumnLayout,
+  FieldDescription,
+  Label,
+  LabeledValue,
+  Option,
+  Section,
+  Select,
+  Text,
+  TextField,
+  TimeField,
+  Content,
+} from "@mittwald/flow-react-components";
+import {
+  Form,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import {
+  cronstrueToString,
+  parse,
+} from "@/content/03-patterns/02-codesnippets/zeitintervalle/examples/lib";
+
+export default () => {
+  enum Interval {
+    ONE_MINUTE = "1 Minute",
+    FIVE_MINUTES = "5 Minuten",
+    THIRTY_MINUTES = "30 Minuten",
+    ONE_HOUR = "1 Stunde",
+    ONE_DAY = "1 Tag",
+    SEVEN_DAYS = "7 Tage",
+    FOURTEEN_DAYS = "14 Tage",
+    THIRTY_DAYS = "30 Tage",
+    CUSTOM = "Benutzerdefiniert",
+  }
+
+  const intervals = Object.values(Interval);
+  const getCronString = (cronSyntax: string) => {
+    try {
+      /* convert cron to string with cronstrue */
+      return cronstrueToString(cronSyntax);
+    } catch (ignoredError) {
+      return undefined;
+    }
+  };
+
+  const isDigitString = (value?: string) => {
+    if (!value) {
+      return false;
+    }
+    return /^\d+$/.test(value);
+  };
+
+  const getCronFromTime = (cron: string, time?: Time) => {
+    if (!time) {
+      return cron;
+    }
+    const cronParts = cron.split(" ");
+    cronParts[1] = time.hour.toString();
+    cronParts[0] = time.minute.toString();
+    return cronParts.join(" ");
+  };
+
+  const getCronFromInterval = (
+    cron: string,
+    interval: Interval,
+    time?: Time,
+  ) => {
+    const minuteOfTime =
+      time && time.minute && !isNaN(time.minute)
+        ? time.minute
+        : undefined;
+    const hourOfTime =
+      time && time.hour && !isNaN(time.hour)
+        ? time.hour
+        : undefined;
+    const cronParts = cron.split(" ");
+
+    const minute = minuteOfTime
+      ? minuteOfTime
+      : cronParts[0] && isDigitString(cronParts[0])
+        ? cronParts[0]
+        : 0;
+    const hour = hourOfTime
+      ? hourOfTime
+      : cronParts[1] && isDigitString(cronParts[1])
+        ? cronParts[1]
+        : 0;
+    const day =
+      cronParts[2] && isDigitString(cronParts[2])
+        ? cronParts[2]
+        : 1;
+    const weekday =
+      cronParts[4] && isDigitString(cronParts[4])
+        ? cronParts[4]
+        : 0;
+
+    const newTime = new Time(
+      typeof hour === "number" ? hour : parseInt(hour),
+      typeof minute === "number"
+        ? minute
+        : parseInt(minute),
+    );
+
+    switch (interval) {
+      case Interval.ONE_MINUTE:
+        return { cron: "* * * * *" };
+      case Interval.FIVE_MINUTES:
+        return { cron: "*/5 * * * *" };
+      case Interval.THIRTY_MINUTES:
+        return { cron: "*/30 * * * *" };
+      case Interval.ONE_HOUR:
+        return {
+          cron: `${minute} * * * *`,
+        };
+      case Interval.ONE_DAY:
+        return {
+          cron: `${minute} ${hour} * * *`,
+          time: newTime,
+        };
+      case Interval.SEVEN_DAYS:
+        return {
+          cron: `${minute} ${hour} * * ${weekday}`,
+          time: newTime,
+        };
+      case Interval.FOURTEEN_DAYS:
+        return {
+          cron: `${minute} ${hour} 1,15 * *`,
+          time: newTime,
+        };
+      case Interval.THIRTY_DAYS:
+        return {
+          cron: `${minute} ${hour} ${day} * *`,
+          time: newTime,
+        };
+
+      default:
+        return { cron };
+    }
+  };
+
+  const getTimeFromCron = (cron: string) => {
+    const cronParts = cron.split(" ");
+    const minute =
+      cronParts[0] && isDigitString(cronParts[0])
+        ? cronParts[0]
+        : undefined;
+    const hour =
+      cronParts[1] && isDigitString(cronParts[1])
+        ? cronParts[1]
+        : undefined;
+
+    if (hour && minute) {
+      return new Time(parseInt(hour), parseInt(minute));
+    }
+  };
+
+  const isValidCron = (cronSyntax: string) => {
+    return !!getCronString(cronSyntax);
+  };
+
+  const getExecutions = (cron: string) => {
+    if (!isValidCron(cron)) {
+      return [
+        "Ungültige Cron-Syntax",
+        "Ungültige Cron-Syntax",
+        "Ungültige Cron-Syntax",
+      ];
+    }
+
+    try {
+      /* parse cron with cron-parser */
+      const interval = parse(cron);
+
+      const executions: string[] = [];
+
+      while (executions.length < 3) {
+        executions.push(
+          new Intl.DateTimeFormat("de-DE", {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit",
+          }).format(interval.next().toDate()) + " Uhr",
+        );
+      }
+
+      return executions;
+    } catch (ignoredError) {
+      return [];
+    }
+  };
+
+  const form = useForm<{
+    cron: string;
+    time: Time;
+    interval: Interval;
+    timeZone: string;
+  }>({
+    defaultValues: {
+      cron: "0 * * * *",
+      interval: Interval.CUSTOM,
+    },
+  });
+
+  const Field = typedField(form);
+
+  const [watchedCron, watchedTime, watchedInterval] =
+    useWatch({
+      control: form.control,
+      name: ["cron", "time", "interval"],
+    });
+
+  const showTimeField =
+    watchedInterval === Interval.ONE_MINUTE ||
+    watchedInterval === Interval.SEVEN_DAYS ||
+    watchedInterval === Interval.FOURTEEN_DAYS ||
+    watchedInterval === Interval.THIRTY_DAYS;
+
+  const showCronField = watchedInterval === Interval.CUSTOM;
+
+  const executions = getExecutions(watchedCron);
+
+  const nextExecutions = executions.map((date, i) => {
+    return (
+      <Text key={i}>
+        {date}
+        <br />
+      </Text>
+    );
+  });
+
+  const cronText = getCronString(watchedCron);
+
+  return (
+    <Form form={form} onSubmit={(values) => alert(values)}>
+      <Section>
+        <Field
+          name="interval"
+          rules={{
+            required: "Bitte wähle einen Interval aus",
+          }}
+        >
+          <Select
+            onChange={(v) => {
+              const newValue = getCronFromInterval(
+                watchedCron,
+                v as Interval,
+                showTimeField ? watchedTime : undefined,
+              );
+              form.setValue("cron", newValue.cron);
+              if (newValue.time) {
+                form.setValue("time", newValue.time);
+              }
+            }}
+          >
+            <Label>Interval</Label>
+            {intervals.map((i) => (
+              <Option key={i} value={i}>
+                {i}
+              </Option>
+            ))}
+          </Select>
+        </Field>
+
+        {showTimeField && (
+          <ColumnLayout l={[1, 1]}>
+            <Field
+              name="time"
+              rules={{
+                required: "Bitte gib eine Uhrzeit ein",
+              }}
+            >
+              <TimeField
+                onChange={(v) => {
+                  const newValue = getCronFromTime(
+                    watchedCron,
+                    v as Time,
+                  );
+                  form.setValue("cron", newValue);
+                }}
+              >
+                <Label>Uhrzeit</Label>
+              </TimeField>
+            </Field>
+          </ColumnLayout>
+        )}
+
+        {showCronField && (
+          <ColumnLayout l={[1, 1]}>
+            <Field
+              name="cron"
+              rules={{
+                required: "Bitte gib eine Cron-Syntax ein",
+                validate: {
+                  invalidCron: (v) =>
+                    isValidCron(v as string)
+                      ? undefined
+                      : "Ungültige Cron-Syntax",
+                },
+              }}
+            >
+              <TextField
+                onChange={(v) => {
+                  const newValue =
+                    watchedInterval === Interval.CUSTOM
+                      ? getTimeFromCron(v)
+                      : undefined;
+                  if (newValue) {
+                    form.setValue("time", newValue);
+                  }
+                }}
+              >
+                <Label>Cron-Syntax</Label>
+                <FieldDescription>
+                  {cronText
+                    ? cronText
+                    : "Ungültige Cron-Syntax"}
+                </FieldDescription>
+              </TextField>
+            </Field>
+          </ColumnLayout>
+        )}
+
+        <LabeledValue>
+          <Label>Nächste Ausführungen</Label>
+          <Content>{nextExecutions}</Content>
+        </LabeledValue>
+      </Section>
+    </Form>
+  );
+};
+0:{"buildId":"WssI-YbFe5gS_Jhp6-Xlv","rsc":["$","$1","c",{"children":[["$","$L2",null,{"columnGap":"m","children":[["$","$L3",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L4",null,{"l":[1],"m":[1],"children":[["$","$L5",null,{"children":[["$","$L6",null,{"level":1,"children":"Zeitintervalle"}],"$undefined","$undefined"]}],["$","$L7",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{"title":"Zeitintervalle"},"scope":{}},"examples":{"default":"$9"},"slugs":["02-codesnippets","zeitintervalle"],"filename":"02-codesnippets/zeitintervalle/index.mdx","anchors":[{"slug":"aufbau","text":"Aufbau","level":2},{"slug":"best-practices","text":"Best Practices","level":2}]}}]]}]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+a:["$","$Ld",null,{"currentPath":"/03-patterns/02-codesnippets/zeitintervalle","anchors":[{"slug":"aufbau","text":"Aufbau","level":2},{"slug":"best-practices","text":"Best Practices","level":2}],"title":"Zeitintervalle"}]
+b:["$","script","script-0",{"src":"/flow-previews/docs/2293/merge/_next/static/chunks/8795e6dc89d71aa7.js","async":true}]
+c:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null
