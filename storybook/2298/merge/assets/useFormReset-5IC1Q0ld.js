@@ -1,1 +1,0 @@
-import{b as i}from"./useFocusRing-Cldy4Slr.js";import{r as n}from"./iframe-Cs0JkT9Q.js";function f(r,a,o){let d=i(()=>{o&&o(a)});n.useEffect(()=>{var t;let e=r==null||(t=r.current)===null||t===void 0?void 0:t.form;return e?.addEventListener("reset",d),()=>{e?.removeEventListener("reset",d)}},[r])}export{f as $};
