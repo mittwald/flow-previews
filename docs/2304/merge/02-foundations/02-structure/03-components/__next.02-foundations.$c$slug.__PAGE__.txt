@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"default"]
+7:I[39682,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"Flex"]
+c:I[142373,["/flow-previews/docs/2304/merge/_next/static/chunks/665a5ff3539166f4.js","/flow-previews/docs/2304/merge/_next/static/chunks/d8c1ccfff9ed3e52.js","/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js"],"default"]
+d:I[650262,["/flow-previews/docs/2304/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2304/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+8:T1896,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    code: "code",
+    h1: "h1",
+    hr: "hr",
+    li: "li",
+    ol: "ol",
+    p: "p",
+    pre: "pre",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "Die folgenden Codebeispiele werden in der Erklärung referenziert."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "// Flow\n<Button aria-label=\"Notifications: 7\">\n  <IconNotification />\n  <CounterBadge count={7} />\n</Button>\n"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "vs."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "// Not Flow\n<IconButton label=\"Benachrichtigung\" icon=\"Notification\" counterBadge={7} />\n"
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Logik"
+    }), "\n", _jsx(_components.p, {
+      children: "Component Libraries basieren in der Regel darauf, Komponenten zu verschachteln,\num größere Komponenten zu bauen. Das ist ein weit verbreitetes und effektives\nPattern, das außerdem leicht verständlich ist. Genau deshalb unterstützen wir\ndieses Modell auch in Flow. Wenn man zum Beispiel ein CounterBadge innerhalb\neines Buttons platziert, wird dieses automatisch oben rechts positioniert – so,\nwie man es erwarten würde."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Lesbarkeit"
+    }), "\n", _jsx(_components.p, {
+      children: "Wir haben unsere Frontend-Entwickler gefragt, was am Ende besser lesbar ist:"
+    }), "\n", _jsxs(_components.ol, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Unterkomponenten über Props zu übergeben, wie das Icon im Beispiel"
+      }), "\n", _jsx(_components.li, {
+        children: "Das Icon als Child in die Komponente zu legen."
+      }), "\n"]
+    }), "\n", _jsx(_components.p, {
+      children: "Wir haben uns für Variante 2 entschieden, da sie besonders bei mehreren\nUnterkomponenten besser lesbar ist."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Wiederverwendbarkeit"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Entwickler bauen häufig eigene Komponenten, um sie wiederzuverwenden oder um die\nImplementierung aufzuteilen. Wenn es zum Beispiel bereits eine\n", _jsx(_components.code, {
+        children: "UnreadNotificationsCounter"
+      }), "-Komponente gibt, die den Zähler aus der API lädt\nund in einem CounterBadge darstellt, kann diese einfach als Child im Button\nverwendet werden."]
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<Button>\n  <IconNotification />\n  <UnreadNotificationsCounter />\n</Button>\n"
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Suspense- / ErrorBoundaries"
+    }), "\n", _jsx(_components.p, {
+      children: "Nur mit dem „Components-Ansatz“ ist es möglich, Child-Komponenten in Loading-\noder ErrorBoundaries zu kapseln."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<Button>\n  <IconNotification />\n  <Suspense>\n    <UnreadNotificationsCounter />\n  </Suspense>\n</Button>\n"
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Aufgeblähtes Props-Interface"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn Komponenten anfangen, Features anderer Komponenten nativ zu unterstützen,\nwird ihr Props-Interface schnell aufgebläht. Beim Beispiel ", _jsx(_components.code, {
+        children: "counterBadge={7}"
+      }), "\nkönnte man denken: „Hey, das ist doch nur ein Prop mehr und leicht\nverständlich!“ Aber was ist, wenn CounterBadge mehr Eigenschaften als nur count\nunterstützt? Jede unterstützte Eigenschaft müsste dann als\n", _jsx(_components.code, {
+        children: "counter[CounterProp]"
+      }), " im Button (und möglicherweise weiteren\nParent-Komponenten) vorhanden sein."]
+    }), "\n", _jsx(_components.p, {
+      children: "Aufgeblähte Gesamtbibliothek vs. All-Mighty-Components"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Wenn Flow für jeden Anwendungsfall spezielle Komponenten anbieten würde, müsste\nes z. B. einen ", _jsx(_components.code, {
+        children: "IconButton"
+      }), ", einen ", _jsx(_components.code, {
+        children: "CounterBadgeButton"
+      }), " und streng genommen\nsogar einen ", _jsx(_components.code, {
+        children: "IconCounterBadgeButton"
+      }), " geben. Das würde schnell zu sehr vielen\nKomponenten führen."]
+    }), "\n", _jsx(_components.p, {
+      children: "Und was wäre, wenn man stattdessen alles direkt im Button unterstützt? Das führt\nmeist zu sehr großen „All-Mighty-Components“ ohne klaren Scope und mit\nüberladener Implementierung."
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Children in Unterkomponenten"
+    }), "\n", _jsx(_components.p, {
+      children: "Nur mit dem „Components-Ansatz“ ist es möglich, Children auch in\nUnterkomponenten zu verwenden."
+    }), "\n", _jsx(_components.pre, {
+      children: _jsx(_components.code, {
+        children: "<Button aria-label=\"Notifications: 7\">\n  <Icon>\n    <IconStar />\n  </Icon>\n  <CounterBadge count={7} />\n</Button>\n"
+      })
+    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
+      children: "Baue deine eigenen Komponenten"
+    }), "\n", _jsx(_components.p, {
+      children: "Wenn du bestimmte Kombinationen von Komponenten häufig in deiner UI verwendest,\nkannst du dir einfach eigene Komponenten mit genau den Props bauen, die du\nbenötigst."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+0:{"buildId":"FR2XI20VIQO24y5n3KqSu","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Komponenten"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Flow unterstützt das Verschachteln von Komponenten, um deine UI aufzubauen. Dies\\nist eine kurze Dokumentation darüber, warum wir uns dafür entschieden haben.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Komponenten"},"scope":{}},"examples":{},"slugs":["02-structure","03-components"],"filename":"02-structure/03-components/index.mdx","anchors":[]}}]]}]}],["$","$L7",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["02-structure","03-components"],"filename":"02-structure/03-components/overview.mdx","anchors":[{"slug":"logik","text":"Logik","level":2},{"slug":"lesbarkeit","text":"Lesbarkeit","level":2},{"slug":"wiederverwendbarkeit","text":"Wiederverwendbarkeit","level":2},{"slug":"suspense-errorboundaries","text":"Suspense- / ErrorBoundaries","level":2},{"slug":"aufgeblahtes-props-interface","text":"Aufgeblähtes Props-Interface","level":2},{"slug":"children-in-unterkomponenten","text":"Children in Unterkomponenten","level":2},{"slug":"baue-deine-eigenen-komponenten","text":"Baue deine eigenen Komponenten","level":2}]}}]}],"$L9"]}]],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+9:["$","$Lc",null,{"currentPath":"/02-foundations/02-structure/03-components","anchors":[{"slug":"logik","text":"Logik","level":2},{"slug":"lesbarkeit","text":"Lesbarkeit","level":2},{"slug":"wiederverwendbarkeit","text":"Wiederverwendbarkeit","level":2},{"slug":"suspense-errorboundaries","text":"Suspense- / ErrorBoundaries","level":2},{"slug":"aufgeblahtes-props-interface","text":"Aufgeblähtes Props-Interface","level":2},{"slug":"children-in-unterkomponenten","text":"Children in Unterkomponenten","level":2},{"slug":"baue-deine-eigenen-komponenten","text":"Baue deine eigenen Komponenten","level":2}],"title":"Komponenten"}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2304/merge/_next/static/chunks/5f42dd66af5d8f1e.js","async":true}]
+b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
