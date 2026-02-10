@@ -1,1 +1,0 @@
-import{$ as o}from"./utils-BYl_EWK3.js";import{$}from"./Hidden-BqUWSjHb.js";import{r as b,R as f}from"./iframe-CnD5cTjE.js";const l=b.createContext({}),p=$(function(e,a){[e,a]=o(e,a,l);let{elementType:t="label",...r}=e;return f.createElement(t,{className:"react-aria-Label",...r,ref:a})});export{l as $,p as a};
