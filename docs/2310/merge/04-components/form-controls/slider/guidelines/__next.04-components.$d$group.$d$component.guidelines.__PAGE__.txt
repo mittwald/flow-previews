@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"default"]
+a:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Flex"]
+b:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Tabs"]
+c:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"Tab"]
+d:I[39682,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"TabTitle"]
+15:I[142373,["/flow-previews/docs/2310/merge/_next/static/chunks/1e92af4e235afbfc.js","/flow-previews/docs/2310/merge/_next/static/chunks/2dec532bbd76708d.js","/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js"],"default"]
+16:I[650262,["/flow-previews/docs/2310/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2310/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+9:T42f,import {
+  Label,
+  Section,
+  Slider,
+} from "@mittwald/flow-react-components";
+import { useForm } from "react-hook-form";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/04-components/actions/action/examples/lib";
+
+export default () => {
+  const form = useForm<{ storage: number }>();
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="storage"
+          rules={{
+            required:
+              "Bitte wähle deinen Speicherplatz aus",
+          }}
+        >
+          <Slider
+            formatOptions={{
+              style: "unit",
+              unit: "gigabyte",
+            }}
+            minValue={50}
+            maxValue={750}
+            defaultValue={150}
+            step={50}
+            showInitialMarker
+          >
+            <Label>Speicherplatz</Label>
+          </Slider>
+        </Field>
+        <SubmitButton>Speichern</SubmitButton>
+      </Form>
+    </Section>
+  );
+};
+0:{"buildId":"7tVDiyG4YfwtsxvQPiSY0","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Slider"}],"Slider ermöglichen die Auswahl von Zahlenwerten innerhalb eines definierten Wertebereichs.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Slider","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Slider","description":"Slider ermöglichen die Auswahl von Zahlenwerten innerhalb eines definierten Wertebereichs."},"scope":{}},"examples":{"default":"import {\n  Label,\n  Slider,\n} from \"@mittwald/flow-react-components\";\n\n<Slider\n  formatOptions={{\n    style: \"unit\",\n    unit: \"gigabyte\",\n  }}\n  minValue={50}\n  maxValue={750}\n  defaultValue={150}\n  step={50}\n  showInitialMarker\n>\n  <Label>Speicherplatz</Label>\n</Slider>;\n","form":"$9"},"slugs":["form-controls","slider"],"filename":"form-controls/slider/index.mdx","anchors":[]}}]]}]}],["$","$La",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$La",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Lb",null,{"selectedKey":"guidelines","children":[["$","$Lc",null,{"id":"overview","children":[["$","$Ld",null,{"href":"/04-components/form-controls/slider/overview","children":"Overview"}],false]}],"$Le","$Lf"]}]}]}],"$L10"]}]],["$L11"],"$L12"]}],"loading":null,"isPartial":false}
+e:["$","$Lc",null,{"id":"develop","children":[["$","$Ld",null,{"href":"/04-components/form-controls/slider/develop","children":"Develop"}],false]}]
+13:Tca0,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.p, {
+      children: "Slider ermöglichen es Usern, einen Wert innerhalb eines definierten\nZahlenbereichs auszuwählen. Die Bedienung wirkt intuitiv, da die Kombination aus\nInteraktivität und visuellem Feedback an vertraute physische Bedienelemente\nerinnert (z. B. Regler oder Schiebeschalter)."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Slider eignen sich besonders, wenn ungefähre Werte ausreichend sind. Soll ein\nexakter Zahlenwert gewählt werden, ist ein\n", _jsx(_components.a, {
+        href: "/04-components/form-controls/number-field/overview",
+        children: "NumberField"
+      }), " die bessere\nWahl."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines Sliders darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Min-, Max- und Default-Werte logisch für die User gewählt sind."
+      }), "\n", _jsxs(_components.li, {
+        children: ["die Schrittweite (", _jsx(_components.code, {
+          children: "step"
+        }), ") sinnvoll gewählt wird und nicht zu viele kleine\nSchritte enthält."]
+      }), "\n", _jsx(_components.li, {
+        children: "das beschreibende Label (neben der Unit) kurz und verständlich ist."
+      }), "\n", _jsxs(_components.li, {
+        children: ["bei Bedarf ein InitialMarker (durch ", _jsx(_components.code, {
+          children: "showInitialMarker"
+        }), ") gesetzt wird, damit\nUser den Startwert erkennen können."]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende einen Slider, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Werte eines definierten Bereichs schnell anzupassen."
+      }), "\n", _jsx(_components.li, {
+        children: "Einstellungen zu justieren, die ein direktes Feedback erfordern, wie etwa\nLautstärke, Helligkeit oder Zoomstufen."
+      }), "\n", _jsxs(_components.li, {
+        children: ["einen Bereich darzustellen, der sich durch visuelles Ausprobieren leichter\nerfassen lässt als durch direkte Eingabe in ein\n", _jsx(_components.a, {
+          href: "/04-components/form-controls/number-field/overview",
+          children: "NumberField"
+        }), "."]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+14:T42f,import {
+  Label,
+  Section,
+  Slider,
+} from "@mittwald/flow-react-components";
+import { useForm } from "react-hook-form";
+import {
+  Form,
+  SubmitButton,
+  typedField,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { sleep } from "@/content/04-components/actions/action/examples/lib";
+
+export default () => {
+  const form = useForm<{ storage: number }>();
+  const Field = typedField(form);
+
+  return (
+    <Section>
+      <Form form={form} onSubmit={sleep}>
+        <Field
+          name="storage"
+          rules={{
+            required:
+              "Bitte wähle deinen Speicherplatz aus",
+          }}
+        >
+          <Slider
+            formatOptions={{
+              style: "unit",
+              unit: "gigabyte",
+            }}
+            minValue={50}
+            maxValue={750}
+            defaultValue={150}
+            step={50}
+            showInitialMarker
+          >
+            <Label>Speicherplatz</Label>
+          </Slider>
+        </Field>
+        <SubmitButton>Speichern</SubmitButton>
+      </Form>
+    </Section>
+  );
+};
+f:["$","$Lc",null,{"id":"guidelines","children":[["$","$Ld",null,{"href":"/04-components/form-controls/slider/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$13","frontmatter":{},"scope":{}},"examples":{"default":"import {\n  Label,\n  Slider,\n} from \"@mittwald/flow-react-components\";\n\n<Slider\n  formatOptions={{\n    style: \"unit\",\n    unit: \"gigabyte\",\n  }}\n  minValue={50}\n  maxValue={750}\n  defaultValue={150}\n  step={50}\n  showInitialMarker\n>\n  <Label>Speicherplatz</Label>\n</Slider>;\n","form":"$14"},"slugs":["form-controls","slider"],"filename":"form-controls/slider/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]
+10:["$","$L15",null,{"currentPath":"/04-components/form-controls/slider/guidelines","anchors":"$f:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+11:["$","script","script-0",{"src":"/flow-previews/docs/2310/merge/_next/static/chunks/366762073d17df9b.js","async":true}]
+12:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+18:null
