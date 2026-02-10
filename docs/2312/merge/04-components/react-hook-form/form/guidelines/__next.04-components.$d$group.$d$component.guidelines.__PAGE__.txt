@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2312/merge/_next/static/chunks/d0aaa16ca3329082.js","/flow-previews/docs/2312/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js"],"default"]
+d:I[650262,["/flow-previews/docs/2312/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2312/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+9:T42a,import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
+import {
+  ActionGroup,
+  Label,
+  TextField,
+} from "@mittwald/flow-react-components";
+import {
+  Field,
+  Form,
+  ResetButton,
+  SubmitButton,
+} from "@mittwald/flow-react-components/react-hook-form";
+import { useForm } from "react-hook-form";
+
+export default () => {
+  interface Values {
+    name: string;
+  }
+  const form = useForm<Values>({
+    defaultValues: {
+      name: "",
+    },
+  });
+
+  return (
+    <Form
+      form={form}
+      onSubmit={async () => {
+        await sleepLong();
+        // recommended way to reset forms after submit
+        return () => {
+          form.reset();
+        };
+      }}
+    >
+      <Field
+        name="name"
+        rules={{
+          required: "The project name is required",
+        }}
+      >
+        <TextField>
+          <Label>Name</Label>
+        </TextField>
+      </Field>
+      <ActionGroup>
+        <ResetButton>Zurücksetzen</ResetButton>
+        <SubmitButton>Speichern</SubmitButton>
+      </ActionGroup>
+    </Form>
+  );
+};
+0:{"buildId":"rjebCypXeflOVODbIkMjn","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Form"}],"Die Form-Component gruppiert Formularfelder und stellt einen Callback für das Absenden bereit. Sie ist ausschließlich in Kombination mit React Hook Form nutzbar.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/integrations/react-hook-form/components/Form/Form.tsx","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Form","gitHubComponentPath":"integrations/react-hook-form/components/Form/Form.tsx","description":"Die Form-Component gruppiert Formularfelder und stellt einen Callback für das Absenden bereit. Sie ist ausschließlich in Kombination mit React Hook Form nutzbar."},"scope":{}},"examples":{"default":"import { useForm } from \"react-hook-form\";\nimport {\n  Field,\n  Form,\n  ResetButton,\n  SubmitButton,\n} from \"@mittwald/flow-react-components/react-hook-form\";\nimport {\n  ActionGroup,\n  Label,\n  Section,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\nexport default () => {\n  interface Values {\n    name: string;\n  }\n  const form = useForm<Values>();\n\n  const handleSubmit = (values: Values) =>\n    alert(JSON.stringify(values));\n\n  return (\n    <Form form={form} onSubmit={handleSubmit}>\n      <Section>\n        <Field\n          name=\"name\"\n          rules={{\n            required: \"Bitte gib einen Namen ein\",\n          }}\n        >\n          <TextField>\n            <Label>Name</Label>\n          </TextField>\n        </Field>\n        <ActionGroup>\n          <ResetButton>Zurücksetzen</ResetButton>\n          <SubmitButton>Speichern</SubmitButton>\n        </ActionGroup>\n      </Section>\n    </Form>\n  );\n};\n","resetOnSubmit":"$9"},"slugs":["react-hook-form","form"],"filename":"react-hook-form/form/index.mdx","anchors":[]}}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+a:null
+b:["$","script","script-0",{"src":"/flow-previews/docs/2312/merge/_next/static/chunks/873b30fee9dabd36.js","async":true}]
+c:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
