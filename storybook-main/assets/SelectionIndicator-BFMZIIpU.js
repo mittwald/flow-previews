@@ -1,1 +1,0 @@
-import"./index-BqwthJp6.js";import{r as e,R as a}from"./iframe-DFKQ2QsC.js";const c=e.createContext(null);function n(t){let r=e.useRef({});return a.createElement(c.Provider,{value:r},t.children)}const s=e.createContext({isSelected:!1});export{s as $,n as a};
