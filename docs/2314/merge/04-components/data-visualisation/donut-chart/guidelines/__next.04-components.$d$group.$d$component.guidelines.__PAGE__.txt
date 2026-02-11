@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"default"]
+c:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Flex"]
+d:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Tabs"]
+e:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"Tab"]
+f:I[39682,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"TabTitle"]
+12:I[650262,["/flow-previews/docs/2314/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2314/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[142373,["/flow-previews/docs/2314/merge/_next/static/chunks/df7687f7cb357aee.js","/flow-previews/docs/2314/merge/_next/static/chunks/7a40567f0003da6e.js","/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js"],"default"]
+0:{"buildId":"VDKYmi5aIy-sNhPw6HhVF","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"DonutChart"}],"Das DonutChart dient zur übersichtlichen Darstellung proportionaler Daten in einem ringförmigen Diagramm. Es eignet sich besonders zur Visualisierung von Verteilungen, Anteilen oder Fortschritten.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/DonutChart","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    editorDisabled: true\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"DonutChart","description":"Das DonutChart dient zur übersichtlichen Darstellung proportionaler Daten in einem ringförmigen Diagramm. Es eignet sich besonders zur Visualisierung von Verteilungen, Anteilen oder Fortschritten."},"scope":{}},"examples":{"children":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  value={300}\n  maxValue={600}\n  aria-label=\"Speicherplatz\"\n>\n  <strong>300</strong>\n  <small>GB</small>\n</DonutChart>;\n","decimal":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Performance\"\n  formatOptions={{ style: \"decimal\" }}\n  maxValue={200}\n  value={135}\n/>;\n","default":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart value={30} aria-label=\"Auslastung\" />;\n","segments":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Items\"\n  segments={[\n    { title: \"Item 1\", value: 28 },\n    { title: \"Item 2\", value: 24 },\n    { title: \"Item 3\", value: 20 },\n    { title: \"Item 4\", value: 10 },\n    { title: \"Item 5\", value: 12 },\n    { title: \"Item 6\", value: 6 },\n  ]}\n/>;\n","size":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart value={30} aria-label=\"Auslastung\" size=\"l\" />\n</Row>;\n","status":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart\n    value={30}\n    status=\"success\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart\n    value={80}\n    status=\"warning\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart\n    value={95}\n    status=\"danger\"\n    aria-label=\"Auslastung\"\n  />\n</Row>;\n","unit":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Speicherplatz\"\n  formatOptions={{ style: \"unit\", unit: \"gigabyte\" }}\n  maxValue={50}\n  value={12}\n/>;\n"},"slugs":["data-visualisation","donut-chart"],"filename":"data-visualisation/donut-chart/index.mdx","anchors":[]}}]]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+10:Tb05,"use strict";
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    li: "li",
+    p: "p",
+    ul: "ul",
+    ..._provideComponents(),
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      children: "Grundlagen"
+    }), "\n", _jsx(_components.p, {
+      children: "Ein DonutChart visualisiert proportionale Daten in Form eines ringförmigen\nDiagramms. Es eignet sich besonders zur Darstellung von Anteilen oder\nVerteilungen. Es dient als visuelle Alternative zur ProgressBar. Durch seine\nansprechende und fokussierende Darstellung rückt es die Daten besonders in den\nMittelpunkt der Nutzerwahrnehmung, was es ideal für Dashboards und andere\ndatenintensive Oberflächen macht."
+    }), "\n", _jsx(_components.h2, {
+      children: "Best practices"
+    }), "\n", _jsx(_components.p, {
+      children: "Achte bei der Verwendung eines DonutCharts darauf, dass ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["jede Segmentfarbe eindeutig und kategorisch unterscheidbar ist. Verwende dafür\ndie\n", _jsx(_components.a, {
+          href: "https://mittwald.github.io/flow/02-foundations/01-design/02-colors",
+          children: "Categorical Colors"
+        }), "."]
+      }), "\n", _jsx(_components.li, {
+        children: "die Anzahl der Segmente 6 nicht überschreitet, da eine zu große Segmentanzahl\ndie Lesbarkeit stark beeinträchtigt."
+      }), "\n", _jsx(_components.li, {
+        children: "die Segmente nach ihrer Größe sortiert sind, beginnend mit dem größten Wert\nauf der 12-Uhr-Position, und danach im Uhrzeigersinn absteigend folgen."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Verwendung"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende ein DonutChart, um ..."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "proportionale Daten übersichtlich und intuitiv darzustellen."
+      }), "\n", _jsx(_components.li, {
+        children: "verschiedene Kategorien oder Anteile innerhalb eines Ganzen hervorzuheben."
+      }), "\n", _jsx(_components.li, {
+        children: "Daten gezielt in den Fokus der User zu rücken, etwa in Dashboards oder anderen\ndatenintensiven Oberflächen."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ..._provideComponents(),
+    ...props.components
+  };
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+9:["$","$Lc",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$Lc",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$Ld",null,{"selectedKey":"guidelines","children":[["$","$Le",null,{"id":"overview","children":[["$","$Lf",null,{"href":"/04-components/data-visualisation/donut-chart/overview","children":"Overview"}],false]}],["$","$Le",null,{"id":"develop","children":[["$","$Lf",null,{"href":"/04-components/data-visualisation/donut-chart/develop","children":"Develop"}],false]}],["$","$Le",null,{"id":"guidelines","children":[["$","$Lf",null,{"href":"/04-components/data-visualisation/donut-chart/guidelines","children":"Guidelines"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$10","frontmatter":{},"scope":{}},"examples":{"children":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  value={300}\n  maxValue={600}\n  aria-label=\"Speicherplatz\"\n>\n  <strong>300</strong>\n  <small>GB</small>\n</DonutChart>;\n","decimal":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Performance\"\n  formatOptions={{ style: \"decimal\" }}\n  maxValue={200}\n  value={135}\n/>;\n","default":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart value={30} aria-label=\"Auslastung\" />;\n","segments":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Items\"\n  segments={[\n    { title: \"Item 1\", value: 28 },\n    { title: \"Item 2\", value: 24 },\n    { title: \"Item 3\", value: 20 },\n    { title: \"Item 4\", value: 10 },\n    { title: \"Item 5\", value: 12 },\n    { title: \"Item 6\", value: 6 },\n  ]}\n/>;\n","size":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart value={30} aria-label=\"Auslastung\" size=\"l\" />\n</Row>;\n","status":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<Row>\n  <DonutChart\n    value={30}\n    status=\"success\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart value={30} aria-label=\"Auslastung\" />\n  <DonutChart\n    value={80}\n    status=\"warning\"\n    aria-label=\"Auslastung\"\n  />\n  <DonutChart\n    value={95}\n    status=\"danger\"\n    aria-label=\"Auslastung\"\n  />\n</Row>;\n","unit":"import { DonutChart } from \"@mittwald/flow-react-components\";\n\n<DonutChart\n  aria-label=\"Speicherplatz\"\n  formatOptions={{ style: \"unit\", unit: \"gigabyte\" }}\n  maxValue={50}\n  value={12}\n/>;\n"},"slugs":["data-visualisation","donut-chart"],"filename":"data-visualisation/donut-chart/guidelines.mdx","anchors":[{"slug":"grundlagen","text":"Grundlagen","level":2},{"slug":"grundlagen-best-practices","text":"Best practices","level":3},{"slug":"grundlagen-verwendung","text":"Verwendung","level":3}]}}]}]]}]]}]}]}],"$L11"]}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2314/merge/_next/static/chunks/663f9bc7162867ec.js","async":true}]
+b:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+11:["$","$L15",null,{"currentPath":"/04-components/data-visualisation/donut-chart/guidelines","anchors":"$9:props:children:0:props:children:props:children:props:children:2:props:children:1:props:children:props:mdxFile:anchors","title":"Guidelines"}]
+14:null
