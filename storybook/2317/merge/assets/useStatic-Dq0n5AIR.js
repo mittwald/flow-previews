@@ -1,0 +1,1 @@
+import{g as a}from"./flowComponent-CQL_Hol9.js";import{r as e}from"./iframe-wn9t8CHT.js";const n=(t,r=[])=>{const[s,o]=e.useState(t());return e.useEffect(()=>a(()=>{o(t())}),r),s},S=t=>e.useState(()=>t())[0];export{n as a,S as u};
