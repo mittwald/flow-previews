@@ -1,19 +1,19 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Heading"]
-6:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Link"]
-7:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"IconExternalLink"]
-8:I[579932,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"default"]
-11:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Flex"]
-12:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Tabs"]
-13:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"Tab"]
-14:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"TabTitle"]
+2:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Heading"]
+6:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Link"]
+7:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"IconExternalLink"]
+8:I[579932,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"default"]
+11:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Flex"]
+12:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Tabs"]
+13:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"Tab"]
+14:I[39682,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"TabTitle"]
 1e:I[650262,["/flow-previews/docs/2320/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2320/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
 1f:"$Sreact.suspense"
-21:I[142373,["/flow-previews/docs/2320/merge/_next/static/chunks/03b45a7436fa3555.js","/flow-previews/docs/2320/merge/_next/static/chunks/464d7f214e1479ed.js","/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js"],"default"]
-9:T56b,import {
+21:I[142373,["/flow-previews/docs/2320/merge/_next/static/chunks/d487ce210cd56146.js","/flow-previews/docs/2320/merge/_next/static/chunks/b93048cfc1fa0123.js","/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js"],"default"]
+9:T556,import {
   Action,
   ActionGroup,
   Button,
@@ -24,12 +24,12 @@
   Section,
   Text,
   TextField,
-  useOverlayController,
+  useModalController,
 } from "@mittwald/flow-react-components";
 import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
 
 export default () => {
-  const controller = useOverlayController("Modal");
+  const controller = useModalController();
 
   return (
     <>
@@ -54,7 +54,7 @@ export default () => {
           </Section>
         </Content>
         <ActionGroup>
-          <Action closeOverlay="Modal">
+          <Action closeModal>
             <Action onAction={sleepLong}>
               <Button color="accent">
                 Organisation anlegen
@@ -69,7 +69,7 @@ export default () => {
     </>
   );
 };
-a:T450,import {
+a:T446,import {
   Action,
   ActionGroup,
   Button,
@@ -102,7 +102,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
       </Section>
     </Content>
     <ActionGroup>
-      <Action closeOverlay="Modal">
+      <Action closeModal>
         <Action onAction={sleepLong}>
           <Button color="accent">
             Organisation anlegen
@@ -115,7 +115,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-b:T5a5,import {
+b:T590,import {
   Action,
   ActionGroup,
   Button,
@@ -124,7 +124,7 @@ b:T5a5,import {
   Label,
   Modal,
   TextField,
-  useOverlayController,
+  useModalController,
 } from "@mittwald/flow-react-components";
 import { useForm } from "react-hook-form";
 import {
@@ -133,7 +133,7 @@ import {
 } from "@mittwald/flow-react-components/react-hook-form";
 
 export default () => {
-  const controller = useOverlayController("Modal");
+  const controller = useModalController();
 
   const form = useForm<{ name: string }>();
 
@@ -172,7 +172,7 @@ export default () => {
             <Button color="accent" type="submit">
               Speichern
             </Button>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Button color="secondary" variant="soft">
                 Abbrechen
               </Button>
@@ -183,7 +183,7 @@ export default () => {
     </>
   );
 };
-c:T453,import {
+c:T449,import {
   Action,
   ActionGroup,
   Button,
@@ -216,7 +216,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
       </Section>
     </Content>
     <ActionGroup>
-      <Action closeOverlay="Modal">
+      <Action closeModal>
         <Action onAction={sleepLong}>
           <Button color="accent">
             Organisation anlegen
@@ -229,7 +229,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-d:T2330,import {
+d:T2308,import {
   Action,
   ActionGroup,
   Button,
@@ -273,7 +273,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="danger">
                   Bestellung abbrechen
@@ -315,7 +315,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="accent">
                   Backup anlegen
@@ -405,7 +405,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Button variant="soft" color="secondary">
                 Schließen
               </Button>
@@ -494,7 +494,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="accent">
                   SFTP-Benutzer anlegen
@@ -510,7 +510,7 @@ export default () => {
     </Row>
   );
 };
-0:{"buildId":"vo3KOV-_tEDrjJvk4cdn0","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Modal"}],"Ein Modal zeigt Inhalte zentriert als Overlay über der Hauptseite an, wodurch der Nutzer sich voll auf den Inhalt des Modals konzentrieren kann.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Modal","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    example: \"static\",\n    editorDisabled: true,\n    bgColor: \"light\",\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Modal","description":"Ein Modal zeigt Inhalte zentriert als Overlay über der Hauptseite an, wodurch der Nutzer sich voll auf den Inhalt des Modals konzentrieren kann."},"scope":{}},"examples":{"controller":"$9","default":"$a","email":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <div className=\"flow--modal--content\">\n    <Heading>E-Mail-Adresse anlegen</Heading>\n    <Text>\n      Erstelle dir eine E-Mail-Adresse mit Postfach\n      Speicherplatz.\n    </Text>\n    <TextField type=\"email\">\n      <Label>E-Mail-Adresse</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button color=\"accent\">E-Mail-Adresse anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","form":"$b","headingsDo":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>E-Mail-Adresse bearbeiten</Heading>\n  <Heading level={4}>Projekt wirklich löschen?</Heading>\n  <Heading level={4}>\n    Projekt wirklich löschen? - App auswählen\n  </Heading>\n</Column>;\n","headingsDont":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>\n    Bearbeite hier deine E-Mail-Adresse\n  </Heading>\n  <Heading level={4}>Projektlöschvorgang starten</Heading>\n  <Heading level={4}>Wähle hier eine App aus</Heading>\n</Column>;\n","noAction":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Section,\n  Switch,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Einstellungen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Switch defaultSelected>\n        Container Frontend anzeigen\n      </Switch>\n      <Switch>Extensions anzeigen</Switch>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button variant=\"soft\" color=\"secondary\">\n        Schließen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","offCanvas":"$c","size":"$d","static":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Section,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Organisation anlegen</Heading>\n  </header>\n\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Text>\n        Eine Organisation kannst du dir wie ein Unternehmen\n        vorstellen. An diesem Ort verwaltest du deine\n        Mitarbeiter, Zahlungsmodalitäten und kannst deine\n        Rechnungen einsehen.\n      </Text>\n      <TextField>\n        <Label>Organisationsname</Label>\n      </TextField>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button color=\"accent\">Organisation anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n"},"slugs":["overlays","modal"],"filename":"overlays/modal/index.mdx","anchors":[]}}]]}]}],"$Le"],["$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+0:{"buildId":"vi7wGg63Ooi31Vm53InpA","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1,1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Modal"}],"Ein Modal zeigt Inhalte zentriert als Overlay über der Hauptseite an, wodurch der Nutzer sich voll auf den Inhalt des Modals konzentrieren kann.",["$","$L6",null,{"href":"https://github.com/mittwald/flow/tree/main/packages/components/src/components/Modal","children":["GitHub",["$","$L7",null,{}]]}]]}],["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const {LiveCodeEditor} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  if (!LiveCodeEditor) _missingMdxReference(\"LiveCodeEditor\", true);\n  return _jsx(LiveCodeEditor, {\n    example: \"static\",\n    editorDisabled: true,\n    bgColor: \"light\",\n    zoom: 0.7\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n","frontmatter":{"component":"Modal","description":"Ein Modal zeigt Inhalte zentriert als Overlay über der Hauptseite an, wodurch der Nutzer sich voll auf den Inhalt des Modals konzentrieren kann."},"scope":{}},"examples":{"controller":"$9","default":"$a","email":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <div className=\"flow--modal--content\">\n    <Heading>E-Mail-Adresse anlegen</Heading>\n    <Text>\n      Erstelle dir eine E-Mail-Adresse mit Postfach\n      Speicherplatz.\n    </Text>\n    <TextField type=\"email\">\n      <Label>E-Mail-Adresse</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button color=\"accent\">E-Mail-Adresse anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","form":"$b","headingsDo":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>E-Mail-Adresse bearbeiten</Heading>\n  <Heading level={4}>Projekt wirklich löschen?</Heading>\n  <Heading level={4}>\n    Projekt wirklich löschen? - App auswählen\n  </Heading>\n</Column>;\n","headingsDont":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>\n    Bearbeite hier deine E-Mail-Adresse\n  </Heading>\n  <Heading level={4}>Projektlöschvorgang starten</Heading>\n  <Heading level={4}>Wähle hier eine App aus</Heading>\n</Column>;\n","noAction":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Section,\n  Switch,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Einstellungen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Switch defaultSelected>\n        Container Frontend anzeigen\n      </Switch>\n      <Switch>Extensions anzeigen</Switch>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button variant=\"soft\" color=\"secondary\">\n        Schließen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","offCanvas":"$c","size":"$d","static":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Section,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Organisation anlegen</Heading>\n  </header>\n\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Text>\n        Eine Organisation kannst du dir wie ein Unternehmen\n        vorstellen. An diesem Ort verwaltest du deine\n        Mitarbeiter, Zahlungsmodalitäten und kannst deine\n        Rechnungen einsehen.\n      </Text>\n      <TextField>\n        <Label>Organisationsname</Label>\n      </TextField>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button color=\"accent\">Organisation anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n"},"slugs":["overlays","modal"],"filename":"overlays/modal/index.mdx","anchors":[]}}]]}]}],"$Le"],["$Lf"],"$L10"]}],"loading":null,"isPartial":false}
 15:Tf83,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
@@ -606,7 +606,7 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-16:T56b,import {
+16:T556,import {
   Action,
   ActionGroup,
   Button,
@@ -617,12 +617,12 @@ function _missingMdxReference(id, component) {
   Section,
   Text,
   TextField,
-  useOverlayController,
+  useModalController,
 } from "@mittwald/flow-react-components";
 import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
 
 export default () => {
-  const controller = useOverlayController("Modal");
+  const controller = useModalController();
 
   return (
     <>
@@ -647,7 +647,7 @@ export default () => {
           </Section>
         </Content>
         <ActionGroup>
-          <Action closeOverlay="Modal">
+          <Action closeModal>
             <Action onAction={sleepLong}>
               <Button color="accent">
                 Organisation anlegen
@@ -662,7 +662,7 @@ export default () => {
     </>
   );
 };
-17:T450,import {
+17:T446,import {
   Action,
   ActionGroup,
   Button,
@@ -695,7 +695,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
       </Section>
     </Content>
     <ActionGroup>
-      <Action closeOverlay="Modal">
+      <Action closeModal>
         <Action onAction={sleepLong}>
           <Button color="accent">
             Organisation anlegen
@@ -708,7 +708,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-18:T5a5,import {
+18:T590,import {
   Action,
   ActionGroup,
   Button,
@@ -717,7 +717,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
   Label,
   Modal,
   TextField,
-  useOverlayController,
+  useModalController,
 } from "@mittwald/flow-react-components";
 import { useForm } from "react-hook-form";
 import {
@@ -726,7 +726,7 @@ import {
 } from "@mittwald/flow-react-components/react-hook-form";
 
 export default () => {
-  const controller = useOverlayController("Modal");
+  const controller = useModalController();
 
   const form = useForm<{ name: string }>();
 
@@ -765,7 +765,7 @@ export default () => {
             <Button color="accent" type="submit">
               Speichern
             </Button>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Button color="secondary" variant="soft">
                 Abbrechen
               </Button>
@@ -776,7 +776,7 @@ export default () => {
     </>
   );
 };
-19:T453,import {
+19:T449,import {
   Action,
   ActionGroup,
   Button,
@@ -809,7 +809,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
       </Section>
     </Content>
     <ActionGroup>
-      <Action closeOverlay="Modal">
+      <Action closeModal>
         <Action onAction={sleepLong}>
           <Button color="accent">
             Organisation anlegen
@@ -822,7 +822,7 @@ import { sleepLong } from "@/content/04-components/actions/action/examples/lib";
     </ActionGroup>
   </Modal>
 </ModalTrigger>;
-1a:T2330,import {
+1a:T2308,import {
   Action,
   ActionGroup,
   Button,
@@ -866,7 +866,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="danger">
                   Bestellung abbrechen
@@ -908,7 +908,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="accent">
                   Backup anlegen
@@ -998,7 +998,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Button variant="soft" color="secondary">
                 Schließen
               </Button>
@@ -1087,7 +1087,7 @@ export default () => {
             </Section>
           </Content>
           <ActionGroup>
-            <Action closeOverlay="Modal">
+            <Action closeModal>
               <Action onAction={sleepLong}>
                 <Button color="accent">
                   SFTP-Benutzer anlegen
@@ -1103,8 +1103,8 @@ export default () => {
     </Row>
   );
 };
-e:["$","$L11",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L11",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L12",null,{"selectedKey":"overview","children":[["$","$L13",null,{"id":"overview","children":[["$","$L14",null,{"href":"/04-components/overlays/modal/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$15","frontmatter":{},"scope":{}},"examples":{"controller":"$16","default":"$17","email":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <div className=\"flow--modal--content\">\n    <Heading>E-Mail-Adresse anlegen</Heading>\n    <Text>\n      Erstelle dir eine E-Mail-Adresse mit Postfach\n      Speicherplatz.\n    </Text>\n    <TextField type=\"email\">\n      <Label>E-Mail-Adresse</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button color=\"accent\">E-Mail-Adresse anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","form":"$18","headingsDo":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>E-Mail-Adresse bearbeiten</Heading>\n  <Heading level={4}>Projekt wirklich löschen?</Heading>\n  <Heading level={4}>\n    Projekt wirklich löschen? - App auswählen\n  </Heading>\n</Column>;\n","headingsDont":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>\n    Bearbeite hier deine E-Mail-Adresse\n  </Heading>\n  <Heading level={4}>Projektlöschvorgang starten</Heading>\n  <Heading level={4}>Wähle hier eine App aus</Heading>\n</Column>;\n","noAction":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Section,\n  Switch,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Einstellungen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Switch defaultSelected>\n        Container Frontend anzeigen\n      </Switch>\n      <Switch>Extensions anzeigen</Switch>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button variant=\"soft\" color=\"secondary\">\n        Schließen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","offCanvas":"$19","size":"$1a","static":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Section,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Organisation anlegen</Heading>\n  </header>\n\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Text>\n        Eine Organisation kannst du dir wie ein Unternehmen\n        vorstellen. An diesem Ort verwaltest du deine\n        Mitarbeiter, Zahlungsmodalitäten und kannst deine\n        Rechnungen einsehen.\n      </Text>\n      <TextField>\n        <Label>Organisationsname</Label>\n      </TextField>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeOverlay=\"Modal\">\n      <Button color=\"accent\">Organisation anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n"},"slugs":["overlays","modal"],"filename":"overlays/modal/overview.mdx","anchors":[{"slug":"playground","text":"Playground","level":2},{"slug":"variants","text":"Variants","level":2},{"slug":"variants-offcanvas","text":"OffCanvas","level":3},{"slug":"sizes","text":"Sizes","level":2},{"slug":"kombiniere-mit","text":"Kombiniere mit ","level":2},{"slug":"kombiniere-mit-controller","text":"Controller","level":3},{"slug":"kombiniere-mit-form","text":"Form","level":3}]}}]}]]}],"$L1b","$L1c"]}]}]}],"$L1d"]}]
-f:["$","script","script-0",{"src":"/flow-previews/docs/2320/merge/_next/static/chunks/2bfcf2d24ec5840f.js","async":true}]
+e:["$","$L11",null,{"columnGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":[["$","$L11",null,{"direction":"column","rowGap":"m","className":"layout-module-scss-module__9bQamG__tabsContainer","children":["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__tabs","children":["$","$L12",null,{"selectedKey":"overview","children":[["$","$L13",null,{"id":"overview","children":[["$","$L14",null,{"href":"/04-components/overlays/modal/overview","children":"Overview"}],["$","div",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L8",null,{"mdxFile":{"mdxSource":{"compiledSource":"$15","frontmatter":{},"scope":{}},"examples":{"controller":"$16","default":"$17","email":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <div className=\"flow--modal--content\">\n    <Heading>E-Mail-Adresse anlegen</Heading>\n    <Text>\n      Erstelle dir eine E-Mail-Adresse mit Postfach\n      Speicherplatz.\n    </Text>\n    <TextField type=\"email\">\n      <Label>E-Mail-Adresse</Label>\n    </TextField>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button color=\"accent\">E-Mail-Adresse anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","form":"$18","headingsDo":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>E-Mail-Adresse bearbeiten</Heading>\n  <Heading level={4}>Projekt wirklich löschen?</Heading>\n  <Heading level={4}>\n    Projekt wirklich löschen? - App auswählen\n  </Heading>\n</Column>;\n","headingsDont":"import { Heading } from \"@mittwald/flow-react-components\";\n\n<Column>\n  <Heading level={4}>\n    Bearbeite hier deine E-Mail-Adresse\n  </Heading>\n  <Heading level={4}>Projektlöschvorgang starten</Heading>\n  <Heading level={4}>Wähle hier eine App aus</Heading>\n</Column>;\n","noAction":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Section,\n  Switch,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Einstellungen</Heading>\n  </header>\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Switch defaultSelected>\n        Container Frontend anzeigen\n      </Switch>\n      <Switch>Extensions anzeigen</Switch>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button variant=\"soft\" color=\"secondary\">\n        Schließen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n","offCanvas":"$19","size":"$1a","static":"import {\n  Action,\n  ActionGroup,\n  Button,\n  Heading,\n  Label,\n  Section,\n  Text,\n  TextField,\n} from \"@mittwald/flow-react-components\";\n\n<StaticModal>\n  <header className=\"flow--modal--header\">\n    <Heading>Organisation anlegen</Heading>\n  </header>\n\n  <div className=\"flow--modal--content\">\n    <Section>\n      <Text>\n        Eine Organisation kannst du dir wie ein Unternehmen\n        vorstellen. An diesem Ort verwaltest du deine\n        Mitarbeiter, Zahlungsmodalitäten und kannst deine\n        Rechnungen einsehen.\n      </Text>\n      <TextField>\n        <Label>Organisationsname</Label>\n      </TextField>\n    </Section>\n  </div>\n  <ActionGroup className=\"flow--modal--action-group\">\n    <Action closeModal>\n      <Button color=\"accent\">Organisation anlegen</Button>\n      <Button variant=\"soft\" color=\"secondary\">\n        Abbrechen\n      </Button>\n    </Action>\n  </ActionGroup>\n</StaticModal>;\n"},"slugs":["overlays","modal"],"filename":"overlays/modal/overview.mdx","anchors":[{"slug":"playground","text":"Playground","level":2},{"slug":"variants","text":"Variants","level":2},{"slug":"variants-offcanvas","text":"OffCanvas","level":3},{"slug":"sizes","text":"Sizes","level":2},{"slug":"kombiniere-mit","text":"Kombiniere mit ","level":2},{"slug":"kombiniere-mit-controller","text":"Controller","level":3},{"slug":"kombiniere-mit-form","text":"Form","level":3}]}}]}]]}],"$L1b","$L1c"]}]}]}],"$L1d"]}]
+f:["$","script","script-0",{"src":"/flow-previews/docs/2320/merge/_next/static/chunks/bf5e6ffd622dc75d.js","async":true}]
 10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 1b:["$","$L13",null,{"id":"develop","children":[["$","$L14",null,{"href":"/04-components/overlays/modal/develop","children":"Develop"}],false]}]
 1c:["$","$L13",null,{"id":"guidelines","children":[["$","$L14",null,{"href":"/04-components/overlays/modal/guidelines","children":"Guidelines"}],false]}]
