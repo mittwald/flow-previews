@@ -1,0 +1,1 @@
+import{O as a,u as c}from"./context-CDhP7Jox.js";const m=(l,s={})=>{const{reuseControllerFromContext:u=!0,isDefaultOpen:O,onOpen:o,onClose:n,onOpenChange:r}=s,C=a.useNew({isDefaultOpen:O,onOpen:o,onClose:n,onOpenChange:r}),t=c()[l],e=u&&t?t:C;return e.useOnOpen(o),e.useOnClose(n),e.useOnOpenChange(r),e};export{m as u};
