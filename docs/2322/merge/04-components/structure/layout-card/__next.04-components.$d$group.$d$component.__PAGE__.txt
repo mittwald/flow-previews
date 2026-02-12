@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[650262,["/flow-previews/docs/2322/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2322/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"SUzHVa0jCoVabyAbro33X","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"9iZYwgSPe9Bvzpfeb2h3I","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/04-components/structure/layout-card/overview;307;"}
