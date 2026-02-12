@@ -1,0 +1,1 @@
+import{O as u,u as C}from"./context-mnhTcWwX.js";const c=(t,n={})=>{const{reuseControllerFromContext:l=!0,...e}=n,s=u.useNew(e),o=C()[t],r=l&&o?o:s;return r===o&&r.useUpdateOptions(e),r};export{c as u};
