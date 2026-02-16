@@ -1,0 +1,49 @@
+import{r as S,j as r}from"./iframe-C5ZTNo7B.js";import{a as n,u as p,F as a,R as u,S as l,t as x}from"./ResetButton-BsxvTmJM.js";import{L as m}from"./Label-D_0GeMuu.js";import{B as d}from"./Button-CTD3uiWd.js";import{S as j}from"./Section-HUKpeM8o.js";import{A as b}from"./ActionGroup-Dj8ge-dL.js";import{s as c}from"./ActionBatch-DQnznSVa.js";import{S as s}from"./SearchField-DrdKAyjY.js";import{F as E}from"./FieldError-BDB9mSsz.js";import"./preload-helper-PPVm8Dsz.js";import"./dynamic-Bw3_nZ9y.js";import"./flowComponent-C74LPcu8.js";import"./index-DezMBlvl.js";import"./clsx-B-dksMZM.js";import"./index-L0hXSSnD.js";import"./useLocalizedStringFormatter-CDqYfAHq.js";import"./context-Zfd40gqJ.js";import"./ActionGroupView-BDcHe3GE.js";import"./Content-CH2yQGd8.js";import"./Heading-CV5pK1fF.js";import"./Heading-CeFx_rtS.js";import"./RSPContexts-BwPNB4Pl.js";import"./utils-BuDA3Ujk.js";import"./Text-vc01bOb1.js";import"./browser-CszbwzXz.js";import"./EmulatedBoldText-DrBpqUUw.js";import"./Text-DfHOPDAf.js";import"./Modal-DnrTq3-t.js";import"./Overlay-DtDYWi_A.js";import"./useOverlayController-DKmEbncM.js";import"./useStatic-yr3GM-AX.js";import"./OverlayContextProvider-CtLnis9C.js";import"./LoadingSpinner-DA9Opfj3.js";import"./IconWarning-Bhk_rtuP.js";import"./remote-DVpXA9eO.js";import"./Dialog-n3Xabcyo.js";import"./Button-B6XpNhBF.js";import"./ProgressBar-D_9cWfd2.js";import"./Label-BSZlsNs_.js";import"./Hidden-U4jsQoYY.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-BfXWSkVN.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-ef-k5VSc.js";import"./useFocus-wNGus_RY.js";import"./useFocusRing-rbh4dKQ_.js";import"./useFocusable-DlWx3Zdp.js";import"./OverlayArrow-F8uV4qkU.js";import"./useControlledState-e_mWhKHk.js";import"./Collection-CZnzaiUv.js";import"./CollectionBuilder-BNhwwjuE.js";import"./SelectionIndicator-CrR9Mcxf.js";import"./Separator-BabRRkw2.js";import"./SelectionManager-MjLIZfUi.js";import"./useEvent-BqK5cB2S.js";import"./useCollator-CAZNHi0m.js";import"./FocusScope-PkAgaAiM.js";import"./VisuallyHidden-eGwjz06V.js";import"./ButtonView-DEthqiLB.js";import"./Flex-CwoZU0pA.js";import"./useRef-BCHa9Y83.js";import"./Label.module-CUYTf9Jc.js";import"./ContextMenuSection-B0O-s6DP.js";import"./getActionGroupSlot-D914C5WA.js";import"./useFieldComponent-hFC9tXxl.js";import"./useControlledHostValueProps-C7ReQGpt.js";import"./FieldError-CU71BOGK.js";import"./Form-CMpIiu9M.js";import"./Group-DGqA1oIQ.js";import"./Input-DU4gQuZk.js";import"./useTextField-BXRdWvZ1.js";import"./useFormReset-D7awHB0C.js";import"./useFormValidation-CtRrQmcu.js";import"./AlertText-EmpeosBS.js";import"./AlertIcon-Da43IrrR.js";const{action:B}=__STORYBOOK_MODULE_ACTIONS__,g=B("submit"),Vr={title:"Integrations/React Hook Form/SearchField",component:n,render:()=>{const o=async F=>{await c(5e3),g(F)},h=p({defaultValues:{user:""}}),f=x();return r.jsx(a,{form:h,onSubmit:o,children:r.jsxs(j,{children:[r.jsx(f,{name:"user",children:r.jsx(s,{children:r.jsx(m,{children:"Suche"})})}),r.jsxs(b,{children:[r.jsx(u,{children:"Reset"}),r.jsx(l,{children:"Submit"})]})]})})}},e={},t={render:()=>{const o=p();return S.useEffect(()=>{o.setError("field",{type:"required",message:"ErrorFromForm"})},[]),r.jsxs(a,{form:o,onSubmit:async()=>await c(2e3),children:[r.jsx(n,{name:"field",children:r.jsx(s,{children:r.jsx(m,{children:"Suche"})})}),r.jsxs(s,{isInvalid:!0,children:[r.jsx(m,{children:"Suche"}),r.jsx(E,{children:"ErrorFromOuterFieldError!"})]})]})}},i={render:()=>{const o=p();return r.jsxs(a,{form:o,onSubmit:async()=>await c(2e3),children:[r.jsx(n,{name:"field",children:r.jsx(s,{children:r.jsx(m,{children:"Suche"})})}),r.jsx("div",{style:{marginBottom:"2200px"}}),r.jsx(d,{onPress:()=>o.setError("field",{type:"required",message:"oh no"},{shouldFocus:!0}),children:"err through form"}),r.jsx(d,{onPress:()=>o.setFocus("field"),children:"focus through form"}),r.jsx(u,{children:"Reset"}),r.jsx(l,{children:"Submit"})]})}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  render: () => {
+    const form = useForm();
+    useEffect(() => {
+      form.setError("field", {
+        type: "required",
+        message: "ErrorFromForm"
+      });
+    }, []);
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <SearchField>
+            <Label>Suche</Label>
+          </SearchField>
+        </Field>
+        <SearchField isInvalid>
+          <Label>Suche</Label>
+          <FieldError>ErrorFromOuterFieldError!</FieldError>
+        </SearchField>
+      </Form>;
+  }
+}`,...t.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: () => {
+    const form = useForm();
+    return <Form form={form} onSubmit={async () => await sleep(2000)}>
+        <Field name={"field"}>
+          <SearchField>
+            <Label>Suche</Label>
+          </SearchField>
+        </Field>
+        <div style={{
+        marginBottom: "2200px"
+      }} />
+        <Button onPress={() => form.setError("field", {
+        type: "required",
+        message: "oh no"
+      }, {
+        shouldFocus: true
+      })}>
+          err through form
+        </Button>
+        <Button onPress={() => form.setFocus("field")}>
+          focus through form
+        </Button>
+        <ResetButton>Reset</ResetButton>
+        <SubmitButton>Submit</SubmitButton>
+      </Form>;
+  }
+}`,...i.parameters?.docs?.source}}};const Yr=["Default","WithFieldError","WithFocus"];export{e as Default,t as WithFieldError,i as WithFocus,Yr as __namedExportsOrder,Vr as default};
