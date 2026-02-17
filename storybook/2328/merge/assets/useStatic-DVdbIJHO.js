@@ -1,0 +1,1 @@
+import{b as a}from"./flowComponent-CoGNni0d.js";import{r as e}from"./iframe-olJof__V.js";const n=(t,r=[])=>{const[s,o]=e.useState(t());return e.useEffect(()=>a(()=>{o(t())}),r),s},S=t=>e.useState(()=>t())[0];export{n as a,S as u};
