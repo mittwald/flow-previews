@@ -1,1 +1,0 @@
-import{j as o}from"./iframe-CdHyQgwh.js";import{e as r}from"./TableCell-CV1Q7YM7.js";const t=e=>o.jsx(r,{...e,footer:!0});t.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"TableFooterRow",props:{footer:{required:!1,tsType:{name:"boolean"},description:"@internal"}}};export{t as T};
