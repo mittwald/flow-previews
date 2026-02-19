@@ -1,0 +1,1 @@
+import{j as p}from"./iframe-DQkRMfo_.js";import{O as i}from"./OverlayTrigger-0AVD2RuP.js";import{f as t}from"./flowComponent-COr712P3.js";import{D as g}from"./DialogTriggerView-NvpN5dRX.js";const f=t("PopoverTrigger",r=>{const{children:o,...e}=r;return p.jsx(i,{overlayType:"Popover",...e,component:g,children:o})},{type:"provider"});export{f as P};
