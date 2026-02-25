@@ -1,1 +1,0 @@
-import{r as e,j as s}from"./iframe-Bh3xJiHl.js";import{C as r}from"./MenuItem-Ck1eV_yE.js";import{v as i}from"./flowComponent-C3sfiT_Y.js";const t=e.memo(o=>{const n=e.useContext(i).ContextMenu??r;return s.jsx(n,{...o})});t.displayName="ContextMenuView";t.__docgenInfo={description:"",methods:[],displayName:"ContextMenuView"};export{t as C};
