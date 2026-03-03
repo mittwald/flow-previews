@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"default"]
-7:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"Flex"]
-c:I[142373,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/3b6fa0beac7c9c08.js","/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js"],"default"]
+2:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"default"]
+7:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"Flex"]
+c:I[142373,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js"],"default"]
 d:I[650262,["/flow-previews/docs/2338/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2338/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
-8:T2267,"use strict";
+8:T1f4b,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -25,84 +25,50 @@ function _createMdxContent(props) {
   if (!DesignTokenTable) _missingMdxReference("DesignTokenTable", true);
   return _jsxs(_Fragment, {
     children: [_jsx(_components.h1, {
-      children: "Color palette"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Das Flow Design System bietet 9 Colors mit 11 Farbabstufungen an. Die\nFarbabstufungen reichen von 100 bis 1100 wobei die Stufe ", _jsx(_components.strong, {
-        children: "800 die Grundfarbe"
-      }), "\nist. Zusätzlich werden Light und Dark Color angeboten."]
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
-      children: "Brand Color"
+      children: "Base Colors"
     }), "\n", _jsx(_components.p, {
-      children: "Die Brand Colors spiegeln die Marke mittwald wider und sind somit ein wichtiger\nBestandteil des Corporate Designs. Sie sollen den Wiedererkennungswert in den\nBenutzeroberflächen erhöhen."
+      children: "Base Colors bilden das Fundament des Flow Design Systems. Sie prägen die Oberflächen und schaffen die visuelle Grundlage für alle Komponenten und Layouts."
+    }), "\n", _jsx(_components.h2, {
+      children: "Neutral Color"
+    }), "\n", _jsx(_components.p, {
+      children: "Neutral Colors sind zurückhaltend und vielseitig einsetzbar. Durch ihre Ausgewogenheit harmonieren sie mit allen weiteren Farben und kommen in nahezu allen UI-Elementen zum Einsatz."
+    }), "\n", _jsx(DesignTokenTable, {
+      path: "color.gray"
     }), "\n", _jsx(_components.h2, {
       children: "Hosting Blue"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Hosting Blue ist die Primary Color und sorgt für ein lebendiges Erscheinungsbild\nim mStudio. Sie wird für wichtige Klickflächen wie ", _jsx(_components.a, {
-        href: "/04-components/",
-        children: "Links"
-      }), " und\nPrimary ", _jsx(_components.a, {
-        href: "/04-components/actions/buttons/overview",
-        children: "Buttons"
-      }), " verwendet, aber auch\naktive States haben diese Color. In den dunkleren Abstufungen ist Hosting Blue\nin ", _jsx(_components.a, {
-        href: "/04-components/content/heading/overview",
-        children: "Headings"
-      }), " oder in dunkleren\ndekorativen Elementen zu finden. Darüber hinaus soll Hosting Blue wissenswerte\nInformationen hervorheben."]
+    }), "\n", _jsx(_components.p, {
+      children: "Hosting Blue ist unsere Primärfarbe. Sie verleiht dem mStudio ein prägnantes Erscheinungsbild und stärkt die Wiedererkennung der Marke mittwald. Aufgrund ihrer Leuchtkraft eignet sie sich besonders für gezielte Akzente, interaktive Elemente und visuelle Hervorhebungen."
     }), "\n", _jsx(DesignTokenTable, {
       path: "color.hosting-blue"
-    }), "\n", _jsx(_components.h2, {
-      children: "mittwald Navy"
-    }), "\n", _jsx(_components.p, {
-      children: "mittwald Navy ist im Gegensatz zu Hosting Blue dunkler und wirkt dadurch\neleganter. Im mStudio wird mittwald Navy derzeit nicht eingesetzt, da die\ndunkleren Hosting Blue Stufen mittwald Navy ähnlich sind und das mStudio eher\nlebendig als elegant wirken soll."
-    }), "\n", _jsx(DesignTokenTable, {
-      path: "color.mittwald-navy"
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Functional Color"
-    }), "\n", _jsx(_components.p, {
-      children: "Functional Color vermitteln User den Status eines Elements. Sie spielen eine\nwichtige Rolle bei der Übermittlung von Informationen. Um den User nicht zu\nverwirren, sollten diese Farben nur mit einem expliziten Zweck zum Einsatz\nkommen."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Functional Colors kommunizieren Zustände und unterstützen die Nutzerführung. Sie helfen dabei, Informationen schnell einzuordnen und Handlungsbedarf zu erkennen. Weitere Details zur Anwendung finden sich im ", _jsx(_components.a, {
+        href: "/02-foundations/03-content-guidelines/02-informationskonzept",
+        children: "Informationskonzept"
+      }), "."]
     }), "\n", _jsx(_components.h2, {
       children: "Espelkamp Green"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Espelkamp Green wird als Success-Color verwendet. Zum Beispiel werden Anlege-\nund Speichern-", _jsx(_components.a, {
-        href: "/04-components/actions/button/overview",
-        children: "Button"
-      }), " in Espelkamp\nGreen dargestellt."]
+    }), "\n", _jsx(_components.p, {
+      children: "Espelkamp Green steht für positive Rückmeldungen und erfolgreiche Aktionen. Die Farbe signalisiert Bestätigung, Abschluss oder einen fehlerfreien Zustand."
     }), "\n", _jsx(DesignTokenTable, {
       path: "color.espelkamp-green"
     }), "\n", _jsx(_components.h2, {
       children: "Royal Orange"
     }), "\n", _jsx(_components.p, {
-      children: "Die Royal Orange soll den User darauf aufmerksam machen, dass eine\nHandlungsempfehlung vorliegt."
+      children: "Royal Orange kennzeichnet Warnungen und weist auf potenzielle Risiken oder unerwünschte Zustände hin. Die Farbe signalisiert, dass Aufmerksamkeit erforderlich ist und eine Handlung zeitnah erfolgen sollte, auch wenn noch kein kritischer Fehler vorliegt."
     }), "\n", _jsx(DesignTokenTable, {
       path: "color.royal-orange"
     }), "\n", _jsx(_components.h2, {
       children: "Amaranth Red"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Amaranth Red soll dem User ein kritisches Signal geben. Sie wird als\n", _jsx(_components.a, {
-        href: "/04-components/actions/button/overview",
-        children: "Button"
-      }), "-Color bei Fehlermeldungen oder\nvor kritischen Aktionen (z. B. Löschen oder Kündigen) verwendet. Außerdem soll\nsie dem User signalisieren, dass akuter Handlungsbedarf besteht, indem sie\nbeispielsweise in einem ", _jsx(_components.a, {
-        href: "/04-components/status/alert-text/overview",
-        children: "AlertText"
-      }), "\neingesetzt wird."]
+    }), "\n", _jsx(_components.p, {
+      children: "Amaranth Red kennzeichnet kritische Zustände. Die Farbe signalisiert dringenden Handlungsbedarf oder Fehler, die unmittelbare Aufmerksamkeit erfordern."
     }), "\n", _jsx(DesignTokenTable, {
       path: "color.amaranth-red"
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
-      children: "Neutral Color"
-    }), "\n", _jsx(_components.p, {
-      children: "Neutral Colors sind unaufdringliche Farben, die vielseitig eingesetzt werden\nkönnen. Sie harmonieren gut mit allen anderen Farben und können daher gut für\nz. B. Hintergründe und Texte verwendet werden."
-    }), "\n", _jsx(_components.h2, {
-      children: "Gray"
-    }), "\n", _jsxs(_components.p, {
-      children: ["Gray findet sich in jeder Benutzeroberfläche des mStudios wieder, um durch\nverschiedene Grauabstufungen Tiefe zu erzeugen. So ist z. B. der Hintergrund des\nmStudios oder eines\n", _jsx(_components.a, {
-        href: "/04-components/form-controls/text-field/overview",
-        children: "TextFields"
-      }), " in verschiedene\nGray-Stufen eingefärbt. Zudem wird Gray im Fließtext verwendet."]
-    }), "\n", _jsx(DesignTokenTable, {
-      path: "color.gray"
-    }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Decorative Color"
     }), "\n", _jsx(_components.p, {
-      children: "Decorative Colors ergänzen die bestehenden Colors, indem sie für dekorative\nZwecke verwendet werden."
+      children: "Decorative Colors erweitern die Farbpalette um zusätzliche Markenfarben. Sie werden ausschließlich für dekorative Elemente sowie für Marketing- und Kommunikationsmaßnahmen eingesetzt und haben keine funktionale Bedeutung innerhalb des Interfaces."
     }), "\n", _jsx(_components.h2, {
       children: "Soft Contrast Violet"
     }), "\n", _jsx(DesignTokenTable, {
@@ -115,25 +81,43 @@ function _createMdxContent(props) {
       children: "Bright Lilac"
     }), "\n", _jsx(DesignTokenTable, {
       path: "color.bright-lilac"
+    }), "\n", _jsx(_components.h2, {
+      children: "mittwald Navy"
+    }), "\n", _jsx(DesignTokenTable, {
+      path: "color.mittwald-navy"
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Light und Dark Color"
     }), "\n", _jsxs(_components.p, {
-      children: ["Die Colors Light und Dark wurden speziell für farbige Hintergründe entwickelt,\nkönnen aber auch auf jeder anderen Benutzeroberfläche verwendet werden, solange\ndas HSL Lightnesslevel passt. Light und Dark bestehen aus 8 Abstufungen, die in\n12,5 %-Schritte unterteilt sind. Light und Dark dürfen nur mit den dafür\nvorgesehenen Components verwendet werden. Zum Beispiel sind die Light und Dark\nColor in den folgenden Components zu finden:\n", _jsx(_components.a, {
+      children: ["Light und Dark Colors wurden speziell für den Einsatz auf farbigen Hintergründen oder Bildern entwickelt. Sie bestehen aus jeweils 8 transparenten Abstufungen. Da die Farben auf Transparenzen basieren, muss der Kontrast zur jeweiligen Hintergrundfarbe eigenständig auf Barrierefreiheit geprüft werden. Aus diesem Grund stehen sie nur in definierten Components zur Verfügung, beispielsweise im ", _jsx(_components.a, {
         href: "/04-components/actions/button/overview",
         children: "Button"
-      }), ",\n", _jsx(_components.a, {
-        href: "/04-components/content/heading/overview",
-        children: "Heading"
-      }), ",\n", _jsx(_components.a, {
-        href: "/04-components/content/illustrated-message/overview",
-        children: "IllustratedMessage"
-      }), ",\n", _jsx(_components.a, {
-        href: "/04-components/navigation/header-navigation/overview",
-        children: "HeaderNavigation"
-      }), " und\n", _jsx(_components.a, {
-        href: "/04-components/navigation/link/overview",
-        children: "Link"
       }), "."]
+    }), "\n", _jsx(_components.p, {
+      children: "Die Verwendung orientiert sich am HSL-Farbmodell. HSL steht für Hue, Saturation und Lightness. Für die Auswahl von Light oder Dark ist ausschließlich der Lightness-Wert relevant. Er beschreibt die wahrgenommene Helligkeit einer Farbe auf einer Skala von 0 bis 100."
+    }), "\n", _jsxs(_components.p, {
+      children: ["Als Schwellenwert gilt 50. Liegt der Lightness-Wert ", _jsx(_components.strong, {
+        children: "unter 50"
+      }), ", sollte ", _jsx(_components.strong, {
+        children: "Light"
+      }), " verwendet. Liegt der Lightness-Wert ", _jsx(_components.strong, {
+        children: "über 50"
+      }), ", sollte  ", _jsx(_components.strong, {
+        children: "Dark"
+      }), " verwendet."]
+    }), "\n", _jsx(_components.p, {
+      children: "Grundsätzlich gilt: Je weiter der Lightness-Wert vom Schwellenwert 50 entfernt ist, desto größer ist in der Regel der erreichbare Kontrast. Werte deutlich unter 50 verbessern den Kontrast mit Light, Werte deutlich über 50 verbessern den Kontrast mit Dark."
+    }), "\n", _jsx(_components.h2, {
+      children: "Light"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende die Light-Color, bei dunklen Hintergründen mit einem HSL Lightness-Wert von weniger als 50."
+    }), "\n", _jsx(_components.p, {
+      children: "[Table]"
+    }), "\n", _jsx(_components.h2, {
+      children: "Dark"
+    }), "\n", _jsx(_components.p, {
+      children: "Verwende die Dark-Color, bei hellen, farbigen Hintergründen mit einem HSL Lightness-Wert von größer als 50."
+    }), "\n", _jsx(_components.p, {
+      children: "[Table]"
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Categorical Color"
     }), "\n", _jsx(_components.p, {
@@ -165,8 +149,8 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"cwoQwqsBWq1VtxxNrU8d1","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Color"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Ausgewählte Colors verkörpern die Marke und dienen gleichzeitig als wesentliches\\nKommunikationsmittel in der Benutzeroberfläche. Sie lenken die Aufmerksamkeit\\ndes Users und vermitteln gezielt wichtige Informationen wie z. B. den Status.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Color"},"scope":{}},"examples":{},"slugs":["01-design","02-colors"],"filename":"01-design/02-colors/index.mdx","anchors":[]}}]]}]}],["$","$L7",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["01-design","02-colors"],"filename":"01-design/02-colors/overview.mdx","anchors":[{"slug":"color-palette","text":"Color palette","level":2},{"slug":"brand-color","text":"Brand Color","level":2},{"slug":"brand-color-hosting-blue","text":"Hosting Blue","level":3},{"slug":"brand-color-mittwald-navy","text":"mittwald Navy","level":3},{"slug":"functional-color","text":"Functional Color","level":2},{"slug":"functional-color-espelkamp-green","text":"Espelkamp Green","level":3},{"slug":"functional-color-royal-orange","text":"Royal Orange","level":3},{"slug":"functional-color-amaranth-red","text":"Amaranth Red","level":3},{"slug":"neutral-color","text":"Neutral Color","level":2},{"slug":"neutral-color-gray","text":"Gray","level":3},{"slug":"decorative-color","text":"Decorative Color","level":2},{"slug":"decorative-color-soft-contrast-violet","text":"Soft Contrast Violet","level":3},{"slug":"decorative-color-super-teal","text":"Super Teal","level":3},{"slug":"decorative-color-bright-lilac","text":"Bright Lilac","level":3},{"slug":"light-und-dark-color","text":"Light und Dark Color","level":2},{"slug":"categorical-color","text":"Categorical Color","level":2}]}}]}],"$L9"]}]],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
-9:["$","$Lc",null,{"currentPath":"/02-foundations/01-design/02-colors","anchors":[{"slug":"color-palette","text":"Color palette","level":2},{"slug":"brand-color","text":"Brand Color","level":2},{"slug":"brand-color-hosting-blue","text":"Hosting Blue","level":3},{"slug":"brand-color-mittwald-navy","text":"mittwald Navy","level":3},{"slug":"functional-color","text":"Functional Color","level":2},{"slug":"functional-color-espelkamp-green","text":"Espelkamp Green","level":3},{"slug":"functional-color-royal-orange","text":"Royal Orange","level":3},{"slug":"functional-color-amaranth-red","text":"Amaranth Red","level":3},{"slug":"neutral-color","text":"Neutral Color","level":2},{"slug":"neutral-color-gray","text":"Gray","level":3},{"slug":"decorative-color","text":"Decorative Color","level":2},{"slug":"decorative-color-soft-contrast-violet","text":"Soft Contrast Violet","level":3},{"slug":"decorative-color-super-teal","text":"Super Teal","level":3},{"slug":"decorative-color-bright-lilac","text":"Bright Lilac","level":3},{"slug":"light-und-dark-color","text":"Light und Dark Color","level":2},{"slug":"categorical-color","text":"Categorical Color","level":2}],"title":"Color"}]
-a:["$","script","script-0",{"src":"/flow-previews/docs/2338/merge/_next/static/chunks/d38f50391beea4d2.js","async":true}]
+0:{"buildId":"-6So2o8c4gp9WFv-0GFdh","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Color"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Ausgewählte Colors verkörpern die Marke und dienen gleichzeitig als wesentliches\\nKommunikationsmittel in der Benutzeroberfläche. Sie lenken die Aufmerksamkeit\\ndes Users und vermitteln gezielt wichtige Informationen wie z. B. den Status.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Color"},"scope":{}},"examples":{},"slugs":["01-design","02-colors"],"filename":"01-design/02-colors/index.mdx","anchors":[]}}]]}]}],["$","$L7",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["01-design","02-colors"],"filename":"01-design/02-colors/overview.mdx","anchors":[{"slug":"base-colors","text":"Base Colors","level":2},{"slug":"base-colors-neutral-color","text":"Neutral Color","level":3},{"slug":"base-colors-hosting-blue","text":"Hosting Blue","level":3},{"slug":"functional-color","text":"Functional Color","level":2},{"slug":"functional-color-espelkamp-green","text":"Espelkamp Green","level":3},{"slug":"functional-color-royal-orange","text":"Royal Orange","level":3},{"slug":"functional-color-amaranth-red","text":"Amaranth Red","level":3},{"slug":"decorative-color","text":"Decorative Color","level":2},{"slug":"decorative-color-soft-contrast-violet","text":"Soft Contrast Violet","level":3},{"slug":"decorative-color-super-teal","text":"Super Teal","level":3},{"slug":"decorative-color-bright-lilac","text":"Bright Lilac","level":3},{"slug":"decorative-color-mittwald-navy","text":"mittwald Navy","level":3},{"slug":"light-und-dark-color","text":"Light und Dark Color","level":2},{"slug":"light-und-dark-color-light","text":"Light","level":3},{"slug":"light-und-dark-color-dark","text":"Dark","level":3},{"slug":"categorical-color","text":"Categorical Color","level":2}]}}]}],"$L9"]}]],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+9:["$","$Lc",null,{"currentPath":"/02-foundations/01-design/02-colors","anchors":[{"slug":"base-colors","text":"Base Colors","level":2},{"slug":"base-colors-neutral-color","text":"Neutral Color","level":3},{"slug":"base-colors-hosting-blue","text":"Hosting Blue","level":3},{"slug":"functional-color","text":"Functional Color","level":2},{"slug":"functional-color-espelkamp-green","text":"Espelkamp Green","level":3},{"slug":"functional-color-royal-orange","text":"Royal Orange","level":3},{"slug":"functional-color-amaranth-red","text":"Amaranth Red","level":3},{"slug":"decorative-color","text":"Decorative Color","level":2},{"slug":"decorative-color-soft-contrast-violet","text":"Soft Contrast Violet","level":3},{"slug":"decorative-color-super-teal","text":"Super Teal","level":3},{"slug":"decorative-color-bright-lilac","text":"Bright Lilac","level":3},{"slug":"decorative-color-mittwald-navy","text":"mittwald Navy","level":3},{"slug":"light-und-dark-color","text":"Light und Dark Color","level":2},{"slug":"light-und-dark-color-light","text":"Light","level":3},{"slug":"light-und-dark-color-dark","text":"Dark","level":3},{"slug":"categorical-color","text":"Categorical Color","level":2}],"title":"Color"}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2338/merge/_next/static/chunks/54d9bd61ae27d7af.js","async":true}]
 b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
 f:null
