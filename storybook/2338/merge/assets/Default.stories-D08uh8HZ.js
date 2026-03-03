@@ -1,0 +1,18 @@
+import{j as r}from"./iframe-BZ1p44Xs.js";import{L as m}from"./LayoutCard-vCg_JBJq.js";import{T as c,a as e,b as p}from"./Tab-CDHNZhK8.js";import{S as a}from"./Section-DYkPYl1t.js";import{T as s}from"./Text-CplKG2wk.js";import{d as n}from"./dummyText-CX_I_Wpl.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-DJzVmXlH.js";import"./index-CP4XrxM9.js";import"./index-39FgH5sT.js";import"./useRef-Cx2IQloG.js";import"./Button-BXzJaHaH.js";import"./IconWarning-BeCXg6tW.js";import"./remote-BEHhGsYi.js";import"./LoadingSpinner-C6Zwv4pY.js";import"./LiveAnnouncer-Cy654hVN.js";import"./useLocalizedStringFormatter-DIeJHpIF.js";import"./context-C5KsUqFD.js";import"./Button-DOqybSdu.js";import"./utils-Cc2PUaBi.js";import"./ProgressBar-B4598OFN.js";import"./Label-9zEXlfwO.js";import"./Hidden-VD2bsukW.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-CnpKVv_a.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-CQ2PTrK5.js";import"./useFocus-O4gnqY9s.js";import"./useFocusRing-vNPEpCai.js";import"./useFocusable-BXiUGBNe.js";import"./ContextMenuTriggerView-Cz8K08k4.js";import"./ContextMenuTrigger-rOh1KcX0.js";import"./OverlayTrigger-DzQUlxLA.js";import"./Dialog-DlxSrM7S.js";import"./RSPContexts-C2tYRgOg.js";import"./OverlayArrow-DcvNa8Le.js";import"./useControlledState-CZ5q_fud.js";import"./Collection-C32khOyt.js";import"./CollectionBuilder-BsYN8aRw.js";import"./SelectionIndicator-CGKICc1u.js";import"./Separator-edxS6LV2.js";import"./Text-DOPFHCGV.js";import"./SelectionManager-BMIvnbkU.js";import"./useCollator-D08tnIgu.js";import"./FocusScope-C1V2bg9k.js";import"./VisuallyHidden-7tUyfyiG.js";import"./useOverlayController-Dfa0MUCA.js";import"./useStatic-BVYP0IGX.js";import"./OverlayContextProvider-1UbC6cTJ.js";import"./ContextMenuView-DfE9CC6P.js";import"./MenuItem-BgzEiv_9.js";import"./ActionBatch-kp--iEDz.js";import"./browser-N7XS9wRL.js";import"./getActionGroupSlot-D6uph6L1.js";import"./dynamic-BvoZFGdS.js";import"./ContextMenuSection-FMJg67QM.js";import"./Popover-CWPz-1RW.js";import"./Switch-C5Kq8j5J.js";import"./useFieldComponent-CdmiPNAX.js";import"./Label.module-CUYTf9Jc.js";import"./useToggleState-DudHCVeE.js";import"./useFormReset-zSbsyNkN.js";import"./Activity--cBqpy2O.js";import"./inertValue-C1QIQuKx.js";import"./useHasTabbableChild-BPF2_WzA.js";import"./useSingleSelectListState-MkXC4Mb0.js";import"./useListState-DphkU8Wk.js";import"./EmulatedBoldText-VgOMGZVr.js";const Er={title:"Structure/Layout Card",component:m,render:i=>r.jsx(m,{...i,children:"Layout Card is a structure element that can contain any content"}),parameters:{controls:{disable:!0}},globals:{backgrounds:"light"}},t={},o={render:i=>r.jsx(m,{...i,children:r.jsxs(c,{children:[r.jsxs(e,{id:"general",children:[r.jsx(p,{children:"General"}),r.jsx(a,{children:r.jsx(s,{children:n.long})})]}),r.jsxs(e,{id:"storage",children:[r.jsx(p,{children:"Storage"}),r.jsx(a,{children:r.jsx(s,{children:n.long})})]})]})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <LayoutCard {...props}>
+      <Tabs>
+        <Tab id="general">
+          <TabTitle>General</TabTitle>
+          <Section>
+            <Text>{dummyText.long}</Text>
+          </Section>
+        </Tab>
+        <Tab id="storage">
+          <TabTitle>Storage</TabTitle>
+          <Section>
+            <Text>{dummyText.long}</Text>
+          </Section>
+        </Tab>
+      </Tabs>
+    </LayoutCard>
+}`,...o.parameters?.docs?.source}}};const Gr=["Default","WithTabs"];export{t as Default,o as WithTabs,Gr as __namedExportsOrder,Er as default};
