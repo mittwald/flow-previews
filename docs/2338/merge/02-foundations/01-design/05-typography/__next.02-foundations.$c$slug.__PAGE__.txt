@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"LayoutCard"]
-3:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"ColumnLayout"]
-4:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"Section"]
-5:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"Heading"]
-6:I[579932,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"default"]
-7:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"Flex"]
-c:I[142373,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/46e2ed8e1114699c.js","/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js"],"default"]
+2:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"LayoutCard"]
+3:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"ColumnLayout"]
+4:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"Section"]
+5:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"Heading"]
+6:I[579932,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"default"]
+7:I[39682,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"Flex"]
+c:I[142373,["/flow-previews/docs/2338/merge/_next/static/chunks/7b440612ea2e53dd.js","/flow-previews/docs/2338/merge/_next/static/chunks/cbf5394f565a3418.js","/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js"],"default"]
 d:I[650262,["/flow-previews/docs/2338/merge/_next/static/chunks/59e05f9488a308fd.js","/flow-previews/docs/2338/merge/_next/static/chunks/a910f90d4da3085f.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
-8:T2c2c,"use strict";
+8:T2c3d,"use strict";
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -38,28 +38,28 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Flow nutzt die Schriftfamilie ", _jsx(_components.strong, {
         children: "Inter"
-      }), ", die für Bildschirmdarstellung optimiert ist und auch in kleinen Größen gut lesbar bleibt. Die einheitliche Verwendung sorgt für ein ruhiges, konsistentes Erscheinungsbild."]
+      }), ", die für Bildschirmdarstellung optimiert\nist und auch in kleinen Größen gut lesbar bleibt. Die einheitliche Verwendung\nsorgt für ein ruhiges, konsistentes Erscheinungsbild."]
     }), "\n", _jsxs(_components.p, {
       children: ["Für Fließtexte wird ", _jsx(_components.strong, {
         children: "Regular"
       }), ", für Überschriften und Hervorhebungen ", _jsx(_components.strong, {
         children: "Bold"
-      }), " eingesetzt. Eine Zeilenhöhe (line height) von 150 Prozent zur Schriftgröße (font size) verbessert die Lesbarkeit und unterstützt die Barrierefreiheit. Abweichungen sind nur in Ausnahmefällen vorgesehen."]
+      }), "\neingesetzt. Eine Zeilenhöhe (line height) von 150 Prozent zur Schriftgröße (font\nsize) verbessert die Lesbarkeit und unterstützt die Barrierefreiheit.\nAbweichungen sind nur in Ausnahmefällen vorgesehen."]
     }), "\n", _jsxs(_components.p, {
       children: ["Alle Schriftgrößen werden in ", _jsx(_components.strong, {
         children: "REM"
-      }), " definiert. So bleiben Texte skalierbar, reagieren auf Zoom und berücksichtigen individuelle Systemeinstellungen."]
+      }), " definiert. So bleiben Texte skalierbar,\nreagieren auf Zoom und berücksichtigen individuelle Systemeinstellungen."]
     }), "\n", _jsx(_components.hr, {}), "\n", _jsx(_components.h1, {
       children: "Schriftgrößen und Hierarchie"
     }), "\n", _jsx(_components.p, {
-      children: "Eine klare typografische Hierarchie hilft dabei, Inhalte strukturiert und schnell erfassbar zu machen."
+      children: "Eine klare typografische Hierarchie hilft dabei, Inhalte strukturiert und\nschnell erfassbar zu machen."
     }), "\n", _jsx(_components.h2, {
       children: "Headings"
     }), "\n", _jsxs(_components.p, {
       children: [_jsx(_components.a, {
         href: "/04-components/content/heading/overview",
         children: "Headings"
-      }), " strukturieren Inhalte und definieren Abschnitte. Jede Stufe hat eine semantische Bedeutung und sollte entsprechend eingesetzt werden. H1 ist die oberste inhaltliche Ebene einer Seite."]
+      }), " strukturieren Inhalte und\ndefinieren Abschnitte. Jede Stufe hat eine semantische Bedeutung und sollte\nentsprechend eingesetzt werden. H1 ist die oberste inhaltliche Ebene einer\nSeite."]
     }), "\n", _jsxs(_components.table, {
       children: [_jsx(_components.thead, {
         children: _jsxs(_components.tr, {
@@ -160,7 +160,7 @@ function _createMdxContent(props) {
       children: [_jsx(_components.a, {
         href: "/04-components/content/text/overview",
         children: "Text"
-      }), " wird für Fließtexte, Beschreibungen und längere Inhalte verwendet. Small eignet sich für unterstützende oder sekundäre Informationen. Um Inhalte übersichtlich und schnell erfassbar zu gestalten, lassen sich zentrale Informationen durch Bold gezielt hervorheben."]
+      }), " wird für Fließtexte, Beschreibungen\nund längere Inhalte verwendet. Small eignet sich für unterstützende oder\nsekundäre Informationen. Um Inhalte übersichtlich und schnell erfassbar zu\ngestalten, lassen sich zentrale Informationen durch Bold gezielt hervorheben."]
     }), "\n", _jsxs(_components.table, {
       children: [_jsx(_components.thead, {
         children: _jsxs(_components.tr, {
@@ -229,7 +229,7 @@ function _createMdxContent(props) {
       children: [_jsx(_components.a, {
         href: "/04-components/navigation/link/overview",
         children: "Links"
-      }), " werden je nach Kontext unterschiedlich gekennzeichnet. Freistehende Verlinkungen sind visuell in Bold hervorgehoben, während sie im Fließtext durch Unterstreichung kenntlich gemacht werden."]
+      }), " werden je nach Kontext\nunterschiedlich gekennzeichnet. Freistehende Verlinkungen sind visuell in Bold\nhervorgehoben, während sie im Fließtext durch Unterstreichung kenntlich gemacht\nwerden."]
     }), "\n", _jsxs(_components.table, {
       children: [_jsx(_components.thead, {
         children: _jsxs(_components.tr, {
@@ -274,7 +274,7 @@ function _createMdxContent(props) {
     }), "\n", _jsxs(_components.p, {
       children: ["Für eine technische Darstellung von Code wird die Schrift ", _jsx(_components.strong, {
         children: "Fira Code"
-      }), " eingesetzt."]
+      }), "\neingesetzt."]
     }), "\n", _jsxs(_components.table, {
       children: [_jsx(_components.thead, {
         children: _jsxs(_components.tr, {
@@ -322,8 +322,8 @@ return {
 function _missingMdxReference(id, component) {
   throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
 }
-0:{"buildId":"gZ3t7Q6Z3qph8ZjYaxvZ2","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Typography"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Typography strukturiert den Inhaltsbereich, indem sie eine visuelle Hierarchie\\nschafft. Darüber hinaus erhöht eine gute Typography die Lesbarkeit und stärkt\\ndie Marke im Erscheinungsbild.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Typography"},"scope":{}},"examples":{},"slugs":["01-design","05-typography"],"filename":"01-design/05-typography/index.mdx","anchors":[]}}]]}]}],["$","$L7",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["01-design","05-typography"],"filename":"01-design/05-typography/overview.mdx","anchors":[{"slug":"allgemein","text":"Allgemein","level":2},{"slug":"schriftgrossen-und-hierarchie","text":"Schriftgrößen und Hierarchie","level":2},{"slug":"schriftgrossen-und-hierarchie-headings","text":"Headings","level":3},{"slug":"schriftgrossen-und-hierarchie-body","text":"Body","level":3}]}}]}],"$L9"]}]],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+0:{"buildId":"O4h_GU6nQ5ptliRqD5wYQ","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__topContent","children":["$","$L3",null,{"l":[1],"m":[1],"children":[["$","$L4",null,{"children":[["$","$L5",null,{"level":1,"children":"Typography"}],"$undefined","$undefined"]}],["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nconst {useMDXComponents: _provideComponents} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ..._provideComponents(),\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Typography strukturiert den Inhaltsbereich, indem sie eine visuelle Hierarchie\\nschafft. Darüber hinaus erhöht eine gute Typography die Lesbarkeit und stärkt\\ndie Marke im Erscheinungsbild.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = {\n    ..._provideComponents(),\n    ...props.components\n  };\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n","frontmatter":{"title":"Typography"},"scope":{}},"examples":{},"slugs":["01-design","05-typography"],"filename":"01-design/05-typography/index.mdx","anchors":[]}}]]}]}],["$","$L7",null,{"columnGap":"m","children":[["$","$L2",null,{"className":"layout-module-scss-module__9bQamG__mainContent","children":["$","$L6",null,{"mdxFile":{"mdxSource":{"compiledSource":"$8","frontmatter":{},"scope":{}},"examples":{},"slugs":["01-design","05-typography"],"filename":"01-design/05-typography/overview.mdx","anchors":[{"slug":"allgemein","text":"Allgemein","level":2},{"slug":"schriftgrossen-und-hierarchie","text":"Schriftgrößen und Hierarchie","level":2},{"slug":"schriftgrossen-und-hierarchie-headings","text":"Headings","level":3},{"slug":"schriftgrossen-und-hierarchie-body","text":"Body","level":3}]}}]}],"$L9"]}]],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
 9:["$","$Lc",null,{"currentPath":"/02-foundations/01-design/05-typography","anchors":[{"slug":"allgemein","text":"Allgemein","level":2},{"slug":"schriftgrossen-und-hierarchie","text":"Schriftgrößen und Hierarchie","level":2},{"slug":"schriftgrossen-und-hierarchie-headings","text":"Headings","level":3},{"slug":"schriftgrossen-und-hierarchie-body","text":"Body","level":3}],"title":"Typography"}]
-a:["$","script","script-0",{"src":"/flow-previews/docs/2338/merge/_next/static/chunks/dc393c06cb6f8251.js","async":true}]
+a:["$","script","script-0",{"src":"/flow-previews/docs/2338/merge/_next/static/chunks/7c8f48f5904424d6.js","async":true}]
 b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
 f:null
