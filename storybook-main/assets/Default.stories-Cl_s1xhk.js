@@ -1,0 +1,49 @@
+import{j as o}from"./iframe-CCG9iH9q.js";import{H as e}from"./Heading-DiIAAbeS.js";import{a5 as l}from"./IconWarning-CKuAFgzi.js";import{S as d}from"./Section-DbhTGHPe.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-DtMp-09u.js";import"./index-rcZGBqb0.js";import"./index-DO8RY2JU.js";import"./Heading-DVHr5WNM.js";import"./RSPContexts-Cj7-Wn-7.js";import"./utils-BqjYSsY0.js";import"./remote-BNVNDlip.js";import"./ContextMenuSection-DkVhFe3O.js";import"./ActionBatch-BwDlid4r.js";import"./useOverlayController-B8ExGaeg.js";import"./useStatic-DZaf9Eli.js";import"./browser-DlPLk6Tx.js";import"./getActionGroupSlot-ZV4GNxDq.js";import"./dynamic-DVtvH1qO.js";import"./Dialog-Bvzkt_Dq.js";import"./Button-BmDLEeLi.js";import"./ProgressBar-NeUI6tVT.js";import"./Label-Bqehi3yR.js";import"./Hidden-DP_c1-uJ.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-CWkbOtE9.js";import"./context-BOE3Zx9s.js";import"./NumberFormatter-DNR9MAW-.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-C9nCYq1D.js";import"./useFocus-DQtiJNjW.js";import"./useFocusRing-DEew3vp8.js";import"./useFocusable-C9iBP5e4.js";import"./OverlayArrow-O5F9zlGE.js";import"./useControlledState-DQCduMNG.js";import"./Collection-BppDt4cQ.js";import"./CollectionBuilder--dOyJv1i.js";import"./SelectionIndicator-CG-R7p16.js";import"./Separator-IezdCtOl.js";import"./Text-CsZp0s5y.js";import"./SelectionManager-BQan4uct.js";import"./useEvent-CqAdQvXR.js";import"./useCollator-C1I9ImG_.js";import"./FocusScope-CGp51FRM.js";import"./useLocalizedStringFormatter-BayblNF2.js";import"./VisuallyHidden-B8BDvwZm.js";const tr={title:"Content/Heading",component:e,argTypes:{level:{control:"inline-radio",options:[1,2,3,4,5,6]},size:{control:"inline-radio",options:["xs","s","m","l","xl","xxl"]},color:{control:"inline-radio",options:["primary","dark","light"]}},args:{level:2},render:r=>o.jsxs(e,{...r,children:["I am a H",r.level," Heading"]})},a={},n={render:r=>o.jsxs(e,{...r,children:[o.jsx(l,{}),"Personal Information"]})},s={args:{level:1,size:"xxl"},render:r=>o.jsxs(e,{level:1,size:"xxl",...r,children:[o.jsx(l,{}),"Personal Information"]})},t={args:{color:"dark"},globals:{backgrounds:"light"}},i={args:{color:"light"},globals:{backgrounds:"dark"}},p={args:{color:"danger"}},m={args:{color:"unavailable"}},c={render:r=>o.jsxs(d,{children:[o.jsx(e,{...r,children:"Personal Information of the current user"}),o.jsx(e,{...r,wrap:"balance",children:"Personal Information of the current user"})]}),parameters:{viewport:{defaultViewport:"mobile2"}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:"{}",...a.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  render: props => <Heading {...props}>
+      <IconMember />
+      Personal Information
+    </Heading>
+}`,...n.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    level: 1,
+    size: "xxl"
+  },
+  render: props => <Heading level={1} size="xxl" {...props}>
+      <IconMember />
+      Personal Information
+    </Heading>
+}`,...s.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "dark"
+  },
+  globals: {
+    backgrounds: "light"
+  }
+}`,...t.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "light"
+  },
+  globals: {
+    backgrounds: "dark"
+  }
+}`,...i.parameters?.docs?.source}}};p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "danger"
+  }
+}`,...p.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  args: {
+    color: "unavailable"
+  }
+}`,...m.parameters?.docs?.source}}};c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  render: props => <Section>
+      <Heading {...props}>Personal Information of the current user</Heading>
+      <Heading {...props} wrap="balance">
+        Personal Information of the current user
+      </Heading>
+    </Section>,
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile2"
+    }
+  }
+}`,...c.parameters?.docs?.source}}};const ir=["Default","WithIcon","WithCustomSize","Dark","Light","Danger","Unavailable","Wrap"];export{p as Danger,t as Dark,a as Default,i as Light,m as Unavailable,s as WithCustomSize,n as WithIcon,c as Wrap,ir as __namedExportsOrder,tr as default};
