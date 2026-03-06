@@ -1,0 +1,12 @@
+import{j as r}from"./iframe-DBOgS3cI.js";import{S as a}from"./Slider-DDzl6xm4.js";import{L as m}from"./Label-DEbA9P8V.js";import"./preload-helper-PPVm8Dsz.js";import"./flowComponent-D2rRGmRJ.js";import"./index-Swo0Tmsl.js";import"./clsx-B-dksMZM.js";import"./index-2oGrDlIx.js";import"./Button-DeSyDtjE.js";import"./IconWarning-Bt9IWQ3I.js";import"./remote-CBP3xLJb.js";import"./Text-V6WF8rgy.js";import"./browser-aVPMedyb.js";import"./EmulatedBoldText-DZYRdmWA.js";import"./Text-TZlAM5yA.js";import"./utils-BhJeINWq.js";import"./LoadingSpinner-BMYl670W.js";import"./LiveAnnouncer-Cy654hVN.js";import"./useLocalizedStringFormatter-BAHslQ_i.js";import"./context-BFw_9KSH.js";import"./Button-Dkv5VJcx.js";import"./ProgressBar-CW3L6DbF.js";import"./Label-DiLXicnZ.js";import"./Hidden-DDnoFhwK.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-ClWLYl61.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-me2_PexI.js";import"./useFocus-C3U4okCI.js";import"./useFocusRing-CgHq_nb-.js";import"./useFocusable-Jw6d-A2p.js";import"./useFieldComponent-pONIfnVv.js";import"./useControlledState-Pjvp5Vn-.js";import"./useFormReset-M_TceD0b.js";import"./VisuallyHidden-CQS9Xiyf.js";import"./Label.module-CUYTf9Jc.js";const H={title:"Form Controls/Slider",component:a,render:e=>r.jsx(a,{...e,defaultValue:20,children:r.jsx(m,{children:"Amount"})}),args:{isDisabled:!1,isReadOnly:!1}},t={},o={render:e=>r.jsx(a,{...e,formatOptions:{style:"unit",unit:"gigabyte"},minValue:20,maxValue:2e3,defaultValue:200,step:20,children:r.jsx(m,{children:"Storage"})})},i={render:e=>r.jsx(a,{...e,showInitialMarker:!0,defaultValue:20,children:r.jsx(m,{children:"Amount"})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} minValue={20} maxValue={2000} defaultValue={200} step={20}>
+      <Label>Storage</Label>
+    </Slider>
+}`,...o.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} showInitialMarker defaultValue={20}>
+      <Label>Amount</Label>
+    </Slider>
+}`,...i.parameters?.docs?.source}}};const J=["Default","WithUnit","WithInitialMarker"];export{t as Default,i as WithInitialMarker,o as WithUnit,J as __namedExportsOrder,H as default};

@@ -1,0 +1,14 @@
+import{j as r}from"./iframe-DBOgS3cI.js";import{C as i}from"./CodeBlock-Chx6Q9ME.js";import{d as m}from"./dummyText-CX_I_Wpl.js";import{C as n}from"./Color-Dhb7allB.js";import{S as p}from"./StoryBackground-KvMmkpZj.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./CopyButton-BXqbxScp.js";import"./Button-DeSyDtjE.js";import"./flowComponent-D2rRGmRJ.js";import"./index-Swo0Tmsl.js";import"./index-2oGrDlIx.js";import"./IconWarning-Bt9IWQ3I.js";import"./remote-CBP3xLJb.js";import"./Text-V6WF8rgy.js";import"./browser-aVPMedyb.js";import"./EmulatedBoldText-DZYRdmWA.js";import"./Text-TZlAM5yA.js";import"./utils-BhJeINWq.js";import"./LoadingSpinner-BMYl670W.js";import"./LiveAnnouncer-Cy654hVN.js";import"./useLocalizedStringFormatter-BAHslQ_i.js";import"./context-BFw_9KSH.js";import"./Button-Dkv5VJcx.js";import"./ProgressBar-CW3L6DbF.js";import"./Label-DiLXicnZ.js";import"./Hidden-DDnoFhwK.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-ClWLYl61.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-me2_PexI.js";import"./useFocus-C3U4okCI.js";import"./useFocusRing-CgHq_nb-.js";import"./useFocusable-Jw6d-A2p.js";import"./Tooltip-BMbUJuQE.js";import"./OverlayArrow-B-9JWNCe.js";import"./useControlledState-Pjvp5Vn-.js";import"./react-children-utilities-BFfj2OK9.js";import"./ActionBatch-C1BOMxBF.js";import"./useOverlayController-CBPma3tn.js";import"./useStatic-_FEyJ1iK.js";import"./getActionGroupSlot-BVP40Z09.js";import"./dynamic-Daa1kuSR.js";const Y={title:"Content/CodeBlock",component:i,parameters:{controls:{exclude:["code","language","style","customStyle","codeTagProps","useInlineStyles","showInlineLineNumbers","startingLineNumber","lineNumberStyle","lineNumberContainerStyle","wrapLines","wrapLongLines","lineProps","renderer","PreTag","CodeTag"]}},args:{copyable:!1,showLineNumbers:!1},argTypes:{color:{control:"inline-radio",options:["default","dark","light"]},showLineNumbers:{control:"boolean"}},render:o=>r.jsx(p,{color:o.color,children:r.jsx(i,{language:"json",...o,code:`{
+    "projectId": "b3a96db5-ba8f-40dd-9100-bab43ac1f698",
+    "name": "My Project"
+}`})})},e={},t={render:o=>r.jsx(p,{color:o.color,children:r.jsxs(i,{children:[m.medium,r.jsx("br",{}),r.jsx(n,{color:"danger",children:m.medium}),r.jsx("br",{}),m.medium]})})};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  render: props => <StoryBackground color={props.color}>
+      <CodeBlock>
+        {dummyText.medium}
+        <br />
+        <Color color="danger">{dummyText.medium}</Color>
+        <br />
+        {dummyText.medium}
+      </CodeBlock>
+    </StoryBackground>
+}`,...t.parameters?.docs?.source}}};const Z=["Default","WithChildren"];export{e as Default,t as WithChildren,Z as __namedExportsOrder,Y as default};
