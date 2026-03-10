@@ -1,0 +1,1 @@
+import{j as i}from"./iframe-BOfxQ126.js";import{O as s}from"./OverlayTrigger-ClVCYjM8.js";import{D as t}from"./DialogTriggerView-Cp6VmI0E.js";const a=r=>{const{children:o,...e}=r;return i.jsx(s,{overlayType:"Modal",...e,component:t,children:o})};a.__docgenInfo={description:"",methods:[],displayName:"ModalTrigger"};export{a as M};
