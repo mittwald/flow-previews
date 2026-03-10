@@ -1,0 +1,70 @@
+import{j as e}from"./iframe-Bge_iwzq.js";import{P as t}from"./ProgressBar-Bj-0RZrE.js";import{L as a}from"./Label-DsCIDP_n.js";import"./preload-helper-PPVm8Dsz.js";import"./clsx-B-dksMZM.js";import"./flowComponent-MzGAW5sa.js";import"./index-CO3RD-KI.js";import"./index-Dbbom8kG.js";import"./ProgressBar-VjbUKBDb.js";import"./utils-rhPAe061.js";import"./Label-CCD88BdD.js";import"./Hidden-CDcFNb6q.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-ltgoN8N_.js";import"./context-gG1Mi2B7.js";import"./NumberFormatter-DNR9MAW-.js";import"./useLocalizedStringFormatter-BBcItmf2.js";import"./getCategoricalColorByIndex-BIvTpnTO.js";import"./Legend-TVSGPckL.js";import"./Text-Bo3CKbUr.js";import"./browser-EEHoGSlH.js";import"./EmulatedBoldText-D9nC6wju.js";import"./Text-70WXc8nw.js";import"./Label.module-CUYTf9Jc.js";const A={title:"Status/ProgressBar",component:t,args:{showMaxValue:!1,size:"m",status:"info"},argTypes:{status:{control:"inline-radio",options:["info","success","warning","danger"]},size:{control:"inline-radio",options:["s","m","l"]}},render:r=>e.jsx(t,{value:500,maxValue:1e3,minValue:0,formatOptions:{style:"unit",unit:"gigabyte"},...r,children:e.jsx(a,{children:"Storage"})})},s={},n={render:r=>e.jsx(t,{value:50,...r,children:e.jsx(a,{children:"Storage"})})},o={render:r=>e.jsx(t,{value:500,maxValue:1e3,minValue:0,formatOptions:{style:"decimal"},...r,children:e.jsx(a,{children:"Storage"})})},l={parameters:{controls:{exclude:["status"]}},render:r=>e.jsx(t,{...r,segments:[{title:"Item 1",value:5},{title:"Item 2",value:10},{title:"Item 3",value:4},{title:"Item 4",value:7},{title:"Item 5",value:12},{title:"Item 6",value:24},{title:"Item 7",value:5},{title:"Item 8",value:8}],children:e.jsx(a,{children:"Storage"})})},i={parameters:{controls:{exclude:["status"]}},render:r=>e.jsx(t,{...r,formatOptions:{style:"unit",unit:"gigabyte"},maxValue:60,segments:[{title:"Backups",value:20},{title:"Databases",value:30}],children:e.jsx(a,{children:"Storage"})})},m={render:r=>e.jsx(t,{value:500,maxValue:1e3,minValue:0,valueLabel:"500 / 1000 GB",...r,children:e.jsx(a,{children:"Storage"})})};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:"{}",...s.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  render: props => <ProgressBar value={50} {...props}>
+      <Label>Storage</Label>
+    </ProgressBar>
+}`,...n.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <ProgressBar value={500} maxValue={1000} minValue={0} formatOptions={{
+    style: "decimal"
+  }} {...props}>
+      <Label>Storage</Label>
+    </ProgressBar>
+}`,...o.parameters?.docs?.source}}};l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`{
+  parameters: {
+    controls: {
+      exclude: ["status"]
+    }
+  },
+  render: props => <ProgressBar {...props} segments={[{
+    title: "Item 1",
+    value: 5
+  }, {
+    title: "Item 2",
+    value: 10
+  }, {
+    title: "Item 3",
+    value: 4
+  }, {
+    title: "Item 4",
+    value: 7
+  }, {
+    title: "Item 5",
+    value: 12
+  }, {
+    title: "Item 6",
+    value: 24
+  }, {
+    title: "Item 7",
+    value: 5
+  }, {
+    title: "Item 8",
+    value: 8
+  }]}>
+      <Label>Storage</Label>
+    </ProgressBar>
+}`,...l.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  parameters: {
+    controls: {
+      exclude: ["status"]
+    }
+  },
+  render: props => <ProgressBar {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} maxValue={60} segments={[{
+    title: "Backups",
+    value: 20
+  }, {
+    title: "Databases",
+    value: 30
+  }]}>
+      <Label>Storage</Label>
+    </ProgressBar>
+}`,...i.parameters?.docs?.source}}};m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const value = 500;
+    const maxValue = 1000;
+    return <ProgressBar value={value} maxValue={maxValue} minValue={0} valueLabel={\`\${value} / \${maxValue} GB\`} {...props}>
+        <Label>Storage</Label>
+      </ProgressBar>;
+  }
+}`,...m.parameters?.docs?.source}}};const E=["Default","WithPercentage","WithoutUnit","WithSegments","WithSegmentsAndUnit","WithValueLabel"];export{s as Default,n as WithPercentage,l as WithSegments,i as WithSegmentsAndUnit,m as WithValueLabel,o as WithoutUnit,E as __namedExportsOrder,A as default};
