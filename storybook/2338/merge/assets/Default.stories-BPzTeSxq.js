@@ -1,0 +1,12 @@
+import{j as r}from"./iframe-CtEjVB66.js";import{S as a}from"./Slider-CN8qwPLp.js";import{L as m}from"./Label-CvAjEv-1.js";import"./preload-helper-PPVm8Dsz.js";import"./flowComponent-CBkS5ERE.js";import"./index-CR8L6PfO.js";import"./clsx-B-dksMZM.js";import"./index-it1EKrY8.js";import"./Button-BbnjmOHy.js";import"./IconWarning-1CkAUSYF.js";import"./remote-4O72-jdB.js";import"./Text-QCKh6xRo.js";import"./browser-CLHYf5YF.js";import"./EmulatedBoldText-B5kV7YCs.js";import"./Text-1qNOxJF7.js";import"./utils-BuEQZICT.js";import"./LoadingSpinner-CJX4ksrz.js";import"./LiveAnnouncer-Cy654hVN.js";import"./useLocalizedStringFormatter-DLaPQOYW.js";import"./context-DXMIHXTO.js";import"./Button-Bk9_EddI.js";import"./ProgressBar-l1h_jwKt.js";import"./Label-XCLRl25L.js";import"./Hidden-BjEfMFZ5.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-Cn5QMcKF.js";import"./NumberFormatter-DNR9MAW-.js";import"./usePress-Cre2k4PJ.js";import"./useFocus-CAMT_X1e.js";import"./platform-UzmeURk8.js";import"./useFocusRing-B5ekdd71.js";import"./useFocusable-CocGrzXD.js";import"./useFieldComponent-B7HNchXP.js";import"./useControlledState-D0kLTbtR.js";import"./useFormReset-2RZyXaKm.js";import"./VisuallyHidden-B96eA0GA.js";import"./Label.module-CUYTf9Jc.js";const J={title:"Form Controls/Slider",component:a,render:e=>r.jsx(a,{...e,defaultValue:20,children:r.jsx(m,{children:"Amount"})}),args:{isDisabled:!1,isReadOnly:!1}},t={},o={render:e=>r.jsx(a,{...e,formatOptions:{style:"unit",unit:"gigabyte"},minValue:20,maxValue:2e3,defaultValue:200,step:20,children:r.jsx(m,{children:"Storage"})})},i={render:e=>r.jsx(a,{...e,showInitialMarker:!0,defaultValue:20,children:r.jsx(m,{children:"Amount"})})};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} formatOptions={{
+    style: "unit",
+    unit: "gigabyte"
+  }} minValue={20} maxValue={2000} defaultValue={200} step={20}>
+      <Label>Storage</Label>
+    </Slider>
+}`,...o.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => <Slider {...props} showInitialMarker defaultValue={20}>
+      <Label>Amount</Label>
+    </Slider>
+}`,...i.parameters?.docs?.source}}};const K=["Default","WithUnit","WithInitialMarker"];export{t as Default,i as WithInitialMarker,o as WithUnit,K as __namedExportsOrder,J as default};
