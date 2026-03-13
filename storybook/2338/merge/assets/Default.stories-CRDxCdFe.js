@@ -1,0 +1,22 @@
+import{r as c,j as r}from"./iframe-BFddea_x.js";import{P as a}from"./PasswordCreationField-C9DkMOZ2.js";import{L as d}from"./Label-Cyz25dCh.js";import{B as u}from"./Button-DmFob37h.js";import{w as h}from"./IconWarning-Cwahpn-Q.js";import{C}from"./CopyButton-C5Ia2Bto.js";import"./preload-helper-PPVm8Dsz.js";import"./dynamic-C85Jl_PG.js";import"./flowComponent-BHBUnD7I.js";import"./index-C2Q_zaaP.js";import"./clsx-B-dksMZM.js";import"./index-CcOYdQtn.js";import"./ActionBatch-BLAWmMpV.js";import"./useOverlayController-D1CCctag.js";import"./useStatic-4M_8h910.js";import"./browser-PH3BUHM2.js";import"./getActionGroupSlot-B-F0wjn3.js";import"./FieldDescription-DqsHbSnc.js";import"./Text-B70YymId.js";import"./EmulatedBoldText-C15EfUg3.js";import"./Text-DndMRLn5.js";import"./utils-D-aZUMcZ.js";import"./Tooltip-Cx9YY_jk.js";import"./OverlayArrow-CVHTB2zR.js";import"./platform-UzmeURk8.js";import"./ProgressBar-GJhSB3Xp.js";import"./Label-DEW42_UF.js";import"./Hidden-CWxwpwFD.js";import"./filterDOMProps-BNnC3YgW.js";import"./useLabel-C__elmJN.js";import"./context-CaZH5px0.js";import"./NumberFormatter-DNR9MAW-.js";import"./useFocusRing-Bo7DYhXU.js";import"./useFocus-CQ-Kgrdg.js";import"./useControlledState-lfI_swTV.js";import"./useFocusable-D-17EkqH.js";import"./useLocalizedStringFormatter-D26SXOVZ.js";import"./ContextualHelpTrigger-DL49s42d.js";import"./Popover-BbCf_utC.js";import"./OverlayContextProvider-BO6i0G2D.js";import"./Dialog-Dko8Qxf5.js";import"./Button-uqpwtIjO.js";import"./LiveAnnouncer-Cy654hVN.js";import"./usePress-DZQSLH7U.js";import"./RSPContexts-DrvlE6Qo.js";import"./Collection-2_PEsREq.js";import"./CollectionBuilder-CCaeaC6n.js";import"./SelectionIndicator-Dk7Ow--3.js";import"./Separator-7xqgbQ15.js";import"./SelectionManager-BwPLSKUJ.js";import"./useCollator-CHE9npsz.js";import"./FocusScope-QY6lrLAj.js";import"./VisuallyHidden-Bi0J0mAL.js";import"./OverlayTrigger-Yb2ddAp1.js";import"./Heading-C7vi7fKP.js";import"./Heading-CkECWlTX.js";import"./useFieldComponent-DrOhnKye.js";import"./FieldError-BfmusLP_.js";import"./FieldError-Dj7b6ixT.js";import"./AlertText-Cz5tkg5a.js";import"./AlertIcon-Bx7C3Aee.js";import"./useControlledHostValueProps-xZ--AIC6.js";import"./TextField-Cha2rHT2.js";import"./Form-Cmx7zRsN.js";import"./Group-ChkAGHz_.js";import"./Input-DbK2aUtO.js";import"./useTextField-C79BrPY1.js";import"./useFormReset-C1U9nA2s.js";import"./useFormValidation-CYvJLeFF.js";import"./Label.module-CUYTf9Jc.js";import"./LoadingSpinner-BTSUDAP0.js";import"./remote-DmjGOFpp.js";import"./react-children-utilities-CNMVDZIW.js";const{action:l}=__STORYBOOK_MODULE_ACTIONS__,Ir={title:"Form Controls/PasswordCreationField",component:a,args:{isDisabled:!1,isReadOnly:!1,isRequired:!1},render:o=>{const[p,m]=c.useState("");return r.jsx(a,{value:p,onValidationResult:l("onValidationResult"),onChange:n=>{l("onChange"),m(n)},...o,children:r.jsx(d,{children:"Password"})})}},t={},e={args:{placeholder:"helloMoto"}},s={render:o=>r.jsxs(a,{...o,children:[r.jsx(d,{children:"Password"}),r.jsx(u,{"aria-label":"Custom Button",children:r.jsx(h,{})})]})},i={render:o=>{const[p,m]=c.useState("");return r.jsxs(a,{onChange:n=>m(n),...o,children:[r.jsx(d,{children:"Password"}),r.jsx(C,{text:p})]})}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:"{}",...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    placeholder: "helloMoto"
+  }
+}`,...e.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    return <PasswordCreationField {...props}>
+        <Label>Password</Label>
+        <Button aria-label="Custom Button">
+          <IconDanger />
+        </Button>
+      </PasswordCreationField>;
+  }
+}`,...s.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`{
+  render: props => {
+    const [password, setPassword] = useState<string>("");
+    return <PasswordCreationField onChange={v => setPassword(v)} {...props}>
+        <Label>Password</Label>
+        <CopyButton text={password} />
+      </PasswordCreationField>;
+  }
+}`,...i.parameters?.docs?.source}}};const Mr=["Default","WithPlaceholder","WithCustomButton","WithCopyButton"];export{t as Default,i as WithCopyButton,s as WithCustomButton,e as WithPlaceholder,Mr as __namedExportsOrder,Ir as default};

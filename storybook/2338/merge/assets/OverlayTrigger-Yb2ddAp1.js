@@ -1,0 +1,7 @@
+import{j as r}from"./iframe-BFddea_x.js";import{d,e as m}from"./Dialog-Dko8Qxf5.js";import{f as y,P as u}from"./flowComponent-BHBUnD7I.js";import{O as g}from"./useOverlayController-D1CCctag.js";import{O as f}from"./OverlayContextProvider-BO6i0G2D.js";const v=e=>r.jsx(d,{...e});v.__docgenInfo={description:"@flr-generate all",methods:[],displayName:"DialogTrigger"};const j=y("MenuTrigger",e=>r.jsx(m,{...e}),{type:"provider"}),O=e=>{const{overlayType:n,isDefaultOpen:t=!1,component:s,children:l,controller:a}=e,i=g.useNew({isDefaultOpen:t}),o=a??i,p=o.useIsOpen(),c={Button:{onPress:o.open}};return r.jsx(f,{type:n,controller:o,children:r.jsx(u,{props:c,children:r.jsx(s,{isOpen:p,children:l})})})};O.__docgenInfo={description:"",methods:[],displayName:"OverlayTrigger",props:{isDefaultOpen:{required:!1,tsType:{name:"boolean"},description:"Whether the overlay should be open initially."},controller:{required:!1,tsType:{name:"OverlayController"},description:"A controller to control the state of the overlay."},overlayType:{required:!0,tsType:{name:"FlowComponentName"},description:""},component:{required:!0,tsType:{name:"ComponentType",elements:[{name:"signature",type:"object",raw:`{
+  isOpen?: boolean;
+  children: ReactNode;
+}`,signature:{properties:[{key:"isOpen",value:{name:"boolean",required:!1}},{key:"children",value:{name:"ReactNode",required:!0}}]}}],raw:`ComponentType<{
+  isOpen?: boolean;
+  children: ReactNode;
+}>`},description:""}},composes:["FlowComponentProps","PropsWithChildren"]};export{v as D,j as M,O};
